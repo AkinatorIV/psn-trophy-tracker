@@ -1,0 +1,46 @@
+name: Sync PSN trophies
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync trophies
+        env:
+          PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
+        run: node scripts/sync.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "PSN Trophy Bot"
+          git config user.email "actions@github.com"
+
+          git add data/trophies.json
+
+          if git diff --cached --quiet; then
+            echo "Aucun changement"
+          else
+            git commit -m "Update PSN trophies"
+            git push
+          fi
