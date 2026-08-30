@@ -1,0 +1,491 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Borderlands® 4",
+    "platform": "PS5",
+    "progress": 6,
+    "npCommunicationId": "NPWR21564_00",
+    "earnedCount": 5,
+    "totalCount": 53,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Aw Man, Now We Have to Make BL5",
+        "description": "Earn all trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Crimson Rising",
+        "description": "Reach player level 10.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-17T17:37:23Z"
+      },
+      {
+        "id": 2,
+        "name": "Good Hunter",
+        "description": "Reach player level 30.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Master of Death and Dance",
+        "description": "Reach player level 50.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Gear Five!",
+        "description": "Reach Ultimate Vault Hunter level 5.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "The Lookbook is the Cookbook",
+        "description": "Collect 60 Cosmetics.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Catch-A-Ride",
+        "description": "Collect 10 personal vehicles.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "I Earned This",
+        "description": "Equip legendary gear in every slot.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Area of Expertise",
+        "description": "Complete any gear challenge category.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Brand Equity",
+        "description": "Complete any manufacturer challenge category.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Ruler of Everything",
+        "description": "Complete all activities.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Arena Grande",
+        "description": "Complete the Goredello world event.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Reverse Abduction",
+        "description": "Complete the Airship world event.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-25T12:40:44Z"
+      },
+      {
+        "id": 13,
+        "name": "Shoot the Moon",
+        "description": "Complete the Creep Impact world event.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Freelance, but Not For Free",
+        "description": "Complete 80 contracts.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Unfaded",
+        "description": "Discover all map locations in The Fadefields.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "The Mountain Provides",
+        "description": "Discover all map locations in Terminus Range.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Churn the Burn",
+        "description": "Discover all map locations in Carcadia Burn.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Useful Citizen",
+        "description": "Discover all map locations in Dominion City.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Pop Out",
+        "description": "Defeat a world boss.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-14T20:19:27Z"
+      },
+      {
+        "id": 20,
+        "name": "Nothing Left to Guard",
+        "description": "Defeat all Guardians in Primordial Vaults.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Pale Blueberry Dot",
+        "description": "Complete all Outbounder missions.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Who's the Boss?",
+        "description": "Complete all Auger missions.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Mole Money, Mole Problems",
+        "description": "Complete all Electi missions.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Widely Beloved Mascot",
+        "description": "Complete all Claptrap missions.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Grassroots Campaigner",
+        "description": "Complete all side missions.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "False Idolator",
+        "description": "Complete the mission “Rush the Gate”.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-23T20:22:04Z"
+      },
+      {
+        "id": 27,
+        "name": "As If Moved by an Occult Hand",
+        "description": "Complete the mission “His Vile Sanctum”.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Long Live the Queen",
+        "description": "Complete the mission “Her Flaming Vision”.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Howling on the Moon",
+        "description": "Complete the mission “Another Day, Another Universe”.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Everything Breaks",
+        "description": "Complete the mission “The Timekeeper's Order”.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Glucose Guardian",
+        "description": "Tip Moxxi.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Cut That Out",
+        "description": "Find the cutout of Dr. Patricia Tannis.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "All Things Vend",
+        "description": "Deliver the contents of the Legendary Vending Machine.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-30T20:44:46Z"
+      },
+      {
+        "id": 34,
+        "name": "Rift Incompatible",
+        "description": "Find Oddman's final resting place.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Guac is Extra",
+        "description": "Find Dave the Burrito.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Ordon't You Glad I Didn't Say Eridium",
+        "description": "Kill 50 Ordonite enemies.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Fist of the Mountain",
+        "description": "Defeat all bosses in The Demon's Domain.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "The Demon's Domain",
+        "description": "Complete mission “The Cursed Mine”.",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "Dahl Cleanup Crew",
+        "description": "Complete all activities on the Whispering Glacier.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Looking for Work at the Top of the World",
+        "description": "Complete all side missions on the Whispering Glacier.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "Find Me in the Rift",
+        "description": "Defeat a Rift Boss.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Hearthwarming",
+        "description": "Complete mission “On Icebound Shores Abandoned”.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Sugar Wrath",
+        "description": "Complete mission “Hearing Things”.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Legally Unspecified Tincture",
+        "description": "Complete mission “It Grows Below”.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Hull Frozen Over",
+        "description": "Complete mission “What Lies Dreaming”.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "He Loved You",
+        "description": "Complete mission “Damnation Encroaches”.",
+        "type": "gold",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "Pay to Win",
+        "description": "Use tokens to open a chest.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "AI Psychosis",
+        "description": "Defeat all bosses in PRIVATE DICK.",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 49,
+        "name": "Bane of Zane",
+        "description": "Complete mission \"A Zane to Kill For.\"",
+        "type": "gold",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 50,
+        "name": "The Full Flock",
+        "description": "Select all options in mission “Murders & Acquisitions”.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 51,
+        "name": "Detoxed and Ready to Rock",
+        "description": "Defeat all bosses in The Toxic Scowl.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "Murdered & Acquired",
+        "description": "Complete mission “Murders & Acquisitions”.",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T15:29:27.995Z"
+}

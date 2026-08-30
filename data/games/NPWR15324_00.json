@@ -1,0 +1,329 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Fallout Shelter Trophy Set",
+    "platform": "PS4",
+    "progress": 17,
+    "npCommunicationId": "NPWR15324_00",
+    "earnedCount": 9,
+    "totalCount": 35,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Platinum Trophy",
+        "description": "Collect all other 34 Trophies for this Trophy.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Mattress Stuffer",
+        "description": "Collect 1000 caps",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-06T10:50:43Z"
+      },
+      {
+        "id": 2,
+        "name": "Hard Work is Happy Work",
+        "description": "Successfully complete 50 Room Rushes",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Vault-Tec Architect",
+        "description": "Build 25 rooms",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-11T20:01:21Z"
+      },
+      {
+        "id": 4,
+        "name": "Vault-Tec Engineer",
+        "description": "Build 50 rooms",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "A Vault For My Vault",
+        "description": "Collect 10,000 Caps",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-02T15:17:56Z"
+      },
+      {
+        "id": 6,
+        "name": "Better Settler",
+        "description": "Level up a dweller from Level 1 to 10",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-14T16:54:06Z"
+      },
+      {
+        "id": 7,
+        "name": "Higher and Higher",
+        "description": "Level up a dweller from Level 1 to 25",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Overseer",
+        "description": "Level up a Dweller from Level 1 to 50",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Home Sweet Home",
+        "description": "Build 1 of every room type",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Armed and Dangerous",
+        "description": "Collect 20 Legendary Weapons",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Fashion Statement",
+        "description": "Collect 20 Legendary Outfits",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Get Off My Lawn",
+        "description": "Successfully stop 50 Raider Attacks",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Overachieve Much?",
+        "description": "Complete 100 objectives",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Atom Splitter",
+        "description": "Merge 3 Power Rooms",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-06T10:13:58Z"
+      },
+      {
+        "id": 15,
+        "name": "Dine and Dash",
+        "description": "Merge 3 Food Rooms",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-06T10:18:24Z"
+      },
+      {
+        "id": 16,
+        "name": "Project Purity",
+        "description": "Merge 3 Water Rooms",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-06T10:30:39Z"
+      },
+      {
+        "id": 17,
+        "name": "Prepared For The Future",
+        "description": "Make 25 Babies",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "A Better Future, Underground",
+        "description": "Upgrade 20 Rooms to Level 3",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Smooth Talker",
+        "description": "Make 25 Dialogue Choices on Quests",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "You're Fired!",
+        "description": "Kill 10 Quest Bosses",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-14T17:03:00Z"
+      },
+      {
+        "id": 21,
+        "name": "Wasteland Wanderer",
+        "description": "Complete 10 Quests",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-14T17:06:35Z"
+      },
+      {
+        "id": 22,
+        "name": "Urban Ranger",
+        "description": "Complete 30 Quests",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Survivalist",
+        "description": "Complete 60 Quests",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Legend of the Wastes",
+        "description": "Complete 100 Quests",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Paint 'n Elbow Grease",
+        "description": "Collect all Fragments of a Theme Recipe",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Decorator",
+        "description": "Collect all Fragments of 4 Theme Recipes",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Interior Designer",
+        "description": "Craft every Theme",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Enemy of the Wastes",
+        "description": "Kill 500 enemies on Quests",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Big Pharma",
+        "description": "Collect 100 Stimpaks and 100 RadAway on Quests",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Scraptastic",
+        "description": "Scrap 500 items",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Weaponsmith",
+        "description": "Craft 10 Weapons",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Fashionista",
+        "description": "Craft 10 Outfits",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "More Than Handy",
+        "description": "Craft an Outfit, a Weapon, and a Theme",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "A Little Off the Top",
+        "description": "Change the appearance of 10 Dwellers in the Barbershop",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T15:29:27.844Z"
+}

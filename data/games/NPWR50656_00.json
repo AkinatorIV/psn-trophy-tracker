@@ -1,0 +1,500 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Battlefield™ 6",
+    "platform": "PS5",
+    "progress": 85,
+    "npCommunicationId": "NPWR50656_00",
+    "earnedCount": 43,
+    "totalCount": 54,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Perfectly Balanced, As All Things Should Be",
+        "description": "Collected all other trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-22T13:55:42Z"
+      },
+      {
+        "id": 1,
+        "name": "Stand Alone",
+        "description": "Complete Always Faithful",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T12:58:08Z"
+      },
+      {
+        "id": 2,
+        "name": "Rock of Gibraltar",
+        "description": "Complete The Rock and Operation Gladius",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T14:05:25Z"
+      },
+      {
+        "id": 3,
+        "name": "Devil in the Dark",
+        "description": "Complete Night Raid",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T14:56:19Z"
+      },
+      {
+        "id": 4,
+        "name": "Secret Service",
+        "description": "Complete No Sleep and Moving Mountains",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-27T19:23:35Z"
+      },
+      {
+        "id": 5,
+        "name": "High Roller",
+        "description": "Complete Nile Guard",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-27T19:54:38Z"
+      },
+      {
+        "id": 6,
+        "name": "Damned If You Do",
+        "description": "Complete Operation Ember Strike",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-28T20:00:50Z"
+      },
+      {
+        "id": 7,
+        "name": "Cloak and Dagger",
+        "description": "Complete the Battlefield 6 Campaign",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-28T20:38:22Z"
+      },
+      {
+        "id": 8,
+        "name": "In Memoriam",
+        "description": "Pick up a Campaign collectible",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T12:42:12Z"
+      },
+      {
+        "id": 9,
+        "name": "Dogs of War",
+        "description": "Pick up 5 Campaign collectibles",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T13:13:48Z"
+      },
+      {
+        "id": 10,
+        "name": "Hounds of War",
+        "description": "Pick up 10 Campaign collectibles",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T14:22:07Z"
+      },
+      {
+        "id": 11,
+        "name": "Wolves of War",
+        "description": "Pick up 20 Campaign collectibles",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-27T19:12:18Z"
+      },
+      {
+        "id": 12,
+        "name": "Pack Leader",
+        "description": "Pick up all Campaign collectibles",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-28T20:27:19Z"
+      },
+      {
+        "id": 13,
+        "name": "Peak Performance",
+        "description": "Complete a Single Player mission on the hardest difficulty",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-28T21:03:21Z"
+      },
+      {
+        "id": 14,
+        "name": "Liquidator",
+        "description": "Headshot kill 50 Enemies in the Campaign.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T13:16:58Z"
+      },
+      {
+        "id": 15,
+        "name": "One Stone",
+        "description": "Eliminate 3 enemies with a single grenade in Single Player",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T12:45:14Z"
+      },
+      {
+        "id": 16,
+        "name": "Armor Annihilation",
+        "description": "Destroy 10 enemy vehicles in Single Player",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-27T18:58:55Z"
+      },
+      {
+        "id": 17,
+        "name": "End of an Era",
+        "description": "Find the dinosaur figurine in the NATO base in Always Faithful",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T12:36:42Z"
+      },
+      {
+        "id": 18,
+        "name": "Efficiency",
+        "description": "Destroy 10 mannequins in The Rock",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T13:15:26Z"
+      },
+      {
+        "id": 19,
+        "name": "Deep-Six",
+        "description": "Destroy 3 floating mines in Operation Gladius",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T13:39:25Z"
+      },
+      {
+        "id": 20,
+        "name": "Sidearm Savant",
+        "description": "Complete Night Raid using only pistols, knives, or gadgets",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T14:56:19Z"
+      },
+      {
+        "id": 21,
+        "name": "Looks Like A Nail",
+        "description": "Kill five enemies with a sledgehammer in No Sleep",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T16:16:59Z"
+      },
+      {
+        "id": 22,
+        "name": "Bullseye Blitz",
+        "description": "Land six consecutive headshots in Moving Mountains",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-27T18:45:44Z"
+      },
+      {
+        "id": 23,
+        "name": "Roadside Assistance",
+        "description": "Collapse an overpass on a tank in Nile Guard",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-27T19:38:23Z"
+      },
+      {
+        "id": 24,
+        "name": "Being Watched",
+        "description": "Spot a total of 20 enemies with your drone in Operation Ember Strike",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-28T21:06:31Z"
+      },
+      {
+        "id": 25,
+        "name": "No Reinforcements",
+        "description": "Shoot down the reinforcement chopper with a tank during Always Forward",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-28T20:20:46Z"
+      },
+      {
+        "id": 26,
+        "name": "Private First Class Montes",
+        "description": "Reach Rank 9",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T17:17:09Z"
+      },
+      {
+        "id": 27,
+        "name": "Lance Corporal Matkovic",
+        "description": "Reach Rank 14",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-27T22:09:18Z"
+      },
+      {
+        "id": 28,
+        "name": "Sergeant Redford",
+        "description": "Reach Rank 25",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-02T20:26:00Z"
+      },
+      {
+        "id": 29,
+        "name": "Command and Conquest 2",
+        "description": "Capture 128 objectives in Conquest",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-10T21:10:31Z"
+      },
+      {
+        "id": 30,
+        "name": "Front line ",
+        "description": "Take or Defend 41 sectors in Breakthrough",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-01T15:26:32Z"
+      },
+      {
+        "id": 31,
+        "name": "Super Bomb man",
+        "description": "Arm or disarm 5 M-COM explosives in a Multiplayer match",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-01T17:23:28Z"
+      },
+      {
+        "id": 32,
+        "name": "Five by Five",
+        "description": "Get 5 multi-kills as Assault in Multiplayer",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-03T21:58:18Z"
+      },
+      {
+        "id": 33,
+        "name": "Wrench Monkey",
+        "description": "Repair vehicles for 2042 damage in Multiplayer",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-08T17:39:09Z"
+      },
+      {
+        "id": 34,
+        "name": "Stolz der Nation",
+        "description": "Get 250 sniper rifle kills as Recon in Multiplayer",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-11T18:57:35Z"
+      },
+      {
+        "id": 35,
+        "name": "A Joyful Nurse",
+        "description": "Revive 1996 players as Support in Multiplayer",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-22T13:55:42Z"
+      },
+      {
+        "id": 36,
+        "name": "Medal of Honor",
+        "description": "Commit 414 acts of valor in Multiplayer",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-03T17:23:01Z"
+      },
+      {
+        "id": 37,
+        "name": "Heavy Weaponry",
+        "description": "Get 5 kills with LMGs without reloading in Multiplayer",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-03T21:42:27Z"
+      },
+      {
+        "id": 38,
+        "name": "1200",
+        "description": "Get 6 sidearm headshot kills in a Multiplayer match",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-03T21:40:57Z"
+      },
+      {
+        "id": 39,
+        "name": "Road Rash",
+        "description": "Get a Roadkill with vehicles in Multiplayer",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-02T19:56:27Z"
+      },
+      {
+        "id": 40,
+        "name": "A Little C-4 Knocking on Your Door",
+        "description": "Deal 2000 damage to enemy vehicles with the Demolition Charge",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-10T12:41:59Z"
+      },
+      {
+        "id": 41,
+        "name": "First Blood 2",
+        "description": "Perform 10 takedowns in a Multiplayer match",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-11-03T21:16:54Z"
+      },
+      {
+        "id": 42,
+        "name": "Punished",
+        "description": "Get 129 kills in Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-26T17:46:19Z"
+      },
+      {
+        "id": 43,
+        "name": "May the Odds Forever Be in Your Favor",
+        "description": "Play 74 matches in any version of Battle Royale.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Here's Your Birthday Present",
+        "description": "Deploy 42 call-ins.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Collector",
+        "description": "Loot 10 Superior or Custom items.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "Stone Cold",
+        "description": "Stun enemies 316 times in Battle Royale or Gauntlet.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "Rise from Your Grave",
+        "description": "Revive teammates 1988 times in Battle Royale or Gauntlet.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "Army of Two",
+        "description": "Win 7 matches in Battle Royale: Duos.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 49,
+        "name": "Never-Ending Game",
+        "description": "Play 125 rounds of Gauntlet.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 50,
+        "name": "Everybody Fights, Nobody Quits",
+        "description": "Win a Battle Royale match as a full squad with total squad survival.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 51,
+        "name": "Mission Accepted",
+        "description": "Complete 214 missions in any version of Battle Royale.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "Dog of War",
+        "description": "Collect 9 dog tags in Battle Royale or Gauntlet.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Mozambique Here!",
+        "description": "Ping a Shotgun in Battle Royale.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T15:29:28.172Z"
+}
