@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b1020" />
+  <meta name="description" content="Dashboard personnel de suivi des trophées PlayStation d'AkinatorII." />
+  <title>PSN Trophy Tracker</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="ambient ambient-a"></div>
+  <div class="ambient ambient-b"></div>
+
+  <header class="topbar">
+    <div class="shell topbar-inner">
+      <a class="brand" href="#top" aria-label="Retour en haut">
+        <span class="brand-mark">△○×□</span>
+        <span>
+          <strong>PSN Trophy Tracker</strong>
+          <small id="brandPsnId">AkinatorII</small>
+        </span>
+      </a>
+
+      <div class="health-pill" id="healthPill" aria-live="polite">
+        <span class="health-dot"></span>
+        <span id="healthText">Chargement…</span>
+      </div>
+    </div>
+  </header>
+
+  <main id="top" class="shell page">
+    <section class="hero panel">
+      <div class="hero-copy">
+        <span class="eyebrow">Tableau de chasse</span>
+        <h1>Tes trophées.<br /><span>Une vue claire.</span></h1>
+        <p>Progression live, jeux en cours, derniers trophées et listes complètes — alimentés automatiquement par ton tracker PSN.</p>
+      </div>
+
+      <div class="hero-sync">
+        <div class="sync-orb" aria-hidden="true">
+          <span>🏆</span>
+        </div>
+        <div>
+          <span class="muted-label">Dernière synchro</span>
+          <strong id="lastSync">—</strong>
+          <small id="syncFreshness">Connexion au tracker…</small>
+        </div>
+      </div>
+    </section>
+
+    <section class="stats-grid" aria-label="Statistiques principales">
+      <article class="stat-card panel">
+        <span class="stat-icon">🎮</span>
+        <div>
+          <small>Jeux suivis</small>
+          <strong id="statGames">—</strong>
+        </div>
+      </article>
+      <article class="stat-card panel">
+        <span class="stat-icon">🏆</span>
+        <div>
+          <small>Platines</small>
+          <strong id="statPlatinums">—</strong>
+        </div>
+      </article>
+      <article class="stat-card panel">
+        <span class="stat-icon">✨</span>
+        <div>
+          <small>Trophées obtenus</small>
+          <strong id="statEarned">—</strong>
+        </div>
+      </article>
+      <article class="stat-card panel">
+        <span class="stat-icon">📦</span>
+        <div>
+          <small>Jeux détaillés</small>
+          <strong id="statDetailed">—</strong>
+        </div>
+      </article>
+    </section>
+
+    <section class="section-block">
+      <div class="section-heading">
+        <div>
+          <span class="eyebrow">À reprendre</span>
+          <h2>Jeux en cours</h2>
+        </div>
+        <span class="section-note" id="activeCount">—</span>
+      </div>
+      <div id="activeGames" class="active-grid skeleton-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="split-grid">
+      <article class="panel activity-panel">
+        <div class="section-heading compact">
+          <div>
+            <span class="eyebrow">Timeline</span>
+            <h2>Derniers trophées</h2>
+          </div>
+          <span class="section-note">Récent</span>
+        </div>
+        <div id="activityList" class="activity-list"></div>
+      </article>
+
+      <article class="panel spotlight-panel">
+        <div class="section-heading compact">
+          <div>
+            <span class="eyebrow">Focus</span>
+            <h2>Proche du 100 %</h2>
+          </div>
+        </div>
+        <div id="closestGame" class="closest-game"></div>
+      </article>
+    </section>
+
+    <section class="section-block library-section">
+      <div class="section-heading library-heading">
+        <div>
+          <span class="eyebrow">Bibliothèque</span>
+          <h2>Tous les jeux</h2>
+        </div>
+        <span class="section-note" id="libraryCount">—</span>
+      </div>
+
+      <div class="toolbar panel">
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="Rechercher un jeu…" autocomplete="off" />
+        </label>
+
+        <div class="filters" role="group" aria-label="Filtres de jeux">
+          <button class="filter-chip is-active" type="button" data-filter="all">Tous</button>
+          <button class="filter-chip" type="button" data-filter="progress">En cours</button>
+          <button class="filter-chip" type="button" data-filter="platinum">Platinés</button>
+          <button class="filter-chip" type="button" data-filter="complete">100 %</button>
+          <button class="filter-chip" type="button" data-filter="ps5">PS5</button>
+          <button class="filter-chip" type="button" data-filter="ps4">PS4</button>
+        </div>
+
+        <label class="sort-box">
+          <span>Trier</span>
+          <select id="sortSelect">
+            <option value="recent">Activité récente</option>
+            <option value="progress-desc">Progression ↓</option>
+            <option value="progress-asc">Progression ↑</option>
+            <option value="name">Nom A–Z</option>
+          </select>
+        </label>
+      </div>
+
+      <div id="gamesGrid" class="games-grid"></div>
+      <div id="emptyState" class="empty-state panel" hidden>
+        <span>🎯</span>
+        <strong>Aucun jeu trouvé</strong>
+        <p>Essaie un autre nom ou change de filtre.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="shell footer">
+    <span>PSN Trophy Tracker · AkinatorII</span>
+    <span>Synchronisé automatiquement via GitHub Actions</span>
+  </footer>
+
+  <div id="drawerBackdrop" class="drawer-backdrop" hidden></div>
+  <aside id="gameDrawer" class="game-drawer" aria-hidden="true" aria-labelledby="drawerTitle">
+    <button id="drawerClose" class="drawer-close" type="button" aria-label="Fermer">×</button>
+    <div id="drawerContent" class="drawer-content"></div>
+  </aside>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
