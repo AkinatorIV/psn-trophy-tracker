@@ -31,9 +31,11 @@ jobs:
         run: npm ci
 
       - name: Sync trophies
+        id: sync
+        continue-on-error: true
         env:
           PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
-        run: node scripts/sync.mjs
+        run: npm run sync
 
       - name: Commit changes
         run: |
@@ -48,3 +50,7 @@ jobs:
             git commit -m "Update PSN trophies"
             git push
           fi
+
+      - name: Fail workflow if sync failed
+        if: steps.sync.outcome == 'failure'
+        run: exit 1
