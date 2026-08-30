@@ -1,4 +1,5 @@
 import fs from "node:fs/promises";
+import path from "node:path";
 
 import {
   exchangeNpssoForAccessCode,
@@ -8,175 +9,359 @@ import {
   getUserTrophiesEarnedForTitle,
 } from "psn-api";
 
+const PSN_ID = "AkinatorII";
+const DATA_DIR = "data";
+const GAMES_DIR = path.join(DATA_DIR, "games");
+const INDEX_PATH = path.join(DATA_DIR, "index.json");
+const LEGACY_PATH = path.join(DATA_DIR, "trophies.json");
+const INITIAL_DETAIL_GAMES = 10;
+
 const npsso = process.env.PSN_NPSSO;
 
 if (!npsso) {
   throw new Error("PSN_NPSSO manquant");
 }
 
-// Auth PSN
 const accessCode = await exchangeNpssoForAccessCode(npsso);
 const authorization = await exchangeAccessCodeForAuthTokens(accessCode);
+const auth = { accessToken: authorization.accessToken };
 
-const auth = {
-  accessToken: authorization.accessToken,
-};
+await fs.mkdir(GAMES_DIR, { recursive: true });
 
-// Récupère les jeux liés au compte
-const titlesResponse = await getUserTitles(auth, "me", {
-  limit: 200,
-});
-
-// Cherche Vampire Survivors
-const game = titlesResponse.trophyTitles.find((title) =>
-  title.trophyTitleName?.toLowerCase().includes("vampire survivors")
-);
-
-if (!game) {
-  console.error("❌ Vampire Survivors introuvable");
-  console.log(
-    titlesResponse.trophyTitles.map((g) => g.trophyTitleName)
-  );
-  process.exit(1);
+async function readJson(filePath) {
+  try {
+    return JSON.parse(await fs.readFile(filePath, "utf8"));
+  } catch {
+    return null;
+  }
 }
 
-console.log(`🎮 Jeu trouvé : ${game.trophyTitleName}`);
+function withoutUpdatedAt(value) {
+  if (!value) return value;
+  const { updatedAt, ...rest } = value;
+  return rest;
+}
 
-const isPS5 = game.trophyTitlePlatform?.includes("PS5");
+async function writeJsonIfChanged(filePath, value) {
+  const previous = await readJson(filePath);
 
-const npServiceName = isPS5 ? "trophy2" : "trophy";
+  const changed =
+    JSON.stringify(withoutUpdatedAt(previous)) !==
+    JSON.stringify(withoutUpdatedAt(value));
 
-// Infos des trophées
-const details = await getTitleTrophies(
-  auth,
-  game.npCommunicationId,
-  "all",
-  {
-    npServiceName,
-    limit: 500,
+  if (!changed) {
+    return { changed: false, previous };
   }
-);
 
-// Trophées réellement obtenus par ton compte
-const earnedResponse =
-  await getUserTrophiesEarnedForTitle(
-    auth,
-    "me",
-    game.npCommunicationId,
-    "all",
-    {
-      npServiceName,
-      limit: 500,
-    }
-  );
-
-const earnedById = new Map(
-  earnedResponse.trophies.map((trophy) => [
-    trophy.trophyId,
-    trophy,
-  ])
-);
-
-const trophies = details.trophies.map((trophy) => {
-  const earnedInfo = earnedById.get(trophy.trophyId);
-
-  return {
-    id: trophy.trophyId,
-    name: trophy.trophyName,
-    description: trophy.trophyDetail,
-    type: trophy.trophyType,
-    group: trophy.trophyGroupId,
-
-    earned: earnedInfo?.earned ?? false,
-    earnedDateTime: earnedInfo?.earnedDateTime ?? null,
+  const next = {
+    ...withoutUpdatedAt(value),
+    updatedAt: new Date().toISOString(),
   };
-});
 
-const earnedCount = trophies.filter((t) => t.earned).length;
-
-const output = {
-  psnId: "AkinatorII",
-
-  game: {
-    name: game.trophyTitleName,
-    platform: game.trophyTitlePlatform,
-    progress: game.progress,
-    npCommunicationId: game.npCommunicationId,
-
-    earnedCount,
-    totalCount: trophies.length,
-
-    trophies,
-  },
-};
-
-await fs.mkdir("data", {
-  recursive: true,
-});
-
-const filePath = "data/trophies.json";
-
-let previous = null;
-
-try {
-  previous = JSON.parse(
-    await fs.readFile(filePath, "utf8")
-  );
-} catch {
-  // Premier lancement : pas encore de fichier
+  await fs.writeFile(filePath, JSON.stringify(next, null, 2));
+  return { changed: true, previous, next };
 }
 
-// On compare seulement les données PSN,
-// pas la date de mise à jour
-const previousComparable = previous
-  ? {
-      psnId: previous.psnId,
-      game: previous.game,
+async function getAllUserTitles() {
+  const all = [];
+  const limit = 800;
+  let offset = 0;
+
+  while (true) {
+    const response = await getUserTitles(auth, "me", { limit, offset });
+    const items = response.trophyTitles ?? [];
+
+    all.push(...items);
+
+    if (
+      items.length === 0 ||
+      all.length >= (response.totalItemCount ?? all.length) ||
+      items.length < limit
+    ) {
+      break;
     }
-  : null;
 
-const hasChanged =
-  JSON.stringify(previousComparable) !==
-  JSON.stringify(output);
+    offset += items.length;
+  }
 
-if (!hasChanged) {
-  console.log(
-    `✅ Aucun changement — ${earnedCount}/${trophies.length} trophées`
-  );
-
-  process.exit(0);
+  return all;
 }
 
-const finalOutput = {
-  ...output,
-  updatedAt: new Date().toISOString(),
-};
+async function getAllTitleTrophies(npCommunicationId, npServiceName) {
+  const all = [];
+  const limit = 500;
+  let offset = 0;
 
-await fs.writeFile(
-  filePath,
-  JSON.stringify(finalOutput, null, 2)
+  while (true) {
+    const response = await getTitleTrophies(
+      auth,
+      npCommunicationId,
+      "all",
+      { npServiceName, limit, offset }
+    );
+
+    const items = response.trophies ?? [];
+    all.push(...items);
+
+    if (
+      items.length === 0 ||
+      all.length >= (response.totalItemCount ?? all.length) ||
+      items.length < limit
+    ) {
+      break;
+    }
+
+    offset += items.length;
+  }
+
+  return all;
+}
+
+async function getAllEarnedTrophies(npCommunicationId, npServiceName) {
+  const all = [];
+  const limit = 500;
+  let offset = 0;
+
+  while (true) {
+    const response = await getUserTrophiesEarnedForTitle(
+      auth,
+      "me",
+      npCommunicationId,
+      "all",
+      { npServiceName, limit, offset }
+    );
+
+    const items = response.trophies ?? [];
+    all.push(...items);
+
+    if (
+      items.length === 0 ||
+      all.length >= (response.totalItemCount ?? all.length) ||
+      items.length < limit
+    ) {
+      break;
+    }
+
+    offset += items.length;
+  }
+
+  return all;
+}
+
+function gameFileName(npCommunicationId) {
+  return `${npCommunicationId}.json`;
+}
+
+function gameFilePath(npCommunicationId) {
+  return path.join(GAMES_DIR, gameFileName(npCommunicationId));
+}
+
+function titleSummary(title) {
+  return {
+    npCommunicationId: title.npCommunicationId,
+    name: title.trophyTitleName,
+    platform: title.trophyTitlePlatform,
+    progress: title.progress,
+    definedTrophies: title.definedTrophies ?? null,
+    earnedTrophies: title.earnedTrophies ?? null,
+    lastUpdatedDateTime: title.lastUpdatedDateTime ?? null,
+  };
+}
+
+function progressFingerprint(summary) {
+  return JSON.stringify({
+    progress: summary.progress,
+    definedTrophies: summary.definedTrophies,
+    earnedTrophies: summary.earnedTrophies,
+  });
+}
+
+async function syncGameDetails(title, legacyData = null) {
+  const npServiceName = title.trophyTitlePlatform?.includes("PS5")
+    ? "trophy2"
+    : "trophy";
+
+  const [details, earned] = await Promise.all([
+    getAllTitleTrophies(title.npCommunicationId, npServiceName),
+    getAllEarnedTrophies(title.npCommunicationId, npServiceName),
+  ]);
+
+  const earnedById = new Map(
+    earned.map((trophy) => [trophy.trophyId, trophy])
+  );
+
+  const trophies = details.map((trophy) => {
+    const earnedInfo = earnedById.get(trophy.trophyId);
+
+    return {
+      id: trophy.trophyId,
+      name: trophy.trophyName,
+      description: trophy.trophyDetail,
+      type: trophy.trophyType,
+      group: trophy.trophyGroupId,
+      earned: earnedInfo?.earned ?? false,
+      earnedDateTime: earnedInfo?.earnedDateTime ?? null,
+    };
+  });
+
+  const earnedCount = trophies.filter((trophy) => trophy.earned).length;
+  const filePath = gameFilePath(title.npCommunicationId);
+
+  let previous = await readJson(filePath);
+  if (
+    !previous &&
+    legacyData?.game?.npCommunicationId === title.npCommunicationId
+  ) {
+    previous = legacyData;
+  }
+
+  const value = {
+    psnId: PSN_ID,
+    game: {
+      name: title.trophyTitleName,
+      platform: title.trophyTitlePlatform,
+      progress: title.progress,
+      npCommunicationId: title.npCommunicationId,
+      earnedCount,
+      totalCount: trophies.length,
+      trophies,
+    },
+  };
+
+  const comparablePrevious = previous
+    ? withoutUpdatedAt(previous)
+    : null;
+  const changed =
+    JSON.stringify(comparablePrevious) !== JSON.stringify(value);
+
+  if (!changed) {
+    console.log(
+      `↔️ ${title.trophyTitleName}: aucun changement (${earnedCount}/${trophies.length})`
+    );
+    return false;
+  }
+
+  const previousEarnedIds = new Set(
+    previous?.game?.trophies
+      ?.filter((trophy) => trophy.earned)
+      .map((trophy) => trophy.id) ?? []
+  );
+
+  const newTrophies = trophies.filter(
+    (trophy) => trophy.earned && !previousEarnedIds.has(trophy.id)
+  );
+
+  await fs.writeFile(
+    filePath,
+    JSON.stringify(
+      {
+        ...value,
+        updatedAt: new Date().toISOString(),
+      },
+      null,
+      2
+    )
+  );
+
+  console.log(
+    `🎮 ${title.trophyTitleName}: ${earnedCount}/${trophies.length} trophées`
+  );
+
+  if (newTrophies.length > 0) {
+    console.log("   🆕 Nouveaux trophées :");
+    for (const trophy of newTrophies) {
+      console.log(`   - ${trophy.name}`);
+    }
+  }
+
+  return true;
+}
+
+const titles = await getAllUserTitles();
+console.log(`🎮 ${titles.length} jeux avec trophées trouvés sur le compte`);
+
+const summaries = titles.map(titleSummary);
+const previousIndex = await readJson(INDEX_PATH);
+const legacyData = await readJson(LEGACY_PATH);
+
+const previousById = new Map(
+  previousIndex?.games?.map((game) => [game.npCommunicationId, game]) ?? []
 );
 
-const previousEarnedIds = new Set(
-  previous?.game?.trophies
-    ?.filter((t) => t.earned)
-    .map((t) => t.id) ?? []
-);
+const detailsToSync = new Map();
 
-const newTrophies = trophies.filter(
-  (t) => t.earned && !previousEarnedIds.has(t.id)
-);
+if (!previousIndex) {
+  // Premier passage : on indexe tout, mais on ne martèle pas l'API PSN.
+  // On initialise le détail des jeux les plus récemment mis à jour.
+  for (const title of titles.slice(0, INITIAL_DETAIL_GAMES)) {
+    detailsToSync.set(title.npCommunicationId, title);
+  }
+} else {
+  for (const title of titles) {
+    const current = titleSummary(title);
+    const previous = previousById.get(title.npCommunicationId);
 
-console.log(
-  `🏆 ${earnedCount}/${trophies.length} trophées obtenus`
-);
-
-if (newTrophies.length > 0) {
-  console.log("🆕 Nouveaux trophées :");
-
-  for (const trophy of newTrophies) {
-    console.log(`- ${trophy.name}`);
+    if (
+      !previous ||
+      progressFingerprint(previous) !== progressFingerprint(current)
+    ) {
+      detailsToSync.set(title.npCommunicationId, title);
+    }
   }
 }
 
-console.log("📄 data/trophies.json mis à jour");
+// Préserve immédiatement le suivi détaillé déjà existant de Vampire Survivors.
+if (legacyData?.game?.npCommunicationId) {
+  const legacyTitle = titles.find(
+    (title) =>
+      title.npCommunicationId === legacyData.game.npCommunicationId
+  );
+
+  if (legacyTitle) {
+    detailsToSync.set(legacyTitle.npCommunicationId, legacyTitle);
+  }
+}
+
+let detailedChanges = 0;
+
+for (const title of detailsToSync.values()) {
+  try {
+    const changed = await syncGameDetails(title, legacyData);
+    if (changed) detailedChanges += 1;
+  } catch (error) {
+    console.warn(
+      `⚠️ Impossible de synchroniser le détail de ${title.trophyTitleName}: ${error.message}`
+    );
+  }
+}
+
+const gameFiles = new Set(
+  (await fs.readdir(GAMES_DIR)).filter((file) => file.endsWith(".json"))
+);
+
+const indexValue = {
+  psnId: PSN_ID,
+  totalGames: summaries.length,
+  games: summaries.map((game) => ({
+    ...game,
+    detailsPath: gameFiles.has(gameFileName(game.npCommunicationId))
+      ? `data/games/${gameFileName(game.npCommunicationId)}`
+      : null,
+  })),
+};
+
+const indexResult = await writeJsonIfChanged(INDEX_PATH, indexValue);
+
+if (indexResult.changed) {
+  console.log("📚 Index des jeux mis à jour");
+} else {
+  console.log("✅ Index inchangé");
+}
+
+if (!indexResult.changed && detailedChanges === 0) {
+  console.log("✅ Aucune progression PSN détectée");
+} else {
+  console.log(
+    `🏆 Synchronisation terminée : ${detailedChanges} jeu(x) détaillé(s) modifié(s)`
+  );
+}
