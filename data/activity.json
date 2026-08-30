@@ -1,0 +1,3506 @@
+{
+  "psnId": "AkinatorII",
+  "recent": [
+    {
+      "earnedDateTime": "2026-08-29T19:26:29Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 83,
+        "name": "The Bone Zone",
+        "type": "silver",
+        "description": "Unlock Hyper mode for 3 normal stages."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T19:26:10Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 9,
+        "name": "Hyper Dairy Plant",
+        "type": "silver",
+        "description": "Defeat the Sword Guardian in the Dairy Plant."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T19:26:10Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 11,
+        "name": "Coffin: Dairy Plant",
+        "type": "bronze",
+        "description": "Find and open the coffin in the Dairy Plant."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T19:26:10Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 15,
+        "name": "Gallo Tower",
+        "type": "bronze",
+        "description": "Reach Level 60 in the Dairy Plant."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T19:26:10Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 46,
+        "name": "Thousand Edge",
+        "type": "bronze",
+        "description": "Evolve the Knife."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T19:26:10Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 66,
+        "name": "VII - Iron Blue Will",
+        "type": "bronze",
+        "description": "Reach Level 50 with Gennaro."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:48:13Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 82,
+        "name": "Green Acres",
+        "type": "silver",
+        "description": "Unlock Hyper mode for 2 normal stages."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:21Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 2,
+        "name": "Mortaccio",
+        "type": "bronze",
+        "description": "Defeat a total of 3000 Skeletons."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:21Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 3,
+        "name": "Hyper Mad Forest",
+        "type": "silver",
+        "description": "Defeat the giant Blue Venus in the Mad Forest."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:21Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 12,
+        "name": "Coffin: Mad Forest",
+        "type": "bronze",
+        "description": "Find and open the coffin in the Mad Forest."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:21Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 43,
+        "name": "Hellfire",
+        "type": "bronze",
+        "description": "Evolve the Fire Wand."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:21Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 47,
+        "name": "Thunder Loop",
+        "type": "bronze",
+        "description": "Evolve the Lightning Ring."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:21Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 49,
+        "name": "NO FUTURE",
+        "type": "bronze",
+        "description": "Evolve the Runetracer."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:21Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 91,
+        "name": "Lama",
+        "type": "silver",
+        "description": "Survive 20 minutes with at least +10% Curse."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:21Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 124,
+        "name": "Ebony Wings",
+        "type": "bronze",
+        "description": "Get Peachone to Level 7."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:20Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 119,
+        "name": "Arca",
+        "type": "bronze",
+        "description": "Get Fire Wand to Level 4."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T18:47:20Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 122,
+        "name": "Porta",
+        "type": "bronze",
+        "description": "Get Lightning Ring to Level 4."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:29:46Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 10,
+        "name": "Milky Way Map",
+        "type": "bronze",
+        "description": "Find the Milky Way Map."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:29:46Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 32,
+        "name": "Ars Gouda",
+        "type": "bronze",
+        "description": "Find the Ars Gouda."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:29:46Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 136,
+        "name": "Mindbender",
+        "type": "bronze",
+        "description": "Fill 50 entries in the Collection."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:08:14Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 84,
+        "name": "Il Molise",
+        "type": "bronze",
+        "description": "Unlock Hyper mode for any normal stage."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:39Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 4,
+        "name": "Hyper Inlaid Library",
+        "type": "silver",
+        "description": "Defeat the Hag in the Inlaid Library."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:39Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 44,
+        "name": "Soul Eater",
+        "type": "bronze",
+        "description": "Evolve the Garlic."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:39Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 45,
+        "name": "Unholy Vespers",
+        "type": "bronze",
+        "description": "Evolve the King Bible."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:39Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 48,
+        "name": "Holy Wand",
+        "type": "bronze",
+        "description": "Evolve the Magic Wand."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:39Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 50,
+        "name": "La Borra",
+        "type": "bronze",
+        "description": "Evolve the Santa Water."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:39Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 68,
+        "name": "XI - Waltz of Pearls",
+        "type": "bronze",
+        "description": "Reach Level 50 with Imelda."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:39Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 126,
+        "name": "Poe Ratcho",
+        "type": "bronze",
+        "description": "Get Garlic to Level 7."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:38Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 8,
+        "name": "Dairy Plant",
+        "type": "bronze",
+        "description": "Reach Level 40 in the Inlaid Library."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:38Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 90,
+        "name": "Pentagram",
+        "type": "bronze",
+        "description": "Survive 20 minutes with any character."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T16:07:38Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 121,
+        "name": "Candelabrador",
+        "type": "bronze",
+        "description": "Get Santa Water to Level 4."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T15:23:36Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 31,
+        "name": "Grim Grimoire",
+        "type": "bronze",
+        "description": "Find the Grim Grimoire."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T15:23:36Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 118,
+        "name": "Suor Clerici",
+        "type": "bronze",
+        "description": "Recover a total of 1000 HP."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T15:23:36Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 120,
+        "name": "Bracer",
+        "type": "bronze",
+        "description": "Get King Bible to Level 4."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T14:51:41Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 5,
+        "name": "Inlaid Library",
+        "type": "bronze",
+        "description": "Reach Level 20 in the Mad Forest."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T14:51:41Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 123,
+        "name": "Duplicator",
+        "type": "bronze",
+        "description": "Get Magic Wand to Level 7."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T14:30:11Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 1,
+        "name": "Lightning Ring",
+        "type": "bronze",
+        "description": "Defeat a total of 5000 enemies."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-29T14:30:11Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 115,
+        "name": "Cross",
+        "type": "bronze",
+        "description": "Find a Rosary."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:15:55Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 105,
+        "name": "Pummarola",
+        "type": "bronze",
+        "description": "Survive 5 minutes with Gennaro."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:15:55Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 112,
+        "name": "Garlic",
+        "type": "bronze",
+        "description": "Find 5 Floor Chickens."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:15:55Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 116,
+        "name": "Magnet",
+        "type": "bronze",
+        "description": "Find a Vacuum."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:15:55Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 129,
+        "name": "Empty Tome",
+        "type": "silver",
+        "description": "Hold 6 different weapons at once."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:00:14Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 17,
+        "name": "Randomazzo",
+        "type": "bronze",
+        "description": "Find the Randomazzo."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:00:14Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 19,
+        "name": "VI - Sarabande of Healing",
+        "type": "bronze",
+        "description": "Find the Randomazzo."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:00:14Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 88,
+        "name": "Peachone",
+        "type": "bronze",
+        "description": "Survive 10 minutes with any character."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:00:14Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 96,
+        "name": "Runetracer",
+        "type": "bronze",
+        "description": "Survive 5 minutes with Pasqualina."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:00:14Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 110,
+        "name": "Fire Wand",
+        "type": "bronze",
+        "description": "Destroy 20 light sources."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:00:14Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 114,
+        "name": "Clock Lancet",
+        "type": "bronze",
+        "description": "Find an Orologion."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T18:00:14Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 125,
+        "name": "Spellbinder",
+        "type": "bronze",
+        "description": "Get Runetracer to Level 7."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T17:31:45Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 87,
+        "name": "Hollow Heart",
+        "type": "bronze",
+        "description": "Survive 1 minute with any character."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T17:31:45Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 107,
+        "name": "Wings",
+        "type": "bronze",
+        "description": "Reach Level 5."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-27T17:31:45Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 108,
+        "name": "Crown",
+        "type": "bronze",
+        "description": "Reach Level 10."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-23T12:17:19Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 38,
+        "name": "Armed and Dangerous",
+        "type": "silver",
+        "description": "Find and equip all the elements of one set of witcher gear."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-23T12:00:36Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 53,
+        "name": "I'm Not Kissing That",
+        "type": "bronze",
+        "description": "Kill the prince cursed into a toad."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-22T20:43:59Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 11,
+        "name": "Geralt: The Professional",
+        "type": "bronze",
+        "description": "Complete all witcher contracts."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-22T20:39:31Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 23,
+        "name": "Mutant",
+        "type": "bronze",
+        "description": "Fill all mutagen slots."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-22T20:10:41Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 15,
+        "name": "Full Crew",
+        "type": "bronze",
+        "description": "Bring all possible allies to Kaer Morhen for the battle against the Hunt."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-22T19:29:49Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 50,
+        "name": "Fiend or Foe?",
+        "type": "bronze",
+        "description": "Complete the contract on Morvudd."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-22T15:49:29Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 51,
+        "name": "Ashes to Ashes",
+        "type": "bronze",
+        "description": "Complete the contract on Therazane."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-22T14:12:47Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 49,
+        "name": "Woodland Spirit",
+        "type": "bronze",
+        "description": "Complete the contract on the Woodland Spirit."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-22T13:58:51Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 22,
+        "name": "That Is the Evilest Thing…",
+        "type": "bronze",
+        "description": "Ignite the gas produced by a Dragon's Dream bomb using a burning opponent. Do this 10 times."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-22T13:28:39Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 40,
+        "name": "Brawl Master",
+        "type": "bronze",
+        "description": "Complete all fistfighting quests in Velen, Skellige and Novigrad."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-21T17:11:14Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 3,
+        "name": "Necromancer",
+        "type": "bronze",
+        "description": "Help Yennefer extract information from Skjall's body."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-21T16:28:33Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 41,
+        "name": "Fast and Furious",
+        "type": "bronze",
+        "description": "Win all the horse races in the game."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-21T16:08:12Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 26,
+        "name": "Brawler",
+        "type": "silver",
+        "description": "Defeat Olaf, the Skellige champion of unarmed combat."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-20T20:45:52Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 31,
+        "name": "Globetrotter",
+        "type": "bronze",
+        "description": "Discover 100 fast travel points."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-20T19:41:31Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 12,
+        "name": "Kingmaker",
+        "type": "bronze",
+        "description": "Complete the subplot about choosing Skellige's ruler."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-17T20:25:42Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 16,
+        "name": "Dendrologist",
+        "type": "bronze",
+        "description": "Acquire all the Abilities in one tree."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-17T16:59:27Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 48,
+        "name": "Fearless Vampire Slayer",
+        "type": "bronze",
+        "description": "Complete the contract on Sarasti."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-16T22:55:32Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 34,
+        "name": "Gwent Master",
+        "type": "bronze",
+        "description": "Defeat Tybalt and win the gwent tournament held at the Passiflora."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-06T20:18:55Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 19,
+        "name": "Environmentally Unfriendly",
+        "type": "bronze",
+        "description": "Kill 50 opponents using the environment (e.g. swamp gas, insects or objects)."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-06T20:16:45Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 2,
+        "name": "A Friend in Need",
+        "type": "bronze",
+        "description": "Find and free Dandelion."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-06T19:19:27Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 36,
+        "name": "Bombardier",
+        "type": "bronze",
+        "description": "Collect the formulae for 6 different bomb types."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-06T17:16:12Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 45,
+        "name": "Geralt and Friends",
+        "type": "bronze",
+        "description": "Win a round of gwent using only neutral cards."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-06T11:07:49Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 21,
+        "name": "Can't Touch This!",
+        "type": "bronze",
+        "description": "Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-02T17:18:14Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 46,
+        "name": "All In",
+        "type": "bronze",
+        "description": "Play three hero cards in one round of gwent and win the match."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-02T16:05:42Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 43,
+        "name": "Fire in the Hole",
+        "type": "bronze",
+        "description": "Destroy 10 monster nests using bombs."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-02T09:40:00Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 52,
+        "name": "The Doppler Effect",
+        "type": "bronze",
+        "description": "Resolve the doppler problem in Novigrad."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-30T11:21:11Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 24,
+        "name": "Butcher of Blaviken",
+        "type": "silver",
+        "description": "Kill at least 5 opponents in under 10 seconds."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-26T21:11:31Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 47,
+        "name": "Shrieker",
+        "type": "bronze",
+        "description": "Complete the contract on the shrieker."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-26T20:47:16Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 4,
+        "name": "Family Counselor",
+        "type": "bronze",
+        "description": "Find the baron's wife and daughter."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-26T15:30:14Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 37,
+        "name": "Bookworm",
+        "type": "bronze",
+        "description": "Read 30 books, journals or other documents."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-26T12:01:38Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 14,
+        "name": "Friends With Benefits",
+        "type": "bronze",
+        "description": "Complete the subplot involving Keira Metz."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-25T12:35:46Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 35,
+        "name": "Let's Cook!",
+        "type": "bronze",
+        "description": "Learn 12 potion formulae."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-25T12:02:09Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 25,
+        "name": "Triple Threat",
+        "type": "bronze",
+        "description": "Kill 3 opponents in one fight using 3 different methods (swords, bombs, crossbow, Signs, etc.)."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-24T19:34:46Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 1,
+        "name": "Lilac and Gooseberries",
+        "type": "bronze",
+        "description": "Find Yennefer of Vengerberg."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-23T19:57:05Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 30,
+        "name": "Even Odds",
+        "type": "silver",
+        "description": "Kill 2 monsters you have a contract on without using Signs, potions, mutagens, oils or bombs."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-23T18:34:08Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 44,
+        "name": "Fist of the South Star",
+        "type": "bronze",
+        "description": "Defeat an opponent in a fistfight without taking any damage."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-22T20:17:22Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 20,
+        "name": "Kaer Morhen Trained",
+        "type": "bronze",
+        "description": "Perform 10 effective counterattacks in a row without getting hit or parrying."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-22T20:11:27Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 29,
+        "name": "What Was That?",
+        "type": "bronze",
+        "description": "Attack, counter, cast a Sign and throw a bomb (in any order) in under 4 seconds."
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:56:09Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 0,
+        "name": "\"I am Batman.\"",
+        "type": "platinum",
+        "description": "Collect all Trophies"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:56:09Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 26,
+        "name": "\"The idea was to be a symbol.\"",
+        "type": "bronze",
+        "description": "Collect 25 Bat-Symbols"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:39:37Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 38,
+        "name": "Collecting Evidence",
+        "type": "bronze",
+        "description": "Roll the camera over 20 degrees in Photo Mode"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:37:58Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 3,
+        "name": "A Watchful Collector",
+        "type": "gold",
+        "description": "Collect all Collectibles"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:37:57Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 27,
+        "name": "\"Quite the collection, Master Bruce.\"",
+        "type": "bronze",
+        "description": "Collect all Batcave Trophies"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:30:42Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 6,
+        "name": "\"Holy Skill Upgrades, Batman!\"",
+        "type": "silver",
+        "description": "Unlock All Skill Upgrades"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:30:31Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 25,
+        "name": "\"You have a name to maintain.\"",
+        "type": "bronze",
+        "description": "Open every WayneTech Cache"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:23:59Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 5,
+        "name": "\"Wanna know how I got these cars?\"",
+        "type": "silver",
+        "description": "Unlock All Vehicles"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:22:28Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 2,
+        "name": "\"Hopefully, because he's busy.\"",
+        "type": "gold",
+        "description": "Complete every side activity in Gotham"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:22:27Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 28,
+        "name": "Too Many Questions",
+        "type": "bronze",
+        "description": "Complete every Puzzle Room"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-13T16:22:18Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 4,
+        "name": "\"I'm not wearing hockey pads.\"",
+        "type": "silver",
+        "description": "Unlock All Suits"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-12T22:05:41Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 50,
+        "name": "\"Things have improved.\"",
+        "type": "bronze",
+        "description": "Prevent each type of Crime in Gotham once"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-10T20:28:07Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 49,
+        "name": "\"Gotham can feel a little safer.\"",
+        "type": "bronze",
+        "description": "Prevent 30 Crimes"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-10T20:27:12Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 51,
+        "name": "\"Is that like parachuting?\"",
+        "type": "bronze",
+        "description": "Glide in 10 different wind tunnels"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-10T19:59:47Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 7,
+        "name": "\"This is too much power for one person.\"",
+        "type": "silver",
+        "description": "Collect all Red Bricks"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-10T18:54:31Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 1,
+        "name": "\"A hero can be anyone.\"",
+        "type": "gold",
+        "description": "Complete Story Mode"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-08T19:50:01Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 24,
+        "name": "Knightfall",
+        "type": "bronze",
+        "description": "Complete Chapter Five"
+      }
+    },
+    {
+      "earnedDateTime": "2026-07-02T17:15:32Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 44,
+        "name": "The Strength to Fight",
+        "type": "bronze",
+        "description": "Reach Combat Combo of 99 hits"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-25T18:52:01Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 15,
+        "name": "Out of the Shadows",
+        "type": "bronze",
+        "description": "Unlock Talia"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-21T18:50:22Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 23,
+        "name": "An Endless Winter",
+        "type": "bronze",
+        "description": "Complete Chapter Four"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-21T18:48:18Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 39,
+        "name": "Computer Privileges",
+        "type": "bronze",
+        "description": "Change the screensaver on the Batcomputer"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-21T18:46:06Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 31,
+        "name": "\"I own the place.\"",
+        "type": "bronze",
+        "description": "Purchase all Batcave Expansions"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-19T20:43:51Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 14,
+        "name": "A Grayson Graduation",
+        "type": "bronze",
+        "description": "Unlock Nightwing"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-19T20:31:22Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 8,
+        "name": "Up for the Challenge",
+        "type": "bronze",
+        "description": "Complete 20 Challenges"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-17T19:06:08Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 48,
+        "name": "Cowardly and Superstitious Lot",
+        "type": "bronze",
+        "description": "Defeat every type of enemy once"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-17T19:03:57Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 47,
+        "name": "\"You're becoming quite a celebrity.\"",
+        "type": "bronze",
+        "description": "Discover 100 open world events"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-13T20:55:13Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 32,
+        "name": "Not Just a Cave",
+        "type": "bronze",
+        "description": "Place 5 Props or Trophies in the Batcave"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-13T20:51:18Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 17,
+        "name": "Wonderful Toys",
+        "type": "bronze",
+        "description": "Purchase all Gadget Upgrades for any single character"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-13T20:40:19Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 13,
+        "name": "\"Let's see what Batgirl can do!\"",
+        "type": "bronze",
+        "description": "Unlock Batgirl"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-13T19:58:11Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 22,
+        "name": "The Dynamic Duo",
+        "type": "bronze",
+        "description": "Complete Chapter Three"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-11T19:37:28Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 36,
+        "name": "\"Wouldn't wanna make things too easy.\"",
+        "type": "bronze",
+        "description": "Get 5 Gold Medals in AR Trials"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-11T19:30:25Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 9,
+        "name": "\"It's a big city. I can't be everywhere.\"",
+        "type": "bronze",
+        "description": "Unlock all fast travel points"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-11T19:28:14Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 16,
+        "name": "\"It's not exactly a normal world.\"",
+        "type": "bronze",
+        "description": "Visit every District"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-11T19:18:09Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 33,
+        "name": "\"No, sir. The OTHER car.\"",
+        "type": "bronze",
+        "description": "Purchase 3 Vehicles from the Batcave"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-10T21:03:45Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 12,
+        "name": "The Boy Wonder",
+        "type": "bronze",
+        "description": "Unlock Robin"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-10T20:21:50Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 21,
+        "name": "\"Do I look like I'm joking?\"",
+        "type": "bronze",
+        "description": "Complete Chapter Two"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-10T20:16:44Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 35,
+        "name": "\"Does it come in black?\"",
+        "type": "bronze",
+        "description": "Equip a Red Brick"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-07T20:23:01Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 40,
+        "name": "\"Life's been good to me.\"",
+        "type": "bronze",
+        "description": "Collect 1,000,000 Studs"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-05T18:55:35Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 11,
+        "name": "\"Hear me roar.\"",
+        "type": "bronze",
+        "description": "Unlock Catwoman"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-03T17:17:09Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 29,
+        "name": "\"Lighter, faster, more agile.\"",
+        "type": "bronze",
+        "description": "Purchase a Skill Upgrade from each category"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-03T17:10:52Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 34,
+        "name": "\"You either buy a hero…\"",
+        "type": "bronze",
+        "description": "Purchase 5 Items from Shops"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-03T17:05:22Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 30,
+        "name": "Theatricality and Deception",
+        "type": "bronze",
+        "description": "Purchase 3 Gadget Upgrades"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-03T17:02:30Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 37,
+        "name": "Rebuilding Gotham",
+        "type": "bronze",
+        "description": "Cash in a Challenge in the Batcave"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-03T16:54:41Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 20,
+        "name": "One Bad Day",
+        "type": "bronze",
+        "description": "Complete Chapter One"
+      }
+    },
+    {
+      "earnedDateTime": "2026-06-03T16:21:56Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 45,
+        "name": "\"I am the shadows.\"",
+        "type": "bronze",
+        "description": "Perform 100 Stealth Takedowns"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T16:56:45Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 41,
+        "name": "Caped Defender",
+        "type": "bronze",
+        "description": "Perform 100 Successful Counters"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T16:31:43Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 43,
+        "name": "\"I'm good with calculation.\"",
+        "type": "bronze",
+        "description": "Maintain Max Stud Combo for 60 Seconds"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T16:16:17Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 46,
+        "name": "\"This is my city.\"",
+        "type": "bronze",
+        "description": "Place a Pin on the Map"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T16:02:53Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 42,
+        "name": "\"Never do it for free.\"",
+        "type": "bronze",
+        "description": "Collect 30,000 Studs within a single stud combo"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T15:55:54Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 10,
+        "name": "A Friend",
+        "type": "bronze",
+        "description": "Unlock Jim Gordon"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T13:15:10Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 19,
+        "name": "\"A legend, Mr. Wayne.\"",
+        "type": "bronze",
+        "description": "Complete the Prologue"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T12:03:17Z",
+      "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR46362_00"
+      },
+      "trophy": {
+        "id": 18,
+        "name": "Beware the Gray Ghost!",
+        "type": "bronze",
+        "description": "Complete Bruce's Gray Ghost costume"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T11:16:27Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 51,
+        "name": "Subterranean Research",
+        "type": "bronze",
+        "description": "Collect all Collectibles in the Foundation"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T10:59:29Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 50,
+        "name": "Niche Position",
+        "type": "bronze",
+        "description": "Find all hidden locations in the Foundation"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T10:28:01Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 53,
+        "name": "One of Us",
+        "type": "bronze",
+        "description": "Gather all the Maneki-nekos"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-31T10:17:25Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 56,
+        "name": "A Strong Foundation",
+        "type": "silver",
+        "description": "Complete all Missions in the Foundation"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-30T13:03:36Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 54,
+        "name": "Star Performance",
+        "type": "bronze",
+        "description": "Complete the Side Mission: \"Jesse Faden starring in 'Swift Platform'\""
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-30T12:21:07Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 55,
+        "name": "Astral Plumbing",
+        "type": "bronze",
+        "description": "Discover the Astral Plane restroom"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-21T19:58:53Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 52,
+        "name": "Supportive Staff",
+        "type": "bronze",
+        "description": "Have a Deployed Ranger kill 5 enemies"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-21T19:40:16Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 48,
+        "name": "Hostile Work Environment",
+        "type": "bronze",
+        "description": "Kill 50 Hiss Sharpened"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-21T19:40:16Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 49,
+        "name": "Rush Job",
+        "type": "silver",
+        "description": "Kill 100 enemies with Shield Rush"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-21T19:33:26Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 0,
+        "name": "Director of the FBC",
+        "type": "platinum",
+        "description": "Unlock all other trophies"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-21T19:33:26Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 44,
+        "name": "Astral Tactician",
+        "type": "silver",
+        "description": "Complete 25 Board Countermeasures"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-21T18:58:10Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 11,
+        "name": "Master Parautilitarian",
+        "type": "gold",
+        "description": "Spend 100 Ability Points"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-21T18:52:41Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 47,
+        "name": "< Make/Unmake >",
+        "type": "silver",
+        "description": "Use Shape and Fracture a combined total of 100 times"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T22:52:17Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 64,
+        "name": "Elevated Mind",
+        "type": "bronze",
+        "description": "Kill 25 Airborne Rangers"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T22:38:59Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 46,
+        "name": "Crisis Management",
+        "type": "silver",
+        "description": "Complete 5 Bureau Alerts"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T22:20:08Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 59,
+        "name": "Vending Spree",
+        "type": "bronze",
+        "description": "Destroy 80% of the Altered Vending Machine instances"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T22:13:46Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 65,
+        "name": "In-depth Investigations",
+        "type": "bronze",
+        "description": "Find 80% of the Collectibles in the Investigations Sector"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T21:49:04Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 58,
+        "name": "Chief Investigator",
+        "type": "bronze",
+        "description": "Find 80% of the hidden locations in the Investigations Sector"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T21:41:41Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 62,
+        "name": "Surge of Power",
+        "type": "bronze",
+        "description": "Upgrade Surge to the maximum level"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T21:36:12Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 66,
+        "name": "Work Smarter, Not Harder",
+        "type": "bronze",
+        "description": "Attach a Surge grenade to an object and Launch it at an enemy"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T21:31:45Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 60,
+        "name": "The Third Thing",
+        "type": "silver",
+        "description": "Defeat Hartman"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T21:10:48Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 63,
+        "name": "Surge Protector",
+        "type": "bronze",
+        "description": "Kill 50 enemies with Surge"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T15:49:35Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 57,
+        "name": "Familiar Methodologies",
+        "type": "bronze",
+        "description": "Fight off Hartman"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T15:47:31Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 61,
+        "name": "Workplace Recreation",
+        "type": "silver",
+        "description": "Play a single game in Arcade Mode"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T14:59:36Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 67,
+        "name": "Multiple Applications",
+        "type": "bronze",
+        "description": "Use Multi-Launch to hit 3 targets"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-20T14:52:50Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 45,
+        "name": "First On the Scene",
+        "type": "bronze",
+        "description": "Complete 1 Bureau Alert"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T20:31:49Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 8,
+        "name": "Interdimensional Defender",
+        "type": "silver",
+        "description": "Killed 1000 Hiss"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T20:28:05Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 41,
+        "name": "Volatile Debris",
+        "type": "bronze",
+        "description": "Kill 10 enemies with the Shield Burst Ability"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T19:54:15Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 26,
+        "name": "Head of Communications",
+        "type": "bronze",
+        "description": "Defeat Mr. Tomassi"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T19:44:40Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 6,
+        "name": "FBC Crisis Solution Task Force",
+        "type": "silver",
+        "description": "Complete 15 Side Missions"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T19:19:07Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 38,
+        "name": "Take Control",
+        "type": "gold",
+        "description": "Complete Mission 10"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T18:45:50Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 37,
+        "name": "Polaris",
+        "type": "bronze",
+        "description": "Complete Mission 9"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T15:15:25Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 36,
+        "name": "Finnish Tango",
+        "type": "bronze",
+        "description": "Complete Mission 8"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T14:51:30Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 24,
+        "name": "Altered Manifestations May Occur",
+        "type": "bronze",
+        "description": "Defeat esseJ"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T14:41:36Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 20,
+        "name": "Discerning the Pattern",
+        "type": "silver",
+        "description": "Cleanse 25 Control Points"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T14:13:58Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 25,
+        "name": "Aggressive Growth",
+        "type": "bronze",
+        "description": "Defeat Mold-1"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T14:09:00Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 10,
+        "name": "Expert Parautilitarian",
+        "type": "bronze",
+        "description": "Spend 50 Ability Points"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-19T13:50:52Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 5,
+        "name": "Inter-Departmental Cooperation",
+        "type": "bronze",
+        "description": "Complete 10 Side Missions"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T20:03:48Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 35,
+        "name": "The Face of the Enemy",
+        "type": "bronze",
+        "description": "Complete Mission 7"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T19:17:53Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 2,
+        "name": "Non-Standard Issue",
+        "type": "silver",
+        "description": "Upgrade any Weapon Form to Level 3"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T18:58:57Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 23,
+        "name": "Bureau Archivist",
+        "type": "gold",
+        "description": "Collect 120 Collectibles"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T18:49:11Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 27,
+        "name": "Living Archetypes",
+        "type": "bronze",
+        "description": "Defeat the Anchor"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T16:10:28Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 28,
+        "name": "Astral Phenomena",
+        "type": "silver",
+        "description": "Defeat Former"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T15:47:05Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 34,
+        "name": "My Brother's Keeper",
+        "type": "bronze",
+        "description": "Complete Mission 6"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T15:43:30Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 17,
+        "name": "Rising Thought",
+        "type": "bronze",
+        "description": "Obtain the Levitate Ability"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T15:16:35Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 7,
+        "name": "Paranatural Collection",
+        "type": "silver",
+        "description": "Collect more than 100,000 Source"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T15:14:57Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 3,
+        "name": "Career Development",
+        "type": "silver",
+        "description": "Unlock all 3 Personal Mod slots"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T15:14:28Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 43,
+        "name": "War Games",
+        "type": "bronze",
+        "description": "Complete 5 Board Countermeasures"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T14:38:50Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 33,
+        "name": "Threshold",
+        "type": "bronze",
+        "description": "Complete Mission 5"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T12:51:37Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 4,
+        "name": "The Importance of Synergy",
+        "type": "bronze",
+        "description": "Complete 5 Side Missions"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T12:51:37Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 14,
+        "name": "Insular Telekinesis",
+        "type": "bronze",
+        "description": "Obtain the Shield Ability"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T12:16:22Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 22,
+        "name": "Record Keeper",
+        "type": "bronze",
+        "description": "Collect 80 Collectibles"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T12:11:45Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 40,
+        "name": "Unstable Matter",
+        "type": "bronze",
+        "description": "Kill 50 enemies with the Launch Ability"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T11:49:12Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 42,
+        "name": "Proper Handling Procedures",
+        "type": "bronze",
+        "description": "Use Launch to throw a grenade or rocket"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T11:40:56Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 32,
+        "name": "Old Boys' Club",
+        "type": "bronze",
+        "description": "Complete Mission 4"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-16T11:14:33Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 16,
+        "name": "Psychic Occupation",
+        "type": "bronze",
+        "description": "Obtain the Compel Ability"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T18:43:48Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 39,
+        "name": "Cognitive Intruder",
+        "type": "bronze",
+        "description": "Compel 10 enemies with the Seize Ability"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T18:34:49Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 19,
+        "name": "Ritual Intuition",
+        "type": "bronze",
+        "description": "Cleanse 10 Control Points"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T11:56:50Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 31,
+        "name": "Directorial Override",
+        "type": "bronze",
+        "description": "Complete Mission 3"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T11:39:13Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 15,
+        "name": "Shifting Positions",
+        "type": "bronze",
+        "description": "Obtain the Evade Ability"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T11:08:19Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 18,
+        "name": "Ritualistic Thinking",
+        "type": "bronze",
+        "description": "Cleanse 5 Control Points"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T11:05:10Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 21,
+        "name": "Strange Collection",
+        "type": "bronze",
+        "description": "Collect 40 Collectibles"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T11:00:57Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 1,
+        "name": "Astral Construction",
+        "type": "bronze",
+        "description": "Construct a Weapon Form or Mod"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T10:46:19Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 9,
+        "name": "Parautilitarian",
+        "type": "bronze",
+        "description": "Unlock 1 Ability Tree Upgrade"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T10:45:32Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 30,
+        "name": "Unknown Caller ",
+        "type": "bronze",
+        "description": "Complete Mission 2"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T10:26:23Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 13,
+        "name": "Paranatural Powerhouse",
+        "type": "bronze",
+        "description": "Obtain the Launch Ability"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T10:14:41Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 29,
+        "name": "Welcome to the Oldest House",
+        "type": "bronze",
+        "description": "Complete Mission 1"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-14T09:36:52Z",
+      "game": {
+        "name": "Control Ultimate Edition",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22157_00"
+      },
+      "trophy": {
+        "id": 12,
+        "name": "Choose to be Chosen",
+        "type": "bronze",
+        "description": "Obtain the Service Weapon"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T21:23:57Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 0,
+        "name": "One Percenter",
+        "type": "platinum",
+        "description": "Go above and BEYOND, unlocking every trophy in Days Gone"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T21:23:57Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 31,
+        "name": "The Broken Roadshow",
+        "type": "silver",
+        "description": "Unlock over 75% of collectibles"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T20:32:54Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 44,
+        "name": "Go Kick Rocks",
+        "type": "bronze",
+        "description": "Knock down 12 Anarchist Cairns"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T20:22:09Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 18,
+        "name": "Farewell Drift",
+        "type": "bronze",
+        "description": "Accumulate 10 minutes of drifting while on your bike"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T20:20:41Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 43,
+        "name": "Mr. Fahrenheit",
+        "type": "silver",
+        "description": "Unlock 45 skills"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T17:17:58Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 19,
+        "name": "This is a Knife",
+        "type": "silver",
+        "description": "Kill a Breaker, Reacher, or Rager with a knife"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T16:48:20Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 13,
+        "name": "Ambush Camp Hunter",
+        "type": "silver",
+        "description": "Complete the Ambush Camp Hunter storyline"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T16:33:00Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 22,
+        "name": "Variety is the Spice of Life",
+        "type": "silver",
+        "description": "Kill an enemy with every type of crossbow bolt"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T16:17:22Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 16,
+        "name": "World's End",
+        "type": "silver",
+        "description": "Complete the World's End storyline"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T15:40:47Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 25,
+        "name": "Burnout Apocalypse",
+        "type": "bronze",
+        "description": "Use nitro and drift at the same time on your bike for at least 5 seconds"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T14:48:28Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 36,
+        "name": "Best Friends Forever (For Life)",
+        "type": "gold",
+        "description": "Gain the Allied Trust status with three different Encampments"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-09T14:47:10Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 14,
+        "name": "Infestation Exterminator",
+        "type": "silver",
+        "description": "Complete the Infestation Exterminator storyline"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-07T22:27:10Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 12,
+        "name": "Days Done",
+        "type": "gold",
+        "description": "Complete the story of Days Gone"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-07T22:09:10Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 11,
+        "name": "I've Been Waiting for This",
+        "type": "bronze",
+        "description": "Take revenge, once and for all"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-07T21:55:02Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 27,
+        "name": "You've Got Red on You",
+        "type": "bronze",
+        "description": "Collect 541 Items from corpses"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-07T21:23:40Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 35,
+        "name": "Best Friends Forever",
+        "type": "silver",
+        "description": "Receive the Allied Trust status with an Encampment"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-03T20:36:48Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 10,
+        "name": "Morior Invictus",
+        "type": "silver",
+        "description": "Ride out to take back what's yours"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-03T19:10:04Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 21,
+        "name": "Old Reliable ",
+        "type": "bronze",
+        "description": "Kill 200 Enemies with a Crafted Weapon"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-03T13:05:50Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 30,
+        "name": "Wannabe Fortune Hunter",
+        "type": "bronze",
+        "description": "Unlock over 50% of the collectibles"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-03T12:34:02Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 17,
+        "name": "One Down",
+        "type": "silver",
+        "description": "Defeat your first Horde"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-03T11:54:52Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 15,
+        "name": "Marauder Camp Hunter",
+        "type": "silver",
+        "description": "Complete the Marauder Camp Hunter storyline"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-03T11:39:39Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 42,
+        "name": "There's No Stopping Me",
+        "type": "bronze",
+        "description": "Unlock 30 skills"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-02T22:37:57Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 28,
+        "name": "Lend Me Your Ears",
+        "type": "bronze",
+        "description": "Collect 989 Freaker Ears"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-02T22:31:50Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 20,
+        "name": "Ghost of Farewell",
+        "type": "bronze",
+        "description": "Get 100 stealth kills"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-02T22:16:40Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 26,
+        "name": "The Art of Bike Repair",
+        "type": "bronze",
+        "description": "Apply 100 scrap to your bike"
+      }
+    },
+    {
+      "earnedDateTime": "2026-05-02T22:09:50Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 9,
+        "name": "It's Getting Cold Outside",
+        "type": "bronze",
+        "description": "Reconnect with what you lost"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-30T20:49:01Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 34,
+        "name": "Performance Enhanced",
+        "type": "silver",
+        "description": "Max out either your Health, Stamina, or Focus "
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-26T21:16:01Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 8,
+        "name": "Hold on Tight",
+        "type": "bronze",
+        "description": "See a familiar face"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-26T20:16:24Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 7,
+        "name": "Riding NOMAD",
+        "type": "bronze",
+        "description": "Take to the road alone"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-25T20:06:07Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 6,
+        "name": "Take Back Your Name",
+        "type": "bronze",
+        "description": "Return the favor"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-24T20:05:28Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 41,
+        "name": "I'm Out of Control",
+        "type": "bronze",
+        "description": "Unlock 15 skills"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-24T19:58:45Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 38,
+        "name": "Welcome to the Party, Pal",
+        "type": "silver",
+        "description": "Clear all Ambush Camps, Infestations, and NERO Checkpoints in a single region"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-24T19:36:03Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 23,
+        "name": "Farewell Original",
+        "type": "silver",
+        "description": "Purchase an upgrade under the Performance, Visual, and Paint Categories for your bike"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-24T19:35:05Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 37,
+        "name": "Make it Rain",
+        "type": "silver",
+        "description": "Spend 20,000 credits at one Encampment"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-23T19:07:43Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 32,
+        "name": "Surviving isn't Living",
+        "type": "bronze",
+        "description": "Rescue 10 survivors"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-22T19:28:57Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 5,
+        "name": "Brothers in Arm",
+        "type": "bronze",
+        "description": "Check up on Boozer"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-18T16:48:07Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 45,
+        "name": "D.I.Y. Oregonian",
+        "type": "bronze",
+        "description": "Craft 50 items"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-18T15:56:23Z",
+      "game": {
+        "name": "DAYS GONE",
+        "platform": "PS4",
+        "npCommunicationId": "NPWR17130_00"
+      },
+      "trophy": {
+        "id": 4,
+        "name": "Lost and Found",
+        "type": "bronze",
+        "description": "Drive south with Boozer"
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-13T16:57:34Z",
+      "game": {
+        "name": "High on Life",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR37403_00"
+      },
+      "trophy": {
+        "id": 12,
+        "name": "Who's The Boss?",
+        "type": "silver",
+        "description": "Defeat the Skrendel Brothers."
+      }
+    },
+    {
+      "earnedDateTime": "2026-04-13T16:28:05Z",
+      "game": {
+        "name": "High on Life",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR37403_00"
+      },
+      "trophy": {
+        "id": 11,
+        "name": "Creature Feature",
+        "type": "bronze",
+        "description": "Obtain Creature."
+      }
+    }
+  ],
+  "updatedAt": "2026-08-30T12:12:45.549Z"
+}

@@ -1,0 +1,635 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Anno 117",
+    "platform": "PS5",
+    "progress": 13,
+    "npCommunicationId": "NPWR44891_00",
+    "earnedCount": 13,
+    "totalCount": 69,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Finis Coronat Opus",
+        "description": "Acquire all other Trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Ab Initio Anno",
+        "description": "Start your settlement off with its first Fishery.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-25T17:00:58Z"
+      },
+      {
+        "id": 2,
+        "name": "Experto Crede",
+        "description": "Have a Specialist in a Villa.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-25T20:03:13Z"
+      },
+      {
+        "id": 3,
+        "name": "Terra Nova",
+        "description": "Settle on a second island.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-28T17:27:31Z"
+      },
+      {
+        "id": 4,
+        "name": "Orbis Non Sufficit",
+        "description": "Acquire a Discovery from the Hall of Fame.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-03T22:18:58Z"
+      },
+      {
+        "id": 5,
+        "name": "A Toe In The Caldarium",
+        "description": "Complete Act I.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-26T20:04:39Z"
+      },
+      {
+        "id": 6,
+        "name": "Pecunia Non Olet",
+        "description": "Have a positive income balance of 250 Denarii.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-25T20:44:26Z"
+      },
+      {
+        "id": 7,
+        "name": "Aqueduct Vitae",
+        "description": "Build an Aqueduct with a length of at least 99 tiles.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Haec Ornamenta Mea",
+        "description": "Beautify an island with 50 ornaments.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-03T22:15:34Z"
+      },
+      {
+        "id": 9,
+        "name": "Trade Union",
+        "description": "Establish a Trade Treaty.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-04T19:40:50Z"
+      },
+      {
+        "id": 10,
+        "name": "De Novo",
+        "description": "Change a building's Skin with the Cosmetic Tool 9 times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Scientia Potestas Est",
+        "description": "Fulfill 9 Research Inspirations.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "One... More... Chain...",
+        "description": "Receive the suggestion to take a break 9 times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Pro Gloria",
+        "description": "Accumulate a total value of 1602 Prestige.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-02T15:43:13Z"
+      },
+      {
+        "id": 14,
+        "name": "City Watched",
+        "description": "Place all 3 Amenities in Latium.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Anno Horribilis",
+        "description": "Trigger the first bankruptcy warning.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-03T22:02:00Z"
+      },
+      {
+        "id": 16,
+        "name": "Full House",
+        "description": "Socket 9 Specialists on one island.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Travelling Sails Problem",
+        "description": "Set up a Trade Route with 9 stops.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Ultima Ratio",
+        "description": "Build a Quinquireme equipped with the maximum number of military modules.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Delenda Est",
+        "description": "Conquer an opponent's Villa.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Ex Amicitia Pax",
+        "description": "Appoint an Allied Rival as a Specialist.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Bend or Break",
+        "description": "Complete Act II.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-02T15:39:32Z"
+      },
+      {
+        "id": 22,
+        "name": "Interpretatio Celtica",
+        "description": "Appoint Cernunnos as a Patron God of an island in Latium.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Libertine Liberty",
+        "description": "Have at least 2700 excess Workforce.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Cura Annonae",
+        "description": "Connect Albion and Latium with a minimum of 3 Trade Routes.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Hic Svnt Dracones",
+        "description": "Discover all of Albion. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Romani Ite Domum",
+        "description": "House 2205 Celtic residents on an island without Romanising a single one. ",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Tuatha Deorum",
+        "description": "Appoint two Celtic deities as Patron Gods on your islands.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Outstanding In The Field",
+        "description": "Cover 70% of an island with farm fields.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Ex Gratia",
+        "description": "Gift other Parties 207,000 Denarii in total.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "A Brother's Betrayal",
+        "description": "Eliminate Dorian.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Life Support",
+        "description": "Complete all of Tarragon's quests. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Questing Beast",
+        "description": "Complete all of Athr Iorgwyn's quests. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Lily Buy-in",
+        "description": "Complete all of Valeria's quests.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Un-Scathached",
+        "description": "Survive Voada's attack.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-28T17:48:12Z"
+      },
+      {
+        "id": 35,
+        "name": "Reunionatrix",
+        "description": "Socket Uiscarix and Obairrix in the same Villa.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "The First Mile",
+        "description": "Have a total population of 50,000 across all your cities.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Alea Iacta Est",
+        "description": "Spend at least 170,100 Denarii re-rolling items for sale.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "From Sea To Sea",
+        "description": "Sail 2,205 Nautical Miles.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-25T19:32:23Z"
+      },
+      {
+        "id": 39,
+        "name": "Starfall",
+        "description": "Eliminate Zara Nitu.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Heavier Than A Feather",
+        "description": "Eliminate Neferneru.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "Fuelling The Flame",
+        "description": "Complete all of Concordia's quests.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Devoted to Devotion",
+        "description": "Reach the fifteenth milestone of Devotion on an island.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Polygnostic",
+        "description": "Unlock all Inspirations in one Research Category.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Monopantheist",
+        "description": "Dedicate 9 Islands to the same Patron God.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Morituri Te Salutant",
+        "description": "Host 9 Events in the Amphitheater.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "Not Built In A Day",
+        "description": "Spend more than 24 hours in one Campaign game.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "Quid Pro Quo",
+        "description": "Attain the rank of Proconsul.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "Si Vis Pacem",
+        "description": "Broker a peace after waging war with three separate Rivals.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 49,
+        "name": "Patrician Tastes",
+        "description": "Have the \"Major City\" (Level IX) City Status on an island without any Liberti or Plebeians.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 50,
+        "name": "Trails in the Sea",
+        "description": "Set up 9 Trade Routes between different islands.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 51,
+        "name": "Hot Spot",
+        "description": "Settle the volcanic island and have it reach City Status 2: \"Small Vicus\".",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "Is that... snow?",
+        "description": "Experience Volcanic Winter.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Of Rage and Redemption",
+        "description": "Finish Caecilia's storyline.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "Save the Trees",
+        "description": "Have at least 3 coal mines and no charcoal burner on a single island.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Collector Craze",
+        "description": "Produce statuettes and board games at a rate of 200t/hr.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Natural Philosophy",
+        "description": "Unlock all volcanic discoveries.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Sybilline Studies",
+        "description": "Hire ten specialists at Caecilia's harbour.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Burning Devotion",
+        "description": "Establish Vulcan as globally dominant patron and as dedicated patron on 3 Islands.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Pompeii",
+        "description": "Reach a population of 50.000 on the volcanic island.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Circus Magnificus",
+        "description": "Complete the construction of the Hippodrome.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 61,
+        "name": "To The Victor...",
+        "description": "Accept a Rival's challenge at the Hippodrome.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 62,
+        "name": "...The Spoils",
+        "description": "Win a race with one of your specialists.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 63,
+        "name": "Per Ardua Ad Alta",
+        "description": "Have one of your charioteers reach their maximum racing stats.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 64,
+        "name": "Invictus",
+        "description": "Win nine consecutive races at the Hippodrome.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 65,
+        "name": "Look To Your Laurels",
+        "description": "Have a specialist win the Imperial Races.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 66,
+        "name": "Fast and Furibundus",
+        "description": "Have a rival specialist race for you and win.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 67,
+        "name": "Everyone Wins",
+        "description": "Have your Hippodrome reach its maximum Splendour.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 68,
+        "name": "Bread and Games",
+        "description": "Host a Naumachia and the Imperial Races on an island with at least 500 Happiness.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:12:45.541Z"
+}

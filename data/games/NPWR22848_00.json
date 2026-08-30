@@ -1,0 +1,140 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Subnautica: Below Zero",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR22848_00",
+    "earnedCount": 14,
+    "totalCount": 14,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Platinum Trophy",
+        "description": "Collect all other trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-07T22:22:19Z"
+      },
+      {
+        "id": 1,
+        "name": "Drop in the Ocean",
+        "description": "Locate your Drop Pod.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-22T19:43:14Z"
+      },
+      {
+        "id": 2,
+        "name": "Like Riding a Bike",
+        "description": "Ride a Snowfox.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-07T20:12:38Z"
+      },
+      {
+        "id": 3,
+        "name": "Truckin'",
+        "description": "Construct a Seatruck",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-27T21:01:40Z"
+      },
+      {
+        "id": 4,
+        "name": "Jukebox Hero",
+        "description": "Install a jukebox.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-23T21:20:27Z"
+      },
+      {
+        "id": 5,
+        "name": "Dressed For The Weather",
+        "description": "Construct a cold suit.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-07T19:53:26Z"
+      },
+      {
+        "id": 6,
+        "name": "Spy Pengling",
+        "description": "Construct a spy pengling.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-01T13:54:52Z"
+      },
+      {
+        "id": 7,
+        "name": "Necessary Repairs",
+        "description": "Repair the bridge.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-07T20:36:42Z"
+      },
+      {
+        "id": 8,
+        "name": "Xenobiology",
+        "description": "Encounter a sapient alien lifeform.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-27T20:56:03Z"
+      },
+      {
+        "id": 9,
+        "name": "Finding the Cure",
+        "description": "Use the antidote.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-07T20:25:23Z"
+      },
+      {
+        "id": 10,
+        "name": "Another Survivor",
+        "description": "Find Marguerit's home.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-28T15:35:19Z"
+      },
+      {
+        "id": 11,
+        "name": "Pirate Radio",
+        "description": "Disable Alterra communications.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-07T19:18:10Z"
+      },
+      {
+        "id": 12,
+        "name": "Out of Mind",
+        "description": "Construct an alien vessel.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-07T22:00:46Z"
+      },
+      {
+        "id": 13,
+        "name": "Into the Unknown",
+        "description": "Leave 4546B.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-07T22:22:19Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:12:45.287Z"
+}

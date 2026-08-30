@@ -1,0 +1,473 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "ARC Raiders",
+    "platform": "PS5",
+    "progress": 57,
+    "npCommunicationId": "NPWR28978_00",
+    "earnedCount": 36,
+    "totalCount": 51,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Many Tales to Tell",
+        "description": "Collect all trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Scavenger",
+        "description": "Search 50 loot containers.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-07T20:16:28Z"
+      },
+      {
+        "id": 2,
+        "name": "Well-Traveled",
+        "description": "Safely return from Dam Battlegrounds, Buried City and Spaceport.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-07T20:20:03Z"
+      },
+      {
+        "id": 3,
+        "name": "Escape Artist",
+        "description": "Safely return to Speranza 100 times.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Rite of Passage",
+        "description": "Safely return to Speranza for the first time.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-06T10:34:08Z"
+      },
+      {
+        "id": 5,
+        "name": "Into Thin Air",
+        "description": "Safely return to Speranza through a Raider Hatch.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-07T20:52:00Z"
+      },
+      {
+        "id": 6,
+        "name": "Behind Closed Doors",
+        "description": "Visit a locked room on Dam Battlegrounds, Buried City or Spaceport.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-11T18:13:25Z"
+      },
+      {
+        "id": 7,
+        "name": "The Big Haul",
+        "description": "Return to Speranza with 50 000 worth of loot.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-11T18:21:02Z"
+      },
+      {
+        "id": 8,
+        "name": "The Long Haul",
+        "description": "Reach a total lifetime loot value of 1 000 000.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-30T20:21:57Z"
+      },
+      {
+        "id": 9,
+        "name": "Expert Weaponsmith",
+        "description": "Upgrade a weapon to Tier IV.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-12T19:20:38Z"
+      },
+      {
+        "id": 10,
+        "name": "Well-Armed",
+        "description": "Have two weapons of Tier II or higher equipped in a round.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Back from the Brink",
+        "description": "Revive a squadmate ten times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-01T21:35:22Z"
+      },
+      {
+        "id": 12,
+        "name": "Legend of Speranza",
+        "description": "Reach level 75.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Dedicated to the Craft",
+        "description": "Have five stations upgraded to level 3 or higher.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-22T16:06:52Z"
+      },
+      {
+        "id": 14,
+        "name": "Self-Sufficient",
+        "description": "Install a station in your Workshop.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-07T16:22:26Z"
+      },
+      {
+        "id": 15,
+        "name": "In Your Element",
+        "description": "Reach level 10.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-11T17:23:25Z"
+      },
+      {
+        "id": 16,
+        "name": "Getting Serious",
+        "description": "Upgrade a Workshop station to level 2.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-10T17:51:39Z"
+      },
+      {
+        "id": 17,
+        "name": "Same Song, Same Verse",
+        "description": "Set off two car alarms in a single round.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-10T17:07:44Z"
+      },
+      {
+        "id": 18,
+        "name": "In the Nick of Time",
+        "description": "Safely return to Speranza with less than 5 seconds left in the round.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-31T17:48:27Z"
+      },
+      {
+        "id": 19,
+        "name": "Not Over Till It's Over",
+        "description": "Safely return to Speranza while downed.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-07T17:27:39Z"
+      },
+      {
+        "id": 20,
+        "name": "Practice Makes Perfect",
+        "description": "Visit the Practice Range.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-22T14:38:53Z"
+      },
+      {
+        "id": 21,
+        "name": "Bells and Whistles",
+        "description": "Have 4 weapon mods on a single weapon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-25T20:49:47Z"
+      },
+      {
+        "id": 22,
+        "name": "Long Shot",
+        "description": "Hit a target over 250 meters away.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-22T21:32:17Z"
+      },
+      {
+        "id": 23,
+        "name": "No Going Back",
+        "description": "Be topside when the safe window closes.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-31T17:48:06Z"
+      },
+      {
+        "id": 24,
+        "name": "Just Dropping In",
+        "description": "Get hit by a Supply Drop.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Most Durable Pants in Speranza",
+        "description": "Slide 80 meters without stopping.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-15T20:00:31Z"
+      },
+      {
+        "id": 26,
+        "name": "See You Never",
+        "description": "Return safely to Speranza while leaving a squadmate behind.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Today You, Tomorrow Me",
+        "description": "Revive an encountered Raider with a Defibrillator.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-17T16:41:15Z"
+      },
+      {
+        "id": 28,
+        "name": "Top of the World",
+        "description": "Reach the top of the Launch Towers in Spaceport.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-01T21:34:37Z"
+      },
+      {
+        "id": 29,
+        "name": "For Science!",
+        "description": "Get gas, stun, and burn statuses at the same time.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Shots Fired",
+        "description": "Deal 1000 damage to ARC enemies.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-30T20:44:37Z"
+      },
+      {
+        "id": 31,
+        "name": "Racking Them Up",
+        "description": "Destroy 50 ARC enemies.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-11T17:58:36Z"
+      },
+      {
+        "id": 32,
+        "name": "Trail of Destruction",
+        "description": "Destroy 100 ARC enemies.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-17T16:24:12Z"
+      },
+      {
+        "id": 33,
+        "name": "Death From Above",
+        "description": "Deal 50 damage to any enemy while atop a Rocketeer.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Three Birds, One Stone",
+        "description": "Destroy 3 ARC enemies with a single Wolfpack grenade.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Bringing Down the Big Guns",
+        "description": "Destroy a Rocketeer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-30T21:57:23Z"
+      },
+      {
+        "id": 36,
+        "name": "Into the Breach",
+        "description": "Destroy a Bastion.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-30T21:31:46Z"
+      },
+      {
+        "id": 37,
+        "name": "A Tale for the Ages",
+        "description": "Destroy the Queen.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Blindsided",
+        "description": "Destroy a Sentinel with a Raider Tool.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-30T23:17:04Z"
+      },
+      {
+        "id": 39,
+        "name": "Snitches get Stitches",
+        "description": "Destroy a Snitch with a Stitcher.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Comparative Study",
+        "description": "Use 4 different weapons to deal damage in the Practice Range.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-30T19:50:17Z"
+      },
+      {
+        "id": 41,
+        "name": "Hook, Line, and Sinker",
+        "description": "Use a Lure Grenade to make a drone attack another drone.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Mechanical Failure",
+        "description": "Shoot a thruster off a Wasp.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-06T10:26:11Z"
+      },
+      {
+        "id": 43,
+        "name": "Unyielding",
+        "description": "Knock out 10 Raiders.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-02-22T15:03:57Z"
+      },
+      {
+        "id": 44,
+        "name": "A Vendetta Is Born",
+        "description": "Get downed and knocked out while inside a return point.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-17T22:17:23Z"
+      },
+      {
+        "id": 45,
+        "name": "Horseshoes and Hand Grenades",
+        "description": "Down an encountered Raider with a grenade.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "Crossed the Threshold",
+        "description": "Knock out a Raider.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-07T17:03:02Z"
+      },
+      {
+        "id": 47,
+        "name": "Up Close and Personal",
+        "description": "Knock out a Raider with a Raider Tool.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "The Friends We Made Along The Way",
+        "description": "Return to Speranza together with an encountered Raider.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-06T10:34:08Z"
+      },
+      {
+        "id": 49,
+        "name": "Enemy of My Enemy",
+        "description": "Get an encountered Raider downed by ARC enemies summoned with a Snitch Scanner.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 50,
+        "name": "Heart of Gold",
+        "description": "Be thanked 10 times in direct response to something you did.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-30T21:15:45Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:12:45.395Z"
+}
