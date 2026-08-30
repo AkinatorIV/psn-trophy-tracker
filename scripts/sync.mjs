@@ -36,6 +36,15 @@ async function readJson(filePath) {
   }
 }
 
+async function exists(filePath) {
+  try {
+    await fs.access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
 function withoutUpdatedAt(value) {
   if (!value) return value;
   const { updatedAt, ...rest } = value;
@@ -206,6 +215,7 @@ async function syncGameDetails(title, legacyData = null) {
 
   const earnedCount = trophies.filter((trophy) => trophy.earned).length;
   const filePath = gameFilePath(title.npCommunicationId);
+  const targetExists = await exists(filePath);
 
   let previous = await readJson(filePath);
   if (
@@ -232,6 +242,7 @@ async function syncGameDetails(title, legacyData = null) {
     ? withoutUpdatedAt(previous)
     : null;
   const changed =
+    !targetExists ||
     JSON.stringify(comparablePrevious) !== JSON.stringify(value);
 
   if (!changed) {
@@ -291,8 +302,6 @@ const previousById = new Map(
 const detailsToSync = new Map();
 
 if (!previousIndex) {
-  // Premier passage : on indexe tout, mais on ne martèle pas l'API PSN.
-  // On initialise le détail des jeux les plus récemment mis à jour.
   for (const title of titles.slice(0, INITIAL_DETAIL_GAMES)) {
     detailsToSync.set(title.npCommunicationId, title);
   }
@@ -310,7 +319,6 @@ if (!previousIndex) {
   }
 }
 
-// Préserve immédiatement le suivi détaillé déjà existant de Vampire Survivors.
 if (legacyData?.game?.npCommunicationId) {
   const legacyTitle = titles.find(
     (title) =>
