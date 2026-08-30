@@ -1,0 +1,572 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Assassin's Creed® Mirage",
+    "platform": "PS5",
+    "progress": 84,
+    "npCommunicationId": "NPWR29894_00",
+    "earnedCount": 51,
+    "totalCount": 62,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Master of His Fate",
+        "description": "Earn Every Trophy",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-18T17:14:05Z"
+      },
+      {
+        "id": 1,
+        "name": "The Master Thief of Anbar",
+        "description": "Complete the Prologue",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-02T15:21:59Z"
+      },
+      {
+        "id": 2,
+        "name": "La shay'a waqi'un mutlaq",
+        "description": "Become an Initiate of the Hidden Ones",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-02T16:00:27Z"
+      },
+      {
+        "id": 3,
+        "name": "The Blood of a Ghoul",
+        "description": "Eliminate Al-Ghul",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-08T21:21:25Z"
+      },
+      {
+        "id": 4,
+        "name": "The Blood of a Demon",
+        "description": "Eliminate Al-Rabisu",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-14T16:23:45Z"
+      },
+      {
+        "id": 5,
+        "name": "The Blood of an Enchantress",
+        "description": "Eliminate Al-Pairika",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-26T16:42:16Z"
+      },
+      {
+        "id": 6,
+        "name": "The Blood of a Spymaster",
+        "description": "Eliminate Al-Mardikhwar",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-23T17:43:03Z"
+      },
+      {
+        "id": 7,
+        "name": "The Head of the Snake",
+        "description": "Eliminate the Head of the Order",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T16:07:54Z"
+      },
+      {
+        "id": 8,
+        "name": "Bal kullun mumkin",
+        "description": "Discover Basim's past",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T16:54:56Z"
+      },
+      {
+        "id": 9,
+        "name": "Serving the Light",
+        "description": "Reach the maximum Hidden One Rank",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T15:42:30Z"
+      },
+      {
+        "id": 10,
+        "name": "Self-Improvement",
+        "description": "Unlock 23 Skills",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-28T15:06:19Z"
+      },
+      {
+        "id": 11,
+        "name": "Cutting Edge",
+        "description": "Fully upgrade a weapon",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T16:18:41Z"
+      },
+      {
+        "id": 12,
+        "name": "Thick Skin",
+        "description": "Fully upgrade an outfit",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T16:19:25Z"
+      },
+      {
+        "id": 13,
+        "name": "Fashion Statement",
+        "description": "Apply dye to an outfit",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-23T16:59:28Z"
+      },
+      {
+        "id": 14,
+        "name": "Masquerader",
+        "description": "Obtain the two disguises in Baghdad",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-26T19:26:39Z"
+      },
+      {
+        "id": 15,
+        "name": "Treasure Seeker",
+        "description": "Open a token chest",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-13T19:35:00Z"
+      },
+      {
+        "id": 16,
+        "name": "Potion Collector",
+        "description": "Obtain a total of 10 elixirs",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-08T21:22:47Z"
+      },
+      {
+        "id": 17,
+        "name": "Fearless",
+        "description": "Synchronize all Viewpoints in the Baghdad region",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T17:07:13Z"
+      },
+      {
+        "id": 18,
+        "name": "Bird of Prey",
+        "description": "Tag 100 guards using Enkidu",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-23T17:28:12Z"
+      },
+      {
+        "id": 19,
+        "name": "Explorer",
+        "description": "Explore all the Baghdad region territories",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-28T11:50:37Z"
+      },
+      {
+        "id": 20,
+        "name": "Defender of the People",
+        "description": "Complete 10 faction contracts",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-24T19:44:38Z"
+      },
+      {
+        "id": 21,
+        "name": "Crossing Paths",
+        "description": "Complete a Tale from Baghdad",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-04T18:41:08Z"
+      },
+      {
+        "id": 22,
+        "name": "Scholar",
+        "description": "Bring all 7 lost books to Al-Jahiz",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-28T12:01:29Z"
+      },
+      {
+        "id": 23,
+        "name": "Riddle Me This",
+        "description": "Obtain a treasure by solving an enigma",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-18T17:14:05Z"
+      },
+      {
+        "id": 24,
+        "name": "Tools of the Trade",
+        "description": "Fully upgrade all tools",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-18T17:10:27Z"
+      },
+      {
+        "id": 25,
+        "name": "Eagle's Eye",
+        "description": "Kill 75 guards with throwing knives",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-24T19:03:46Z"
+      },
+      {
+        "id": 26,
+        "name": "Headhunter",
+        "description": "Headshot 20 guards with throwing knives",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-08T21:12:24Z"
+      },
+      {
+        "id": 27,
+        "name": "Sleep Tight",
+        "description": "Put 10 guards to sleep with blowdarts",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-14T16:39:02Z"
+      },
+      {
+        "id": 28,
+        "name": "Ambush",
+        "description": "Have 10 guards trigger traps",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-23T17:07:37Z"
+      },
+      {
+        "id": 29,
+        "name": "Up in Smoke",
+        "description": "Affect 20 guards with smoke bombs",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-23T17:07:09Z"
+      },
+      {
+        "id": 30,
+        "name": "Attention Seeker",
+        "description": "Distract 10 guards with noisemakers",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-24T19:06:19Z"
+      },
+      {
+        "id": 31,
+        "name": "The Hands of a Thief",
+        "description": "Pickpocket 50 people",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-24T19:46:30Z"
+      },
+      {
+        "id": 32,
+        "name": "You Snooze, You Lose",
+        "description": "Pickpocket a guard affected by a blowdart",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-13T19:33:24Z"
+      },
+      {
+        "id": 33,
+        "name": "Curio Collector",
+        "description": "Pickpocket all 18 artifacts and bring them to Dervis",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-26T17:31:18Z"
+      },
+      {
+        "id": 34,
+        "name": "Hoarder",
+        "description": "Save up 2007 dirhams",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T17:13:16Z"
+      },
+      {
+        "id": 35,
+        "name": "Dawn and Dusk",
+        "description": "Use benches to pass time 5 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-24T19:37:00Z"
+      },
+      {
+        "id": 36,
+        "name": "Patron of the Arts",
+        "description": "Pay musicians 5 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-28T12:15:00Z"
+      },
+      {
+        "id": 37,
+        "name": "Patron of Sell-Swords",
+        "description": "Pay mercenaries 5 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-26T19:14:42Z"
+      },
+      {
+        "id": 38,
+        "name": "Patron of Industry",
+        "description": "Pay merchant groups 5 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T17:50:30Z"
+      },
+      {
+        "id": 39,
+        "name": "Blade in the Crowd",
+        "description": "Assassinate 10 guards while blending with the crowd",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-18T17:07:23Z"
+      },
+      {
+        "id": 40,
+        "name": "Surprise!",
+        "description": "Assassinate 10 guards from hiding spots",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-10T16:55:15Z"
+      },
+      {
+        "id": 41,
+        "name": "The Shadow and the Flame",
+        "description": "Defeat a Shakiriyya in combat",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-08T21:29:08Z"
+      },
+      {
+        "id": 42,
+        "name": "Silencer",
+        "description": "Destroy a Horn Bearer's horn with a throwing knife",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-08T22:25:15Z"
+      },
+      {
+        "id": 43,
+        "name": "Notorious",
+        "description": "Stay at maximum notoriety for 10 minutes",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-24T19:09:48Z"
+      },
+      {
+        "id": 44,
+        "name": "Poster Boy",
+        "description": "At maximum notoriety, become anonymous by tearing down wanted posters",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-02T18:32:38Z"
+      },
+      {
+        "id": 45,
+        "name": "Spread the News",
+        "description": "Use the services of a Munadi 3 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T16:10:02Z"
+      },
+      {
+        "id": 46,
+        "name": "Unstoppable",
+        "description": "Kill 5 guards with one use of Assassin's Focus",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T15:46:22Z"
+      },
+      {
+        "id": 47,
+        "name": "Eagle's Will",
+        "description": "Survive 10 minutes in open conflict",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-26T19:07:01Z"
+      },
+      {
+        "id": 48,
+        "name": "Gifted Escapist",
+        "description": "Collapse 20 scaffolding structures",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-18T16:49:10Z"
+      },
+      {
+        "id": 49,
+        "name": "A True Hidden One",
+        "description": "Assassinate 10 guards in a row without triggering open conflict",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-04T18:55:20Z"
+      },
+      {
+        "id": 50,
+        "name": "Street Cleaner",
+        "description": "Hide 5 bodies in bales of hay",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-10T16:59:45Z"
+      },
+      {
+        "id": 51,
+        "name": "Lost and Found",
+        "description": "Return all stolen goods to Hind",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "Once Upon a Time",
+        "description": "Listen to all folktales",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Pro Musician",
+        "description": "Collect all Oud melodies",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "If I Recall Correctly",
+        "description": "Replay an Animus Sequence",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Perfect Memory",
+        "description": "Complete all challenges of an Animus Sequence",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Playback",
+        "description": "Unlock all Animus Sequence rewards",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Taste Your Own Medicine",
+        "description": "Poison a Poisoner",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Like a Local",
+        "description": "Complete all the AlUla territories",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Make a Break",
+        "description": "Escape the AlUla prison",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Turn the Page",
+        "description": "Say goodbye to Is'haq",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 61,
+        "name": "Give it the Slip",
+        "description": "Escape the AlUla prison undetected",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T18:44:11.560Z"
+}

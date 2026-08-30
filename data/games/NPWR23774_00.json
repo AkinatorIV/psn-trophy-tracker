@@ -1,0 +1,464 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Hades",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR23774_00",
+    "earnedCount": 50,
+    "totalCount": 50,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "God of Blood",
+        "description": "Earn all other Trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-14T21:39:20Z"
+      },
+      {
+        "id": 1,
+        "name": "Escaped Tartarus",
+        "description": "Clear Tartarus",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-06-27T20:00:03Z"
+      },
+      {
+        "id": 2,
+        "name": "Escaped Asphodel",
+        "description": "Clear Asphodel",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-16T21:04:49Z"
+      },
+      {
+        "id": 3,
+        "name": "Escaped Elysium",
+        "description": "Clear Elysium",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-18T16:22:17Z"
+      },
+      {
+        "id": 4,
+        "name": "Champion of Elysium",
+        "description": "Clear Elysium with the 'Extreme Measures' Condition",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-09T13:28:20Z"
+      },
+      {
+        "id": 5,
+        "name": "Hold the Onions",
+        "description": "Clear an Infernal Gate without taking damage",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-11T11:41:51Z"
+      },
+      {
+        "id": 6,
+        "name": "Is There No Escape?",
+        "description": "Clear an escape attempt",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-20T15:17:14Z"
+      },
+      {
+        "id": 7,
+        "name": "Weapon of Fate",
+        "description": "Clear an escape attempt with a hidden Weapon Aspect",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-11T10:57:51Z"
+      },
+      {
+        "id": 8,
+        "name": "To Charon's Credit",
+        "description": "Earn a Loyalty Card",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-20T17:08:03Z"
+      },
+      {
+        "id": 9,
+        "name": "The Useless Trinket",
+        "description": "Earn the first of Skelly's prizes",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-10T17:48:19Z"
+      },
+      {
+        "id": 10,
+        "name": "Skelly's Last Lamentations",
+        "description": "Earn the second of Skelly's prizes",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-10T20:48:11Z"
+      },
+      {
+        "id": 11,
+        "name": "Something From Everyone",
+        "description": "Unlock each standard Keepsake",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-05T13:25:03Z"
+      },
+      {
+        "id": 12,
+        "name": "Friends Forever",
+        "description": "Max-rank each standard Keepsake",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-14T19:43:35Z"
+      },
+      {
+        "id": 13,
+        "name": "Rare Collectible",
+        "description": "Equip a Chthonic Companion",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-09T13:15:17Z"
+      },
+      {
+        "id": 14,
+        "name": "Complete Set",
+        "description": "Earn all Chthonic Companions",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-14T21:39:20Z"
+      },
+      {
+        "id": 15,
+        "name": "Blood Bound",
+        "description": "Max any Weapon Aspect",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-28T17:04:15Z"
+      },
+      {
+        "id": 16,
+        "name": "Infernal Arms",
+        "description": "Unlock all Weapon Aspects",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-13T20:16:00Z"
+      },
+      {
+        "id": 17,
+        "name": "Blessed by the Gods",
+        "description": "Choose 100 different Olympian Boon effects",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-25T11:29:30Z"
+      },
+      {
+        "id": 18,
+        "name": "Thanks, But No Thanks",
+        "description": "Purge a Legendary Boon",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-11T12:40:08Z"
+      },
+      {
+        "id": 19,
+        "name": "Tools of the Architect",
+        "description": "Choose 50 different Daedalus Hammer enchantments",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-05T13:08:33Z"
+      },
+      {
+        "id": 20,
+        "name": "Arms Collector",
+        "description": "Unlock each of the Infernal Arms",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-18T19:14:20Z"
+      },
+      {
+        "id": 21,
+        "name": "Grown Close",
+        "description": "Forge a bond with any character",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-21T12:02:16Z"
+      },
+      {
+        "id": 22,
+        "name": "Well Versed",
+        "description": "Fully Unlock the Olympians' Codex entries",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-09T13:25:17Z"
+      },
+      {
+        "id": 23,
+        "name": "Day-or-Night Trader",
+        "description": "Trade 20 times with the Wretched Broker",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-28T11:03:52Z"
+      },
+      {
+        "id": 24,
+        "name": "Home Makeover",
+        "description": "Pay for 50 jobs from the House Contractor",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-04T18:56:10Z"
+      },
+      {
+        "id": 25,
+        "name": "Had to Happen",
+        "description": "Fulfill any 15 Prophecies",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-05T18:31:35Z"
+      },
+      {
+        "id": 26,
+        "name": "River Denizens",
+        "description": "Catch a fish from each region",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-27T16:46:12Z"
+      },
+      {
+        "id": 27,
+        "name": "Urge to Sing",
+        "description": "Compel Orpheus to sing again",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-28T12:39:43Z"
+      },
+      {
+        "id": 28,
+        "name": "Nyx's Mirror",
+        "description": "Have at least one rank in each Mirror of Night Talent",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-05T13:07:14Z"
+      },
+      {
+        "id": 29,
+        "name": "Night and Darkness",
+        "description": "Fulfill the 'Night and Darkness' Prophecy",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-11T17:11:59Z"
+      },
+      {
+        "id": 30,
+        "name": "Chthonic Colleagues",
+        "description": "Fulfill the 'Chthonic Colleagues' Prophecy",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-18T20:22:12Z"
+      },
+      {
+        "id": 31,
+        "name": "War-God's Bloodlust",
+        "description": "Fulfill the 'War-God's Bloodlust' Prophecy",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-05T18:31:34Z"
+      },
+      {
+        "id": 32,
+        "name": "End to Torment",
+        "description": "Fulfill the 'End to Torment' Prophecy",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-09T13:41:34Z"
+      },
+      {
+        "id": 33,
+        "name": "Musician and Muse",
+        "description": "Fulfill the 'Musician and Muse' Prophecy",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-08T19:55:54Z"
+      },
+      {
+        "id": 34,
+        "name": "Divided by Death",
+        "description": "Fulfill the 'Divided by Death' Prophecy",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-13T20:58:16Z"
+      },
+      {
+        "id": 35,
+        "name": "Dark Reflections",
+        "description": "Fulfill the 'Dark Reflections' Prophecy",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-07T19:17:21Z"
+      },
+      {
+        "id": 36,
+        "name": "Harsh Conditions",
+        "description": "Fulfill the 'Harsh Conditions' Prophecy",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-11T17:11:59Z"
+      },
+      {
+        "id": 37,
+        "name": "Master of Arms",
+        "description": "Fulfill the 'Master of Arms' Prophecy",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-28T18:01:26Z"
+      },
+      {
+        "id": 38,
+        "name": "Slashed Benefits",
+        "description": "Fulfill the 'Slashed Benefits' Prophecy",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-11T17:11:58Z"
+      },
+      {
+        "id": 39,
+        "name": "Back to Work",
+        "description": "Earn access to and enter the Administrative Chamber",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-23T18:44:59Z"
+      },
+      {
+        "id": 40,
+        "name": "The Family Secret",
+        "description": "Complete the main quest in the story",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-04T19:41:15Z"
+      },
+      {
+        "id": 41,
+        "name": "One for the Ages",
+        "description": "Reach the epilogue of the story",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-14T19:59:27Z"
+      },
+      {
+        "id": 42,
+        "name": "Well Stocked",
+        "description": "Buy 9 'Well of Charon' items in one escape attempt",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-21T10:26:31Z"
+      },
+      {
+        "id": 43,
+        "name": "Thorn of Thanatos",
+        "description": "Get 30% bonus damage with the Pierced Butterfly",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-10-14T21:16:51Z"
+      },
+      {
+        "id": 44,
+        "name": "Haste of Hermes",
+        "description": "Get 20% dodge chance with the Lambent Plume",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-20T14:21:11Z"
+      },
+      {
+        "id": 45,
+        "name": "Death Dealer",
+        "description": "Beat Thanatos by 15 kills or more",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-21T10:17:35Z"
+      },
+      {
+        "id": 46,
+        "name": "Friends in High Places",
+        "description": "Use Greater Call to invoke an Olympian's aid",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-21T18:23:51Z"
+      },
+      {
+        "id": 47,
+        "name": "Bad Call",
+        "description": "Use an Olympian's Greater Call against them in a Trial",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-28T17:27:14Z"
+      },
+      {
+        "id": 48,
+        "name": "Skelly Slayer",
+        "description": "Slay Skelly 15 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-28T11:59:30Z"
+      },
+      {
+        "id": 49,
+        "name": "Three-Headed Boy",
+        "description": "Pet Cerberus 10 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-21T18:35:32Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T18:44:11.350Z"
+}

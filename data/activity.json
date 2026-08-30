@@ -2,6 +2,90 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-08-30T17:56:56Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 138,
+        "name": "Banish 2",
+        "type": "bronze",
+        "description": "Fill 70 entries in the Collection."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T17:56:40Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 6,
+        "name": "Stone Mask",
+        "type": "bronze",
+        "description": "Find a Stone Mask."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T17:56:40Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 42,
+        "name": "Heaven Sword",
+        "type": "bronze",
+        "description": "Evolve the Cross."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T17:56:40Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 69,
+        "name": "IV - Awake",
+        "type": "bronze",
+        "description": "Reach Level 50 with Krochi."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T17:56:40Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 95,
+        "name": "Skip 4",
+        "type": "bronze",
+        "description": "Survive 15 minutes in Moongolow."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T17:56:40Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 113,
+        "name": "Clover",
+        "type": "bronze",
+        "description": "Find a Little Clover."
+      }
+    },
+    {
       "earnedDateTime": "2026-08-30T14:13:25Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3416,91 +3500,7 @@
         "type": "silver",
         "description": "Complete the Marauder Camp Hunter storyline"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-03T11:39:39Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 42,
-        "name": "There's No Stopping Me",
-        "type": "bronze",
-        "description": "Unlock 30 skills"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-02T22:37:57Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 28,
-        "name": "Lend Me Your Ears",
-        "type": "bronze",
-        "description": "Collect 989 Freaker Ears"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-02T22:31:50Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 20,
-        "name": "Ghost of Farewell",
-        "type": "bronze",
-        "description": "Get 100 stealth kills"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-02T22:16:40Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 26,
-        "name": "The Art of Bike Repair",
-        "type": "bronze",
-        "description": "Apply 100 scrap to your bike"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-02T22:09:50Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 9,
-        "name": "It's Getting Cold Outside",
-        "type": "bronze",
-        "description": "Reconnect with what you lost"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-30T20:49:01Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 34,
-        "name": "Performance Enhanced",
-        "type": "silver",
-        "description": "Max out either your Health, Stamina, or Focus "
-      }
     }
   ],
-  "updatedAt": "2026-08-30T14:18:30.179Z"
+  "updatedAt": "2026-08-30T18:44:11.789Z"
 }

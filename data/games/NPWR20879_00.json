@@ -1,0 +1,410 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Mafia: Definitive Edition",
+    "platform": "PS4",
+    "progress": 100,
+    "npCommunicationId": "NPWR20879_00",
+    "earnedCount": 44,
+    "totalCount": 44,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "The Original Gangster",
+        "description": "Obtained all Mafia: Definitive Edition Trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-17T21:42:34Z"
+      },
+      {
+        "id": 1,
+        "name": "A Chase through the Night",
+        "description": "Completed \"An Offer You Can't Refuse\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T18:58:07Z"
+      },
+      {
+        "id": 2,
+        "name": "The Back Streets of Little Italy",
+        "description": "Completed \"Running Man\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T19:09:40Z"
+      },
+      {
+        "id": 3,
+        "name": "The Way this City Works",
+        "description": "Completed \"Molotov Party\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T19:31:07Z"
+      },
+      {
+        "id": 4,
+        "name": "Gangs of Lost Heaven",
+        "description": "Completed \"Ordinary Routine\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T19:54:24Z"
+      },
+      {
+        "id": 5,
+        "name": "Neighborhood Hero",
+        "description": "Completed \"Fair Play\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-05T19:40:08Z"
+      },
+      {
+        "id": 6,
+        "name": "Good Night for a Walk Anyways",
+        "description": "Completed \"Sarah\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-05T19:54:13Z"
+      },
+      {
+        "id": 7,
+        "name": "Storm Cloud over Chinatown",
+        "description": "Completed \"Better Get Used to It\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-05T20:18:48Z"
+      },
+      {
+        "id": 8,
+        "name": "Murder in the House of God",
+        "description": "Completed \"The Saint and the Sinner\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-05T21:15:07Z"
+      },
+      {
+        "id": 9,
+        "name": "Your Canuck Cousins",
+        "description": "Completed \"A Trip to the Country\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-10T19:31:58Z"
+      },
+      {
+        "id": 10,
+        "name": "Rat in the House",
+        "description": "Completed \"Omerta\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-10T19:59:31Z"
+      },
+      {
+        "id": 11,
+        "name": "Blood on Beech Hill",
+        "description": "Completed \"Visiting Rich People\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-12T19:04:15Z"
+      },
+      {
+        "id": 12,
+        "name": "Best Laid Plans",
+        "description": "Completed \"Great Deal\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-12T19:24:39Z"
+      },
+      {
+        "id": 13,
+        "name": "The Day the War Began",
+        "description": "Completed \"Bon Appétit\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-12T19:41:42Z"
+      },
+      {
+        "id": 14,
+        "name": "Death on the Water",
+        "description": "Completed \"Happy Birthday\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-12T20:30:12Z"
+      },
+      {
+        "id": 15,
+        "name": "When God Stops Smiling",
+        "description": "Completed \"You Lucky ...\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-13T18:42:46Z"
+      },
+      {
+        "id": 16,
+        "name": "The Day the War Ended",
+        "description": "Completed \"Crème de la Crème\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-13T19:13:02Z"
+      },
+      {
+        "id": 17,
+        "name": "A View from the Top",
+        "description": "Completed \"Election Campaign\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-13T19:48:11Z"
+      },
+      {
+        "id": 18,
+        "name": "Into the Lion's Den",
+        "description": "Completed \"Just For Relaxation\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-13T20:29:10Z"
+      },
+      {
+        "id": 19,
+        "name": "That Last Big Score",
+        "description": "Completed \"Moonlighting\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-13T20:43:42Z"
+      },
+      {
+        "id": 20,
+        "name": "Friends and Family",
+        "description": "Completed \"The Death of Art\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-13T21:37:44Z"
+      },
+      {
+        "id": 21,
+        "name": "A Life of Crime",
+        "description": "Completed the game on Easy, Medium, or Hard difficulty",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-13T21:37:44Z"
+      },
+      {
+        "id": 22,
+        "name": "Made Man",
+        "description": "Completed the game on Classic difficulty",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-13T21:37:44Z"
+      },
+      {
+        "id": 23,
+        "name": "Supercharged",
+        "description": "Won the race",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-05T19:29:17Z"
+      },
+      {
+        "id": 24,
+        "name": "Lined Pockets",
+        "description": "Paid a fine to the Lost Heaven Police Department",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-15T18:55:23Z"
+      },
+      {
+        "id": 25,
+        "name": "Not Taken In",
+        "description": "Resisted arrest by the Lost Heaven Police Department",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-15T19:04:00Z"
+      },
+      {
+        "id": 26,
+        "name": "Heat from the Cops",
+        "description": "Lost the cops after accruing a five star police chase",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-16T19:41:46Z"
+      },
+      {
+        "id": 27,
+        "name": "Car Enthusiast",
+        "description": "Lockpicked 5 cars on the streets of Lost Heaven and environs",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-14T12:26:53Z"
+      },
+      {
+        "id": 28,
+        "name": "That Motor can Move",
+        "description": "Reached 50mph while driving the Bolt Ace",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-16T20:18:22Z"
+      },
+      {
+        "id": 29,
+        "name": "Stunt Rider",
+        "description": "Performed a wheelie for 3 seconds",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-16T20:16:17Z"
+      },
+      {
+        "id": 30,
+        "name": "Quite the Collection",
+        "description": "Collected 15 vehicles in the Garage",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-14T12:18:40Z"
+      },
+      {
+        "id": 31,
+        "name": "Motor Museum",
+        "description": "Collected 30 vehicles in the Garage",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-17T21:42:34Z"
+      },
+      {
+        "id": 32,
+        "name": "Pulp Fiction",
+        "description": "Found a Pulp Magazine",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T19:27:15Z"
+      },
+      {
+        "id": 33,
+        "name": "Lending Library",
+        "description": "Found all Pulp Magazines",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-16T19:24:58Z"
+      },
+      {
+        "id": 34,
+        "name": "Comic Violence",
+        "description": "Found a copy of Gangsters Monthly",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-05T20:29:09Z"
+      },
+      {
+        "id": 35,
+        "name": "Picture Book Connoisseur",
+        "description": "Found all copies of Gangsters Monthly",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-16T19:48:12Z"
+      },
+      {
+        "id": 36,
+        "name": "Family History",
+        "description": "Found a 'Gangsters of the United States' cigarette card",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T19:38:02Z"
+      },
+      {
+        "id": 37,
+        "name": "Full Set",
+        "description": "Found all 'Gangsters of the United States' cigarette cards",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-15T20:46:02Z"
+      },
+      {
+        "id": 38,
+        "name": "On the Trail",
+        "description": "Found a hidden car",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-15T19:18:06Z"
+      },
+      {
+        "id": 39,
+        "name": "Car Thief Number One",
+        "description": "Found all of the hidden cars",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-15T20:42:02Z"
+      },
+      {
+        "id": 40,
+        "name": "Mystery Fox Discovered",
+        "description": "Found a Mystery Fox",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-10T19:11:52Z"
+      },
+      {
+        "id": 41,
+        "name": "Mystery Fox Domination",
+        "description": "Found all Mystery Foxes",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-16T19:50:22Z"
+      },
+      {
+        "id": 42,
+        "name": "The Whole Story",
+        "description": "Completed the Collection",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-16T19:48:12Z"
+      },
+      {
+        "id": 43,
+        "name": "Not Classy",
+        "description": "Took Paulie to a Place of Disrepute",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-09-16T20:11:29Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T18:44:11.729Z"
+}
