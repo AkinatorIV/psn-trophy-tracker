@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-08-30T20:42:18Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 24,
+        "name": "Yellow Sign",
+        "type": "gold",
+        "description": "Find the Yellow Sign."
+      }
+    },
+    {
       "earnedDateTime": "2026-08-30T17:56:56Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3486,21 +3500,7 @@
         "type": "silver",
         "description": "Defeat your first Horde"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-03T11:54:52Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 15,
-        "name": "Marauder Camp Hunter",
-        "type": "silver",
-        "description": "Complete the Marauder Camp Hunter storyline"
-      }
     }
   ],
-  "updatedAt": "2026-08-30T18:44:11.789Z"
+  "updatedAt": "2026-08-30T21:35:40.293Z"
 }

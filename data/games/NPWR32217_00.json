@@ -1,0 +1,329 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Hotline Miami",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR32217_00",
+    "earnedCount": 35,
+    "totalCount": 35,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Trophy Addict",
+        "description": "Unlock All Trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T14:46:29Z"
+      },
+      {
+        "id": 1,
+        "name": "Combo Beginner",
+        "description": "Perform a 4x combo",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-25T20:27:04Z"
+      },
+      {
+        "id": 2,
+        "name": "Combo Intermediate",
+        "description": "Perform a 6x combo",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-25T20:41:47Z"
+      },
+      {
+        "id": 3,
+        "name": "Combo Pro",
+        "description": "Perform an 8x combo",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-29T20:20:32Z"
+      },
+      {
+        "id": 4,
+        "name": "Combo Master",
+        "description": "Perform a 10x combo",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-29T20:23:55Z"
+      },
+      {
+        "id": 5,
+        "name": "Combo King",
+        "description": "Perform a 12x combo",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-29T20:23:55Z"
+      },
+      {
+        "id": 6,
+        "name": "Playing Pool",
+        "description": "Hit an enemy with a weapon bounced against a wall",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-26T20:55:59Z"
+      },
+      {
+        "id": 7,
+        "name": "Nigel Lowrie",
+        "description": "Use a human shield",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-25T20:38:50Z"
+      },
+      {
+        "id": 8,
+        "name": "Domino Effect",
+        "description": "Throw a weapon at an enemy so that his weapon hits another",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-25T20:39:50Z"
+      },
+      {
+        "id": 9,
+        "name": "Aced It",
+        "description": "Get an A+ on any chapter",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-26T21:17:48Z"
+      },
+      {
+        "id": 10,
+        "name": "The End?",
+        "description": "Beat the main story",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T10:43:21Z"
+      },
+      {
+        "id": 11,
+        "name": "Karma",
+        "description": "Die 1000 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-29T20:28:18Z"
+      },
+      {
+        "id": 12,
+        "name": "I Got New Friends",
+        "description": "Unlock all weapons",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T13:18:31Z"
+      },
+      {
+        "id": 13,
+        "name": "Knife for Pros",
+        "description": "Use all melee weapons at least once",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T14:17:58Z"
+      },
+      {
+        "id": 14,
+        "name": "Sewer Alligator",
+        "description": "Find Jones the Crocodile",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T12:18:45Z"
+      },
+      {
+        "id": 15,
+        "name": "Eye For Details",
+        "description": "Collect all the puzzle pieces",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T19:07:28Z"
+      },
+      {
+        "id": 16,
+        "name": "The Boss",
+        "description": "Solve the Puzzle",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T19:11:44Z"
+      },
+      {
+        "id": 17,
+        "name": "1989",
+        "description": "Kill 1989 enemies",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-29T19:38:02Z"
+      },
+      {
+        "id": 18,
+        "name": "Let In Some Air",
+        "description": "Destroy 200 glass panels",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-29T20:42:11Z"
+      },
+      {
+        "id": 19,
+        "name": "Dog Lover",
+        "description": "Kill 99 dogs",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T10:33:25Z"
+      },
+      {
+        "id": 20,
+        "name": "60 To Car",
+        "description": "Go to the car 60 times",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T14:46:29Z"
+      },
+      {
+        "id": 21,
+        "name": "These Are My Guns",
+        "description": "Complete chapter five barehanded",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T11:11:19Z"
+      },
+      {
+        "id": 22,
+        "name": "Pitcher",
+        "description": "Use all throwing weapons at least once",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T13:31:43Z"
+      },
+      {
+        "id": 23,
+        "name": "Zoo Keeper",
+        "description": "Collect all the masks",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T12:59:26Z"
+      },
+      {
+        "id": 24,
+        "name": "Guns For Show",
+        "description": "Use all guns at least once",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T13:44:55Z"
+      },
+      {
+        "id": 25,
+        "name": "Two Birds With One Stone",
+        "description": "Hit two enemies with the same weapon in one throw",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T13:23:32Z"
+      },
+      {
+        "id": 26,
+        "name": "Cat Fight",
+        "description": "Kill the panthers using Brandon the Panther",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T19:04:10Z"
+      },
+      {
+        "id": 27,
+        "name": "Smell Something Burning",
+        "description": "Kill the crapping gangster with a fireaxe",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T11:57:33Z"
+      },
+      {
+        "id": 28,
+        "name": "Get A Life",
+        "description": "Get A+ on all the chapters",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T11:52:29Z"
+      },
+      {
+        "id": 29,
+        "name": "Always On Top",
+        "description": "Perform every ground kill in the game.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T14:31:39Z"
+      },
+      {
+        "id": 30,
+        "name": "Sounds Of Animals Fighting",
+        "description": "Wear all masks at least once",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T14:02:35Z"
+      },
+      {
+        "id": 31,
+        "name": "Batman",
+        "description": "Clear Chapter 2 using Nigel the Bat",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T12:02:31Z"
+      },
+      {
+        "id": 32,
+        "name": "Plain Luck",
+        "description": "Hit three or more enemies with the same weapon in one throw",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-31T13:29:28Z"
+      },
+      {
+        "id": 33,
+        "name": "That's It?",
+        "description": "Beat the epilogue",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T11:07:43Z"
+      },
+      {
+        "id": 34,
+        "name": "This Is It",
+        "description": "Beat the epilogue with secret ending",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-30T19:15:29Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T21:35:39.997Z"
+}

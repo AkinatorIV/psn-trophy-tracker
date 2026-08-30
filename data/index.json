@@ -1,14 +1,14 @@
 {
   "psnId": "AkinatorII",
   "totalGames": 51,
-  "detailedGames": 22,
-  "backfillRemaining": 29,
+  "detailedGames": 25,
+  "backfillRemaining": 26,
   "games": [
     {
       "npCommunicationId": "NPWR42963_00",
       "name": "Vampire Survivors",
       "platform": "PS5",
-      "progress": 19,
+      "progress": 21,
       "definedTrophies": {
         "bronze": 207,
         "silver": 61,
@@ -18,10 +18,10 @@
       "earnedTrophies": {
         "bronze": 60,
         "silver": 11,
-        "gold": 0,
+        "gold": 1,
         "platinum": 0
       },
-      "lastUpdatedDateTime": "2026-08-30T17:56:57Z",
+      "lastUpdatedDateTime": "2026-08-30T20:42:19Z",
       "detailsPath": "data/games/NPWR42963_00.json"
     },
     {
@@ -462,7 +462,7 @@
         "platinum": 1
       },
       "lastUpdatedDateTime": "2025-08-31T14:46:30Z",
-      "detailsPath": null
+      "detailsPath": "data/games/NPWR32217_00.json"
     },
     {
       "npCommunicationId": "NPWR25821_00",
@@ -482,7 +482,7 @@
         "platinum": 0
       },
       "lastUpdatedDateTime": "2025-08-25T19:55:32Z",
-      "detailsPath": null
+      "detailsPath": "data/games/NPWR25821_00.json"
     },
     {
       "npCommunicationId": "NPWR10156_00",
@@ -502,7 +502,7 @@
         "platinum": 0
       },
       "lastUpdatedDateTime": "2025-08-24T21:11:08Z",
-      "detailsPath": null
+      "detailsPath": "data/games/NPWR10156_00.json"
     },
     {
       "npCommunicationId": "NPWR21175_00",
@@ -1025,5 +1025,5 @@
       "detailsPath": null
     }
   ],
-  "updatedAt": "2026-08-30T18:44:11.730Z"
+  "updatedAt": "2026-08-30T21:35:40.282Z"
 }

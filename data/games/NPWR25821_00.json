@@ -1,0 +1,122 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Road 96",
+    "platform": "PS5",
+    "progress": 0,
+    "npCommunicationId": "NPWR25821_00",
+    "earnedCount": 0,
+    "totalCount": 12,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Border Master",
+        "description": "Discover Petria's fate",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Cat Person",
+        "description": "Pet the cat in the trailer park",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 2,
+        "name": "A Light in the Darkness",
+        "description": "Blow the fire",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Collect 'em all",
+        "description": "Collect all tapes",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Campaign Funder",
+        "description": "Call & Donate to the Florres or Tyrak Campaign Funding",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Homesick",
+        "description": "Call Home",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Almost There?",
+        "description": "Reach Road 96 for the first time",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Stone After Stone",
+        "description": "Add at least 3 rocks on Road 96's cairn",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Road Pals",
+        "description": "Meet Zoe for the first time",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Help a Friend",
+        "description": "Help Zoe to escape from the cops",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Old Pro",
+        "description": "Reach Road 96 for the sixth time",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Hard Choice",
+        "description": "Make a hard choice in crossing the border",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T21:35:40.142Z"
+}

@@ -1,0 +1,410 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Prison Architect: PlayStation®4 Edition",
+    "platform": "PS4",
+    "progress": 20,
+    "npCommunicationId": "NPWR10156_00",
+    "earnedCount": 7,
+    "totalCount": 44,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "The Chief",
+        "description": "You've served your time and unlocked every original Trophy in Prison Architect…you're free to go",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "2,000 volts",
+        "description": "Complete all optional objectives on 'Death Row'",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-21T15:43:21Z"
+      },
+      {
+        "id": 2,
+        "name": "Cosa Nostra",
+        "description": "Complete all optional objectives on 'Palermo'",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-21T17:16:11Z"
+      },
+      {
+        "id": 3,
+        "name": "Crowd Control",
+        "description": "Complete all optional objectives on 'G.A.B.O.S'",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-23T14:41:10Z"
+      },
+      {
+        "id": 4,
+        "name": "Reformation",
+        "description": "Complete all optional objectives on 'Conviction'",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-23T16:10:40Z"
+      },
+      {
+        "id": 5,
+        "name": "Freedom",
+        "description": "Complete all optional objectives on 'Bootstraps'",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-24T12:31:56Z"
+      },
+      {
+        "id": 6,
+        "name": "Throw The Book At Them",
+        "description": "Complete all of the Prison Stories\n",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-24T12:31:57Z"
+      },
+      {
+        "id": 7,
+        "name": "It's Not What You Know…",
+        "description": "Unlock all of the original Snapshots\n\n",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Visitation",
+        "description": "Run a prison in Prison Warden mode for 10 in-game days\n",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Inspectorate Of Prisons",
+        "description": "Run the original 10 Prison Warden prisons for at least 10 in-game days each",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "HM Prison Services",
+        "description": "Download a prison from the World of Wardens\n",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Spare The Rod",
+        "description": "Stopped a riot of 50 or more prisoners in Prison Architect or Prison Warden mode",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Don't Put Me In The Dark",
+        "description": "Execute a prisoner on death row in Prison Architect mode",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Stone Walls",
+        "description": "Build a prison with 100 prisoners in Prison Architect mode",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Iron Bars",
+        "description": "Build a prison with 250 prisoners in Prison Architect mode",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Confined",
+        "description": "Build a prison with 500 prisoners in Prison Architect mode\n",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "D.B. Cooper",
+        "description": "Sell a prison and make over $1,000,000 profit in Prison Architect mode on a standard difficulty\n",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Samuel Norton",
+        "description": "Have a cash flow of $50,000 or more in Prison Architect mode on a standard difficulty",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Wait and Hope",
+        "description": "Unlock all Bureaucracy items in Prison Architect mode on a standard difficulty",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Get Busy Living",
+        "description": "Achieve a reoffending rate of 25% or lower in Prison Architect mode on a standard difficulty\n",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Prison Economics",
+        "description": "Complete every Grant available to one prison in Prison Architect mode on a standard difficulty",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "The Justice System",
+        "description": "No deaths, escapes or riots for 10 in-game days in Prison Architect mode on a standard difficulty\n",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Rehabilitation and Reformation",
+        "description": "Get 100+ prisoner's Drug & Alcohol needs below 25% in Prison Architect mode on a standard difficulty\n",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Failure To Communicate",
+        "description": "Remove a gang from a held territory in Prison Architect or Prison Warden mode",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Prison Hotel",
+        "description": "Exceed 50 prisoner's cell entitlement at once in Prison Architect mode on a standard difficulty",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Minimum Security Prison",
+        "description": "100+ prisoners have less than 10% 'Critical' needs in Prison Architect mode on a standard difficulty",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Working Prison",
+        "description": "Export 100 license plates from a single prison in Prison Architect mode on a standard difficulty",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Oh My God, They Found Tom",
+        "description": "Discover and repair an escape tunnel\n",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Prison Industrial Complex",
+        "description": "Purchase your first plot of additional land",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "I Read A Book Once... Green It Was",
+        "description": "Have 10 prisoners pass General Education in Prison Architect mode on a standard difficulty",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Double Eleven",
+        "description": "Play the game at 11:11 (am or pm)",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-24T21:11:05Z"
+      },
+      {
+        "id": 31,
+        "name": "I Am The Ill Intent",
+        "description": "Achieve the \"Take Over\" ending.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "I Am Tired Of Earth",
+        "description": "Have at least one point in every Skill in a single escape attempt.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "I Always Wanted To Be A Gangster",
+        "description": "Bribe 50 guards across multiple escape attempts.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "I Like Dirt",
+        "description": "Personally dig 200 metres across multiple escape attempts.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "I Want YOU!",
+        "description": "Recruit 60 crew members across multiple escape attempts.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "I Kinda Feel Like God",
+        "description": "Sabotage 50 pieces of prison equipment across multiple escape attempts.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "I'm A Firestarter, Twisted Firestarter",
+        "description": "Burn down $10,000 worth of prison property across multiple escape attempts.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "I Know Because I Must Know",
+        "description": "Pick 50 locks across multiple escape attempts.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "I Am The One Who Knocks",
+        "description": "Earn $10,000 across multiple escape attempts.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "I Am A Nice Shark",
+        "description": "Swim 100 metres across multiple escape attempts.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "I Am Become Death",
+        "description": "Spend 3 minutes in Rage Mode across multiple escape attempts.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "I Want What's Coming To Me",
+        "description": "Complete 50 missions for 'The Boss'.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "I Have This Condition",
+        "description": "Collect all of the \"Escape Mode\" Snapshots.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T21:35:40.280Z"
+}
