@@ -96,7 +96,6 @@ const earnedCount = trophies.filter((t) => t.earned).length;
 
 const output = {
   psnId: "AkinatorII",
-  updatedAt: new Date().toISOString(),
 
   game: {
     name: game.trophyTitleName,
@@ -115,13 +114,69 @@ await fs.mkdir("data", {
   recursive: true,
 });
 
+const filePath = "data/trophies.json";
+
+let previous = null;
+
+try {
+  previous = JSON.parse(
+    await fs.readFile(filePath, "utf8")
+  );
+} catch {
+  // Premier lancement : pas encore de fichier
+}
+
+// On compare seulement les données PSN,
+// pas la date de mise à jour
+const previousComparable = previous
+  ? {
+      psnId: previous.psnId,
+      game: previous.game,
+    }
+  : null;
+
+const hasChanged =
+  JSON.stringify(previousComparable) !==
+  JSON.stringify(output);
+
+if (!hasChanged) {
+  console.log(
+    `✅ Aucun changement — ${earnedCount}/${trophies.length} trophées`
+  );
+
+  process.exit(0);
+}
+
+const finalOutput = {
+  ...output,
+  updatedAt: new Date().toISOString(),
+};
+
 await fs.writeFile(
-  "data/trophies.json",
-  JSON.stringify(output, null, 2)
+  filePath,
+  JSON.stringify(finalOutput, null, 2)
+);
+
+const previousEarnedIds = new Set(
+  previous?.game?.trophies
+    ?.filter((t) => t.earned)
+    .map((t) => t.id) ?? []
+);
+
+const newTrophies = trophies.filter(
+  (t) => t.earned && !previousEarnedIds.has(t.id)
 );
 
 console.log(
-  `✅ ${earnedCount}/${trophies.length} trophées obtenus`
+  `🏆 ${earnedCount}/${trophies.length} trophées obtenus`
 );
 
-console.log("📄 data/trophies.json généré");
+if (newTrophies.length > 0) {
+  console.log("🆕 Nouveaux trophées :");
+
+  for (const trophy of newTrophies) {
+    console.log(`- ${trophy.name}`);
+  }
+}
+
+console.log("📄 data/trophies.json mis à jour");
