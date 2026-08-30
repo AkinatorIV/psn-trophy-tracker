@@ -1,0 +1,572 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Ghost of Yōtei",
+    "platform": "PS5",
+    "progress": 82,
+    "npCommunicationId": "NPWR51746_00",
+    "earnedCount": 55,
+    "totalCount": 62,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Legendary Onryō",
+        "description": "Obtain all trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-24T12:20:10Z"
+      },
+      {
+        "id": 1,
+        "name": "The Snake",
+        "description": "Cross the first name off your sash.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-02T17:18:46Z"
+      },
+      {
+        "id": 2,
+        "name": "The Oni",
+        "description": "Extinguish the fire of a cruel warlord.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-09T18:14:25Z"
+      },
+      {
+        "id": 3,
+        "name": "The Kitsune",
+        "description": "Send Saito’s spymaster back to the shadows.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-21T16:38:34Z"
+      },
+      {
+        "id": 4,
+        "name": "The Dragon",
+        "description": "Cut down the favored firstborn.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T23:34:33Z"
+      },
+      {
+        "id": 5,
+        "name": "The Spider",
+        "description": "Defeat the son of a tyrant.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-24T00:05:00Z"
+      },
+      {
+        "id": 6,
+        "name": "The Onryō Rests",
+        "description": "Find a future beyond the hunt.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-24T12:15:27Z"
+      },
+      {
+        "id": 7,
+        "name": "The Woman Behind the Mask",
+        "description": "Show mercy to the innkeeper’s daughter.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-21T11:01:51Z"
+      },
+      {
+        "id": 8,
+        "name": "Twin Wolves",
+        "description": "Reunite with a ghost from the past.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-04T20:41:26Z"
+      },
+      {
+        "id": 9,
+        "name": "Wrath of the Onryō",
+        "description": "Relive the Night of the Burning Tree.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T16:06:57Z"
+      },
+      {
+        "id": 10,
+        "name": "Way of the Yari",
+        "description": "Help Sensei Takahashi defend his dojo.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-07T17:48:11Z"
+      },
+      {
+        "id": 11,
+        "name": "Way of the Kusarigama",
+        "description": "Help Master Enomoto confront his grandson.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-13T22:01:49Z"
+      },
+      {
+        "id": 12,
+        "name": "Way of the Odachi",
+        "description": "Help defend Master Yoshida’s dojo in the final battle.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-12T21:20:04Z"
+      },
+      {
+        "id": 13,
+        "name": "From One Ghost to Another",
+        "description": "Acquire the blade of a legendary hero.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T15:19:23Z"
+      },
+      {
+        "id": 14,
+        "name": "Sitturaynu",
+        "description": "Share a meal with huci.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-13T16:05:18Z"
+      },
+      {
+        "id": 15,
+        "name": "A Moment to Breathe",
+        "description": "Get a perfect score in ku-e-shinok.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-04T16:03:16Z"
+      },
+      {
+        "id": 16,
+        "name": "Unrivaled",
+        "description": "Defeat Takezo the Unrivaled on the peak of Mount Yōtei.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-13T09:33:56Z"
+      },
+      {
+        "id": 17,
+        "name": "Kunai Defender",
+        "description": "Help Hana protect her farms.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-13T21:40:55Z"
+      },
+      {
+        "id": 18,
+        "name": "Gift for Destruction",
+        "description": "Help Ina fend off the Oni Raiders.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-06T16:48:06Z"
+      },
+      {
+        "id": 19,
+        "name": "Naming a Friend",
+        "description": "Pick a name for your horse.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-02T21:33:41Z"
+      },
+      {
+        "id": 20,
+        "name": "From the Hip",
+        "description": "Perform a Pistol Parry during a Standoff.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-22T16:19:43Z"
+      },
+      {
+        "id": 21,
+        "name": "The Owl’s Talon",
+        "description": "Use a Kusarigama Assassination to kill an enemy from a distance.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-13T21:55:31Z"
+      },
+      {
+        "id": 22,
+        "name": "Sayonara",
+        "description": "Shoulder Charge or Typhoon Kick an enemy off a cliff to their death.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-24T12:20:10Z"
+      },
+      {
+        "id": 23,
+        "name": "You Dropped This",
+        "description": "Disarm and kill an enemy with their own weapon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-03T14:48:37Z"
+      },
+      {
+        "id": 24,
+        "name": "The Horror",
+        "description": "Make 20 enemies collapse in fear using Onryō’s Howl.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-06T21:14:31Z"
+      },
+      {
+        "id": 25,
+        "name": "Wolf Bait",
+        "description": "Use an empty Sake jar to trigger a Wolf kill.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-06T22:36:15Z"
+      },
+      {
+        "id": 26,
+        "name": "Two as One",
+        "description": "Complete a successful Standoff or Assassination with a companion.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-03T15:23:28Z"
+      },
+      {
+        "id": 27,
+        "name": "Brush Fire",
+        "description": "Kill an enemy by catching grass on fire.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-06T16:37:23Z"
+      },
+      {
+        "id": 28,
+        "name": "Sake Flight",
+        "description": "Collect 10 full jars of Sake.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-04T20:26:03Z"
+      },
+      {
+        "id": 29,
+        "name": "Very Persuasive",
+        "description": "Interrogate 10 enemies.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-07T17:38:08Z"
+      },
+      {
+        "id": 30,
+        "name": "Charming",
+        "description": "Upgrade 10 charms at least once.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-09T20:21:11Z"
+      },
+      {
+        "id": 31,
+        "name": "Like Father, Like Daughter",
+        "description": "Fully upgrade the Wolf Blade.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-22T15:50:53Z"
+      },
+      {
+        "id": 32,
+        "name": "Purely Decorative",
+        "description": "Acquire 30 pieces of Vanity Gear.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-06T16:40:54Z"
+      },
+      {
+        "id": 33,
+        "name": "For All Occasions",
+        "description": "Acquire all Armor.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T20:51:42Z"
+      },
+      {
+        "id": 34,
+        "name": "Tools of a Warrior",
+        "description": "Acquire all Melee weapons.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-13T21:23:22Z"
+      },
+      {
+        "id": 35,
+        "name": "Take Aim",
+        "description": "Acquire all Ranged weapons.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-21T21:52:07Z"
+      },
+      {
+        "id": 36,
+        "name": "Quick Draw",
+        "description": "Acquire all Quickfire weapons.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-21T22:21:56Z"
+      },
+      {
+        "id": 37,
+        "name": "Inheritance",
+        "description": "Acquire your parents’ charms from the peak of Mount Yōtei.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-04T15:05:41Z"
+      },
+      {
+        "id": 38,
+        "name": "Gifts for a Ghost",
+        "description": "Collect 8 offerings left for the onryō.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-24T00:07:51Z"
+      },
+      {
+        "id": 39,
+        "name": "Trickster Fox",
+        "description": "Solve all the Nine Tails’ puzzle boxes.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-21T20:40:29Z"
+      },
+      {
+        "id": 40,
+        "name": "An Artist’s Eye",
+        "description": "Complete all sumi-e paintings.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T17:13:42Z"
+      },
+      {
+        "id": 41,
+        "name": "Memento",
+        "description": "Personalize a scene in Photo Mode.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-02T20:33:24Z"
+      },
+      {
+        "id": 42,
+        "name": "Guardian of Inari",
+        "description": "Receive the Fox Mask after completing all Fox Dens.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T21:19:51Z"
+      },
+      {
+        "id": 43,
+        "name": "Like Mother, Like Daughter",
+        "description": "Learn all shamisen songs.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T21:40:47Z"
+      },
+      {
+        "id": 44,
+        "name": "Wolves of Ezo",
+        "description": "Complete all the Wolf Dens.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T14:20:52Z"
+      },
+      {
+        "id": 45,
+        "name": "Body, Mind, and Spirit",
+        "description": "Complete all Bamboo Strikes, Shrine Climbs, and Hot Springs.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T21:11:19Z"
+      },
+      {
+        "id": 46,
+        "name": "Spear Fishing",
+        "description": "Spear 5 fish with the yari.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-07T17:00:39Z"
+      },
+      {
+        "id": 47,
+        "name": "Master Bounty Hunter",
+        "description": "Complete all Bounties.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T22:57:31Z"
+      },
+      {
+        "id": 48,
+        "name": "Moments of Reflection",
+        "description": "Find 30 Altars of Reflection.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-12T20:54:19Z"
+      },
+      {
+        "id": 49,
+        "name": "Child of the Mountain",
+        "description": "Solve all Mountain Reliquary puzzles.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T16:19:41Z"
+      },
+      {
+        "id": 50,
+        "name": "Good with Coins",
+        "description": "Win a charm from playing zeni hajiki.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-04T15:54:49Z"
+      },
+      {
+        "id": 51,
+        "name": "Fireside Performance",
+        "description": "Play a shamisen song while camping.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-02T21:49:05Z"
+      },
+      {
+        "id": 52,
+        "name": "Speaking with the Land",
+        "description": "Bow or play your shamisen at 10 special places throughout Ezo.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T21:37:53Z"
+      },
+      {
+        "id": 53,
+        "name": "For the Living",
+        "description": "Rid Ezo of all Yōtei Six Camps.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-23T14:49:05Z"
+      },
+      {
+        "id": 54,
+        "name": "Rare and Exceptional",
+        "description": "Purchase Armor, a Charm, or Vanity Gear from Masujiro the Melodious in New Game+.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-12-24T12:33:20Z"
+      },
+      {
+        "id": 55,
+        "name": "Mo Ichido",
+        "description": "Complete Atsu’s Hunt in New Game+.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Tale of Revenge",
+        "description": "Complete all Story missions.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Student No More",
+        "description": "Reach rank 25 with one class.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Vengeance Fulfilled",
+        "description": "Complete all four Incursions.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Ghosts Unyielding",
+        "description": "Complete a Survival mission on Gold difficulty or higher.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "No More Lessons",
+        "description": "Reach rank 25 with all classes.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 61,
+        "name": "Kaibyaku",
+        "description": "Complete the Raid missions.",
+        "type": "gold",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T14:18:30.038Z"
+}

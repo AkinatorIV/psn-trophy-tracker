@@ -3,9 +3,9 @@
   "game": {
     "name": "Vampire Survivors",
     "platform": "PS5",
-    "progress": 14,
+    "progress": 18,
     "npCommunicationId": "NPWR42963_00",
-    "earnedCount": 52,
+    "earnedCount": 65,
     "totalCount": 284,
     "trophies": [
       {
@@ -131,8 +131,8 @@
         "description": "Defeat the Giant Enemy Crab in Gallo Tower.",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T13:19:08Z"
       },
       {
         "id": 14,
@@ -140,8 +140,8 @@
         "description": "Find the Sorceress' Tears.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T14:13:25Z"
       },
       {
         "id": 15,
@@ -257,8 +257,8 @@
         "description": "Reach Level 80 in the Gallo Tower.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T14:13:25Z"
       },
       {
         "id": 28,
@@ -491,8 +491,8 @@
         "description": "Evolve the Whip.",
         "type": "bronze",
         "group": "001",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T13:19:09Z"
       },
       {
         "id": 54,
@@ -518,8 +518,8 @@
         "description": "Evolve the Pentagram.",
         "type": "silver",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T14:13:25Z"
       },
       {
         "id": 57,
@@ -671,8 +671,8 @@
         "description": "Reach Level 50 with Pugnala.",
         "type": "bronze",
         "group": "003",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T13:19:08Z"
       },
       {
         "id": 74,
@@ -788,8 +788,8 @@
         "description": "Unlock Hyper mode for 4 normal stages.",
         "type": "silver",
         "group": "005",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T13:19:36Z"
       },
       {
         "id": 87,
@@ -887,8 +887,8 @@
         "description": "Survive 10 minutes with Pugnala.",
         "type": "bronze",
         "group": "007",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T13:19:08Z"
       },
       {
         "id": 98,
@@ -905,8 +905,8 @@
         "description": "Survive 15 minutes with Pugnala.",
         "type": "bronze",
         "group": "007",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T13:19:08Z"
       },
       {
         "id": 100,
@@ -995,8 +995,8 @@
         "description": "Defeat a total of 100000 enemies.",
         "type": "silver",
         "group": "008",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T13:19:08Z"
       },
       {
         "id": 110,
@@ -1013,8 +1013,8 @@
         "description": "Earn 5000 coins in a single run.",
         "type": "bronze",
         "group": "008",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T13:19:09Z"
       },
       {
         "id": 112,
@@ -1157,8 +1157,8 @@
         "description": "Get Pentagram to Level 7.",
         "type": "bronze",
         "group": "009",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T14:13:25Z"
       },
       {
         "id": 128,
@@ -1247,8 +1247,8 @@
         "description": "Fill 60 entries in the Collection.",
         "type": "bronze",
         "group": "010",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-08-30T13:19:09Z"
       },
       {
         "id": 138,
@@ -2566,5 +2566,5 @@
       }
     ]
   },
-  "updatedAt": "2026-08-30T12:07:27.387Z"
+  "updatedAt": "2026-08-30T14:18:29.526Z"
 }

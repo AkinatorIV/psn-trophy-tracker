@@ -1,0 +1,302 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Balatro",
+    "platform": "PS5",
+    "progress": 4,
+    "npCommunicationId": "NPWR42066_00",
+    "earnedCount": 3,
+    "totalCount": 32,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Platinum",
+        "description": "Balatro platinum trophy",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Ante Up!",
+        "description": "Reach Ante 4",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-31T16:47:43Z"
+      },
+      {
+        "id": 2,
+        "name": "Ante Upper!",
+        "description": "Reach Ante 8",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Heads Up",
+        "description": "Win a Run",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Low Stakes",
+        "description": "Win a run on at least Red Stake difficulty",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Mid Stakes",
+        "description": "Win a run on at least Black Stake difficulty",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "High Stakes",
+        "description": "Win a run on at least Gold Stake difficulty",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Card Player",
+        "description": "Play at least 2500 Cards",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Card Discarder",
+        "description": "Discard at least 2500 Cards",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Nest Egg",
+        "description": "Have $400 or more during a single run",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Flushed",
+        "description": "Play a Flush with 5 Wild Cards",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Speedrunner",
+        "description": "Win a run in 12 or fewer rounds",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "ROI",
+        "description": "Buy 5 Vouchers by Ante 4",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Shattered",
+        "description": "Break 2 Glass Cards in a single hand",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Royale",
+        "description": "Play a Royal Flush",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-31T16:56:43Z"
+      },
+      {
+        "id": 15,
+        "name": "Retrograde",
+        "description": "Get any poker hand to level 10",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "10K",
+        "description": "Score 10,000 Chips in a single hand",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-02T21:23:03Z"
+      },
+      {
+        "id": 17,
+        "name": "1,000K",
+        "description": "Score 1,000,000 Chips in a single hand",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "100,000K",
+        "description": "Score 100,000,000 Chips in a single hand",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Tiny Hands",
+        "description": "Thin you deck down to 20 or fewer cards",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Big Hands",
+        "description": "Have 80 or more cards in your deck",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "You Get What You Get",
+        "description": "Win a run without rerolling the shop",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Rule Bender",
+        "description": "Complete any challenge run",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Rule Breaker",
+        "description": "Complete every challenge run",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Legendary",
+        "description": "Discover a Legendary Joker",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Astronomy",
+        "description": "Discover every Planet card",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Cartomancy",
+        "description": "Discover every Tarot card",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Clairvoyance",
+        "description": "Discover every Spectral card",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Extreme Couponer",
+        "description": "Discover every Voucher",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Completionist",
+        "description": "Discover 100% of your collection",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Completionist+",
+        "description": "Win with every deck on Gold Stake difficulty",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Completionist++",
+        "description": "Earn a Gold Sticker on every Joker",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T14:18:29.732Z"
+}

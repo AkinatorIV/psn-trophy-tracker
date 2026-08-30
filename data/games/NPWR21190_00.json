@@ -1,0 +1,455 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Tom Clancy’s Rainbow Six® Siege",
+    "platform": "PS5",
+    "progress": 2,
+    "npCommunicationId": "NPWR21190_00",
+    "earnedCount": 1,
+    "totalCount": 49,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Siege Expert",
+        "description": "Get all trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Back in the Day ATK",
+        "description": "Play 10 rounds with a Pathfinder Attacker in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 2,
+        "name": "First Class Defense",
+        "description": "Play 10 rounds with a Pathfinder Defender in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Old School",
+        "description": "Play 10 rounds with all Operators from one Pathfinder ORG in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Full Roster",
+        "description": "Play 10 rounds with each Pathfinder Operator in Quick Match or Ranked Multiplayer.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Jack of All Trades",
+        "description": "Win 1 round with every Pathfinder Operator in Quick Match/Ranked Multiplayer.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "To the Top",
+        "description": "Reach Clearance Level 50.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Designer",
+        "description": "Customize a weapon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Collector",
+        "description": "Collect and save 5000 Renown.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Just Getting Started",
+        "description": "Get 100 kills in Quick Match/Ranked Multiplayer.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Fashion Week",
+        "description": "Apply weapon skins to 30 weapons.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Death From Above",
+        "description": "Destroy a floor with a Breach Charge in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Coming Through!",
+        "description": "Breach and rappel through a window in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Fortress",
+        "description": "Reinforce 2 breakable walls in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Camera Shy",
+        "description": "Destroy 10 cameras as an Attacker.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Boomshakalaka",
+        "description": "Win 10 matches of Bomb in Quick Match/Ranked Multiplayer.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Can't Breach This",
+        "description": "Win 100 rounds as a Defender in Quick Match/Ranked Multiplayer.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "It Begins...",
+        "description": "Complete 10 matches in Quick Match/Ranked Multiplayer.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Brain Surgeon",
+        "description": "Get 50 headshots in Quick Match/Ranked Multiplayer.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Speed Round",
+        "description": "Win a round in Quick Match/Ranked Multiplayer in under 2 minutes.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-14T14:21:32Z"
+      },
+      {
+        "id": 20,
+        "name": "Globetrotter",
+        "description": "Play 10 Multiplayer Matches on 10 different maps.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Senseless",
+        "description": "Kill 10 enemies blinded by Stun Grenades in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Drone Destruction",
+        "description": "Destroy 5 drones in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Meat Wall",
+        "description": "Kill an enemy with a Breach Charge in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Oh Yeah!",
+        "description": "Destroy a reinforced wall with Thermite's Exothermic Charge in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Don't Go in There!",
+        "description": "Kill an Attacker caught inside Barbed Wire in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Wrong Number",
+        "description": "Kill 10 enemies with Nitro Cells in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Woodworker",
+        "description": "Place 5 barricades as a Defender in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "No Trespassing",
+        "description": "Get 10 Claymore kills in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Room Cleared",
+        "description": "Get 10 Frag Grenade kills in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Strength in Numbers",
+        "description": "Win 10 games as a Squad in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "That Was Close",
+        "description": "Plant the defuser in 10 Bomb rounds in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Close, but No Cigar",
+        "description": "Deactivate the defuser in 5 Bomb matches in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Asset Protection",
+        "description": "Destroy 20 gadgets in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Sureshot",
+        "description": "Get 5 kills with a DMR.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Ride Shotgun",
+        "description": "Get 5 kills with a shotgun.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Full Auto",
+        "description": "Get 5 kills with an AR.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Greaser",
+        "description": "Get 5 kills with an SMG.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Perfectionist",
+        "description": "Get 5 Flawless Victories in Quick Match/Ranked Multiplayer.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "Overachiever",
+        "description": "Win 100 rounds as an Attacker in Quick Match/Ranked Multiplayer.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Bang!",
+        "description": "Get 5 kills with a handgun.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "That Was Fast!",
+        "description": "Find a bomb within 15 seconds of the Preparation Phase in Unranked/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Objective Driven",
+        "description": "Win 50 rounds in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Specialist",
+        "description": "Complete all Operator Specialties.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Accessorizing",
+        "description": "Equip 50 weapon attachments.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Perimeter Secured",
+        "description": "Win a match of Secure Area in Quick Match Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "That Bullet Pen...",
+        "description": "Get 10 kills through bullet penetration in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "One Mind",
+        "description": "Win 1 match without losing a single round in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "To the Rescue",
+        "description": "Revive injured teammates 10 times in Quick Match/Ranked Multiplayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T14:18:30.172Z"
+}

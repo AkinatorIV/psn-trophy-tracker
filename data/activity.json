@@ -2,6 +2,188 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-08-30T14:13:25Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 14,
+        "name": "Sorceress' Tears",
+        "type": "bronze",
+        "description": "Find the Sorceress' Tears."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T14:13:25Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 27,
+        "name": "Cappella Magna",
+        "type": "bronze",
+        "description": "Reach Level 80 in the Gallo Tower."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T14:13:25Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 56,
+        "name": "Gorgeous Moon",
+        "type": "silver",
+        "description": "Evolve the Pentagram."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T14:13:25Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 127,
+        "name": "Christine",
+        "type": "bronze",
+        "description": "Get Pentagram to Level 7."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T13:19:36Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 86,
+        "name": "Moongolow",
+        "type": "silver",
+        "description": "Unlock Hyper mode for 4 normal stages."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T13:19:09Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 53,
+        "name": "Bloody Tear",
+        "type": "bronze",
+        "description": "Evolve the Whip."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T13:19:09Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 111,
+        "name": "Dommario",
+        "type": "bronze",
+        "description": "Earn 5000 coins in a single run."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T13:19:09Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 137,
+        "name": "Banish 1",
+        "type": "bronze",
+        "description": "Fill 60 entries in the Collection."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T13:19:08Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 13,
+        "name": "Hyper Gallo Tower",
+        "type": "silver",
+        "description": "Defeat the Giant Enemy Crab in Gallo Tower."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T13:19:08Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 73,
+        "name": "I - Gemini",
+        "type": "bronze",
+        "description": "Reach Level 50 with Pugnala."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T13:19:08Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 97,
+        "name": "Phiera Der Tuphello",
+        "type": "bronze",
+        "description": "Survive 10 minutes with Pugnala."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T13:19:08Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 99,
+        "name": "Eight The Sparrow",
+        "type": "bronze",
+        "description": "Survive 15 minutes with Pugnala."
+      }
+    },
+    {
+      "earnedDateTime": "2026-08-30T13:19:08Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 109,
+        "name": "Krochi",
+        "type": "silver",
+        "description": "Defeat a total of 100000 enemies."
+      }
+    },
+    {
       "earnedDateTime": "2026-08-29T19:26:29Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3318,189 +3500,7 @@
         "type": "silver",
         "description": "Max out either your Health, Stamina, or Focus "
       }
-    },
-    {
-      "earnedDateTime": "2026-04-26T21:16:01Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 8,
-        "name": "Hold on Tight",
-        "type": "bronze",
-        "description": "See a familiar face"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-26T20:16:24Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 7,
-        "name": "Riding NOMAD",
-        "type": "bronze",
-        "description": "Take to the road alone"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-25T20:06:07Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 6,
-        "name": "Take Back Your Name",
-        "type": "bronze",
-        "description": "Return the favor"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-24T20:05:28Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 41,
-        "name": "I'm Out of Control",
-        "type": "bronze",
-        "description": "Unlock 15 skills"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-24T19:58:45Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 38,
-        "name": "Welcome to the Party, Pal",
-        "type": "silver",
-        "description": "Clear all Ambush Camps, Infestations, and NERO Checkpoints in a single region"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-24T19:36:03Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 23,
-        "name": "Farewell Original",
-        "type": "silver",
-        "description": "Purchase an upgrade under the Performance, Visual, and Paint Categories for your bike"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-24T19:35:05Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 37,
-        "name": "Make it Rain",
-        "type": "silver",
-        "description": "Spend 20,000 credits at one Encampment"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-23T19:07:43Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 32,
-        "name": "Surviving isn't Living",
-        "type": "bronze",
-        "description": "Rescue 10 survivors"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-22T19:28:57Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 5,
-        "name": "Brothers in Arm",
-        "type": "bronze",
-        "description": "Check up on Boozer"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-18T16:48:07Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 45,
-        "name": "D.I.Y. Oregonian",
-        "type": "bronze",
-        "description": "Craft 50 items"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-18T15:56:23Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 4,
-        "name": "Lost and Found",
-        "type": "bronze",
-        "description": "Drive south with Boozer"
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-13T16:57:34Z",
-      "game": {
-        "name": "High on Life",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR37403_00"
-      },
-      "trophy": {
-        "id": 12,
-        "name": "Who's The Boss?",
-        "type": "silver",
-        "description": "Defeat the Skrendel Brothers."
-      }
-    },
-    {
-      "earnedDateTime": "2026-04-13T16:28:05Z",
-      "game": {
-        "name": "High on Life",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR37403_00"
-      },
-      "trophy": {
-        "id": 11,
-        "name": "Creature Feature",
-        "type": "bronze",
-        "description": "Obtain Creature."
-      }
     }
   ],
-  "updatedAt": "2026-08-30T12:12:45.549Z"
+  "updatedAt": "2026-08-30T14:18:30.179Z"
 }
