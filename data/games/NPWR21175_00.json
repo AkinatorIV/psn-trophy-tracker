@@ -1,0 +1,428 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Hogwarts Legacy",
+    "platform": "PS5",
+    "progress": 5,
+    "npCommunicationId": "NPWR21175_00",
+    "earnedCount": 4,
+    "totalCount": 46,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Trophy Triumph",
+        "description": "Obtain all other trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "The Sort Who Makes an Entrance",
+        "description": "Complete the introduction and finish the Sorting Ceremony",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-11T16:19:32Z"
+      },
+      {
+        "id": 2,
+        "name": "The Toast of the Town",
+        "description": "Find the Map Chamber as a Slytherin",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "The Auror's Apprentice",
+        "description": "Find the Map Chamber as a Hufflepuff",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "The Gryffindor in the Graveyard",
+        "description": "Find the Map Chamber as a Gryffindor",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "The Wise Owl",
+        "description": "Find the Map Chamber as a Ravenclaw",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "First Class Student",
+        "description": "Attend your first class",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-13T18:15:52Z"
+      },
+      {
+        "id": 7,
+        "name": "Troll with the Punches",
+        "description": "Survive the troll attack on Hogsmeade",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-15T18:17:25Z"
+      },
+      {
+        "id": 8,
+        "name": "That's a Keeper",
+        "description": "Meet Charles Rookwood in the Map Chamber",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Rising From the Ashes",
+        "description": "Rescue the phoenix",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Grappling with a Graphorn",
+        "description": "Subdue the Lord of the Shore",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "The One Who Mastered Memories",
+        "description": "View all Pensieve memories",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "The Hallowed Hero",
+        "description": "Wield a Deathly Hallow",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "The Hero of Hogwarts",
+        "description": "Defeat Ranrok",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "The Seeker of Knowledge",
+        "description": "Win the House Cup",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "The Avenging Gazelle",
+        "description": "Complete Natsai Onai's relationship line",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "The Defender of Dragons",
+        "description": "Save a dragon",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Beast Friends",
+        "description": "Complete Poppy Sweeting's relationship line",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "A Sallow Grave",
+        "description": "Complete Sebastian Sallow's relationship line",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Flight the Good Flight",
+        "description": "Beat Imelda's time in all broom races",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "The Good Samaritan",
+        "description": "Complete all side quests",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Challenge Accepted",
+        "description": "Complete all tiers of a challenge",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Collector's Edition",
+        "description": "Complete all collections",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "A Keen Sense of Spell",
+        "description": "Invoke Ancient Magic for the first time",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-20T18:33:24Z"
+      },
+      {
+        "id": 24,
+        "name": "Loom for Improvement",
+        "description": "Upgrade a piece of gear",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "The Root of the Problem",
+        "description": "Stun 10 different enemies using a Mandrake",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "The Nature of the Beast",
+        "description": "Breed every type of beast",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Going Through the Potions",
+        "description": "Brew every type of potion",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Put Down Roots",
+        "description": "Grow every type of plant",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Third Time's a Charm",
+        "description": "Upgrade a piece of gear 3 times",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "A Talent for Spending",
+        "description": "Spend 5 Talent Points",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Savvy Spender",
+        "description": "Spend all Talent Points",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Room with a View",
+        "description": "Reach the highest point in the castle, the Headmaster's upper study",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Spilled Milk",
+        "description": "Use Flipendo ten times – to tip one cow or several",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Floo Around the World",
+        "description": "Unlock all Floo Flames",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Followed the Butterflies",
+        "description": "Follow butterflies to a treasure",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Rise to the Challenges",
+        "description": "Defeat enemies in all battle arenas",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Merlin's Beard!",
+        "description": "Complete all Merlin Trials",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "The Intrepid Explorer",
+        "description": "Discover all cairn dungeons",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "Coasting Along",
+        "description": "Visit Poidsear Coast",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Demiguise Dread",
+        "description": "Find all Demiguise statues",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "The Ends Petrify the Means",
+        "description": "Defeat a total of fifty enemies using Petrificus Totalus",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Raising Expectations",
+        "description": "Reach a combo of 100",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Finishing Touches",
+        "description": "Use Ancient Magic on every enemy in the game",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "The Spell Master",
+        "description": "Learn all spells",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "A Forte for Achievement",
+        "description": "Reach Level 40",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T23:48:00.548Z"
+}

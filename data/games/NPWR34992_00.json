@@ -1,0 +1,338 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Black Myth: Wukong",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR34992_00",
+    "earnedCount": 36,
+    "totalCount": 36,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Final Fulfillment",
+        "description": "Each ordeal paves your path to what you are meant to be.",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-10T20:44:28Z"
+      },
+      {
+        "id": 1,
+        "name": "Home is Behind",
+        "description": "The old monkey has told his tale. Onward you must go.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-05T14:18:10Z"
+      },
+      {
+        "id": 2,
+        "name": "A Spark of Thought",
+        "description": "Nothing sparks your talents more than a spark of thought.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-05T15:33:06Z"
+      },
+      {
+        "id": 3,
+        "name": "Brew of Bravery",
+        "description": "Fresh brew in an old cask. May it stir a great task!",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-11T20:22:35Z"
+      },
+      {
+        "id": 4,
+        "name": "Creative Concoction",
+        "description": "Tonics are well and good, but not to be wolfed like food!",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-14T15:24:20Z"
+      },
+      {
+        "id": 5,
+        "name": "Happy Harvest",
+        "description": "Fields kept trim leave time to skim.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-27T14:08:17Z"
+      },
+      {
+        "id": 6,
+        "name": "Pound and Perfect",
+        "description": "\"Through fire, armor is refined; through trials, strength is defined.\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-20T13:44:36Z"
+      },
+      {
+        "id": 7,
+        "name": "Blazing Black Wind",
+        "description": "Of all things to learn, you chose to play with fire?",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-11T20:46:57Z"
+      },
+      {
+        "id": 8,
+        "name": "Temple of Taint",
+        "description": "Now at an end is the elder's long wait for the journeyer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-12T10:45:22Z"
+      },
+      {
+        "id": 9,
+        "name": "A Great Gust",
+        "description": "There will be more sages if their maker still engages.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-15T20:07:44Z"
+      },
+      {
+        "id": 10,
+        "name": "Shifting Sands",
+        "description": "The beetle came with drumbeats' call, and left with waves' gentle fall.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-15T19:13:11Z"
+      },
+      {
+        "id": 11,
+        "name": "Nifty Nonsense",
+        "description": "The fat monk failed, for he spoke too much.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-20T16:57:54Z"
+      },
+      {
+        "id": 12,
+        "name": "Behold the Betrayal",
+        "description": "More eyes do not see more than the mortal trifles.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-04T20:47:15Z"
+      },
+      {
+        "id": 13,
+        "name": "The Cockerel Crowed",
+        "description": "Long and short, far and near, each span has its year.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-04T20:22:12Z"
+      },
+      {
+        "id": 14,
+        "name": "Flaming Fury",
+        "description": "The golden child brought fire and smoke; when they cleared, the family broke.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-06T18:16:27Z"
+      },
+      {
+        "id": 15,
+        "name": "Frost and Flame",
+        "description": "The merging of ice and fire, swift and severe.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-06T15:33:18Z"
+      },
+      {
+        "id": 16,
+        "name": "Meet the Match",
+        "description": "\"Let go of him, and you let go of all.\"",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-07T16:34:56Z"
+      },
+      {
+        "id": 17,
+        "name": "A Duel of Destiny",
+        "description": "Two minds' long fray leaves but one to stay.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-07T15:28:54Z"
+      },
+      {
+        "id": 18,
+        "name": "The Clamor of Frogs",
+        "description": "Six frogs, six skills—how intriguing!",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-06T19:24:19Z"
+      },
+      {
+        "id": 19,
+        "name": "The Sire and Sons",
+        "description": "\"For what deed, must the four waters they governed roam free?\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-28T19:36:28Z"
+      },
+      {
+        "id": 20,
+        "name": "Always Accompanied",
+        "description": "How odd to encounter this old man at every corner!",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-06T10:11:10Z"
+      },
+      {
+        "id": 21,
+        "name": "Urge Unfulfilled",
+        "description": "\"With my life I'll repay the title he gave me!\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-07T16:44:21Z"
+      },
+      {
+        "id": 22,
+        "name": "Six Senses Secured",
+        "description": "After all that strife and struggle, what's truly been gained?",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-08T21:11:20Z"
+      },
+      {
+        "id": 23,
+        "name": "Portraits Perfected",
+        "description": "Humans, beasts, yaoguais, and the Bodhisattvas. All recorded and noted.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-08T21:11:22Z"
+      },
+      {
+        "id": 24,
+        "name": "Treasure Trove",
+        "description": "\"All the four vessels now belong to me!\"",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-06T18:28:28Z"
+      },
+      {
+        "id": 25,
+        "name": "Master of Magic",
+        "description": "All spells we know are derived from the same source.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-08T21:11:23Z"
+      },
+      {
+        "id": 26,
+        "name": "Guardian of Gear",
+        "description": "You are fully fitted. Now, swing that staff and fight!",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-06T20:45:54Z"
+      },
+      {
+        "id": 27,
+        "name": "A Curious Collection",
+        "description": "Every rare wonder the world can offer, collected and kept.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-07T21:29:25Z"
+      },
+      {
+        "id": 28,
+        "name": "Medicine Meal",
+        "description": "\"Here, have it, have it all.\"",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-07T20:10:19Z"
+      },
+      {
+        "id": 29,
+        "name": "Staffs and Spears",
+        "description": "A walking vault of arms you have become!",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-10T19:50:47Z"
+      },
+      {
+        "id": 30,
+        "name": "Mantled with Might",
+        "description": "Shoes on feet, hat on head, embroidered shirt, Daoist robe—free as can be, doing as you please!",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-10T20:44:28Z"
+      },
+      {
+        "id": 31,
+        "name": "Fickle Forms",
+        "description": "Transformations and Spirit Skills, you have mastered them all!",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-07T20:11:07Z"
+      },
+      {
+        "id": 32,
+        "name": "Brewer's Bounty",
+        "description": "What to drink, how to drink, and above all, who to drink with.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-08T21:38:34Z"
+      },
+      {
+        "id": 33,
+        "name": "Page Preserver",
+        "description": "\"All the tattered pages can now be compiled in full.\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-09T15:31:34Z"
+      },
+      {
+        "id": 34,
+        "name": "Seeds to Sow",
+        "description": "Take more as fruit as your plants take root.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-08T21:04:07Z"
+      },
+      {
+        "id": 35,
+        "name": "Scenic Seeker",
+        "description": "The most marvelous places for meditation have all met your gaze.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-08-06T15:04:30Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T23:48:00.841Z"
+}

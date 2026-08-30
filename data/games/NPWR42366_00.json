@@ -1,0 +1,365 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "DOOM: The Dark Ages",
+    "platform": "PS5",
+    "progress": 83,
+    "npCommunicationId": "NPWR42366_00",
+    "earnedCount": 29,
+    "totalCount": 39,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Trophy Master",
+        "description": "Acquire all Trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-04T19:52:49Z"
+      },
+      {
+        "id": 1,
+        "name": "A Dark Beginning",
+        "description": "Complete chapter: Village of Khalim",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-16T15:43:58Z"
+      },
+      {
+        "id": 2,
+        "name": "Supersized Brawl",
+        "description": "Complete chapter: Barrier Core",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-20T16:24:15Z"
+      },
+      {
+        "id": 3,
+        "name": "Bringing the House Down",
+        "description": "Complete chapter: The Holy City of Aratum",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-20T19:18:16Z"
+      },
+      {
+        "id": 4,
+        "name": "Jailbreak",
+        "description": "Complete chapter: Spire of Nerathul",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-28T20:58:26Z"
+      },
+      {
+        "id": 5,
+        "name": "Too Angry to Die",
+        "description": "Complete chapter: Harbor of Souls",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-01T17:36:04Z"
+      },
+      {
+        "id": 6,
+        "name": "Argent Return",
+        "description": "Complete chapter: Resurrection",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-01T18:32:59Z"
+      },
+      {
+        "id": 7,
+        "name": "The Only Thing They Fear",
+        "description": "Defeat The Old One and Enhanced Ahzrak.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-04T17:35:51Z"
+      },
+      {
+        "id": 8,
+        "name": "Game Complete",
+        "description": "Complete the campaign on any difficulty.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-04T19:35:13Z"
+      },
+      {
+        "id": 9,
+        "name": "Vagary Down!",
+        "description": "Kill the Vagary Champion.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-20T17:10:44Z"
+      },
+      {
+        "id": 10,
+        "name": "Agaddon Champion Down!",
+        "description": "Kill an Agaddon Hunter",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-28T15:17:25Z"
+      },
+      {
+        "id": 11,
+        "name": "Komodo Champion Down!",
+        "description": "Kill a Komodo demon.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-28T19:50:12Z"
+      },
+      {
+        "id": 12,
+        "name": "Upgraded",
+        "description": "Acquire your first weapon upgrade.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-18T16:56:08Z"
+      },
+      {
+        "id": 13,
+        "name": "Fully Loaded",
+        "description": "Complete the Mastery Challenge for a single weapon.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-28T16:52:08Z"
+      },
+      {
+        "id": 14,
+        "name": "Gunpletionist",
+        "description": "Complete the Mastery Challenge for all weapons.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-04T19:52:49Z"
+      },
+      {
+        "id": 15,
+        "name": "Gimme That",
+        "description": "Acquire the Ballistic Force Crossbow.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-28T20:48:23Z"
+      },
+      {
+        "id": 16,
+        "name": "Shield Adept",
+        "description": "Acquire all shield upgrades under the base category.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-28T15:28:14Z"
+      },
+      {
+        "id": 17,
+        "name": "Ancestral Blessing",
+        "description": "Acquire your first Shield Rune.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-28T16:04:51Z"
+      },
+      {
+        "id": 18,
+        "name": "Powerful Investment",
+        "description": "Acquire all upgrades for a single shield rune.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-28T20:03:06Z"
+      },
+      {
+        "id": 19,
+        "name": "Melee Expert",
+        "description": "Acquire all melee weapon upgrades.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-01T18:10:09Z"
+      },
+      {
+        "id": 20,
+        "name": "Berserker",
+        "description": "Acquire all Shield Base, Shield Rune, and Melee Weapon upgrades.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-01T18:23:51Z"
+      },
+      {
+        "id": 21,
+        "name": "Essential Upgrade",
+        "description": "Acquire your first Demonic Essence upgrade.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-18T17:26:00Z"
+      },
+      {
+        "id": 22,
+        "name": "Essential Ammo",
+        "description": "Acquire all Demonic Essence ammo upgrades.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-04T19:20:20Z"
+      },
+      {
+        "id": 23,
+        "name": "Essential Armor",
+        "description": "Acquire all Demonic Essence armor upgrades.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-01T18:22:49Z"
+      },
+      {
+        "id": 24,
+        "name": "Essential Health",
+        "description": "Acquire all Demonic Essence Health upgrades.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-01T17:51:55Z"
+      },
+      {
+        "id": 25,
+        "name": "Essentially Unstoppable",
+        "description": "Acquire all Demonic Essence upgrades.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-04T19:20:20Z"
+      },
+      {
+        "id": 26,
+        "name": "Challenge Completed",
+        "description": "Complete all Mission Challenges in the campaign.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-04T18:57:46Z"
+      },
+      {
+        "id": 27,
+        "name": "Toy Collector",
+        "description": "Acquire all Collectible demon toys.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-04T19:12:53Z"
+      },
+      {
+        "id": 28,
+        "name": "Lore Nerd",
+        "description": "Acquire all Codex Lore pages.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-07-04T18:48:35Z"
+      },
+      {
+        "id": 29,
+        "name": "Revelations Complete",
+        "description": "Complete the Revelations Campaign.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Hellwalker",
+        "description": "Acquire the Praetor Suit.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Time to Hunt",
+        "description": "Acquire the Chain Spear.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Spear Adept",
+        "description": "Acquire all upgrades for a single Chain Spear ability.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Spear Mastery",
+        "description": "Acquire all Chain Spear upgrades in a single save slot.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Some Assembly Required",
+        "description": "Completely reassemble a five-piece Relic.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Archeologist",
+        "description": "Completely reassemble all Relics in a single save slot.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Time is Money",
+        "description": "Complete a Ritual of Power.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Hello, Old Friend",
+        "description": "Acquire the '93 Shotgun.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Xal’Goroth Defeated",
+        "description": "Defeat Xal’Goroth the Imprisoned.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T23:48:01.101Z"
+}
