@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "game": {
+    "name": "Anno 117",
+    "npCommunicationId": "NPWR44891_00"
+  },
+  "researchedAt": "2026-08-30",
+  "strategy": "Faire les trophées simples et cumulatifs pendant la campagne, tout en préparant tôt les objectifs longs liés à la recherche, aux rerolls, aux quêtes PNJ, à la diplomatie et aux contraintes de population.",
+  "sources": [
+    {
+      "id": "s4g",
+      "label": "Space4Games — Trophy Guide",
+      "url": "https://space4games.com/en/games-en/anno-117-pax-romana-trophy-guide/"
+    },
+    {
+      "id": "tt",
+      "label": "TrueTrophies — Liste PS5",
+      "url": "https://www.truetrophies.com/game/Anno-117-Pax-Romana/trophies"
+    },
+    {
+      "id": "psthc",
+      "label": "PSTHC — Liste des trophées PS5",
+      "url": "https://www.psthc.fr/unjeu/anno-117-ps5/liste-trophees.htm"
+    },
+    {
+      "id": "th",
+      "label": "Trophies Hunter — Anno 117",
+      "url": "https://trophieshunter.com/fr/games/anno-117-pax-romana-ps5"
+    }
+  ],
+  "roadmap": [
+    {
+      "name": "De Novo",
+      "reason": "Très rapide et sans impact sur ta partie : autant le sortir immédiatement."
+    },
+    {
+      "name": "Scientia Potestas Est",
+      "reason": "Progresse naturellement avec la recherche et prépare Polygnostic."
+    },
+    {
+      "name": "City Watched",
+      "reason": "Objectif de construction simple en Latium à intégrer à ta ville principale."
+    },
+    {
+      "name": "Aqueduct Vitae",
+      "reason": "Objectif isolé et facile à planifier sur une île avec assez d'espace."
+    },
+    {
+      "name": "Travelling Sails Problem",
+      "reason": "À faire pendant que tu développes ton réseau commercial."
+    },
+    {
+      "name": "Cura Annonae",
+      "reason": "Combine naturellement le développement d'Albion et du Latium."
+    },
+    {
+      "name": "Hic Svnt Dracones",
+      "reason": "L'exploration d'Albion ouvre ensuite plusieurs objectifs celtiques."
+    },
+    {
+      "name": "Polygnostic",
+      "reason": "Mieux vaut concentrer tes Inspirations dans une catégorie plutôt que les disperser."
+    },
+    {
+      "name": "Life Support",
+      "reason": "Les chaînes de quêtes PNJ sont à surveiller tôt pour éviter de les oublier."
+    },
+    {
+      "name": "Questing Beast",
+      "reason": "Même logique : termine les quêtes d'Athr Iorgwyn au fil de la partie."
+    },
+    {
+      "name": "Lily Buy-in",
+      "reason": "Même logique : termine les quêtes de Valeria au fil de la partie."
+    },
+    {
+      "name": "Fuelling The Flame",
+      "reason": "Même logique : termine toutes les quêtes de Concordia."
+    },
+    {
+      "name": "Alea Iacta Est",
+      "reason": "Objectif très long : commence à reroll régulièrement les offres dès maintenant."
+    },
+    {
+      "name": "Morituri Te Salutant",
+      "reason": "Nécessite une ville et une économie solides : idéal une fois ton amphithéâtre bien installé."
+    },
+    {
+      "name": "Si Vis Pacem",
+      "reason": "À préparer avant d'éliminer trop de rivaux : il faut faire la guerre puis conclure la paix avec trois rivaux distincts."
+    },
+    {
+      "name": "Patrician Tastes",
+      "reason": "Demande une île planifiée spécialement sans Liberti ni Plebeians."
+    },
+    {
+      "name": "Not Built In A Day",
+      "reason": "Continue simplement une sauvegarde de campagne sur le long terme jusqu'à dépasser 24 heures."
+    },
+    {
+      "name": "Quid Pro Quo",
+      "reason": "Objectif de fin de progression : atteins le rang de Proconsul."
+    }
+  ],
+  "trophies": {
+    "De Novo": {
+      "tip": "Utilise l'outil cosmétique pour changer le skin d'un bâtiment 9 fois. C'est un trophée sans vraie contrainte : fais-le dès que l'outil est disponible au lieu de le garder pour la fin.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    "Scientia Potestas Est": {
+      "tip": "Valide 9 Inspirations de recherche au fil de la partie. Évite de laisser la recherche inactive : cet objectif prépare directement le terrain pour Polygnostic.",
+      "sourceIds": ["s4g"]
+    },
+    "Polygnostic": {
+      "tip": "Concentre tes choix de recherche dans une seule catégorie jusqu'à y débloquer toutes les Inspirations. Le guide Space4Games recommande explicitement de travailler régulièrement une catégorie complète.",
+      "sourceIds": ["s4g"]
+    },
+    "Alea Iacta Est": {
+      "tip": "Commence tôt : il faut dépenser 170 100 deniers en rerolls d'objets. Fais des rerolls régulièrement pendant toute la partie au lieu d'essayer de tout farmer à la fin.",
+      "sourceIds": ["s4g"]
+    },
+    "Morituri Te Salutant": {
+      "tip": "Il faut organiser 9 événements à l'amphithéâtre. Prépare une économie stable et les infrastructures nécessaires pour pouvoir enchaîner les événements sans mettre ta ville en difficulté.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    "Quid Pro Quo": {
+      "tip": "Atteindre Proconsul est un objectif de long terme. Ne le force pas trop tôt : réputation, développement et progression générale de ta partie vont y contribuer naturellement.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    "Si Vis Pacem": {
+      "tip": "Le point important est l'ordre : entre en guerre avec trois rivaux distincts puis conclus la paix avec chacun. Ne les élimine pas avant d'avoir sécurisé ce trophée.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    "Patrician Tastes": {
+      "tip": "Prévois une île dédiée dès le départ et monte-la jusqu'au statut Growing Megalopolis sans y installer de Liberti ni de Plebeians. C'est beaucoup plus simple à planifier que de nettoyer une île existante après coup.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    "Not Built In A Day": {
+      "tip": "Le compteur demande plus de 24 heures sur une seule partie Campagne. Garde une sauvegarde principale et continue à jouer dessus plutôt que de multiplier les nouvelles campagnes.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    "Fuelling The Flame": {
+      "tip": "Termine toutes les quêtes de Concordia. Dès qu'une quête de sa chaîne apparaît, priorise-la pour ne pas perdre le fil de progression du PNJ.",
+      "sourceIds": ["s4g"]
+    },
+    "Life Support": {
+      "tip": "Termine toute la chaîne de quêtes de Tarragon. Traite les quêtes PNJ comme des objectifs de long terme à faire au fil de la campagne.",
+      "sourceIds": ["s4g"]
+    },
+    "Questing Beast": {
+      "tip": "Termine toutes les quêtes d'Athr Iorgwyn. Évite de laisser sa chaîne de côté pendant ton développement d'Albion.",
+      "sourceIds": ["s4g"]
+    },
+    "Lily Buy-in": {
+      "tip": "Termine toutes les quêtes de Valeria. Fais-les au fur et à mesure plutôt que de tenter de reconstituer la chaîne en fin de partie.",
+      "sourceIds": ["s4g"]
+    },
+    "Haec Ornamenta Mea": {
+      "tip": "Les 50 ornements peuvent être posés progressivement pendant que tu embellis une île. Le guide recommande de laisser ce type d'objectif cosmétique se faire passivement pendant la partie.",
+      "sourceIds": ["s4g"]
+    }
+  },
+  "patternTips": [
+    {
+      "contains": ["Trade Route"],
+      "tip": "Profite de chaque extension vers une nouvelle île pour complexifier ton réseau commercial : plusieurs trophées cumulent routes, arrêts et connexions entre régions.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    {
+      "contains": ["Complete all of"],
+      "tip": "Pour les chaînes de quêtes PNJ, fais les missions dès qu'elles apparaissent et évite de laisser la diplomatie ou les choix de campagne bloquer leur progression.",
+      "sourceIds": ["s4g"]
+    },
+    {
+      "contains": ["Eliminate"],
+      "tip": "Avant d'éliminer un rival, vérifie les trophées diplomatiques encore manquants : certains demandent de rester en relation, d'entrer en guerre ou de conclure la paix avec plusieurs rivaux.",
+      "sourceIds": ["s4g"]
+    },
+    {
+      "contains": ["Patron God"],
+      "tip": "Planifie les dédicaces d'îles à l'avance : plusieurs trophées dépendent du choix des divinités et de la région, donc évite de répartir tes choix au hasard.",
+      "sourceIds": ["s4g"]
+    }
+  ]
+}
