@@ -1,0 +1,482 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Red Dead Redemption",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR54382_00",
+    "earnedCount": 52,
+    "totalCount": 52,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Legend of the West",
+        "description": "You've become a true legend of the West!",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-31T19:54:05Z"
+      },
+      {
+        "id": 1,
+        "name": "That Government Boy",
+        "description": "Complete \"Exodus in America\".",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-08T17:36:29Z"
+      },
+      {
+        "id": 2,
+        "name": "Land of Opportunity",
+        "description": "Complete \"The Assault on Fort Mercer\".",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-14T18:43:58Z"
+      },
+      {
+        "id": 3,
+        "name": "Sons of Mexico",
+        "description": "Complete \"The Gates of El Presidio\".",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T13:44:54Z"
+      },
+      {
+        "id": 4,
+        "name": "No More Fancy Words",
+        "description": "Complete \"An Appointed Time\".",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T14:31:11Z"
+      },
+      {
+        "id": 5,
+        "name": "A Savage Soul",
+        "description": "Complete \"At Home with Dutch\".",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T18:10:44Z"
+      },
+      {
+        "id": 6,
+        "name": "The Benefits of Civilization",
+        "description": "Complete \"And the Truth Will Set You Free\".",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-20T19:20:52Z"
+      },
+      {
+        "id": 7,
+        "name": "Into the Sunset",
+        "description": "Complete \"The Last Enemy That Shall Be Destroyed\".",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-20T20:43:13Z"
+      },
+      {
+        "id": 8,
+        "name": "Nurture or Nature?",
+        "description": "Complete \"Remember My Family\".",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-22T17:36:02Z"
+      },
+      {
+        "id": 9,
+        "name": "High Roller",
+        "description": "Win over 2000 chips in a hand of Poker.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-25T21:08:56Z"
+      },
+      {
+        "id": 10,
+        "name": "No Dice",
+        "description": "Complete a game of Liar's Dice without losing a single die.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-24T17:49:46Z"
+      },
+      {
+        "id": 11,
+        "name": "What About Hand Grenades?",
+        "description": "Get a ringer in a game of Horseshoes.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T09:20:38Z"
+      },
+      {
+        "id": 12,
+        "name": "Austin Overpowered",
+        "description": "Complete Twin Rocks,  Pike's Basin, and Gaptooth Breach Hideouts.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-21T14:11:47Z"
+      },
+      {
+        "id": 13,
+        "name": "Evil Spirits",
+        "description": "Complete Tumbleweed and Tesoro Azul Hideouts.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-21T10:41:25Z"
+      },
+      {
+        "id": 14,
+        "name": "Instinto Asesino",
+        "description": "Complete Fort Mercer and Nosalida Hideouts.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T18:40:24Z"
+      },
+      {
+        "id": 15,
+        "name": "Fightin' Around the World",
+        "description": "Knock someone out in melee in every saloon in the game.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T16:38:54Z"
+      },
+      {
+        "id": 16,
+        "name": "Strange Things are Afoot",
+        "description": "Complete a task for a Stranger.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-13T18:50:10Z"
+      },
+      {
+        "id": 17,
+        "name": "People are Still Strange",
+        "description": "Complete 15 tasks for Strangers.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-21T09:43:47Z"
+      },
+      {
+        "id": 18,
+        "name": "Buckin' Awesome",
+        "description": "Break the Kentucky Saddler, the American Standardbred, and the Hungarian Half-bred.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T18:54:52Z"
+      },
+      {
+        "id": 19,
+        "name": "Clemency Pays",
+        "description": "Capture a bounty alive.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T17:32:59Z"
+      },
+      {
+        "id": 20,
+        "name": "Dastardly",
+        "description": "Place a hogtied woman on the train tracks, and witness her death by train.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T09:31:46Z"
+      },
+      {
+        "id": 21,
+        "name": "Exquisite Taste",
+        "description": "Purchase a rare weapon from a gunsmith.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-19T20:15:15Z"
+      },
+      {
+        "id": 22,
+        "name": "Bearly Legal",
+        "description": "Kill and skin 18 grizzly bears.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-19T20:19:51Z"
+      },
+      {
+        "id": 23,
+        "name": "He Cleans Up Well!",
+        "description": "Obtain the Elegant Suit.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T20:04:07Z"
+      },
+      {
+        "id": 24,
+        "name": "More than a Fistful",
+        "description": "Earn $10,000.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-23T17:07:11Z"
+      },
+      {
+        "id": 25,
+        "name": "Frontiersman",
+        "description": "Obtain Legendary rank in any Ambient Challenge.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-21T11:06:40Z"
+      },
+      {
+        "id": 26,
+        "name": "The Gunslinger",
+        "description": "Score a headshot on any enemy using Expert targeting mode.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-14T19:17:14Z"
+      },
+      {
+        "id": 27,
+        "name": "Man of Honor / Chivalry's Dead",
+        "description": "Attain highest Fame rank and either highest Honor rank or lowest Honor rank.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-21T14:21:40Z"
+      },
+      {
+        "id": 28,
+        "name": "Gold Medal",
+        "description": "Earn a Gold Medal Rank for a combat mission.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-14T19:17:36Z"
+      },
+      {
+        "id": 29,
+        "name": "Manifest Destiny",
+        "description": "Kill the last buffalo in the Great Plains.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-23T17:04:16Z"
+      },
+      {
+        "id": 30,
+        "name": "On the Trail of de Vaca",
+        "description": "Uncover every location on the map.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-24T21:24:55Z"
+      },
+      {
+        "id": 31,
+        "name": "Friends in High Places",
+        "description": "Use a pardon letter with more than $5000 bounty.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-19T20:46:45Z"
+      },
+      {
+        "id": 32,
+        "name": "Redeemed",
+        "description": "Attain 100% in the Game Completion stat.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T11:51:22Z"
+      },
+      {
+        "id": 33,
+        "name": "Spurred to Victory",
+        "description": "Complete 20 story missions without switching to a new horse at a hitching post.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T11:20:48Z"
+      },
+      {
+        "id": 34,
+        "name": "Heading South on a White Bronco",
+        "description": "Evade the US Marshals while riding the Hungarian Half-Bred horse.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T16:22:11Z"
+      },
+      {
+        "id": 35,
+        "name": "Mowing Them Down",
+        "description": "Kill 500 enemies with a mounted weapon in any game mode.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-29T18:02:59Z"
+      },
+      {
+        "id": 36,
+        "name": "In a Hail of Bullets",
+        "description": "Kill 500 enemies with any pistol or revolver in any game mode.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-21T14:20:32Z"
+      },
+      {
+        "id": 37,
+        "name": "Long Arm of Marston",
+        "description": "Kill 500 enemies with any rifle, repeater, or shotgun in any game mode.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-20T20:34:37Z"
+      },
+      {
+        "id": 38,
+        "name": "Bullseye",
+        "description": "Get 250 headshots in any game mode.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T12:08:51Z"
+      },
+      {
+        "id": 39,
+        "name": "Unnatural Selection",
+        "description": "Kill one of every animal species in the game in any game mode.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-24T21:30:35Z"
+      },
+      {
+        "id": 40,
+        "name": "Axe Master",
+        "description": "Complete all Tomahawk challenges.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-15T18:40:54Z"
+      },
+      {
+        "id": 41,
+        "name": "Master Exploder",
+        "description": "Complete the Explosive Rifle Challenge.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T09:36:12Z"
+      },
+      {
+        "id": 42,
+        "name": "The Downward Spiral",
+        "description": "Complete \"Curious Tales from Blackwater, USA\" Survivor Mission.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T17:02:49Z"
+      },
+      {
+        "id": 43,
+        "name": "Judge A Man By The...",
+        "description": "Complete \"Cure For Most of What Ails You\" and \"Get Back in that Hole, Partner\" Survivor Missions.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T19:15:22Z"
+      },
+      {
+        "id": 44,
+        "name": "The Superior Dance",
+        "description": "Complete \"Mother Superior Blues Survivor Mission\".",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-29T11:00:20Z"
+      },
+      {
+        "id": 45,
+        "name": "All's Right With the World",
+        "description": "Complete \"On a Pale Horse\".",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-29T11:12:12Z"
+      },
+      {
+        "id": 46,
+        "name": "Spinning Plates",
+        "description": "Have every territory saved at the same time during the Undead Nightmare.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T21:13:08Z"
+      },
+      {
+        "id": 47,
+        "name": "Zed's Dead, Baby",
+        "description": "Attain 100% Game Completion statistic in Undead Nightmare.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-31T19:54:05Z"
+      },
+      {
+        "id": 48,
+        "name": "Mad Marston: The Trail Warrior",
+        "description": "Attain Rank 5 in all Undead Nightmare Challenges.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-31T19:48:02Z"
+      },
+      {
+        "id": 49,
+        "name": "Fan Service",
+        "description": "Find and break a unicorn.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-31T19:54:05Z"
+      },
+      {
+        "id": 50,
+        "name": "Chupathingy",
+        "description": "Find and kill a chupacabra.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-31T19:48:02Z"
+      },
+      {
+        "id": 51,
+        "name": "Six Years In The Making",
+        "description": "Find and kill a sasquatch.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-28T17:11:41Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:05:15.396Z"
+}

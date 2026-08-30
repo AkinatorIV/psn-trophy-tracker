@@ -1,0 +1,563 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "DAYS GONE",
+    "platform": "PS4",
+    "progress": 70,
+    "npCommunicationId": "NPWR17130_00",
+    "earnedCount": 46,
+    "totalCount": 61,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "One Percenter",
+        "description": "Go above and BEYOND, unlocking every trophy in Days Gone",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T21:23:57Z"
+      },
+      {
+        "id": 1,
+        "name": "Just a Flesh Wound",
+        "description": "Get out of Crazy Willie's",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-15T20:33:47Z"
+      },
+      {
+        "id": 2,
+        "name": "Special Delivery",
+        "description": "Make a delivery to Tucker or Copeland",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-26T19:45:16Z"
+      },
+      {
+        "id": 3,
+        "name": "The Ends and the Means",
+        "description": "Discover what happened to NERO",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-24T21:19:00Z"
+      },
+      {
+        "id": 4,
+        "name": "Lost and Found",
+        "description": "Drive south with Boozer",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-18T15:56:23Z"
+      },
+      {
+        "id": 5,
+        "name": "Brothers in Arm",
+        "description": "Check up on Boozer",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-22T19:28:57Z"
+      },
+      {
+        "id": 6,
+        "name": "Take Back Your Name",
+        "description": "Return the favor",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-25T20:06:07Z"
+      },
+      {
+        "id": 7,
+        "name": "Riding NOMAD",
+        "description": "Take to the road alone",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-26T20:16:24Z"
+      },
+      {
+        "id": 8,
+        "name": "Hold on Tight",
+        "description": "See a familiar face",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-26T21:16:01Z"
+      },
+      {
+        "id": 9,
+        "name": "It's Getting Cold Outside",
+        "description": "Reconnect with what you lost",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-02T22:09:50Z"
+      },
+      {
+        "id": 10,
+        "name": "Morior Invictus",
+        "description": "Ride out to take back what's yours",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-03T20:36:48Z"
+      },
+      {
+        "id": 11,
+        "name": "I've Been Waiting for This",
+        "description": "Take revenge, once and for all",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-07T22:09:10Z"
+      },
+      {
+        "id": 12,
+        "name": "Days Done",
+        "description": "Complete the story of Days Gone",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-07T22:27:10Z"
+      },
+      {
+        "id": 13,
+        "name": "Ambush Camp Hunter",
+        "description": "Complete the Ambush Camp Hunter storyline",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T16:48:20Z"
+      },
+      {
+        "id": 14,
+        "name": "Infestation Exterminator",
+        "description": "Complete the Infestation Exterminator storyline",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T14:47:10Z"
+      },
+      {
+        "id": 15,
+        "name": "Marauder Camp Hunter",
+        "description": "Complete the Marauder Camp Hunter storyline",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-03T11:54:52Z"
+      },
+      {
+        "id": 16,
+        "name": "World's End",
+        "description": "Complete the World's End storyline",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T16:17:22Z"
+      },
+      {
+        "id": 17,
+        "name": "One Down",
+        "description": "Defeat your first Horde",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-03T12:34:02Z"
+      },
+      {
+        "id": 18,
+        "name": "Farewell Drift",
+        "description": "Accumulate 10 minutes of drifting while on your bike",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T20:22:09Z"
+      },
+      {
+        "id": 19,
+        "name": "This is a Knife",
+        "description": "Kill a Breaker, Reacher, or Rager with a knife",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T17:17:58Z"
+      },
+      {
+        "id": 20,
+        "name": "Ghost of Farewell",
+        "description": "Get 100 stealth kills",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-02T22:31:50Z"
+      },
+      {
+        "id": 21,
+        "name": "Old Reliable ",
+        "description": "Kill 200 Enemies with a Crafted Weapon",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-03T19:10:04Z"
+      },
+      {
+        "id": 22,
+        "name": "Variety is the Spice of Life",
+        "description": "Kill an enemy with every type of crossbow bolt",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T16:33:00Z"
+      },
+      {
+        "id": 23,
+        "name": "Farewell Original",
+        "description": "Purchase an upgrade under the Performance, Visual, and Paint Categories for your bike",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-24T19:36:03Z"
+      },
+      {
+        "id": 24,
+        "name": "First Time Buyer",
+        "description": "Upgrade your bike for the first time",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-26T19:46:00Z"
+      },
+      {
+        "id": 25,
+        "name": "Burnout Apocalypse",
+        "description": "Use nitro and drift at the same time on your bike for at least 5 seconds",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T15:40:47Z"
+      },
+      {
+        "id": 26,
+        "name": "The Art of Bike Repair",
+        "description": "Apply 100 scrap to your bike",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-02T22:16:40Z"
+      },
+      {
+        "id": 27,
+        "name": "You've Got Red on You",
+        "description": "Collect 541 Items from corpses",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-07T21:55:02Z"
+      },
+      {
+        "id": 28,
+        "name": "Lend Me Your Ears",
+        "description": "Collect 989 Freaker Ears",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-02T22:37:57Z"
+      },
+      {
+        "id": 29,
+        "name": "Finders Keepers",
+        "description": "Unlock your first collectible",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-12T18:29:02Z"
+      },
+      {
+        "id": 30,
+        "name": "Wannabe Fortune Hunter",
+        "description": "Unlock over 50% of the collectibles",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-03T13:05:50Z"
+      },
+      {
+        "id": 31,
+        "name": "The Broken Roadshow",
+        "description": "Unlock over 75% of collectibles",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T21:23:57Z"
+      },
+      {
+        "id": 32,
+        "name": "Surviving isn't Living",
+        "description": "Rescue 10 survivors",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-23T19:07:43Z"
+      },
+      {
+        "id": 33,
+        "name": "Better Living through Chemistry",
+        "description": "Upgrade either your Health, Stamina, or Focus for the first time",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-23T20:59:47Z"
+      },
+      {
+        "id": 34,
+        "name": "Performance Enhanced",
+        "description": "Max out either your Health, Stamina, or Focus ",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-30T20:49:01Z"
+      },
+      {
+        "id": 35,
+        "name": "Best Friends Forever",
+        "description": "Receive the Allied Trust status with an Encampment",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-07T21:23:40Z"
+      },
+      {
+        "id": 36,
+        "name": "Best Friends Forever (For Life)",
+        "description": "Gain the Allied Trust status with three different Encampments",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T14:48:28Z"
+      },
+      {
+        "id": 37,
+        "name": "Make it Rain",
+        "description": "Spend 20,000 credits at one Encampment",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-24T19:35:05Z"
+      },
+      {
+        "id": 38,
+        "name": "Welcome to the Party, Pal",
+        "description": "Clear all Ambush Camps, Infestations, and NERO Checkpoints in a single region",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-24T19:58:45Z"
+      },
+      {
+        "id": 39,
+        "name": "Kitchen Courier",
+        "description": "Sell Animal Meat or Plants to any Encampment",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-23T20:41:50Z"
+      },
+      {
+        "id": 40,
+        "name": "Don't Stop Me Now ",
+        "description": "Unlock your first skill",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-23T20:49:09Z"
+      },
+      {
+        "id": 41,
+        "name": "I'm Out of Control",
+        "description": "Unlock 15 skills",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-24T20:05:28Z"
+      },
+      {
+        "id": 42,
+        "name": "There's No Stopping Me",
+        "description": "Unlock 30 skills",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-03T11:39:39Z"
+      },
+      {
+        "id": 43,
+        "name": "Mr. Fahrenheit",
+        "description": "Unlock 45 skills",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T20:20:41Z"
+      },
+      {
+        "id": 44,
+        "name": "Go Kick Rocks",
+        "description": "Knock down 12 Anarchist Cairns",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-09T20:32:54Z"
+      },
+      {
+        "id": 45,
+        "name": "D.I.Y. Oregonian",
+        "description": "Craft 50 items",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-18T16:48:07Z"
+      },
+      {
+        "id": 46,
+        "name": "Surviving is Living",
+        "description": "Complete the story of Days Gone in Survival Mode",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "Days Gone in 60 Seconds",
+        "description": "Defeat a Horde in under 1 minute in Survival Mode",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "Participation Award",
+        "description": "Earn your first Bronze Medal in a Challenge",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 49,
+        "name": "Second (the) Best",
+        "description": "Earn your first Silver Medal in a Challenge",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 50,
+        "name": "Golden Boy",
+        "description": "Earn your first Gold Medal in a Challenge",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 51,
+        "name": "I Make This Look Good",
+        "description": "Earn a Gold Medal in a Challenge with a Character Skin and Custom Accent equipped",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "Worthy",
+        "description": "Fully upgrade any Ring",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Gold Team Rules",
+        "description": "Earn a Gold Medal in all Challenges",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "You Done Good, Kid",
+        "description": "Earn a Medal in all Sub-Challenges",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Dolla Dolla Bills, Y'all",
+        "description": "Spend 3000 credits on your Loadout",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Lost & Damned",
+        "description": "Reach the Founder Rank",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Gotta Patch 'Em All",
+        "description": "Unlock all Patches",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "One More Ride",
+        "description": "Complete the story of Days Gone in New Game+",
+        "type": "gold",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "2 Days 2 Done",
+        "description": "Complete the story of Days Gone on Hard II or Survival II in New Game+",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Logan's Shadow",
+        "description": "Kill an enemy with every type of ammo from a mysterious weapon earned in New Game+",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:05:14.108Z"
+}

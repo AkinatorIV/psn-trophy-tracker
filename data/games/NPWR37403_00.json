@@ -1,0 +1,419 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "High on Life",
+    "platform": "PS5",
+    "progress": 26,
+    "npCommunicationId": "NPWR37403_00",
+    "earnedCount": 16,
+    "totalCount": 45,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Call Your Loved Ones",
+        "description": "Hey, you got all the trophies. And that’s great. But people have been asking about you. Are you okay?",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Fallout Doesn't Let You Do This",
+        "description": "Kill Slumsley.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T18:46:35Z"
+      },
+      {
+        "id": 2,
+        "name": "Bring A Knife to a Gun Fight",
+        "description": "Obtain Knifey.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T18:54:03Z"
+      },
+      {
+        "id": 3,
+        "name": "First Bounty Down",
+        "description": "Defeat 9-Torg.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T19:05:44Z"
+      },
+      {
+        "id": 4,
+        "name": "Don't Knife The Hand That Feeds",
+        "description": "Take Knifey's advice and stab Gene in the gut.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T19:11:25Z"
+      },
+      {
+        "id": 5,
+        "name": "G3 Graduation",
+        "description": "Defeat Douglas.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T21:48:15Z"
+      },
+      {
+        "id": 6,
+        "name": "Sweezy Like Sunday Morning",
+        "description": "Obtain Sweezy.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T21:48:31Z"
+      },
+      {
+        "id": 7,
+        "name": "Gunning For Your Job",
+        "description": "Use Sweezy to boss around the Office Moplets.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-19T19:46:10Z"
+      },
+      {
+        "id": 8,
+        "name": "Cold-Blooded Driller",
+        "description": "Defeat Krubis.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-19T21:19:50Z"
+      },
+      {
+        "id": 9,
+        "name": "Satisfied Gus-tomer",
+        "description": "Obtain Gus.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-19T21:20:16Z"
+      },
+      {
+        "id": 10,
+        "name": "Are You Packin'?",
+        "description": "Obtain the Jetpack.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-19T21:36:52Z"
+      },
+      {
+        "id": 11,
+        "name": "Creature Feature",
+        "description": "Obtain Creature.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-13T16:28:05Z"
+      },
+      {
+        "id": 12,
+        "name": "Who's The Boss?",
+        "description": "Defeat the Skrendel Brothers.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-13T16:57:34Z"
+      },
+      {
+        "id": 13,
+        "name": "RIP Davey Glutes",
+        "description": "Obtain the Mag-Boots.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-21T18:09:08Z"
+      },
+      {
+        "id": 14,
+        "name": "Hardest Battle In The Game",
+        "description": "Defeat Dr. Giblets.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-21T18:39:00Z"
+      },
+      {
+        "id": 15,
+        "name": "Eatin' Good in the Neighborhood",
+        "description": "Pay your bill at Applebee's.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Spent 15 Hours At The Alien Strip Club",
+        "description": "Spend 15 hours at the very real in-game alien strip club.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Self-Actualization",
+        "description": "Defeat Nipulon.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Lezduit!",
+        "description": "Obtain Lezduit.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Series Wrap on Suit-O",
+        "description": "Say goodbye to Suit-O.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Playing Favorites",
+        "description": "Sacrifice a Gatlian other than Kenny during the fight against Garmantuous.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Legendary Bounty Hunter",
+        "description": "Defeat Garmantuous and take down the G3 cartel.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "We're All Very Impressed, Trust Me",
+        "description": "Juggle an enemy in the air with at least 5 shots.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-19T19:31:26Z"
+      },
+      {
+        "id": 23,
+        "name": "Eye Scream, You Scream",
+        "description": "Pop 20 Grunt eyeballs.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T21:38:14Z"
+      },
+      {
+        "id": 24,
+        "name": "A Starfish is Born",
+        "description": "Watch Globo's rise to fame.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "We Paid For The Rights To Put A Whole Movie In Here",
+        "description": "Discover the movie theater.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Epic Legendary Prize",
+        "description": "Sit through the entirety of the really annoying countdown show on TV.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Sequel-Bait",
+        "description": "Discover Dr. Gurgula's hideout in the Human Haven.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Seeing All The Sights",
+        "description": "Unlock and explore every collectible warp base.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Luglox Genocide",
+        "description": "Find and open every Luglox chest.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Mods Please Ban",
+        "description": "Unlock every post in the Bounty Hunter forums.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Playing Card To Get",
+        "description": "Collect every trading card in the game.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Carried Stan's Load To Completion",
+        "description": "Complete the game with Stan's product in your inventory.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Cardbored",
+        "description": "Collect all 9 trading cards on Peroxis and Muxxalon.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Mux Ado About Shipping",
+        "description": "Defeat Mux.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "We Came, We Chainsaw, We Conquered",
+        "description": "Kill a Bloat with Knifey's new upgrade.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Bathe With A Giant Nude Alien",
+        "description": "Take a bath with Toxxo.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Fall In Love With A Parasite",
+        "description": "Find a way to make love to the Parasite Passenger.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Meet Frasier from Frasier",
+        "description": "Visit Cheeks and hang out until closing time.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "See Salt",
+        "description": "Visit every major Peroxian landmark (and report back to the tour guide!)",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Porch Pirate",
+        "description": "Find every scattered Muxxalon package.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "That's B.A.L.L., Folks",
+        "description": "Kill 100 enemies with a fully charged ball shot.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "It's Like The Santa Clause",
+        "description": "Become the Riddle Master.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Harper? I Barely Know Her!",
+        "description": "Kill 50 enemies with Harpers glob shot.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Give Away All Your Money",
+        "description": "Grant the dying wish of a sick slug.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:05:14.272Z"
+}

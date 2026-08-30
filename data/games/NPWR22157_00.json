@@ -1,0 +1,626 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Control Ultimate Edition",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR22157_00",
+    "earnedCount": 68,
+    "totalCount": 68,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Director of the FBC",
+        "description": "Unlock all other trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-21T19:33:26Z"
+      },
+      {
+        "id": 1,
+        "name": "Astral Construction",
+        "description": "Construct a Weapon Form or Mod",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T11:00:57Z"
+      },
+      {
+        "id": 2,
+        "name": "Non-Standard Issue",
+        "description": "Upgrade any Weapon Form to Level 3",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T19:17:53Z"
+      },
+      {
+        "id": 3,
+        "name": "Career Development",
+        "description": "Unlock all 3 Personal Mod slots",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T15:14:57Z"
+      },
+      {
+        "id": 4,
+        "name": "The Importance of Synergy",
+        "description": "Complete 5 Side Missions",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T12:51:37Z"
+      },
+      {
+        "id": 5,
+        "name": "Inter-Departmental Cooperation",
+        "description": "Complete 10 Side Missions",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T13:50:52Z"
+      },
+      {
+        "id": 6,
+        "name": "FBC Crisis Solution Task Force",
+        "description": "Complete 15 Side Missions",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T19:44:40Z"
+      },
+      {
+        "id": 7,
+        "name": "Paranatural Collection",
+        "description": "Collect more than 100,000 Source",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T15:16:35Z"
+      },
+      {
+        "id": 8,
+        "name": "Interdimensional Defender",
+        "description": "Killed 1000 Hiss",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T20:31:49Z"
+      },
+      {
+        "id": 9,
+        "name": "Parautilitarian",
+        "description": "Unlock 1 Ability Tree Upgrade",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T10:46:19Z"
+      },
+      {
+        "id": 10,
+        "name": "Expert Parautilitarian",
+        "description": "Spend 50 Ability Points",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T14:09:00Z"
+      },
+      {
+        "id": 11,
+        "name": "Master Parautilitarian",
+        "description": "Spend 100 Ability Points",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-21T18:58:10Z"
+      },
+      {
+        "id": 12,
+        "name": "Choose to be Chosen",
+        "description": "Obtain the Service Weapon",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T09:36:52Z"
+      },
+      {
+        "id": 13,
+        "name": "Paranatural Powerhouse",
+        "description": "Obtain the Launch Ability",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T10:26:23Z"
+      },
+      {
+        "id": 14,
+        "name": "Insular Telekinesis",
+        "description": "Obtain the Shield Ability",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T12:51:37Z"
+      },
+      {
+        "id": 15,
+        "name": "Shifting Positions",
+        "description": "Obtain the Evade Ability",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T11:39:13Z"
+      },
+      {
+        "id": 16,
+        "name": "Psychic Occupation",
+        "description": "Obtain the Compel Ability",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T11:14:33Z"
+      },
+      {
+        "id": 17,
+        "name": "Rising Thought",
+        "description": "Obtain the Levitate Ability",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T15:43:30Z"
+      },
+      {
+        "id": 18,
+        "name": "Ritualistic Thinking",
+        "description": "Cleanse 5 Control Points",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T11:08:19Z"
+      },
+      {
+        "id": 19,
+        "name": "Ritual Intuition",
+        "description": "Cleanse 10 Control Points",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T18:34:49Z"
+      },
+      {
+        "id": 20,
+        "name": "Discerning the Pattern",
+        "description": "Cleanse 25 Control Points",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T14:41:36Z"
+      },
+      {
+        "id": 21,
+        "name": "Strange Collection",
+        "description": "Collect 40 Collectibles",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T11:05:10Z"
+      },
+      {
+        "id": 22,
+        "name": "Record Keeper",
+        "description": "Collect 80 Collectibles",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T12:16:22Z"
+      },
+      {
+        "id": 23,
+        "name": "Bureau Archivist",
+        "description": "Collect 120 Collectibles",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T18:58:57Z"
+      },
+      {
+        "id": 24,
+        "name": "Altered Manifestations May Occur",
+        "description": "Defeat esseJ",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T14:51:30Z"
+      },
+      {
+        "id": 25,
+        "name": "Aggressive Growth",
+        "description": "Defeat Mold-1",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T14:13:58Z"
+      },
+      {
+        "id": 26,
+        "name": "Head of Communications",
+        "description": "Defeat Mr. Tomassi",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T19:54:15Z"
+      },
+      {
+        "id": 27,
+        "name": "Living Archetypes",
+        "description": "Defeat the Anchor",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T18:49:11Z"
+      },
+      {
+        "id": 28,
+        "name": "Astral Phenomena",
+        "description": "Defeat Former",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T16:10:28Z"
+      },
+      {
+        "id": 29,
+        "name": "Welcome to the Oldest House",
+        "description": "Complete Mission 1",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T10:14:41Z"
+      },
+      {
+        "id": 30,
+        "name": "Unknown Caller ",
+        "description": "Complete Mission 2",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T10:45:32Z"
+      },
+      {
+        "id": 31,
+        "name": "Directorial Override",
+        "description": "Complete Mission 3",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T11:56:50Z"
+      },
+      {
+        "id": 32,
+        "name": "Old Boys' Club",
+        "description": "Complete Mission 4",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T11:40:56Z"
+      },
+      {
+        "id": 33,
+        "name": "Threshold",
+        "description": "Complete Mission 5",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T14:38:50Z"
+      },
+      {
+        "id": 34,
+        "name": "My Brother's Keeper",
+        "description": "Complete Mission 6",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T15:47:05Z"
+      },
+      {
+        "id": 35,
+        "name": "The Face of the Enemy",
+        "description": "Complete Mission 7",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T20:03:48Z"
+      },
+      {
+        "id": 36,
+        "name": "Finnish Tango",
+        "description": "Complete Mission 8",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T15:15:25Z"
+      },
+      {
+        "id": 37,
+        "name": "Polaris",
+        "description": "Complete Mission 9",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T18:45:50Z"
+      },
+      {
+        "id": 38,
+        "name": "Take Control",
+        "description": "Complete Mission 10",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T19:19:07Z"
+      },
+      {
+        "id": 39,
+        "name": "Cognitive Intruder",
+        "description": "Compel 10 enemies with the Seize Ability",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-14T18:43:48Z"
+      },
+      {
+        "id": 40,
+        "name": "Unstable Matter",
+        "description": "Kill 50 enemies with the Launch Ability",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T12:11:45Z"
+      },
+      {
+        "id": 41,
+        "name": "Volatile Debris",
+        "description": "Kill 10 enemies with the Shield Burst Ability",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-19T20:28:05Z"
+      },
+      {
+        "id": 42,
+        "name": "Proper Handling Procedures",
+        "description": "Use Launch to throw a grenade or rocket",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T11:49:12Z"
+      },
+      {
+        "id": 43,
+        "name": "War Games",
+        "description": "Complete 5 Board Countermeasures",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-16T15:14:28Z"
+      },
+      {
+        "id": 44,
+        "name": "Astral Tactician",
+        "description": "Complete 25 Board Countermeasures",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-21T19:33:26Z"
+      },
+      {
+        "id": 45,
+        "name": "First On the Scene",
+        "description": "Complete 1 Bureau Alert",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T14:52:50Z"
+      },
+      {
+        "id": 46,
+        "name": "Crisis Management",
+        "description": "Complete 5 Bureau Alerts",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T22:38:59Z"
+      },
+      {
+        "id": 47,
+        "name": "< Make/Unmake >",
+        "description": "Use Shape and Fracture a combined total of 100 times",
+        "type": "silver",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-21T18:52:41Z"
+      },
+      {
+        "id": 48,
+        "name": "Hostile Work Environment",
+        "description": "Kill 50 Hiss Sharpened",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-21T19:40:16Z"
+      },
+      {
+        "id": 49,
+        "name": "Rush Job",
+        "description": "Kill 100 enemies with Shield Rush",
+        "type": "silver",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-21T19:40:16Z"
+      },
+      {
+        "id": 50,
+        "name": "Niche Position",
+        "description": "Find all hidden locations in the Foundation",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T10:59:29Z"
+      },
+      {
+        "id": 51,
+        "name": "Subterranean Research",
+        "description": "Collect all Collectibles in the Foundation",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T11:16:27Z"
+      },
+      {
+        "id": 52,
+        "name": "Supportive Staff",
+        "description": "Have a Deployed Ranger kill 5 enemies",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-21T19:58:53Z"
+      },
+      {
+        "id": 53,
+        "name": "One of Us",
+        "description": "Gather all the Maneki-nekos",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T10:28:01Z"
+      },
+      {
+        "id": 54,
+        "name": "Star Performance",
+        "description": "Complete the Side Mission: \"Jesse Faden starring in 'Swift Platform'\"",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-30T13:03:36Z"
+      },
+      {
+        "id": 55,
+        "name": "Astral Plumbing",
+        "description": "Discover the Astral Plane restroom",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-30T12:21:07Z"
+      },
+      {
+        "id": 56,
+        "name": "A Strong Foundation",
+        "description": "Complete all Missions in the Foundation",
+        "type": "silver",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T10:17:25Z"
+      },
+      {
+        "id": 57,
+        "name": "Familiar Methodologies",
+        "description": "Fight off Hartman",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T15:49:35Z"
+      },
+      {
+        "id": 58,
+        "name": "Chief Investigator",
+        "description": "Find 80% of the hidden locations in the Investigations Sector",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T21:49:04Z"
+      },
+      {
+        "id": 59,
+        "name": "Vending Spree",
+        "description": "Destroy 80% of the Altered Vending Machine instances",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T22:20:08Z"
+      },
+      {
+        "id": 60,
+        "name": "The Third Thing",
+        "description": "Defeat Hartman",
+        "type": "silver",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T21:31:45Z"
+      },
+      {
+        "id": 61,
+        "name": "Workplace Recreation",
+        "description": "Play a single game in Arcade Mode",
+        "type": "silver",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T15:47:31Z"
+      },
+      {
+        "id": 62,
+        "name": "Surge of Power",
+        "description": "Upgrade Surge to the maximum level",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T21:41:41Z"
+      },
+      {
+        "id": 63,
+        "name": "Surge Protector",
+        "description": "Kill 50 enemies with Surge",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T21:10:48Z"
+      },
+      {
+        "id": 64,
+        "name": "Elevated Mind",
+        "description": "Kill 25 Airborne Rangers",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T22:52:17Z"
+      },
+      {
+        "id": 65,
+        "name": "In-depth Investigations",
+        "description": "Find 80% of the Collectibles in the Investigations Sector",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T22:13:46Z"
+      },
+      {
+        "id": 66,
+        "name": "Work Smarter, Not Harder",
+        "description": "Attach a Surge grenade to an object and Launch it at an enemy",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T21:36:12Z"
+      },
+      {
+        "id": 67,
+        "name": "Multiple Applications",
+        "description": "Use Multi-Launch to hit 3 targets",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2026-05-20T14:59:36Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:05:13.925Z"
+}

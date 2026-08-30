@@ -1,0 +1,239 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Stray",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR22008_00",
+    "earnedCount": 25,
+    "totalCount": 25,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "All Done",
+        "description": "Unlock all trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-04T13:38:15Z"
+      },
+      {
+        "id": 1,
+        "name": "A Little Chatty",
+        "description": "Meow 100 times.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-01T19:32:39Z"
+      },
+      {
+        "id": 2,
+        "name": "Cat-a-Pult",
+        "description": "Jump 500 times.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-01T17:27:25Z"
+      },
+      {
+        "id": 3,
+        "name": "Productive Day",
+        "description": "Sleep for more than one hour.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-03T21:54:55Z"
+      },
+      {
+        "id": 4,
+        "name": "Boom Chat Kalaka",
+        "description": "Dunk the basketball.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-01T17:04:29Z"
+      },
+      {
+        "id": 5,
+        "name": "Can't Cat-ch Me",
+        "description": "Complete the first Zurk pursuit without being caught.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-04T11:39:12Z"
+      },
+      {
+        "id": 6,
+        "name": "Sneakitty",
+        "description": "Go through Midtown without being detected by the Sentinels.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-03T20:38:07Z"
+      },
+      {
+        "id": 7,
+        "name": "No More Lives",
+        "description": "Die 9 times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-01T19:34:36Z"
+      },
+      {
+        "id": 8,
+        "name": "Scratch",
+        "description": "Scratch the vinyl in the club.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-03T19:19:28Z"
+      },
+      {
+        "id": 9,
+        "name": "Pacifist",
+        "description": "Complete the Sewers without killing any Zurks.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-02T19:27:16Z"
+      },
+      {
+        "id": 10,
+        "name": "I am Speed",
+        "description": "Complete the game in less than 2 hours.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-04T13:22:11Z"
+      },
+      {
+        "id": 11,
+        "name": "Missed Jump",
+        "description": "Fall inside the city.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-12-24T23:29:58Z"
+      },
+      {
+        "id": 12,
+        "name": "Not Alone",
+        "description": "Meet B-12.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-01T14:23:36Z"
+      },
+      {
+        "id": 13,
+        "name": "Cat Got Your Tongue?",
+        "description": "Have B-12 translate a robot.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-01T16:50:35Z"
+      },
+      {
+        "id": 14,
+        "name": "Catwalk",
+        "description": "Reach Midtown.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-02T19:43:01Z"
+      },
+      {
+        "id": 15,
+        "name": "Al-Cat-Raz",
+        "description": "Go to jail.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-03T19:23:31Z"
+      },
+      {
+        "id": 16,
+        "name": "Eye Opener",
+        "description": "Complete the game and open the city.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-03T19:59:55Z"
+      },
+      {
+        "id": 17,
+        "name": "Meowlody",
+        "description": "Bring all the music sheets to Morusque.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-01T17:43:22Z"
+      },
+      {
+        "id": 18,
+        "name": "Curiosity Killed the Cat",
+        "description": "Wear the paper bag.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-01T17:03:53Z"
+      },
+      {
+        "id": 19,
+        "name": "Cat-a-strophe",
+        "description": "Try to play mahjong with the robots.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-02T19:30:16Z"
+      },
+      {
+        "id": 20,
+        "name": "Cat's best friend",
+        "description": "Nuzzle up against 5 robots.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-02T19:41:54Z"
+      },
+      {
+        "id": 21,
+        "name": "I Remember!",
+        "description": "Gather all B-12 memories.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-03T19:49:34Z"
+      },
+      {
+        "id": 22,
+        "name": "Télé à chat",
+        "description": "Browse through all of the TV channels.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-01-01T17:20:13Z"
+      },
+      {
+        "id": 23,
+        "name": "Badges",
+        "description": "Collect all badges.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-03T20:53:36Z"
+      },
+      {
+        "id": 24,
+        "name": "Territory",
+        "description": "Scratch in every chapter.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-04T13:38:15Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:05:14.921Z"
+}

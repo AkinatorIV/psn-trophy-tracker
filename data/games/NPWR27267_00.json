@@ -1,0 +1,500 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "This War of Mine: Final Cut",
+    "platform": "PS5",
+    "progress": 55,
+    "npCommunicationId": "NPWR27267_00",
+    "earnedCount": 23,
+    "totalCount": 54,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Survive in Pogoren",
+        "description": "Obtain all the trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-11T08:47:20Z"
+      },
+      {
+        "id": 1,
+        "name": "Epilogue: War is over",
+        "description": "The war ends some day. It did for me. I hope I am not the only one.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-11T08:47:20Z"
+      },
+      {
+        "id": 2,
+        "name": "Diary: Day 7",
+        "description": "It's been seven days since we holed up here. We survived for a week! So far…",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-21T22:31:45Z"
+      },
+      {
+        "id": 3,
+        "name": "Diary: Effing Snow",
+        "description": "When the winter strikes Pogoren, you better be ready.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-06T18:35:30Z"
+      },
+      {
+        "id": 4,
+        "name": "Diary: Finished ransacking",
+        "description": "We've used every little thing we found here. We must venture outside.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-04T17:09:22Z"
+      },
+      {
+        "id": 5,
+        "name": "Note: Bless the radio",
+        "description": "The radio is useful beyond expectations. We get the news!",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-21T22:04:05Z"
+      },
+      {
+        "id": 6,
+        "name": "Note: Distilled gold ",
+        "description": "We finally managed to distill some moonshine. Always in high demand.\n",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-04T17:36:52Z"
+      },
+      {
+        "id": 7,
+        "name": "Note: Doubled the watch",
+        "description": "It's crucial to secure our place against night intruders. Two may be enough.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-21T22:30:17Z"
+      },
+      {
+        "id": 8,
+        "name": "Diary: Miraculous recovery",
+        "description": "This recovery from a grave illness proves that medicines work miracles.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-06T18:58:50Z"
+      },
+      {
+        "id": 9,
+        "name": "Diary: Patched up and ready to go",
+        "description": "What good fortune! The wounds are healing nicely.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-05T19:39:46Z"
+      },
+      {
+        "id": 10,
+        "name": "Diary: Back from the brink",
+        "description": "With just kind words and deeds, we helped one of us survive the darkest moment.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-23T11:18:42Z"
+      },
+      {
+        "id": 11,
+        "name": "Diary: Hostel's open!",
+        "description": "We have now enough beds for everybody.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-04T16:50:57Z"
+      },
+      {
+        "id": 12,
+        "name": "Diary: Shooting for five stars",
+        "description": "For the first time since we wound up here all of us ate a hot meal.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-21T22:22:59Z"
+      },
+      {
+        "id": 13,
+        "name": "Diary: First blood",
+        "description": "One of us survived our first brush with violent death.\n",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-21T22:05:55Z"
+      },
+      {
+        "id": 14,
+        "name": "Note: Creature comforts",
+        "description": "Our place is starting to resemble a proper home.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-23T11:06:41Z"
+      },
+      {
+        "id": 15,
+        "name": "Diary: Traces of lives",
+        "description": "Every building we visit has a story to tell. The more you learn, the better.\n",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-04T16:48:00Z"
+      },
+      {
+        "id": 16,
+        "name": "Diary: We Have Wintered",
+        "description": "The winter's gone. The freeze is over. We all made it through.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-06T19:54:21Z"
+      },
+      {
+        "id": 17,
+        "name": "Epilogue: We made it!",
+        "description": "Many died, but we're all still here. This surely means something... right?",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-06T20:21:45Z"
+      },
+      {
+        "id": 18,
+        "name": "Diary: We've been everywhere",
+        "description": "We've combed through all the neighborhood. Can we scavenge anything left?",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-06T20:11:08Z"
+      },
+      {
+        "id": 19,
+        "name": "Diary: We Made A Stand",
+        "description": "The bandits came in packs like dogs driven mad with hunger, but we were stronger.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-11T08:00:19Z"
+      },
+      {
+        "id": 20,
+        "name": "Note: A bit of indulgence",
+        "description": "Coffee and smokes - sometimes that's all.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-23T08:39:18Z"
+      },
+      {
+        "id": 21,
+        "name": "Epilogue: Exodus",
+        "description": "Being forced to leave home is cruel. But when home is hell, you gotta escape.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-06T20:21:45Z"
+      },
+      {
+        "id": 22,
+        "name": "Epilogue: New life",
+        "description": "Livia managed to survive until the end of war and gave birth to her child in time of peace.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-04-11T08:47:20Z"
+      },
+      {
+        "id": 23,
+        "name": "Diary: The Truth",
+        "description": "Faced my demons and learned the truth of that horrible night.\n",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Diary: Home Shelled Home",
+        "description": "Finally found a way back to the old apartment. Or whatever was left of it.\n",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Diary: Compassion",
+        "description": "Some may need the clothes more than anything.\n",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Diary: The doctor",
+        "description": "The stakes were high, but I could not stay idle. I killed those soldiers, but I saved the doctor.\n",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Diary: Good Neighbor",
+        "description": "The winter was severe. I knew Tito used to help my father frequently. I decided to help him too.\n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Epilogue: All the way",
+        "description": "Complete the game with all the alternate endings.\n",
+        "type": "gold",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Diary: The Janitor",
+        "description": "Zoran's destiny is fulfilled. We didn't burn any of our legacy.\n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Note: Fortify",
+        "description": "For the safety, all the pillars in the museum have been reinforced.\n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Note: Burn'em all",
+        "description": "Some people just want to watch the world burn.\n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Diary: Innocent children",
+        "description": "They had only their adoptive father - Adam. Now they have a glimmer of hope to survive this war.\n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Note: The truck is ready",
+        "description": "We finally managed to repair the truck. Now we can move our heritage to safety.\n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Note: The Colonel",
+        "description": "We gave the painting to Colonel Markov. Our heritage should be safe now.\n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Note: The Fence",
+        "description": "We gave the case files to Taras the fence. Our heritage should be safe now. \n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Diary: My dear Ruben",
+        "description": "We faced the harsh winter together and made it to the Museum, our new shelter. \n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Diary: The Custodian",
+        "description": "Milena's wish came true. We saved it all - our precious heritage.\n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Diary: Fool the Crow",
+        "description": "We acquired the truck parts without giving up Anja's necklace.\n",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "Note: Malik on duty",
+        "description": "Learn and broadcast all the news\n",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Diary: You are a liar",
+        "description": "Lie to Malik on two or more occasions\n",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "Diary: Thruthful",
+        "description": "Tell Malik the truth at least twice\n",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Epilogue: Heir",
+        "description": "Finish the game as Malik's successor\n",
+        "type": "gold",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Epilogue: Remorse",
+        "description": "Finish the game apologising to Malik\n",
+        "type": "gold",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Note: He is back home",
+        "description": "Let Adem return to the shelter\n",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Note: Roll-up master",
+        "description": "Make one hundred cigarettes\n",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "Note: The school of life",
+        "description": "It’s crucial that kids learn to survive on their own. What if we don’t come back one night?\n",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "Diary: Our future",
+        "description": "We made it! Schools will reopen soon. From now on, kids will live a normal life again.\n",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "Note: Avoid the worst",
+        "description": "Attacking a place that shelters a kid… Atrocious! We stand together to protect our little one!\n",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 49,
+        "name": "Note: Better days",
+        "description": "Kids… they sometimes seem to be far away from this war. It’s heartwarming.\n",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 50,
+        "name": "Diary: Bond for life",
+        "description": "At least the kid has a new playmate. Maybe it will even be a break from our daily routine here.\n",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 51,
+        "name": "Note: Everybody got to learn",
+        "description": "Solidarity. That’s the first thing we have to teach to our children.\n",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "Diary: Our own playground",
+        "description": "We wish we could be kids again and have fun with practically nothing.\n",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Note: No more tears",
+        "description": "Nothing is more beautiful to see than a child smile and play again.\n",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:05:14.527Z"
+}

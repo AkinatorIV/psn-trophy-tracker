@@ -1,0 +1,725 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "The Witcher 3: Wild Hunt",
+    "platform": "PS5",
+    "progress": 43,
+    "npCommunicationId": "NPWR24698_00",
+    "earnedCount": 38,
+    "totalCount": 79,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "The Limits of the Possible",
+        "description": "Collect all trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Lilac and Gooseberries",
+        "description": "Find Yennefer of Vengerberg.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-24T19:34:46Z"
+      },
+      {
+        "id": 2,
+        "name": "A Friend in Need",
+        "description": "Find and free Dandelion.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-06T20:16:45Z"
+      },
+      {
+        "id": 3,
+        "name": "Necromancer",
+        "description": "Help Yennefer extract information from Skjall's body.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-21T17:11:14Z"
+      },
+      {
+        "id": 4,
+        "name": "Family Counselor",
+        "description": "Find the baron's wife and daughter.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-26T20:47:16Z"
+      },
+      {
+        "id": 5,
+        "name": "Something More",
+        "description": "Find Ciri.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Xenonaut",
+        "description": "Visit Tir ná Lia and convince Ge'els to betray Eredin.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "The King is Dead",
+        "description": "Defeat Eredin.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Passed the Trial",
+        "description": "Finish the game on any difficulty.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Ran the Gauntlet",
+        "description": "Finish the game on the \"Blood and Broken Bones!\" or \"Death March!\" difficulty levels.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Walked the Path",
+        "description": "Finish the game on the \"Death March!\" difficulty level.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Geralt: The Professional",
+        "description": "Complete all witcher contracts.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-22T20:43:59Z"
+      },
+      {
+        "id": 12,
+        "name": "Kingmaker",
+        "description": "Complete the subplot about choosing Skellige's ruler.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-20T19:41:31Z"
+      },
+      {
+        "id": 13,
+        "name": "Assassin of Kings",
+        "description": "Take part in the assassination of King Radovid.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Friends With Benefits",
+        "description": "Complete the subplot involving Keira Metz.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-26T12:01:38Z"
+      },
+      {
+        "id": 15,
+        "name": "Full Crew",
+        "description": "Bring all possible allies to Kaer Morhen for the battle against the Hunt.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-22T20:10:41Z"
+      },
+      {
+        "id": 16,
+        "name": "Dendrologist",
+        "description": "Acquire all the Abilities in one tree.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-17T20:25:42Z"
+      },
+      {
+        "id": 17,
+        "name": "The Enemy of My Enemy",
+        "description": "Use the Axii Sign to force one opponent to kill another. Do this 20 times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Humpty Dumpty",
+        "description": "Kill 10 opponents by knocking them off somewhere high with the Aard Sign.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Environmentally Unfriendly",
+        "description": "Kill 50 opponents using the environment (e.g. swamp gas, insects or objects).",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-06T20:18:55Z"
+      },
+      {
+        "id": 20,
+        "name": "Kaer Morhen Trained",
+        "description": "Perform 10 effective counterattacks in a row without getting hit or parrying.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-22T20:17:22Z"
+      },
+      {
+        "id": 21,
+        "name": "Can't Touch This!",
+        "description": "Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-06T11:07:49Z"
+      },
+      {
+        "id": 22,
+        "name": "That Is the Evilest Thing…",
+        "description": "Ignite the gas produced by a Dragon's Dream bomb using a burning opponent. Do this 10 times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-22T13:58:51Z"
+      },
+      {
+        "id": 23,
+        "name": "Mutant",
+        "description": "Fill all mutagen slots.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-22T20:39:31Z"
+      },
+      {
+        "id": 24,
+        "name": "Butcher of Blaviken",
+        "description": "Kill at least 5 opponents in under 10 seconds.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-30T11:21:11Z"
+      },
+      {
+        "id": 25,
+        "name": "Triple Threat",
+        "description": "Kill 3 opponents in one fight using 3 different methods (swords, bombs, crossbow, Signs, etc.).",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-25T12:02:09Z"
+      },
+      {
+        "id": 26,
+        "name": "Brawler",
+        "description": "Defeat Olaf, the Skellige champion of unarmed combat.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-21T16:08:12Z"
+      },
+      {
+        "id": 27,
+        "name": "Overkill",
+        "description": "Make an opponent suffer from bleeding, poisoning and burning simultaneously. Do this 10 times.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Master Marksman",
+        "description": "Kill 50 human and nonhuman opponents by striking them in the head with a crossbow bolt.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "What Was That?",
+        "description": "Attack, counter, cast a Sign and throw a bomb (in any order) in under 4 seconds.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-22T20:11:27Z"
+      },
+      {
+        "id": 30,
+        "name": "Even Odds",
+        "description": "Kill 2 monsters you have a contract on without using Signs, potions, mutagens, oils or bombs.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-23T19:57:05Z"
+      },
+      {
+        "id": 31,
+        "name": "Globetrotter",
+        "description": "Discover 100 fast travel points.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-20T20:45:52Z"
+      },
+      {
+        "id": 32,
+        "name": "Pest Control",
+        "description": "Destroy all monster nests in the Velen / Novigrad region, or in Skellige.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Card Collector",
+        "description": "Acquire all gwent cards available in the base version of the game.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Gwent Master",
+        "description": "Defeat Tybalt and win the gwent tournament held at the Passiflora.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-16T22:55:32Z"
+      },
+      {
+        "id": 35,
+        "name": "Let's Cook!",
+        "description": "Learn 12 potion formulae.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-25T12:35:46Z"
+      },
+      {
+        "id": 36,
+        "name": "Bombardier",
+        "description": "Collect the formulae for 6 different bomb types.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-06T19:19:27Z"
+      },
+      {
+        "id": 37,
+        "name": "Bookworm",
+        "description": "Read 30 books, journals or other documents.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-26T15:30:14Z"
+      },
+      {
+        "id": 38,
+        "name": "Armed and Dangerous",
+        "description": "Find and equip all the elements of one set of witcher gear.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-23T12:17:19Z"
+      },
+      {
+        "id": 39,
+        "name": "Power Overwhelming",
+        "description": "Have all possible Place of Power bonuses active at the same time.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Brawl Master",
+        "description": "Complete all fistfighting quests in Velen, Skellige and Novigrad.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-22T13:28:39Z"
+      },
+      {
+        "id": 41,
+        "name": "Fast and Furious",
+        "description": "Win all the horse races in the game.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-21T16:28:33Z"
+      },
+      {
+        "id": 42,
+        "name": "Munchkin",
+        "description": "Reach character development level 35.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Fire in the Hole",
+        "description": "Destroy 10 monster nests using bombs.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-02T16:05:42Z"
+      },
+      {
+        "id": 44,
+        "name": "Fist of the South Star",
+        "description": "Defeat an opponent in a fistfight without taking any damage.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-23T18:34:08Z"
+      },
+      {
+        "id": 45,
+        "name": "Geralt and Friends",
+        "description": "Win a round of gwent using only neutral cards.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-06T17:16:12Z"
+      },
+      {
+        "id": 46,
+        "name": "All In",
+        "description": "Play three hero cards in one round of gwent and win the match.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-02T17:18:14Z"
+      },
+      {
+        "id": 47,
+        "name": "Shrieker",
+        "description": "Complete the contract on the shrieker.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-26T21:11:31Z"
+      },
+      {
+        "id": 48,
+        "name": "Fearless Vampire Slayer",
+        "description": "Complete the contract on Sarasti.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-17T16:59:27Z"
+      },
+      {
+        "id": 49,
+        "name": "Woodland Spirit",
+        "description": "Complete the contract on the Woodland Spirit.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-22T14:12:47Z"
+      },
+      {
+        "id": 50,
+        "name": "Fiend or Foe?",
+        "description": "Complete the contract on Morvudd.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-22T19:29:49Z"
+      },
+      {
+        "id": 51,
+        "name": "Ashes to Ashes",
+        "description": "Complete the contract on Therazane.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-22T15:49:29Z"
+      },
+      {
+        "id": 52,
+        "name": "The Doppler Effect",
+        "description": "Resolve the doppler problem in Novigrad.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-02T09:40:00Z"
+      },
+      {
+        "id": 53,
+        "name": "I'm Not Kissing That",
+        "description": "Kill the prince cursed into a toad.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-08-23T12:00:36Z"
+      },
+      {
+        "id": 54,
+        "name": "Let the Good Times Roll!",
+        "description": "Participate in all the activities at the wedding.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Shopaholic",
+        "description": "Buy all the items put on the block at the Borsodis' Auction House.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Curator of Nightmares",
+        "description": "Recreate all of Iris' nightmares in the Painted World.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Pacta Sunt Servanda",
+        "description": "Finish the \"Hearts of Stone\" expansion.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "When It's Many Against One…",
+        "description": "Provoke all Iris von Everec's Nightmares into fighting you at the same time and defeat them.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Return to Sender",
+        "description": "Kill 3 opponents with their own arrows.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Can Quit Anytime I Want",
+        "description": "Be under the influence of seven potions or decoctions at the same time.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 61,
+        "name": "Wild Rose Dethorned",
+        "description": "Defeat all the fallen knights and loot their campsites.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 62,
+        "name": "I Wore Ofieri Before It Was Cool",
+        "description": "Collect all available Ofieri armor and horse gear, and at least one Ofieri sword.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 63,
+        "name": "Moo-rderer",
+        "description": "Kill 20 cows.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 64,
+        "name": "Rad Steez, Bro!",
+        "description": "Slide downhill uninterrupted for at least 10 seconds.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 65,
+        "name": "Killed It",
+        "description": "Win a round of gwent with a total strength of at least 187.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 66,
+        "name": "The Witcher's Gone South",
+        "description": "Travel to the Duchy of Toussaint.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 67,
+        "name": "Last Action Hero",
+        "description": "Be decorated with the Order of Vitis Vinifera.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 68,
+        "name": "Kling of the Clink",
+        "description": "Serve time in Toussaint.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 69,
+        "name": "A Knight to Remember",
+        "description": "Obtain a flawless victory in all the competitions during the knights' tourney.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 70,
+        "name": "Embodiment of the Five Virtues",
+        "description": "Be given Aerondight by the Lady of the Lake.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 71,
+        "name": "Playing House",
+        "description": "Use all available options for developing Corvo Bianco.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 72,
+        "name": "Turned Every Stone",
+        "description": "Find all grandmaster diagrams for each witcher school.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 73,
+        "name": "I Have a Gwent Problem",
+        "description": "Collect all the cards in the Skellige deck.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 74,
+        "name": "The Grapes of Wrath Stomped",
+        "description": "Help unite the warring vineyards and have a wine named in your honor.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 75,
+        "name": "Dressed to Kill",
+        "description": "Unlock the bonus for equipping all the witcher gear elements from one School.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 76,
+        "name": "Weapon \"W\"",
+        "description": "Develop a mutation.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 77,
+        "name": "Hasta la Vista™",
+        "description": "Kill a frozen opponent with a crossbow bolt.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 78,
+        "name": "David and Golyat",
+        "description": "Kill Golyat with a crossbow bolt to his eye.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:05:13.517Z"
+}

@@ -1,0 +1,347 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Sly Cooper and the Thievius Raccoonus",
+    "platform": "PS5",
+    "progress": 1,
+    "npCommunicationId": "NPWR42542_00",
+    "earnedCount": 1,
+    "totalCount": 37,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "A Cooper's Pride",
+        "description": "Unlock all trophies in Sly Cooper and the Thievius Raccoonus.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Stopping the Storm",
+        "description": "Complete all jobs in Tide of Terror.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 2,
+        "name": "Plundered Treasures",
+        "description": "Open all vaults in Tide of Terror.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Croaking Crook",
+        "description": "Defeat Sir Raleigh.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Bringing Down the House",
+        "description": "Complete all jobs in Sunset Snake Eyes.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Sly's Hot Streak",
+        "description": "Open all vaults in Sunset Snake Eyes.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Blinding Blaster",
+        "description": "Defeat Muggshot.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Cauldron Disaster",
+        "description": "Complete all jobs in Vicious Voodoo.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Swampy Secrets",
+        "description": "Open all vaults in Vicious Voodoo.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Bayou Boogie",
+        "description": "Defeat Mz. Ruby.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Production Blocker",
+        "description": "Complete all jobs in Fire in the Sky.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Safecracker",
+        "description": "Open all vaults in Fire in the Sky.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Panda Pummeler",
+        "description": "Defeat Panda King.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Death Ray Destruction",
+        "description": "Foil Clockwerk's plans in The Cold Heart of Hate.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Eternal Enemy",
+        "description": "Defeat Clockwerk.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "A Thief Heeds No Warning",
+        "description": "Destroy 4 signs in A Stealthy Approach.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Nimble Solutions",
+        "description": "Complete The Fire Down Below without grabbing any hooks.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Charming the Library",
+        "description": "Complete A Cunning Disguise without using the barrel.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Through the Fire and Planks",
+        "description": "Take a shortcut over flaming debris in The Gunboat Graveyard by using the crow's nest.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "What a Pane",
+        "description": "Destroy 7 panes of glass in Back Alley Heist.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Look Out Below!",
+        "description": "Drop 5 cars in Straight to the Top.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Sleight of Hand",
+        "description": "Defeat all 4 Casino Enforcers at the start of Boneyard Casino without being detected.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "The Perfect Date",
+        "description": "Complete Two to Tango without taking damage or falling.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Must Have Been the Ghosts",
+        "description": "Defeat all Voodoo Guards in The Dread Swamp Path without being detected.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Ectoplasmic Slasher",
+        "description": "Defeat 5 ghosts in a single attack in A Grave Undertaking.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Sly Be Nimble Sly Be Quick",
+        "description": "Jump over all candles during the chase in The Lair of the Beast.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Slytly Pacifist",
+        "description": "Complete Descent into Danger without defeating any enemies or destroying any alarms.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Get a Clue",
+        "description": "Collect 5 Clue Bottles.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-03-31T20:18:35Z"
+      },
+      {
+        "id": 28,
+        "name": "Seen and Wanted",
+        "description": "Alert every flashlight guard and set off every alarm in The Unseen Foe.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "This Session's Over",
+        "description": "Defeat all the training Moo Goo monkeys in Flaming Temple of Flame.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Setting the Mood",
+        "description": "Launch 2 pink fireworks in Duel by the Dragon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Share What's Mine",
+        "description": "Defeat two or more enemies with the same mine.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Knowing Is Half the Battle",
+        "description": "Learn the names of 10 enemies through the Binoc-u-com.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "No More Beaches for Sly",
+        "description": "Discover the Water Safety technique.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Super Cooper",
+        "description": "Discover the Briefly Defy Gravity technique.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Oh No He Didn't!",
+        "description": "Steal a kiss.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Speedius Thievius",
+        "description": "Complete 10 Master Thief Sprints.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:05:15.172Z"
+}

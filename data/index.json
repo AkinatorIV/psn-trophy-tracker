@@ -1,0 +1,1027 @@
+{
+  "psnId": "AkinatorII",
+  "totalGames": 51,
+  "games": [
+    {
+      "npCommunicationId": "NPWR42963_00",
+      "name": "Vampire Survivors",
+      "platform": "PS5",
+      "progress": 14,
+      "definedTrophies": {
+        "bronze": 207,
+        "silver": 61,
+        "gold": 15,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 45,
+        "silver": 7,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-08-29T19:26:30Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR24698_00",
+      "name": "The Witcher 3: Wild Hunt",
+      "platform": "PS5",
+      "progress": 43,
+      "definedTrophies": {
+        "bronze": 68,
+        "silver": 8,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 34,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-08-23T12:17:20Z",
+      "detailsPath": "data/games/NPWR24698_00.json"
+    },
+    {
+      "npCommunicationId": "NPWR46362_00",
+      "name": "LEGO® Batman™: Legacy of the Dark Knight",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 44,
+        "silver": 4,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 44,
+        "silver": 4,
+        "gold": 3,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2026-07-13T16:56:09Z",
+      "detailsPath": "data/games/NPWR46362_00.json"
+    },
+    {
+      "npCommunicationId": "NPWR22157_00",
+      "name": "Control Ultimate Edition",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 50,
+        "silver": 14,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 50,
+        "silver": 14,
+        "gold": 3,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2026-05-31T11:16:28Z",
+      "detailsPath": "data/games/NPWR22157_00.json"
+    },
+    {
+      "npCommunicationId": "NPWR17130_00",
+      "name": "DAYS GONE",
+      "platform": "PS4",
+      "progress": 70,
+      "definedTrophies": {
+        "bronze": 37,
+        "silver": 19,
+        "gold": 4,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 28,
+        "silver": 15,
+        "gold": 2,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2026-05-09T21:24:00Z",
+      "detailsPath": "data/games/NPWR17130_00.json"
+    },
+    {
+      "npCommunicationId": "NPWR37403_00",
+      "name": "High on Life",
+      "platform": "PS5",
+      "progress": 26,
+      "definedTrophies": {
+        "bronze": 29,
+        "silver": 9,
+        "gold": 6,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 14,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-04-13T16:57:34Z",
+      "detailsPath": "data/games/NPWR37403_00.json"
+    },
+    {
+      "npCommunicationId": "NPWR27267_00",
+      "name": "This War of Mine: Final Cut",
+      "platform": "PS5",
+      "progress": 55,
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 7,
+        "gold": 12,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 9,
+        "silver": 5,
+        "gold": 8,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2026-04-11T08:47:21Z",
+      "detailsPath": "data/games/NPWR27267_00.json"
+    },
+    {
+      "npCommunicationId": "NPWR22008_00",
+      "name": "Stray",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 8,
+        "silver": 9,
+        "gold": 7,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 8,
+        "silver": 9,
+        "gold": 7,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2026-04-04T13:38:14Z",
+      "detailsPath": "data/games/NPWR22008_00.json"
+    },
+    {
+      "npCommunicationId": "NPWR42542_00",
+      "name": "Sly Cooper and the Thievius Raccoonus",
+      "platform": "PS5",
+      "progress": 1,
+      "definedTrophies": {
+        "bronze": 22,
+        "silver": 9,
+        "gold": 5,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 1,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-03-31T20:18:35Z",
+      "detailsPath": "data/games/NPWR42542_00.json"
+    },
+    {
+      "npCommunicationId": "NPWR54382_00",
+      "name": "Red Dead Redemption",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 44,
+        "silver": 4,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 44,
+        "silver": 4,
+        "gold": 3,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2026-03-31T19:54:06Z",
+      "detailsPath": "data/games/NPWR54382_00.json"
+    },
+    {
+      "npCommunicationId": "NPWR22848_00",
+      "name": "Subnautica: Below Zero",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 2,
+        "gold": 11,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 0,
+        "silver": 2,
+        "gold": 11,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2026-03-07T22:22:20Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR28978_00",
+      "name": "ARC Raiders",
+      "platform": "PS5",
+      "progress": 57,
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 32,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-02-22T16:06:52Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR44891_00",
+      "name": "Anno 117",
+      "platform": "PS5",
+      "progress": 13,
+      "definedTrophies": {
+        "bronze": 50,
+        "silver": 16,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 13,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-01-04T19:40:50Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR42066_00",
+      "name": "Balatro",
+      "platform": "PS5",
+      "progress": 4,
+      "definedTrophies": {
+        "bronze": 18,
+        "silver": 7,
+        "gold": 6,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-01-02T21:23:03Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR51746_00",
+      "name": "Ghost of Yōtei",
+      "platform": "PS5",
+      "progress": 82,
+      "definedTrophies": {
+        "bronze": 48,
+        "silver": 10,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 45,
+        "silver": 7,
+        "gold": 2,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-12-24T12:33:21Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR21190_00",
+      "name": "Tom Clancy’s Rainbow Six® Siege",
+      "platform": "PS5",
+      "progress": 2,
+      "definedTrophies": {
+        "bronze": 34,
+        "silver": 12,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 0,
+        "silver": 1,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2025-12-14T14:30:25Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR15324_00",
+      "name": "Fallout Shelter Trophy Set",
+      "platform": "PS4",
+      "progress": 17,
+      "definedTrophies": {
+        "bronze": 20,
+        "silver": 10,
+        "gold": 4,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 7,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2025-12-02T15:17:56Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR21564_00",
+      "name": "Borderlands® 4",
+      "platform": "PS5",
+      "progress": 6,
+      "definedTrophies": {
+        "bronze": 27,
+        "silver": 17,
+        "gold": 8,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 3,
+        "silver": 2,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2025-12-01T16:54:29Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR50656_00",
+      "name": "Battlefield™ 6",
+      "platform": "PS5",
+      "progress": 85,
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 12,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 28,
+        "silver": 11,
+        "gold": 3,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-11-22T13:55:43Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR23774_00",
+      "name": "Hades",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 40,
+        "silver": 7,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 40,
+        "silver": 7,
+        "gold": 2,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-10-14T21:39:20Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR29894_00",
+      "name": "Assassin's Creed® Mirage",
+      "platform": "PS5",
+      "progress": 84,
+      "definedTrophies": {
+        "bronze": 43,
+        "silver": 17,
+        "gold": 1,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 34,
+        "silver": 15,
+        "gold": 1,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-09-18T17:14:05Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR20879_00",
+      "name": "Mafia: Definitive Edition",
+      "platform": "PS4",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 33,
+        "silver": 7,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 33,
+        "silver": 7,
+        "gold": 3,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-09-17T21:42:37Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR32217_00",
+      "name": "Hotline Miami",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 16,
+        "silver": 14,
+        "gold": 4,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 16,
+        "silver": 14,
+        "gold": 4,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-08-31T14:46:30Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR25821_00",
+      "name": "Road 96",
+      "platform": "PS5",
+      "progress": 0,
+      "definedTrophies": {
+        "bronze": 0,
+        "silver": 0,
+        "gold": 11,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 0,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2025-08-25T19:55:32Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR10156_00",
+      "name": "Prison Architect: PlayStation®4 Edition",
+      "platform": "PS4",
+      "progress": 20,
+      "definedTrophies": {
+        "bronze": 19,
+        "silver": 20,
+        "gold": 4,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 1,
+        "silver": 5,
+        "gold": 1,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2025-08-24T21:11:08Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR21175_00",
+      "name": "Hogwarts Legacy",
+      "platform": "PS5",
+      "progress": 5,
+      "definedTrophies": {
+        "bronze": 28,
+        "silver": 15,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 4,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2025-08-14T18:27:34Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR34992_00",
+      "name": "Black Myth: Wukong",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 22,
+        "silver": 9,
+        "gold": 4,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 22,
+        "silver": 9,
+        "gold": 4,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-08-10T20:44:28Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR42366_00",
+      "name": "DOOM: The Dark Ages",
+      "platform": "PS5",
+      "progress": 83,
+      "definedTrophies": {
+        "bronze": 18,
+        "silver": 15,
+        "gold": 5,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 11,
+        "silver": 12,
+        "gold": 5,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-07-04T19:52:49Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR42633_00",
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "platform": "PS5",
+      "progress": 83,
+      "definedTrophies": {
+        "bronze": 45,
+        "silver": 14,
+        "gold": 1,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 38,
+        "silver": 11,
+        "gold": 1,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-06-14T12:57:36Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR39144_00",
+      "name": "Clair Obscur: Expedition 33",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 48,
+        "silver": 5,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 48,
+        "silver": 5,
+        "gold": 2,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-05-29T14:14:38Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR24695_00",
+      "name": "Cyberpunk 2077",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 39,
+        "silver": 17,
+        "gold": 1,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 39,
+        "silver": 17,
+        "gold": 1,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-04-24T20:27:07Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR05542_00",
+      "name": "BATMAN™: ARKHAM KNIGHT",
+      "platform": "PS4",
+      "progress": 51,
+      "definedTrophies": {
+        "bronze": 81,
+        "silver": 27,
+        "gold": 1,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 62,
+        "silver": 2,
+        "gold": 1,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-02-18T22:27:05Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR24170_00",
+      "name": "ASTRO BOT",
+      "platform": "PS5",
+      "progress": 87,
+      "definedTrophies": {
+        "bronze": 41,
+        "silver": 19,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 32,
+        "silver": 18,
+        "gold": 2,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2025-01-11T18:09:59Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR21924_00",
+      "name": "Kena: Bridge of Spirits",
+      "platform": "PS5",
+      "progress": 3,
+      "definedTrophies": {
+        "bronze": 29,
+        "silver": 9,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 2,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2025-01-04T20:13:21Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR25067_00",
+      "name": "ELDEN RING™",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 24,
+        "silver": 14,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 24,
+        "silver": 14,
+        "gold": 3,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2024-12-24T23:14:04Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR44165_00",
+      "name": "Marvel Rivals",
+      "platform": "PS5",
+      "progress": 3,
+      "definedTrophies": {
+        "bronze": 26,
+        "silver": 11,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 2,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2024-12-15T23:08:19Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR24042_00",
+      "name": "Overwatch",
+      "platform": "PS5",
+      "progress": 38,
+      "definedTrophies": {
+        "bronze": 85,
+        "silver": 5,
+        "gold": 1,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 23,
+        "silver": 5,
+        "gold": 1,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2024-12-01T17:45:35Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR25914_00",
+      "name": "Two Point Campus",
+      "platform": "PS5",
+      "progress": 19,
+      "definedTrophies": {
+        "bronze": 26,
+        "silver": 16,
+        "gold": 6,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 10,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2024-11-24T21:32:09Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR13872_00",
+      "name": "DETROIT: BECOME HUMAN",
+      "platform": "PS4",
+      "progress": 50,
+      "definedTrophies": {
+        "bronze": 40,
+        "silver": 5,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 26,
+        "silver": 1,
+        "gold": 1,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2024-11-20T21:27:22Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR20842_00",
+      "name": "Ratchet & Clank: Rift Apart",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 36,
+        "silver": 7,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 36,
+        "silver": 7,
+        "gold": 3,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2024-11-11T18:33:31Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR31207_00",
+      "name": "DREDGE",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 42,
+        "silver": 13,
+        "gold": 4,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 42,
+        "silver": 13,
+        "gold": 4,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2024-10-25T19:33:55Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR21008_00",
+      "name": "Horizon Forbidden West",
+      "platform": "PS5",
+      "progress": 70,
+      "definedTrophies": {
+        "bronze": 67,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 50,
+        "silver": 7,
+        "gold": 1,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2024-10-04T20:13:37Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR36088_00",
+      "name": "Baldur's Gate 3",
+      "platform": "PS5",
+      "progress": 5,
+      "definedTrophies": {
+        "bronze": 47,
+        "silver": 4,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 4,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2024-04-01T18:21:25Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR29960_00",
+      "name": "Dead Space",
+      "platform": "PS5",
+      "progress": 64,
+      "definedTrophies": {
+        "bronze": 35,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 31,
+        "silver": 6,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2024-03-29T18:15:34Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR23378_00",
+      "name": "Marvel's Spider-Man 2",
+      "platform": "PS5,PSPC",
+      "progress": 97,
+      "definedTrophies": {
+        "bronze": 22,
+        "silver": 18,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 22,
+        "silver": 17,
+        "gold": 2,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2024-01-15T19:39:26Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR38625_00",
+      "name": "THE FINALS",
+      "platform": "PS5",
+      "progress": 4,
+      "definedTrophies": {
+        "bronze": 38,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 3,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2023-12-11T19:33:11Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR22859_00",
+      "name": "Ghost of Tsushima",
+      "platform": "PS5,PSPC",
+      "progress": 68,
+      "definedTrophies": {
+        "bronze": 59,
+        "silver": 13,
+        "gold": 4,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 43,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2023-07-09T16:02:35Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR13348_00",
+      "name": "The Last of Us™ Part II",
+      "platform": "PS4",
+      "progress": 38,
+      "definedTrophies": {
+        "bronze": 11,
+        "silver": 9,
+        "gold": 7,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 7,
+        "silver": 7,
+        "gold": 1,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2023-04-27T19:33:38Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR20684_00",
+      "name": "Marvel's Spider-Man: Miles Morales",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 37,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 37,
+        "silver": 10,
+        "gold": 2,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2023-02-10T19:54:51Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR22392_00",
+      "name": "God of War Ragnarök",
+      "platform": "PS5,PSPC",
+      "progress": 84,
+      "definedTrophies": {
+        "bronze": 27,
+        "silver": 16,
+        "gold": 4,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 16,
+        "silver": 15,
+        "gold": 4,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2023-02-10T19:54:50Z",
+      "detailsPath": null
+    },
+    {
+      "npCommunicationId": "NPWR26546_00",
+      "name": "The Last of Us™ Part I",
+      "platform": "PS5",
+      "progress": 100,
+      "definedTrophies": {
+        "bronze": 14,
+        "silver": 7,
+        "gold": 7,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 14,
+        "silver": 7,
+        "gold": 7,
+        "platinum": 1
+      },
+      "lastUpdatedDateTime": "2023-02-10T19:54:50Z",
+      "detailsPath": null
+    }
+  ],
+  "updatedAt": "2026-08-30T12:05:15.399Z"
+}

@@ -1,0 +1,482 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "LEGO® Batman™: Legacy of the Dark Knight",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR46362_00",
+    "earnedCount": 52,
+    "totalCount": 52,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "\"I am Batman.\"",
+        "description": "Collect all Trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:56:09Z"
+      },
+      {
+        "id": 1,
+        "name": "\"A hero can be anyone.\"",
+        "description": "Complete Story Mode",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-10T18:54:31Z"
+      },
+      {
+        "id": 2,
+        "name": "\"Hopefully, because he's busy.\"",
+        "description": "Complete every side activity in Gotham",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:22:28Z"
+      },
+      {
+        "id": 3,
+        "name": "A Watchful Collector",
+        "description": "Collect all Collectibles",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:37:58Z"
+      },
+      {
+        "id": 4,
+        "name": "\"I'm not wearing hockey pads.\"",
+        "description": "Unlock All Suits",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:22:18Z"
+      },
+      {
+        "id": 5,
+        "name": "\"Wanna know how I got these cars?\"",
+        "description": "Unlock All Vehicles",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:23:59Z"
+      },
+      {
+        "id": 6,
+        "name": "\"Holy Skill Upgrades, Batman!\"",
+        "description": "Unlock All Skill Upgrades",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:30:42Z"
+      },
+      {
+        "id": 7,
+        "name": "\"This is too much power for one person.\"",
+        "description": "Collect all Red Bricks",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-10T19:59:47Z"
+      },
+      {
+        "id": 8,
+        "name": "Up for the Challenge",
+        "description": "Complete 20 Challenges",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-19T20:31:22Z"
+      },
+      {
+        "id": 9,
+        "name": "\"It's a big city. I can't be everywhere.\"",
+        "description": "Unlock all fast travel points",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-11T19:30:25Z"
+      },
+      {
+        "id": 10,
+        "name": "A Friend",
+        "description": "Unlock Jim Gordon",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T15:55:54Z"
+      },
+      {
+        "id": 11,
+        "name": "\"Hear me roar.\"",
+        "description": "Unlock Catwoman",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-05T18:55:35Z"
+      },
+      {
+        "id": 12,
+        "name": "The Boy Wonder",
+        "description": "Unlock Robin",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-10T21:03:45Z"
+      },
+      {
+        "id": 13,
+        "name": "\"Let's see what Batgirl can do!\"",
+        "description": "Unlock Batgirl",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-13T20:40:19Z"
+      },
+      {
+        "id": 14,
+        "name": "A Grayson Graduation",
+        "description": "Unlock Nightwing",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-19T20:43:51Z"
+      },
+      {
+        "id": 15,
+        "name": "Out of the Shadows",
+        "description": "Unlock Talia",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-25T18:52:01Z"
+      },
+      {
+        "id": 16,
+        "name": "\"It's not exactly a normal world.\"",
+        "description": "Visit every District",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-11T19:28:14Z"
+      },
+      {
+        "id": 17,
+        "name": "Wonderful Toys",
+        "description": "Purchase all Gadget Upgrades for any single character",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-13T20:51:18Z"
+      },
+      {
+        "id": 18,
+        "name": "Beware the Gray Ghost!",
+        "description": "Complete Bruce's Gray Ghost costume",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T12:03:17Z"
+      },
+      {
+        "id": 19,
+        "name": "\"A legend, Mr. Wayne.\"",
+        "description": "Complete the Prologue",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T13:15:10Z"
+      },
+      {
+        "id": 20,
+        "name": "One Bad Day",
+        "description": "Complete Chapter One",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-03T16:54:41Z"
+      },
+      {
+        "id": 21,
+        "name": "\"Do I look like I'm joking?\"",
+        "description": "Complete Chapter Two",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-10T20:21:50Z"
+      },
+      {
+        "id": 22,
+        "name": "The Dynamic Duo",
+        "description": "Complete Chapter Three",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-13T19:58:11Z"
+      },
+      {
+        "id": 23,
+        "name": "An Endless Winter",
+        "description": "Complete Chapter Four",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-21T18:50:22Z"
+      },
+      {
+        "id": 24,
+        "name": "Knightfall",
+        "description": "Complete Chapter Five",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-08T19:50:01Z"
+      },
+      {
+        "id": 25,
+        "name": "\"You have a name to maintain.\"",
+        "description": "Open every WayneTech Cache",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:30:31Z"
+      },
+      {
+        "id": 26,
+        "name": "\"The idea was to be a symbol.\"",
+        "description": "Collect 25 Bat-Symbols",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:56:09Z"
+      },
+      {
+        "id": 27,
+        "name": "\"Quite the collection, Master Bruce.\"",
+        "description": "Collect all Batcave Trophies",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:37:57Z"
+      },
+      {
+        "id": 28,
+        "name": "Too Many Questions",
+        "description": "Complete every Puzzle Room",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:22:27Z"
+      },
+      {
+        "id": 29,
+        "name": "\"Lighter, faster, more agile.\"",
+        "description": "Purchase a Skill Upgrade from each category",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-03T17:17:09Z"
+      },
+      {
+        "id": 30,
+        "name": "Theatricality and Deception",
+        "description": "Purchase 3 Gadget Upgrades",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-03T17:05:22Z"
+      },
+      {
+        "id": 31,
+        "name": "\"I own the place.\"",
+        "description": "Purchase all Batcave Expansions",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-21T18:46:06Z"
+      },
+      {
+        "id": 32,
+        "name": "Not Just a Cave",
+        "description": "Place 5 Props or Trophies in the Batcave",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-13T20:55:13Z"
+      },
+      {
+        "id": 33,
+        "name": "\"No, sir. The OTHER car.\"",
+        "description": "Purchase 3 Vehicles from the Batcave",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-11T19:18:09Z"
+      },
+      {
+        "id": 34,
+        "name": "\"You either buy a hero…\"",
+        "description": "Purchase 5 Items from Shops",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-03T17:10:52Z"
+      },
+      {
+        "id": 35,
+        "name": "\"Does it come in black?\"",
+        "description": "Equip a Red Brick",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-10T20:16:44Z"
+      },
+      {
+        "id": 36,
+        "name": "\"Wouldn't wanna make things too easy.\"",
+        "description": "Get 5 Gold Medals in AR Trials",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-11T19:37:28Z"
+      },
+      {
+        "id": 37,
+        "name": "Rebuilding Gotham",
+        "description": "Cash in a Challenge in the Batcave",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-03T17:02:30Z"
+      },
+      {
+        "id": 38,
+        "name": "Collecting Evidence",
+        "description": "Roll the camera over 20 degrees in Photo Mode",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-13T16:39:37Z"
+      },
+      {
+        "id": 39,
+        "name": "Computer Privileges",
+        "description": "Change the screensaver on the Batcomputer",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-21T18:48:18Z"
+      },
+      {
+        "id": 40,
+        "name": "\"Life's been good to me.\"",
+        "description": "Collect 1,000,000 Studs",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-07T20:23:01Z"
+      },
+      {
+        "id": 41,
+        "name": "Caped Defender",
+        "description": "Perform 100 Successful Counters",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T16:56:45Z"
+      },
+      {
+        "id": 42,
+        "name": "\"Never do it for free.\"",
+        "description": "Collect 30,000 Studs within a single stud combo",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T16:02:53Z"
+      },
+      {
+        "id": 43,
+        "name": "\"I'm good with calculation.\"",
+        "description": "Maintain Max Stud Combo for 60 Seconds",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T16:31:43Z"
+      },
+      {
+        "id": 44,
+        "name": "The Strength to Fight",
+        "description": "Reach Combat Combo of 99 hits",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-02T17:15:32Z"
+      },
+      {
+        "id": 45,
+        "name": "\"I am the shadows.\"",
+        "description": "Perform 100 Stealth Takedowns",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-03T16:21:56Z"
+      },
+      {
+        "id": 46,
+        "name": "\"This is my city.\"",
+        "description": "Place a Pin on the Map",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-05-31T16:16:17Z"
+      },
+      {
+        "id": 47,
+        "name": "\"You're becoming quite a celebrity.\"",
+        "description": "Discover 100 open world events",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-17T19:03:57Z"
+      },
+      {
+        "id": 48,
+        "name": "Cowardly and Superstitious Lot",
+        "description": "Defeat every type of enemy once",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-06-17T19:06:08Z"
+      },
+      {
+        "id": 49,
+        "name": "\"Gotham can feel a little safer.\"",
+        "description": "Prevent 30 Crimes",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-10T20:28:07Z"
+      },
+      {
+        "id": 50,
+        "name": "\"Things have improved.\"",
+        "description": "Prevent each type of Crime in Gotham once",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-12T22:05:41Z"
+      },
+      {
+        "id": 51,
+        "name": "\"Is that like parachuting?\"",
+        "description": "Glide in 10 different wind tunnels",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-07-10T20:27:12Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:05:13.759Z"
+}
