@@ -20,7 +20,7 @@
         "platinum": 0
       },
       "lastUpdatedDateTime": "2026-08-29T19:26:30Z",
-      "detailsPath": null
+      "detailsPath": "data/games/NPWR42963_00.json"
     },
     {
       "npCommunicationId": "NPWR24698_00",
@@ -1023,5 +1023,5 @@
       "detailsPath": null
     }
   ],
-  "updatedAt": "2026-08-30T12:05:15.399Z"
+  "updatedAt": "2026-08-30T12:07:27.389Z"
 }

@@ -1,0 +1,2570 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Vampire Survivors",
+    "platform": "PS5",
+    "progress": 14,
+    "npCommunicationId": "NPWR42963_00",
+    "earnedCount": 52,
+    "totalCount": 284,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Cosmic Delight",
+        "description": "Where was the vampire again?",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Lightning Ring",
+        "description": "Defeat a total of 5000 enemies.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T14:30:11Z"
+      },
+      {
+        "id": 2,
+        "name": "Mortaccio",
+        "description": "Defeat a total of 3000 Skeletons.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:21Z"
+      },
+      {
+        "id": 3,
+        "name": "Hyper Mad Forest",
+        "description": "Defeat the giant Blue Venus in the Mad Forest.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:21Z"
+      },
+      {
+        "id": 4,
+        "name": "Hyper Inlaid Library",
+        "description": "Defeat the Hag in the Inlaid Library.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:39Z"
+      },
+      {
+        "id": 5,
+        "name": "Inlaid Library",
+        "description": "Reach Level 20 in the Mad Forest.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T14:51:41Z"
+      },
+      {
+        "id": 6,
+        "name": "Stone Mask",
+        "description": "Find a Stone Mask.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Yatta Cavallo",
+        "description": "Defeat a total of 3000 Lion Heads.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Dairy Plant",
+        "description": "Reach Level 40 in the Inlaid Library.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:38Z"
+      },
+      {
+        "id": 9,
+        "name": "Hyper Dairy Plant",
+        "description": "Defeat the Sword Guardian in the Dairy Plant.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T19:26:10Z"
+      },
+      {
+        "id": 10,
+        "name": "Milky Way Map",
+        "description": "Find the Milky Way Map.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:29:46Z"
+      },
+      {
+        "id": 11,
+        "name": "Coffin: Dairy Plant",
+        "description": "Find and open the coffin in the Dairy Plant.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T19:26:10Z"
+      },
+      {
+        "id": 12,
+        "name": "Coffin: Mad Forest",
+        "description": "Find and open the coffin in the Mad Forest.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:21Z"
+      },
+      {
+        "id": 13,
+        "name": "Hyper Gallo Tower",
+        "description": "Defeat the Giant Enemy Crab in Gallo Tower.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Sorceress' Tears",
+        "description": "Find the Sorceress' Tears.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Gallo Tower",
+        "description": "Reach Level 60 in the Dairy Plant.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T19:26:10Z"
+      },
+      {
+        "id": 16,
+        "name": "Bianca Ramba",
+        "description": "Defeat a total of 3000 Milk Elementals.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Randomazzo",
+        "description": "Find the Randomazzo.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:00:14Z"
+      },
+      {
+        "id": 18,
+        "name": "Coffin: Inlaid Library",
+        "description": "Find and open the coffin in the Inlaid Library.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "VI - Sarabande of Healing",
+        "description": "Find the Randomazzo.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:00:14Z"
+      },
+      {
+        "id": 20,
+        "name": "O'Sole Meeo",
+        "description": "Defeat a total of 3000 Dragon Shrimps.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Coffin: Gallo Tower",
+        "description": "Find and open the coffin in the Gallo Tower.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Magic Banger",
+        "description": "Find the Magic Banger.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Glass Vizard",
+        "description": "Find and buy the Glass Vizard.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Yellow Sign",
+        "description": "Find the Yellow Sign.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Seeker of the Infinite Corridor",
+        "description": "Obtain the Infinite Corridor.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Seeker of the Crimson Shroud",
+        "description": "Obtain the Crimson Shroud.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Cappella Magna",
+        "description": "Reach Level 80 in the Gallo Tower.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Coffin: Cappella Magna",
+        "description": "Find and open the coffin in the Cappella Magna.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Hyper Cappella Magna",
+        "description": "Defeat the Trinacria in the Cappella Magna.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Sir Ambrojoe",
+        "description": "Defeat a total of 6000 Stage Killers.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Grim Grimoire",
+        "description": "Find the Grim Grimoire.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T15:23:36Z"
+      },
+      {
+        "id": 32,
+        "name": "Ars Gouda",
+        "description": "Find the Ars Gouda.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:29:46Z"
+      },
+      {
+        "id": 33,
+        "name": "Great Gospel",
+        "description": "Find the Great Gospel.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Forbidden Scrolls",
+        "description": "Find the Forbidden Scrolls of Morbane.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Queen Sigma",
+        "description": "Complete the Collection 1.0",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Victory Sword",
+        "description": "Defeat 100000 enemies in a single run with Queen Sigma.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "The Eudaimonia Machine",
+        "description": "Obtain all standard relics from all stages.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Seventh Trumpet",
+        "description": "Obtain the Seventh Trumpet.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "Gracia's Mirror",
+        "description": "Obtain Gracia's Mirror.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Greatest Jubilee",
+        "description": "See the final fireworks.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "Death Spiral",
+        "description": "Evolve the Axe.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Heaven Sword",
+        "description": "Evolve the Cross.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Hellfire",
+        "description": "Evolve the Fire Wand.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:21Z"
+      },
+      {
+        "id": 44,
+        "name": "Soul Eater",
+        "description": "Evolve the Garlic.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:39Z"
+      },
+      {
+        "id": 45,
+        "name": "Unholy Vespers",
+        "description": "Evolve the King Bible.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:39Z"
+      },
+      {
+        "id": 46,
+        "name": "Thousand Edge",
+        "description": "Evolve the Knife.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T19:26:10Z"
+      },
+      {
+        "id": 47,
+        "name": "Thunder Loop",
+        "description": "Evolve the Lightning Ring.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:21Z"
+      },
+      {
+        "id": 48,
+        "name": "Holy Wand",
+        "description": "Evolve the Magic Wand.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:39Z"
+      },
+      {
+        "id": 49,
+        "name": "NO FUTURE",
+        "description": "Evolve the Runetracer.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:21Z"
+      },
+      {
+        "id": 50,
+        "name": "La Borra",
+        "description": "Evolve the Santa Water.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:39Z"
+      },
+      {
+        "id": 51,
+        "name": "Valkyrie Turner",
+        "description": "Evolve the Shadow Pinion.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "Mannajja",
+        "description": "Evolve the Song Of Mana.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Bloody Tear",
+        "description": "Evolve the Whip.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "Vicious Hunger",
+        "description": "Evolve the Gatti Amari.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Phieraggi",
+        "description": "Evolve and unite Phiera Der Tuphello and Eight The Sparrow.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Gorgeous Moon",
+        "description": "Evolve the Pentagram.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Vandalier",
+        "description": "Unite Ebony Wings and Peachone.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Fuwalafuwaloo",
+        "description": "Unite Vento Sacro and Bloody Tear.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Candybox",
+        "description": "Discover every standard evolution and union.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Tri-Bracelet",
+        "description": "Evolve the Bracelet and then the Bi-Bracelet.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 61,
+        "name": "X - Beginning",
+        "description": "Reach Level 50 with Antonio.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 62,
+        "name": "XIX - Heart of Fire",
+        "description": "Reach Level 50 with Arca.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 63,
+        "name": "XIII - Wicked Season",
+        "description": "Reach Level 50 with Christine.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 64,
+        "name": "IX - Divine Bloodline\n",
+        "description": "Reach Level 50 with Suor Clerici.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 65,
+        "name": "XVIII - Boogaloo of Illusions",
+        "description": "Reach Level 50 with Concetta.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 66,
+        "name": "VII - Iron Blue Will",
+        "description": "Reach Level 50 with Gennaro.",
+        "type": "bronze",
+        "group": "003",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T19:26:10Z"
+      },
+      {
+        "id": 67,
+        "name": "V - Chaos in the Dark Night",
+        "description": "Reach Level 50 with Giovanna.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 68,
+        "name": "XI - Waltz of Pearls",
+        "description": "Reach Level 50 with Imelda.",
+        "type": "bronze",
+        "group": "003",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:39Z"
+      },
+      {
+        "id": 69,
+        "name": "IV - Awake",
+        "description": "Reach Level 50 with Krochi.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 70,
+        "name": "XXI - Blood Astronomia\n",
+        "description": "Reach Level 50 with Poe.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 71,
+        "name": "XVII - Lost and Found Painting",
+        "description": "Reach Level 50 with Poppea.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 72,
+        "name": "III - Tragic Princess",
+        "description": "Reach Level 50 with Porta.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 73,
+        "name": "I - Gemini",
+        "description": "Reach Level 50 with Pugnala.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 74,
+        "name": "II - Twilight Requiem",
+        "description": "Reach Level 50 with Dommario.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 75,
+        "name": "XIV - Jail of Crystal",
+        "description": "Reach Level 50 with Pasqualina.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 76,
+        "name": "XVI - Slash",
+        "description": "Reach Level 50 with Lama.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 77,
+        "name": "XX - Silent Old Sanctuary",
+        "description": "Reach minute 31 in the Dairy Plant.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 78,
+        "name": "VIII - Mad Groove",
+        "description": "Reach minute 31 in the Mad Forest.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 79,
+        "name": "XV - Disco of Gold",
+        "description": "Reach minute 31 in the Inlaid Library.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 80,
+        "name": "XII - Out of Bounds",
+        "description": "Reach minute 31 in the Gallo Tower.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 81,
+        "name": "Game Killer",
+        "description": "Defeat the final enemy in the Cappella Magna.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 82,
+        "name": "Green Acres",
+        "description": "Unlock Hyper mode for 2 normal stages.",
+        "type": "silver",
+        "group": "005",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:48:13Z"
+      },
+      {
+        "id": 83,
+        "name": "The Bone Zone",
+        "description": "Unlock Hyper mode for 3 normal stages.",
+        "type": "silver",
+        "group": "005",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T19:26:29Z"
+      },
+      {
+        "id": 84,
+        "name": "Il Molise",
+        "description": "Unlock Hyper mode for any normal stage.",
+        "type": "bronze",
+        "group": "005",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:08:14Z"
+      },
+      {
+        "id": 85,
+        "name": "Boss Rash",
+        "description": "Unlock Hyper mode for all 5 normal stages.",
+        "type": "gold",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 86,
+        "name": "Moongolow",
+        "description": "Unlock Hyper mode for 4 normal stages.",
+        "type": "silver",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 87,
+        "name": "Hollow Heart",
+        "description": "Survive 1 minute with any character.",
+        "type": "bronze",
+        "group": "006",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T17:31:45Z"
+      },
+      {
+        "id": 88,
+        "name": "Peachone",
+        "description": "Survive 10 minutes with any character.",
+        "type": "bronze",
+        "group": "006",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:00:14Z"
+      },
+      {
+        "id": 89,
+        "name": "Skip 1",
+        "description": "Survive 15 minutes in Molise.",
+        "type": "bronze",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 90,
+        "name": "Pentagram",
+        "description": "Survive 20 minutes with any character.",
+        "type": "bronze",
+        "group": "006",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:38Z"
+      },
+      {
+        "id": 91,
+        "name": "Lama",
+        "description": "Survive 20 minutes with at least +10% Curse.",
+        "type": "silver",
+        "group": "006",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:21Z"
+      },
+      {
+        "id": 92,
+        "name": "Skip 3",
+        "description": "Survive 30 minutes in The Bone Zone.",
+        "type": "silver",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 93,
+        "name": "Skip 2",
+        "description": "Survive 30 minutes in Green Acres.",
+        "type": "silver",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 94,
+        "name": "Skip 5",
+        "description": "Survive 15 minutes in Boss Rash.",
+        "type": "silver",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 95,
+        "name": "Skip 4",
+        "description": "Survive 15 minutes in Moongolow.",
+        "type": "bronze",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 96,
+        "name": "Runetracer",
+        "description": "Survive 5 minutes with Pasqualina.",
+        "type": "bronze",
+        "group": "007",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:00:14Z"
+      },
+      {
+        "id": 97,
+        "name": "Phiera Der Tuphello",
+        "description": "Survive 10 minutes with Pugnala.",
+        "type": "bronze",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 98,
+        "name": "Gatti Amari",
+        "description": "Survive 15 minutes with Giovanna.",
+        "type": "bronze",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 99,
+        "name": "Eight The Sparrow",
+        "description": "Survive 15 minutes with Pugnala.",
+        "type": "bronze",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 100,
+        "name": "Shadow Pinion",
+        "description": "Survive 15 minutes with Concetta.",
+        "type": "bronze",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 101,
+        "name": "Song of Mana",
+        "description": "Survive 15 minutes with Poppea.",
+        "type": "bronze",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 102,
+        "name": "Vento Sacro",
+        "description": "Survive 15 minutes with Zi'Assunta.",
+        "type": "bronze",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 103,
+        "name": "Tiragisú",
+        "description": "Survive 20 minutes with Krochi.",
+        "type": "bronze",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 104,
+        "name": "Skull O'Maniac",
+        "description": "Survive 30 minutes with Lama.",
+        "type": "silver",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 105,
+        "name": "Pummarola",
+        "description": "Survive 5 minutes with Gennaro.",
+        "type": "bronze",
+        "group": "007",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:15:55Z"
+      },
+      {
+        "id": 106,
+        "name": "Bracelet",
+        "description": "Survive 30 minutes with either Gallo or Divano.",
+        "type": "silver",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 107,
+        "name": "Wings",
+        "description": "Reach Level 5.",
+        "type": "bronze",
+        "group": "008",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T17:31:45Z"
+      },
+      {
+        "id": 108,
+        "name": "Crown",
+        "description": "Reach Level 10.",
+        "type": "bronze",
+        "group": "008",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T17:31:45Z"
+      },
+      {
+        "id": 109,
+        "name": "Krochi",
+        "description": "Defeat a total of 100000 enemies.",
+        "type": "silver",
+        "group": "008",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 110,
+        "name": "Fire Wand",
+        "description": "Destroy 20 light sources.",
+        "type": "bronze",
+        "group": "008",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:00:14Z"
+      },
+      {
+        "id": 111,
+        "name": "Dommario",
+        "description": "Earn 5000 coins in a single run.",
+        "type": "bronze",
+        "group": "008",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 112,
+        "name": "Garlic",
+        "description": "Find 5 Floor Chickens.",
+        "type": "bronze",
+        "group": "008",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:15:55Z"
+      },
+      {
+        "id": 113,
+        "name": "Clover",
+        "description": "Find a Little Clover.",
+        "type": "bronze",
+        "group": "008",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 114,
+        "name": "Clock Lancet",
+        "description": "Find an Orologion.",
+        "type": "bronze",
+        "group": "008",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:00:14Z"
+      },
+      {
+        "id": 115,
+        "name": "Cross",
+        "description": "Find a Rosary.",
+        "type": "bronze",
+        "group": "008",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T14:30:11Z"
+      },
+      {
+        "id": 116,
+        "name": "Magnet",
+        "description": "Find a Vacuum.",
+        "type": "bronze",
+        "group": "008",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:15:55Z"
+      },
+      {
+        "id": 117,
+        "name": "Torrona's Box",
+        "description": "Hold 6 different weapon evolutions at once.",
+        "type": "bronze",
+        "group": "008",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 118,
+        "name": "Suor Clerici",
+        "description": "Recover a total of 1000 HP.",
+        "type": "bronze",
+        "group": "008",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T15:23:36Z"
+      },
+      {
+        "id": 119,
+        "name": "Arca",
+        "description": "Get Fire Wand to Level 4.",
+        "type": "bronze",
+        "group": "009",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:20Z"
+      },
+      {
+        "id": 120,
+        "name": "Bracer",
+        "description": "Get King Bible to Level 4.",
+        "type": "bronze",
+        "group": "009",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T15:23:36Z"
+      },
+      {
+        "id": 121,
+        "name": "Candelabrador",
+        "description": "Get Santa Water to Level 4.",
+        "type": "bronze",
+        "group": "009",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:38Z"
+      },
+      {
+        "id": 122,
+        "name": "Porta",
+        "description": "Get Lightning Ring to Level 4.",
+        "type": "bronze",
+        "group": "009",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:20Z"
+      },
+      {
+        "id": 123,
+        "name": "Duplicator",
+        "description": "Get Magic Wand to Level 7.",
+        "type": "bronze",
+        "group": "009",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T14:51:41Z"
+      },
+      {
+        "id": 124,
+        "name": "Ebony Wings",
+        "description": "Get Peachone to Level 7.",
+        "type": "bronze",
+        "group": "009",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T18:47:21Z"
+      },
+      {
+        "id": 125,
+        "name": "Spellbinder",
+        "description": "Get Runetracer to Level 7.",
+        "type": "bronze",
+        "group": "009",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:00:14Z"
+      },
+      {
+        "id": 126,
+        "name": "Poe Ratcho",
+        "description": "Get Garlic to Level 7.",
+        "type": "bronze",
+        "group": "009",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:07:39Z"
+      },
+      {
+        "id": 127,
+        "name": "Christine",
+        "description": "Get Pentagram to Level 7.",
+        "type": "bronze",
+        "group": "009",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 128,
+        "name": "Omni",
+        "description": "Get Torrona's Box to Level 9.",
+        "type": "silver",
+        "group": "009",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 129,
+        "name": "Empty Tome",
+        "description": "Hold 6 different weapons at once.",
+        "type": "silver",
+        "group": "009",
+        "earned": true,
+        "earnedDateTime": "2026-08-27T18:15:55Z"
+      },
+      {
+        "id": 130,
+        "name": "Reroll 5",
+        "description": "Reach Level 80 with Sir Ambrojoe.",
+        "type": "silver",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 131,
+        "name": "Reroll 2",
+        "description": "Reach Level 80 with Yatta Cavallo.",
+        "type": "bronze",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 132,
+        "name": "Reroll 1",
+        "description": "Reach Level 80 with Mortaccio.",
+        "type": "bronze",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 133,
+        "name": "Reroll 4",
+        "description": "Reach Level 80 with O'Sole Meeo.",
+        "type": "bronze",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 134,
+        "name": "Reroll 3",
+        "description": "Reach Level 80 with Bianca Ramba.",
+        "type": "bronze",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 135,
+        "name": "Banish 5",
+        "description": "Fill 100 entries in the Collection.",
+        "type": "silver",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 136,
+        "name": "Mindbender",
+        "description": "Fill 50 entries in the Collection.",
+        "type": "bronze",
+        "group": "010",
+        "earned": true,
+        "earnedDateTime": "2026-08-29T16:29:46Z"
+      },
+      {
+        "id": 137,
+        "name": "Banish 1",
+        "description": "Fill 60 entries in the Collection.",
+        "type": "bronze",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 138,
+        "name": "Banish 2",
+        "description": "Fill 70 entries in the Collection.",
+        "type": "bronze",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 139,
+        "name": "Banish 3",
+        "description": "Fill 80 entries in the Collection.",
+        "type": "bronze",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 140,
+        "name": "Banish 4",
+        "description": "Fill 90 entries in the Collection.",
+        "type": "bronze",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 141,
+        "name": "Keitha Muort",
+        "description": "Evolve the Eskizzibur.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 142,
+        "name": "Hyper Lake Foscari",
+        "description": "Defeat the Avatar of Gaea in Lake Foscari.",
+        "type": "silver",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 143,
+        "name": "Lake Foscari Map",
+        "description": "Find the Lake Foscari Map.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 144,
+        "name": "Happy Birthday",
+        "description": "Defeat a total of 6000 Sammies.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 145,
+        "name": "Maruto Cuts",
+        "description": "Unite SpellString, SpellStream, and SpellStrike.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 146,
+        "name": "Eskizzibur",
+        "description": "Survive 15 minutes with Maruto Cuts.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 147,
+        "name": "SpellStrike",
+        "description": "Get SpellStrike to Level 6.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 148,
+        "name": "SpellStream",
+        "description": "Get SpellStream to Level 6.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 149,
+        "name": "SpellString",
+        "description": "Survive 15 minutes with Eleanor Uziron.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 150,
+        "name": "Millionaire",
+        "description": "Evolve the Flash Arrow.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 151,
+        "name": "Eleanor Uziron",
+        "description": "Find and open the coffin in Lake Foscari.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 152,
+        "name": "Flash Arrow",
+        "description": "Survive 15 minutes with Keitha Muort.",
+        "type": "bronze",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 153,
+        "name": "Je-Ne-Viv",
+        "description": "Defeat 100000 enemies in a single run with Genevieve Gruyère.",
+        "type": "bronze",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 154,
+        "name": "Luminaire Foscari",
+        "description": "With Maruto, break the Seal of the Abyss.",
+        "type": "silver",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 155,
+        "name": "Prismatic Missile",
+        "description": "Survive 15 minutes with Luminaire Foscari.",
+        "type": "bronze",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 156,
+        "name": "Ophion",
+        "description": "Evolve the Shadow Servant.",
+        "type": "bronze",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 157,
+        "name": "Abyss Foscari",
+        "description": "With Keitha, break the Seal of the Lake.",
+        "type": "gold",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 158,
+        "name": "Shadow Servant",
+        "description": "Survive 15 minutes with Genevieve Gruyère.",
+        "type": "bronze",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 159,
+        "name": "Luminaire",
+        "description": "Evolve the Prismatic Missile.",
+        "type": "bronze",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 160,
+        "name": "Rottin'Ghoul",
+        "description": "Defeat a total of 6000 Rotting Ghouls.",
+        "type": "bronze",
+        "group": "013",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 161,
+        "name": "Genevieve Gruyère",
+        "description": "With Eleanor, break the Seal of the Banished.",
+        "type": "gold",
+        "group": "013",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 162,
+        "name": "Hyper Abyss Foscari",
+        "description": "Defeat Je-Ne-Viv in Abyss Foscari.",
+        "type": "gold",
+        "group": "013",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 163,
+        "name": "108 Bocce",
+        "description": "Survive 15 minutes with McCoy-Oni.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 164,
+        "name": "McCoy-Oni",
+        "description": "Evolve the Mirage Robe.",
+        "type": "silver",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 165,
+        "name": "Mirage Robe",
+        "description": "Survive 15 minutes with Babi-Onna.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 166,
+        "name": "Babi-Onna",
+        "description": "Evolve the Summon Night.",
+        "type": "silver",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 167,
+        "name": "Summon Night",
+        "description": "Survive 15 minutes with Syuuto Moonspell.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 168,
+        "name": "Syuuto",
+        "description": "Evolve the Four Seasons.",
+        "type": "silver",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 169,
+        "name": "Four Seasons",
+        "description": "Survive 15 minutes with Menya Moonspell.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 170,
+        "name": "Menya",
+        "description": "Evolve the Silver Wind.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 171,
+        "name": "Silver Wind",
+        "description": "Survive 15 minutes with Miang Moonspell.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 172,
+        "name": "Miang",
+        "description": "Find and open the coffin in Mt.Moonspell.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 173,
+        "name": "Mt.Moonspell Map",
+        "description": "Find the Mt.Moonspell Map.",
+        "type": "bronze",
+        "group": "015",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 174,
+        "name": "Boo Roo Boolle",
+        "description": "Evolve the Mille Bolle Blu.",
+        "type": "bronze",
+        "group": "015",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 175,
+        "name": "Hyper Mt.Moonspell",
+        "description": "Defeat the Orochimario in Mt.Moonspell.",
+        "type": "bronze",
+        "group": "015",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 176,
+        "name": "Muramasa",
+        "description": "Evolve the Night Sword.",
+        "type": "bronze",
+        "group": "015",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 177,
+        "name": "Night Sword",
+        "description": "Find a Night Sword.",
+        "type": "bronze",
+        "group": "015",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 178,
+        "name": "Gav'Et-Oni",
+        "description": "Defeat 6000 Kappa.",
+        "type": "bronze",
+        "group": "015",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 179,
+        "name": "Megalo Syuuto",
+        "description": "Defeat 100000 enemies in a single run with Syuuto Moonspell.",
+        "type": "gold",
+        "group": "015",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 180,
+        "name": "Megalo Menya",
+        "description": "Defeat 100000 enemies in a single run with Menya Moonspell.",
+        "type": "bronze",
+        "group": "015",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 181,
+        "name": "EXTRA: Adventures",
+        "description": "Obtain the Atlas Gate in Boss Rash.",
+        "type": "silver",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 182,
+        "name": "EXTRA: World of Light and Dark",
+        "description": "Complete once the adventure World of Light and Dark.",
+        "type": "bronze",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 183,
+        "name": "EXTRA: A Garlic Paradise",
+        "description": "Complete once the adventure A Garlic Paradise.",
+        "type": "bronze",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 184,
+        "name": "EXTRA: Seal I",
+        "description": "Banish 10 or more weapons in a single run.",
+        "type": "bronze",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 185,
+        "name": "EXTRA: Tiny Bridge",
+        "description": "Reach Level 80 in Inverse Gallo Tower.",
+        "type": "gold",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 186,
+        "name": "EXTRA: Chaos Altemanna",
+        "description": "Find the Chaos Altemanna in Tiny Bridge.",
+        "type": "silver",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 187,
+        "name": "EXTRA: Bat Country",
+        "description": "Reach Level 80 in Inverse Mad Forest.",
+        "type": "gold",
+        "group": "017",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 188,
+        "name": "EXTRA: Apoplexy",
+        "description": "Find the Apoplexy at minute 09:00 in Bat Country.",
+        "type": "silver",
+        "group": "017",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 189,
+        "name": "EXTRA: Chaos Malachite",
+        "description": "Find the Chaos Malachite at minute 18:00 in Bat Country.",
+        "type": "silver",
+        "group": "017",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 190,
+        "name": "EXTRA: Pako Battiliar",
+        "description": "Defeat a total of 161616 bats.",
+        "type": "bronze",
+        "group": "017",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 191,
+        "name": "EXTRA: Bat Robbert",
+        "description": "Evolve the Pako Battiliar.",
+        "type": "silver",
+        "group": "017",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 192,
+        "name": "EXTRA: Seal II",
+        "description": "Banish 20 or more weapons in a single run.",
+        "type": "bronze",
+        "group": "018",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 193,
+        "name": "EXTRA: Astral Stair",
+        "description": "Reach Level 80 in Inverse Inlaid Library.",
+        "type": "gold",
+        "group": "018",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 194,
+        "name": "EXTRA: Trisection",
+        "description": "Find the Trisection in Astral Stair.",
+        "type": "silver",
+        "group": "018",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 195,
+        "name": "EXTRA: Chaos Rosalia",
+        "description": "Find the Chaos Rosalia in Astral Stair.",
+        "type": "silver",
+        "group": "018",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 196,
+        "name": "EXTRA: Astral Stair Map",
+        "description": "Find the Astral Stair Map.",
+        "type": "silver",
+        "group": "018",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 197,
+        "name": "EXTRA: Whiteout",
+        "description": "Find 20 Orologions.",
+        "type": "silver",
+        "group": "019",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 198,
+        "name": "EXTRA: Antidote",
+        "description": "Find the Antidote in Whiteout.",
+        "type": "bronze",
+        "group": "019",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 199,
+        "name": "EXTRA: She-Moon Eeta",
+        "description": "Survive 20 minutes in Whiteout.",
+        "type": "gold",
+        "group": "019",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 200,
+        "name": "EXTRA: Glass Fandango",
+        "description": "Get Glass Fandango to Level 7.",
+        "type": "bronze",
+        "group": "019",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 201,
+        "name": "EXTRA: Celestial Voulge",
+        "description": "Evolve the Glass Fandango.",
+        "type": "silver",
+        "group": "019",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 202,
+        "name": "EXTRA: Seal III",
+        "description": "Banish 40 or more weapons in a single run.",
+        "type": "bronze",
+        "group": "019",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 203,
+        "name": "EXTRA: Space 54",
+        "description": "Find 5 Golden Fingers.",
+        "type": "silver",
+        "group": "020",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 204,
+        "name": "EXTRA: Phas3r",
+        "description": "Get Phas3r to level 7.",
+        "type": "bronze",
+        "group": "020",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 205,
+        "name": "EXTRA: Evolve the Phas3r.",
+        "description": "Evolve the Phas3r.",
+        "type": "silver",
+        "group": "020",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 206,
+        "name": "EXTRA: Brave Story",
+        "description": "Find the Brave Story at minute 18 in Space 54.",
+        "type": "silver",
+        "group": "020",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 207,
+        "name": "EXTRA: Space Dude",
+        "description": "Survive 20 minutes in Space 54.",
+        "type": "gold",
+        "group": "020",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 208,
+        "name": "EXTRA: Laborratory",
+        "description": "Find 33 Rosaries.",
+        "type": "silver",
+        "group": "021",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 209,
+        "name": "EXTRA: Santa Javelin",
+        "description": "Get Santa Javelin to level 7.",
+        "type": "bronze",
+        "group": "021",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 210,
+        "name": "EXTRA: Seraphic Cry",
+        "description": "Evolve the Santa Javelin.",
+        "type": "silver",
+        "group": "021",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 211,
+        "name": "EXTRA: Arma Dio",
+        "description": "Find an Arma Dio in Laborratory.",
+        "type": "bronze",
+        "group": "021",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 212,
+        "name": "EXTRA: Santa Ladonna",
+        "description": "Survive 20 minutes in Laborratory.",
+        "type": "gold",
+        "group": "021",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 213,
+        "name": "EXTRA: Carlo Cart",
+        "description": "Deal a total of 25120 damage with the Laborratory Train.",
+        "type": "bronze",
+        "group": "021",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 214,
+        "name": "EXTRA: Room 1665",
+        "description": "Dare to cast the spell \"forbiddenbox\".",
+        "type": "silver",
+        "group": "022",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 215,
+        "name": "EXTRA: Darkasso",
+        "description": "Be embraced by the Darkasso.",
+        "type": "bronze",
+        "group": "022",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 216,
+        "name": "EXTRA: VI - Moonlight Bolero",
+        "description": "Get touched by the Darkasso.",
+        "type": "silver",
+        "group": "022",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 217,
+        "name": "EXTRA: I - Sapphire Mist",
+        "description": "Reach a Cooldown bonus of -85% with Space Dude.",
+        "type": "silver",
+        "group": "022",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 218,
+        "name": "EXTRA: X - Hail from the Future",
+        "description": "Trigger a Weird Souls Purifier with Santa Ladonna.",
+        "type": "silver",
+        "group": "022",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 219,
+        "name": "EXTRA: XII - Crystal Cries",
+        "description": "Trigger a Starry Heavens with She-Moon Eeta.",
+        "type": "silver",
+        "group": "022",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 220,
+        "name": "EXTRA: XXI - Wandering the Jet Black",
+        "description": "Reach 665 Max Health with Bat Robbert.",
+        "type": "silver",
+        "group": "022",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 221,
+        "name": "EXTRA: Hyper The Coop",
+        "description": "Find 500 Floor Chickens.",
+        "type": "bronze",
+        "group": "023",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 222,
+        "name": "EXTRA: Parm Aegis",
+        "description": "Find a Parm Aegis in The Coop.",
+        "type": "bronze",
+        "group": "023",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 223,
+        "name": "EXTRA: Game Speed Modifier",
+        "description": "Find the Roast chicken with a clock in the middle at the end of The Coop.",
+        "type": "bronze",
+        "group": "023",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 224,
+        "name": "EXTRA: Gaze of Gaea",
+        "description": "Defeat 0 enemies in The Coop.",
+        "type": "bronze",
+        "group": "023",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 225,
+        "name": "EXTRA: Gazebo",
+        "description": "Survive 20 minutes in The Coop.",
+        "type": "bronze",
+        "group": "023",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 226,
+        "name": "EXTRA: III - Hidden Anathema",
+        "description": "Eat as much as possible with Gazebo.",
+        "type": "bronze",
+        "group": "023",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 227,
+        "name": "EXTRA: Seal All",
+        "description": "Banish 80 or more weapons in a single run.",
+        "type": "bronze",
+        "group": "023",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 228,
+        "name": "EXTRA: To End An Ice Age",
+        "description": "Complete once the adventure To End An Ice Age.",
+        "type": "bronze",
+        "group": "023",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 229,
+        "name": "EXTRA: Westwoods",
+        "description": "Find 23 Little Clovers.",
+        "type": "bronze",
+        "group": "024",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 230,
+        "name": "EXTRA: Chula-Reh",
+        "description": "Survive 20 minutes in Westwoods.",
+        "type": "bronze",
+        "group": "024",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 231,
+        "name": "EXTRA: Karoma's Mana",
+        "description": "Find a Karoma's Mana in Westwoods.",
+        "type": "bronze",
+        "group": "024",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 232,
+        "name": "EXTRA: Party Mode",
+        "description": "Find the Masquerade Relic in Westwoods.",
+        "type": "bronze",
+        "group": "024",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 233,
+        "name": "EXTRA: Magi-Stone",
+        "description": "Get Magi-Stone To Level 7.",
+        "type": "bronze",
+        "group": "024",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 234,
+        "name": "EXTRA: Kyra-Stones",
+        "description": "Evolve the Magi-Stone.",
+        "type": "bronze",
+        "group": "024",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 235,
+        "name": "EXTRA: XIII - Call of a Mad Moon",
+        "description": "Reach +999% Luck with Chula-Reh.",
+        "type": "bronze",
+        "group": "024",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 236,
+        "name": "EXTRA: Mazerella",
+        "description": "Reach Level 80 in Inverse Dairy Plant.",
+        "type": "bronze",
+        "group": "025",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 237,
+        "name": "EXTRA: Chaos Lazulia",
+        "description": "Find the Chaos Lazulia in Mazerella.",
+        "type": "bronze",
+        "group": "025",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 238,
+        "name": "EXTRA: Preserve",
+        "description": "Find the Wax Fetish in Mazerella.",
+        "type": "bronze",
+        "group": "025",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 239,
+        "name": "EXTRA: Ammo Appalate",
+        "description": "Defeat a total of 251096 Shooting Enemies.",
+        "type": "bronze",
+        "group": "025",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 240,
+        "name": "EXTRA: Zi'Appunta Belpaese",
+        "description": "Evolve the Ammo Appalate.",
+        "type": "bronze",
+        "group": "025",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 241,
+        "name": "EXTRA: V - Pale Diamond Incursion",
+        "description": "Find 10 Treasure Chests from Zi'Appunta's ability in a single run.",
+        "type": "bronze",
+        "group": "025",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 242,
+        "name": "EXTRA: XVIII - Victorian Horror",
+        "description": "Survive 30 minutes with no weapons in Inverse Green Acres.",
+        "type": "bronze",
+        "group": "025",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 243,
+        "name": "EXTRA: Embrace of Gaea",
+        "description": "Evolve the Gaze of Gaea.",
+        "type": "bronze",
+        "group": "025",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 244,
+        "name": "EXTRA: The Lycaeum",
+        "description": "Find 50 Vacuums.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 245,
+        "name": "EXTRA: Para Kooleo",
+        "description": "Survive 20 minutes in The Lycaeum.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 246,
+        "name": "EXTRA: Penshin Facha",
+        "description": "Evolve the Penshin Fatcha.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 247,
+        "name": "EXTRA: Green Eyes Vizard",
+        "description": "Find and buy the Green Eyes Vizard in The Lycaeum.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 248,
+        "name": "EXTRA: Survarocchi",
+        "description": "Find and buy the Survarocchi in The Lycaeum.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 249,
+        "name": "EXTRA: Big Troubler",
+        "description": "Defeat 1 Bat Dragon.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 250,
+        "name": "EXTRA: Unearthly Bolt",
+        "description": "Evolve the Unearthly Bolt.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 251,
+        "name": "EXTRA: 0 - Stake to your Heart",
+        "description": "Defeat a Bat Dragon with Big Troubler while using the Game Killer Arcana.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 252,
+        "name": "EXTRA: VIII - Edge of the Earth",
+        "description": "Trigger a Lavatrix Machina with Para Kooleo.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 253,
+        "name": "EXTRA: XIX - Heir of Fate",
+        "description": "Survive 15 min in Inverse Boss Rash with Random Events and Random Level Ups.",
+        "type": "bronze",
+        "group": "026",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 254,
+        "name": "LunarMight",
+        "description": "Get LunarMight to Level 6.",
+        "type": "bronze",
+        "group": "027",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 255,
+        "name": "LunarBight",
+        "description": "Get LunarBight to Level 6.",
+        "type": "bronze",
+        "group": "027",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 256,
+        "name": "LunarSight",
+        "description": "Get LunarSight to Level 6.",
+        "type": "bronze",
+        "group": "027",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 257,
+        "name": "Gekkojin",
+        "description": "Unite LunarMight, LunarBight, and LunarSight.",
+        "type": "bronze",
+        "group": "027",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 258,
+        "name": "Spiritosa",
+        "description": "Reach Level 80 with Gekkojin.",
+        "type": "bronze",
+        "group": "027",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 259,
+        "name": "Pearl Magatama",
+        "description": "Find a Pearl Magatama.",
+        "type": "bronze",
+        "group": "027",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 260,
+        "name": "Megalo Miang Moonspell",
+        "description": "Hold the Pearl Magatama and obtain the Argent Flow with Miang Moonspell.",
+        "type": "bronze",
+        "group": "027",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 261,
+        "name": "Malice Bloodmoon",
+        "description": "Find and open the coffin in Red Moon Manor.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 262,
+        "name": "Scarlet Needle",
+        "description": "Survive 15 minutes with Malice Bloodmoon.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 263,
+        "name": "Calogero Bloodmoon",
+        "description": "Evolve the Scarlet Needle.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 264,
+        "name": "Ashella",
+        "description": "Survive 15 minutes with Calogero Bloodmoon.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 265,
+        "name": "Ashtart",
+        "description": "Evolve the Ashella.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 266,
+        "name": "Incineration",
+        "description": "Survive 15 minutes with Ashtart.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 267,
+        "name": "Sargon",
+        "description": "Evolve the Incineration.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 268,
+        "name": "FireFall",
+        "description": "Survive 15 minutes with Sargon.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 269,
+        "name": "FireBall",
+        "description": "Get FireBall to Level 6.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 270,
+        "name": "FireWall",
+        "description": "Get FireWall to Level 6.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 271,
+        "name": "Megalo Sargon",
+        "description": "Hold the Velvet Dodecahedron and obtain the FireStall with Sargon.",
+        "type": "bronze",
+        "group": "028",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 272,
+        "name": "Nameless Fool",
+        "description": "Get Descent Into Misery to Level 9.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 273,
+        "name": "Congregation",
+        "description": "Die a total of 7 times with Nameless Fool.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 274,
+        "name": "Screams from the Void",
+        "description": "Get Screams from the Void to Level 7.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 275,
+        "name": "Velvet Dodecahedron",
+        "description": "Evolve Screams from the Void.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 276,
+        "name": "Jaman Jato",
+        "description": "Defeat 6000 Jaman Jatos.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 277,
+        "name": "Nameless Saint",
+        "description": "Defeat Ashtart, Sargon, Congregation, and Baal in a single run.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 278,
+        "name": "In'Kujata",
+        "description": "Break the statue of Kujata with 108 Bocce or 108 Responsive Prayers.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 279,
+        "name": "Baal'Thasar",
+        "description": "Defeat Baal’Thasar in Red Moon Manor.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 280,
+        "name": "Blacken Firmament",
+        "description": "Survive 15 minutes with Baal'Thasar.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 281,
+        "name": "Baal'Thamut",
+        "description": "Hold the Velvet Dodecahedron and obtain Damnation with Baal'Thasar.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 282,
+        "name": "Hyper Red Moon Manor",
+        "description": "Defeat Batti Lei in the Red Moon Manor.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 283,
+        "name": "Red Moon Manor Map",
+        "description": "Find the Red Moon Manor Map.",
+        "type": "bronze",
+        "group": "029",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-30T12:07:27.387Z"
+}
