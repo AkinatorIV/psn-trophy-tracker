@@ -1,180 +1,56 @@
 {
   "schemaVersion": 1,
-  "language": "fr",
+  "language": "en",
   "game": {
     "name": "Vampire Survivors",
     "npCommunicationId": "NPWR42963_00"
   },
   "researchedAt": "2026-08-30",
-  "strategy": "Prioriser les déblocages de stages, les reliques et les cercueils qui ouvrent ensuite plusieurs trophées. Regrouper autant que possible plusieurs objectifs d'un même stage dans une seule partie.",
+  "strategy": "Prioritize stage unlocks, relics and coffins that open several follow-up trophies. Whenever possible, stack multiple objectives from the same stage into a single run.",
   "sources": [
-    {
-      "id": "dayngls",
-      "label": "Dayngls — Trophy Guide & Roadmap",
-      "url": "https://daynglsgameguides.com/2024/08/28/vampire-survivors-trophy-guide-roadmap/"
-    },
-    {
-      "id": "ta-list",
-      "label": "TrueAchievements — Guides de succès",
-      "url": "https://www.trueachievements.com/game/Vampire-Survivors/achievements"
-    },
-    {
-      "id": "ta-bracelet",
-      "label": "TrueAchievements — Progression Yellow Sign / fin de jeu",
-      "url": "https://www.trueachievements.com/a374273/bracelet-achievement"
-    },
-    {
-      "id": "steam",
-      "label": "Steam Community — Guide 100 %",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2909479490"
-    },
-    {
-      "id": "psthc",
-      "label": "PSTHC — Liste des trophées PS5",
-      "url": "https://www.psthc.fr/unjeu/vampire-survivors-ps5/liste-trophees.htm"
-    }
+    {"id":"dayngls","label":"Dayngls — Trophy Guide & Roadmap","url":"https://daynglsgameguides.com/2024/08/28/vampire-survivors-trophy-guide-roadmap/"},
+    {"id":"ta-list","label":"TrueAchievements — Achievement guides","url":"https://www.trueachievements.com/game/Vampire-Survivors/achievements"},
+    {"id":"ta-bracelet","label":"TrueAchievements — Yellow Sign / late-game progression notes","url":"https://www.trueachievements.com/a374273/bracelet-achievement"},
+    {"id":"steam","label":"Steam Community — 100% Achievements Guide","url":"https://steamcommunity.com/sharedfiles/filedetails/?id=2909479490"},
+    {"id":"psthc","label":"PSTHC — PS5 Trophy List","url":"https://www.psthc.fr/unjeu/vampire-survivors-ps5/liste-trophees.htm"}
   ],
   "roadmap": [
-    {
-      "name": "Coffin: Inlaid Library",
-      "reason": "Nettoyage très rapide d'un ancien stage et déblocage de Giovanna pour les trophées liés au personnage et à son arme."
-    },
-    {
-      "name": "Hyper Gallo Tower",
-      "reason": "Le boss requis apparaît automatiquement à 25 minutes, donc tu peux le combiner avec les autres objectifs de Gallo Tower."
-    },
-    {
-      "name": "Coffin: Gallo Tower",
-      "reason": "Débloque Concetta et ouvre ensuite plusieurs trophées de personnage et d'arme."
-    },
-    {
-      "name": "Cappella Magna",
-      "reason": "Étape majeure de progression qui fait avancer la chaîne des stages du jeu de base et ouvre plusieurs objectifs de fin de jeu."
-    },
-    {
-      "name": "Magic Banger",
-      "reason": "Relique rapide à récupérer qui compte aussi pour la chaîne des reliques standard menant à Eudaimonia."
-    },
-    {
-      "name": "Glass Vizard",
-      "reason": "Débloque le marchand dans les autres stages et ne demande qu'un achat une fois Moongolow accessible."
-    },
-    {
-      "name": "Yellow Sign",
-      "reason": "Déblocage central : il fait apparaître les Rings et les Metaglio nécessaires à Infinite Corridor et Crimson Shroud."
-    },
-    {
-      "name": "Seeker of the Infinite Corridor",
-      "reason": "Très utile pour les longues parties et les objectifs de 31 minutes."
-    },
-    {
-      "name": "Seeker of the Crimson Shroud",
-      "reason": "Excellent outil de survie, particulièrement pratique pour les runs de 31 minutes et les objectifs liés au Reaper."
-    },
-    {
-      "name": "Great Gospel",
-      "reason": "Relique majeure de Cappella Magna qui débloque le Limit Break."
-    },
-    {
-      "name": "Forbidden Scrolls",
-      "reason": "Débloque le menu Secrets et fait partie des reliques standard nécessaires pour atteindre Eudaimonia."
-    },
-    {
-      "name": "The Eudaimonia Machine",
-      "reason": "Hub principal de la progression de fin de jeu, accessible après avoir récupéré toutes les reliques standard."
-    },
-    {
-      "name": "Seventh Trumpet",
-      "reason": "Une des deux étapes de la séquence Eudaimonia."
-    },
-    {
-      "name": "Gracia's Mirror",
-      "reason": "L'autre étape de la séquence Eudaimonia."
-    },
-    {
-      "name": "Greatest Jubilee",
-      "reason": "Conclusion de la progression principale du jeu de base."
-    }
+    {"name":"Coffin: Inlaid Library","reason":"A quick cleanup objective on an early stage, and it unlocks Giovanna for later character-specific trophies."},
+    {"name":"Hyper Gallo Tower","reason":"The required boss spawns at the 25-minute mark, so this is easy to combine with other Gallo Tower objectives."},
+    {"name":"Coffin: Gallo Tower","reason":"Unlocks Concetta, which opens additional character and weapon-related trophies."},
+    {"name":"Cappella Magna","reason":"A major progression milestone that advances the base-game stage chain and unlocks several late-game objectives."},
+    {"name":"Magic Banger","reason":"A fast relic pickup that also counts toward the standard-relic chain required for Eudaimonia."},
+    {"name":"Glass Vizard","reason":"Unlocks the merchant on other stages and is a simple purchase once Moongolow is available."},
+    {"name":"Yellow Sign","reason":"A key progression unlock: it reveals the Rings and Metaglio items needed for Infinite Corridor and Crimson Shroud."},
+    {"name":"Seeker of the Infinite Corridor","reason":"Very useful for long survival runs and 31-minute objectives."},
+    {"name":"Seeker of the Crimson Shroud","reason":"A major survivability tool, especially useful for 31-minute runs and Reaper-related goals."},
+    {"name":"Great Gospel","reason":"A major Cappella Magna relic that unlocks Limit Break."},
+    {"name":"Forbidden Scrolls","reason":"Unlocks the Secrets menu and is one of the standard relics required to reach Eudaimonia."},
+    {"name":"The Eudaimonia Machine","reason":"The main late-game progression hub, unlocked after collecting all standard relics."},
+    {"name":"Seventh Trumpet","reason":"One half of the Eudaimonia progression sequence."},
+    {"name":"Gracia's Mirror","reason":"The other half of the Eudaimonia progression sequence."},
+    {"name":"Greatest Jubilee","reason":"The payoff at the end of the base-game progression chain."}
   ],
   "trophies": {
-    "Coffin: Inlaid Library": {
-      "tip": "Dans Inlaid Library, pars très loin vers la droite. Avec la Milky Way Map, suis le point d'interrogation, élimine tous les gardiens autour du cercueil puis marche dessus lorsqu'il devient accessible.",
-      "sourceIds": ["dayngls", "steam"]
-    },
-    "Hyper Gallo Tower": {
-      "tip": "Reste dans Gallo Tower jusqu'à 25:00 : le Giant Enemy Crab apparaît automatiquement. Prépare un build solide en dégâts de zone et en survie avant ce timing, puis tue-le pour débloquer le mode Hyper.",
-      "sourceIds": ["dayngls", "ta-list"]
-    },
-    "Coffin: Gallo Tower": {
-      "tip": "Monte vers le nord jusqu'au marqueur du cercueil. La salle secrète est accessible via un miroir lumineux sur le côté gauche de la tour. Entre dans le miroir, élimine les gardiens puis ouvre le cercueil pour débloquer Concetta.",
-      "sourceIds": ["dayngls", "steam"]
-    },
-    "Cappella Magna": {
-      "tip": "Atteins le niveau 80 dans Gallo Tower. Essaie de combiner cet objectif avec le crabe de la minute 25, le cercueil et les reliques du stage pour rentabiliser une seule longue partie.",
-      "sourceIds": ["ta-list", "dayngls"]
-    },
-    "O'Sole Meeo": {
-      "tip": "Les Dragon Shrimps apparaissent dans Gallo Tower. Laisse donc le compteur progresser naturellement pendant tes objectifs de cercueil, de boss et de niveau au lieu de lancer une partie uniquement pour les farmer.",
-      "sourceIds": ["steam"]
-    },
-    "Magic Banger": {
-      "tip": "Récupère la relique Magic Banger dans Green Acres. Une fois le stage accessible, suis le marqueur de relique et profite d'une autre partie de déblocage pour la prendre rapidement.",
-      "sourceIds": ["ta-list", "steam"]
-    },
-    "Glass Vizard": {
-      "tip": "Débloque d'abord Moongolow en ouvrant le mode Hyper sur quatre stages normaux. Dans Moongolow, achète le Glass Vizard au marchand près du point de départ ; garde au moins 10 000 pièces disponibles.",
-      "sourceIds": ["ta-list", "steam"]
-    },
-    "Yellow Sign": {
-      "tip": "Utilise un personnage non secret dans Moongolow et va jusqu'à la séquence spéciale de fin du stage. Tu seras envoyé dans Holy Forbidden sans ton build : traverse le corridor et récupère le Yellow Sign au bout.",
-      "sourceIds": ["ta-list", "ta-bracelet"]
-    },
-    "Seeker of the Infinite Corridor": {
-      "tip": "Après le Yellow Sign, prends Clock Lancet + Silver Ring + Gold Ring. Monte les trois au maximum puis ouvre un coffre compatible pour évoluer Clock Lancet en Infinite Corridor. Monte plutôt le Gold Ring vers la fin car il renforce aussi les ennemis.",
-      "sourceIds": ["dayngls", "ta-bracelet"]
-    },
-    "Seeker of the Crimson Shroud": {
-      "tip": "Après le Yellow Sign, prends Laurel + Metaglio Left + Metaglio Right. Monte les trois au maximum puis ouvre un coffre compatible pour obtenir Crimson Shroud. Garde Metaglio Right pour la fin si son bonus aux ennemis rend la partie trop difficile.",
-      "sourceIds": ["dayngls", "ta-bracelet"]
-    },
-    "Forbidden Scrolls": {
-      "tip": "Dans The Bone Zone, poursuis Sketamari au point d'interrogation mobile. Monte d'abord quelques niveaux loin de lui, car il absorbe les ennemis proches et grossit avec le temps, puis élimine-le et ramasse la relique qu'il laisse tomber.",
-      "sourceIds": ["ta-list", "steam"]
-    },
-    "Great Gospel": {
-      "tip": "Dans Cappella Magna, termine la séquence de boss de fin du stage et élimine l'ennemi final associé. Ramasse ensuite la relique Great Gospel pour débloquer le Limit Break.",
-      "sourceIds": ["ta-list", "steam"]
-    },
-    "The Eudaimonia Machine": {
-      "tip": "Regarde les icônes de reliques sur l'écran de sélection des stages et récupère toutes les reliques standard encore manquantes. Une fois la collection standard terminée, Eudaimonia devient accessible.",
-      "sourceIds": ["ta-list", "steam"]
-    }
+    "Coffin: Inlaid Library":{"tip":"In Inlaid Library, travel far to the right. With the Milky Way Map unlocked, follow the question-mark marker, defeat every guardian around the coffin, then step onto the coffin once it becomes accessible.","sourceIds":["dayngls","steam"]},
+    "Hyper Gallo Tower":{"tip":"Stay in Gallo Tower until 25:00. The Giant Enemy Crab spawns automatically at that point. Build for strong area damage and survivability before minute 25, then kill it to unlock Hyper mode.","sourceIds":["dayngls","ta-list"]},
+    "Coffin: Gallo Tower":{"tip":"Head north toward the coffin marker. The coffin is inside a secret room reached through a glowing mirror on the left side of the tower. Enter the mirror, kill the guardians, then open the coffin to unlock Concetta.","sourceIds":["dayngls","steam"]},
+    "Cappella Magna":{"tip":"Reach level 80 in Gallo Tower. Try to combine this with the 25-minute crab kill, the Gallo Tower coffin and any relic pickups so one long run clears several objectives at once.","sourceIds":["ta-list","dayngls"]},
+    "O'Sole Meeo":{"tip":"Dragon Shrimps appear in Gallo Tower, so let this kill counter progress naturally while you work on the stage's coffin, boss and level objectives instead of farming it in a separate run.","sourceIds":["steam"]},
+    "Magic Banger":{"tip":"Pick up the Magic Banger relic in Green Acres. Once the stage is available, follow the relic marker and grab it during another unlock run rather than dedicating a full session to it.","sourceIds":["ta-list","steam"]},
+    "Glass Vizard":{"tip":"First unlock Moongolow by opening Hyper mode on four normal stages. In Moongolow, buy the Glass Vizard from the merchant near the starting area; keep at least 10,000 gold ready.","sourceIds":["ta-list","steam"]},
+    "Yellow Sign":{"tip":"Use a non-secret character in Moongolow and survive until the special end-of-stage sequence. You will be sent to Holy Forbidden with your build stripped away; run through the corridor and collect the Yellow Sign at the end.","sourceIds":["ta-list","ta-bracelet"]},
+    "Seeker of the Infinite Corridor":{"tip":"After obtaining the Yellow Sign, collect Clock Lancet, Silver Ring and Gold Ring. Max all three, then open an eligible chest to evolve Clock Lancet into Infinite Corridor. Consider leveling Gold Ring late because it also strengthens enemies.","sourceIds":["dayngls","ta-bracelet"]},
+    "Seeker of the Crimson Shroud":{"tip":"After obtaining the Yellow Sign, collect Laurel, Metaglio Left and Metaglio Right. Max all three, then open an eligible chest to evolve Laurel into Crimson Shroud. Level Metaglio Right late if the enemy-strength increase is making the run harder.","sourceIds":["dayngls","ta-bracelet"]},
+    "Forbidden Scrolls":{"tip":"In The Bone Zone, hunt Sketamari at the moving question-mark marker. Level up away from it first, because it absorbs nearby enemies and becomes stronger over time; then burst it down and collect the relic it drops.","sourceIds":["ta-list","steam"]},
+    "Great Gospel":{"tip":"In Cappella Magna, complete the late-stage boss sequence and defeat the final enemy tied to the stage. Pick up the Great Gospel relic that appears afterward to unlock Limit Break.","sourceIds":["ta-list","steam"]},
+    "The Eudaimonia Machine":{"tip":"Check the relic icons on the stage-select screen and collect every standard relic you are still missing. Once all standard relics are obtained, Eudaimonia becomes available as the next progression step.","sourceIds":["ta-list","steam"]}
   },
   "patternTips": [
-    {
-      "contains": ["Evolve"],
-      "tip": "Pour une évolution classique, monte l'arme requise au niveau maximum, possède le passif associé puis ouvre un coffre compatible. Essaie de combiner l'évolution avec un objectif de personnage ou de stage dans la même partie.",
-      "sourceIds": ["dayngls", "steam"]
-    },
-    {
-      "contains": ["Reach Level"],
-      "tip": "Pour les objectifs de niveau, favorise l'expérience et la vitesse de ramassage. Crown accélère l'XP et Attractorb évite de perdre du temps à courir après les gemmes. Combine si possible le niveau demandé avec un objectif de survie du même personnage.",
-      "sourceIds": ["dayngls"]
-    },
-    {
-      "contains": ["Survive"],
-      "tip": "Considère les trophées de survie comme des objectifs à empiler : construis un build stable puis profite de la même partie pour faire des évolutions, débloquer un personnage ou remplir un objectif du stage.",
-      "sourceIds": ["dayngls", "steam"]
-    },
-    {
-      "contains": ["Find and open the coffin"],
-      "tip": "La Milky Way Map simplifie énormément les cercueils : suis le point d'interrogation, élimine les gardiens spéciaux puis marche sur le cercueil lorsqu'il devient accessible.",
-      "sourceIds": ["steam"]
-    },
-    {
-      "contains": ["Defeat a total"],
-      "tip": "Ne farm pas ce compteur trop tôt. Identifie d'abord le stage où l'ennemi apparaît naturellement puis laisse le total progresser pendant les autres objectifs de ce stage.",
-      "sourceIds": ["steam"]
-    }
+    {"contains":["Evolve"],"tip":"For a standard evolution, max the required weapon, own its matching passive item, then open an eligible chest. Whenever possible, pair the evolution with a character survival or stage objective in the same run.","sourceIds":["dayngls","steam"]},
+    {"contains":["Reach Level"],"tip":"For level-based goals, prioritize experience gain and pickup efficiency. Crown is helpful for faster XP and Attractorb reduces time wasted collecting gems. Stack the level target with a 15- or 30-minute character objective when possible.","sourceIds":["dayngls"]},
+    {"contains":["Survive"],"tip":"Treat survival trophies as stackable objectives. Build for consistency, then use the same run to complete weapon evolutions, character unlocks or stage-specific tasks instead of running the clock alone.","sourceIds":["dayngls","steam"]},
+    {"contains":["Find and open the coffin"],"tip":"The Milky Way Map makes coffin runs much easier: follow the question-mark marker, kill the special guardians surrounding the coffin, then step onto it once it becomes available.","sourceIds":["steam"]},
+    {"contains":["Defeat a total"],"tip":"Do not hard-farm this counter too early. First identify the stage where the enemy naturally appears, then let the counter build while completing other objectives on that stage.","sourceIds":["steam"]}
   ]
 }
