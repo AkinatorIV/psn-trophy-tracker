@@ -15,7 +15,6 @@
 
   function injectStyles() {
     if (document.querySelector("#coach-styles")) return;
-
     const style = document.createElement("style");
     style.id = "coach-styles";
     style.textContent = `
@@ -36,13 +35,12 @@
 
   async function loadGuide(id) {
     if (coachState.guides.has(id)) return coachState.guides.get(id);
-
     try {
       const guide = await fetchOptional(`./guides/${id}.json`);
       coachState.guides.set(id, guide);
       return guide;
     } catch (error) {
-      console.warn("Impossible de charger le guide de trophées", id, error);
+      console.warn("Unable to load trophy guide", id, error);
       coachState.guides.set(id, null);
       return null;
     }
@@ -50,14 +48,13 @@
 
   async function loadGame(id) {
     if (coachState.games.has(id)) return coachState.games.get(id);
-
     try {
       const data = await fetchOptional(`./data/games/${id}.json`);
       const game = data?.game ?? null;
       coachState.games.set(id, game);
       return game;
     } catch (error) {
-      console.warn("Impossible de charger le détail des trophées", id, error);
+      console.warn("Unable to load detailed trophy data", id, error);
       coachState.games.set(id, null);
       return null;
     }
@@ -75,42 +72,19 @@
     const pattern = (guide?.patternTips ?? []).find((rule) =>
       (rule.contains ?? []).some((needle) => searchable.includes(String(needle).toLowerCase()))
     );
-
     return pattern ? { ...pattern, curated: true } : null;
   }
 
   function fallbackTip(trophy) {
     const text = `${trophy.name || ""} ${trophy.description || ""}`.toLowerCase();
-
-    if (trophy.earned) {
-      return "Ce trophée est déjà obtenu : aucun détour à prévoir. Garde ton attention sur les objectifs encore manquants.";
-    }
-    if (trophy.type === "platinum") {
-      return "Le platine se débloquera automatiquement après les autres trophées requis. Ne le cible pas directement : avance simplement sur la liste restante.";
-    }
-    if (text.includes("complete all") || text.includes("obtain all") || text.includes("acquire all")) {
-      return "Traite ce trophée comme une checklist de long terme. Fais avancer ses prérequis dès que tu les rencontres plutôt que de garder tout le nettoyage pour la fin.";
-    }
-    if (text.includes("reach level") || text.includes("level ")) {
-      return "Combine le niveau demandé avec un autre objectif de la même partie ou sauvegarde. Favorise l'expérience et évite de lancer une session uniquement pour monter le niveau.";
-    }
-    if (text.includes("survive") || text.includes("minute")) {
-      return "Construis d'abord un build fiable, puis profite du temps de survie pour accomplir un autre objectif compatible au lieu de simplement attendre le chrono.";
-    }
-    if (text.includes("find") || text.includes("discover")) {
-      return "Considère-le comme un objectif d'exploration. Vérifie la carte, les marqueurs disponibles et les prérequis du stage ou de l'histoire avant de lancer une partie dédiée.";
-    }
-    if (text.includes("defeat") || text.includes("eliminate") || text.includes("kill")) {
-      return "Avant de farmer ce combat, vérifie si la cible peut être combinée avec un objectif de stage, de quête, de diplomatie ou un compteur cumulatif pour faire avancer plusieurs trophées en même temps.";
-    }
-    if (text.includes("build") || text.includes("place") || text.includes("set up") || text.includes("socket")) {
-      return "Prépare d'abord l'espace, les ressources et les prérequis, puis fais cet objectif pendant ton développement normal afin d'éviter de devoir reconstruire ton installation plus tard.";
-    }
-    if (text.includes("trade") || text.includes("route")) {
-      return "Intègre cet objectif à ton réseau commercial global. Une configuration bien pensée peut souvent faire avancer plusieurs trophées économiques en même temps.";
-    }
-
-    return `Condition PSN : ${trophy.description || "remplir l'objectif indiqué"}. Essaie de la combiner avec un autre trophée du même stage, personnage ou système de jeu.`;
+    if (text.includes("complete all") || text.includes("obtain all") || text.includes("acquire all")) return "Treat this as a checklist trophy. Keep it as a long-term target and clear its prerequisites as you encounter them instead of leaving the entire cleanup for the end.";
+    if (text.includes("reach level") || text.includes("level ")) return "Stack this level requirement with another objective in the same run or save. Prioritize experience gain and avoid spending a separate session only on the level target.";
+    if (text.includes("survive") || text.includes("minute")) return "Build for consistency first, then use the same long run to complete another compatible objective while the timer is progressing.";
+    if (text.includes("find") || text.includes("discover")) return "Treat this as an exploration objective. Check the map, available markers and any stage or story prerequisites before starting a dedicated run.";
+    if (text.includes("defeat") || text.includes("eliminate") || text.includes("kill")) return "Before farming this fight, check whether the target can be combined with a stage, quest, diplomacy or cumulative objective so the same session advances more than one trophy.";
+    if (text.includes("build") || text.includes("place") || text.includes("set up") || text.includes("socket")) return "Plan the required space, resources and prerequisites first, then complete this during normal development rather than rebuilding your setup later.";
+    if (text.includes("trade") || text.includes("route")) return "Try to design this together with your broader trade-network goals. A single well-planned route setup can often advance several economy trophies at once.";
+    return `PSN requirement: ${trophy.description || "complete the listed trophy condition"}. Look for a way to combine it with another objective from the same stage, character or save.`;
   }
 
   function findTip(guide, trophy) {
@@ -135,13 +109,8 @@
 
     const fallback = [...missing].sort((a, b) => Number(a.id) - Number(b.id));
     return {
-      target: fallback[0]
-        ? { name: fallback[0].name, reason: "C'est le prochain trophée manquant détecté dans la liste détaillée." }
-        : null,
-      next: fallback.slice(1, 4).map((trophy) => ({
-        name: trophy.name,
-        reason: "Toujours manquant dans ta progression PSN actuelle.",
-      })),
+      target: fallback[0] ? { name: fallback[0].name, reason: "This is the next missing trophy in the detailed trophy list." } : null,
+      next: fallback.slice(1, 4).map((trophy) => ({ name: trophy.name, reason: "Still missing in your current PSN progression." })),
       completed: 0,
       total: 0,
     };
@@ -150,7 +119,6 @@
   function renderSourceLinks(guide, sourceIds = []) {
     if (!guide || !sourceIds.length) return "";
     const sources = sourceMap(guide);
-
     return sourceIds
       .map((id) => sources.get(id))
       .filter(Boolean)
@@ -165,44 +133,34 @@
     panel.className = "coach-panel";
     panel.dataset.coachFor = game.npCommunicationId;
 
-    const sourceLinks = (guide?.sources ?? []).slice(0, 4).map((source) =>
-      `<a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.label)}</a>`
-    ).join("");
+    const sourceLinks = (guide?.sources ?? []).slice(0, 4).map((source) => `<a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.label)}</a>`).join("");
 
     panel.innerHTML = `
       <div class="coach-panel-header">
-        <div>
-          <span class="coach-kicker">Coach platine</span>
-          <h3>Prochain objectif recommandé</h3>
-        </div>
-        <span class="coach-badge">${guide ? `Guide recherché · ${escapeHtml(guide.researchedAt || "")}` : "Conseil automatique"}</span>
+        <div><span class="coach-kicker">Platinum coach</span><h3>Recommended next</h3></div>
+        <span class="coach-badge">${guide ? `Researched guide · ${escapeHtml(guide.researchedAt || "")}` : "Automatic advice"}</span>
       </div>
       ${guide?.strategy ? `<p class="coach-empty" style="margin-top:-4px">${escapeHtml(guide.strategy)}</p>` : ""}
       ${target ? `
         <div class="coach-target">
           <strong>🎯 ${escapeHtml(target.name)}</strong>
-          <p>${escapeHtml(target.reason || "Recommandé d'après ta progression actuelle.")}</p>
-          ${recommendation.total ? `<div class="coach-roadmap-progress">Progression de la roadmap : ${recommendation.completed}/${recommendation.total} étapes déjà validées</div>` : ""}
+          <p>${escapeHtml(target.reason || "Recommended from your current trophy state.")}</p>
+          ${recommendation.total ? `<div class="coach-roadmap-progress">Roadmap progress: ${recommendation.completed}/${recommendation.total} steps already cleared</div>` : ""}
         </div>
-        ${recommendation.next.length ? `<div class="coach-next">${recommendation.next.map((entry, index) => `
-          <div class="coach-next-item"><span>${index + 2}.</span><div><b>${escapeHtml(entry.name)}</b><br>${escapeHtml(entry.reason || "")}</div></div>
-        `).join("")}</div>` : ""}
-      ` : `<div class="coach-empty">✨ Aucun trophée non-platine restant n'a été détecté dans la liste détaillée.</div>`}
+        ${recommendation.next.length ? `<div class="coach-next">${recommendation.next.map((entry, index) => `<div class="coach-next-item"><span>${index + 2}.</span><div><b>${escapeHtml(entry.name)}</b><br>${escapeHtml(entry.reason || "")}</div></div>`).join("")}</div>` : ""}
+      ` : `<div class="coach-empty">✨ No remaining non-platinum trophy was detected in the detailed list.</div>`}
       ${sourceLinks ? `<div class="coach-source-list">${sourceLinks}</div>` : ""}
     `;
-
     return panel;
   }
 
   function decorateTrophyRows(game, guide) {
     const rows = [...document.querySelectorAll("#drawerContent .trophy-row")];
     if (!rows.length) return;
-
     const trophyByName = new Map((game?.trophies ?? []).map((trophy) => [trophy.name, trophy]));
 
     for (const row of rows) {
       if (row.querySelector(".coach-tip")) continue;
-
       const name = row.querySelector("strong")?.textContent?.trim();
       const trophy = trophyByName.get(name);
       if (!trophy) continue;
@@ -210,19 +168,13 @@
       const advice = findTip(guide, trophy);
       const details = document.createElement("details");
       details.className = "coach-tip";
-
       const links = renderSourceLinks(guide, advice.sourceIds ?? []);
       details.innerHTML = `
-        <summary>${advice.curated ? "Conseil de guide" : "Conseil rapide"}</summary>
+        <summary>${advice.curated ? "Guide tip" : "Quick tip"}</summary>
         <p>${escapeHtml(advice.tip)}</p>
-        <div class="coach-tip-meta">
-          <span>${advice.curated ? "Conseil recoupé avec des guides" : "Conseil généré à partir de la condition du trophée"}</span>
-          ${links}
-        </div>
+        <div class="coach-tip-meta"><span>${advice.curated ? "Cross-checked guide advice" : "Generated from the trophy requirement"}</span>${links}</div>
       `;
-
-      const textContainer = row.querySelector("div");
-      (textContainer || row).appendChild(details);
+      (row.querySelector("div") || row).appendChild(details);
     }
   }
 
@@ -236,20 +188,16 @@
     if (!game || coachState.activeGameId !== id) return;
 
     const stats = content.querySelector(".drawer-stats");
-    if (stats && !content.querySelector(`.coach-panel[data-coach-for="${CSS.escape(id)}"]`)) {
-      stats.insertAdjacentElement("afterend", buildCoachPanel(game, guide));
-    }
-
+    if (stats && !content.querySelector(`.coach-panel[data-coach-for="${CSS.escape(id)}"]`)) stats.insertAdjacentElement("afterend", buildCoachPanel(game, guide));
     decorateTrophyRows(game, guide);
   }
 
   function scheduleRender() {
     if (coachState.pending) return;
     coachState.pending = true;
-
     requestAnimationFrame(() => {
       coachState.pending = false;
-      renderCoach().catch((error) => console.warn("Échec du rendu du coach de trophées", error));
+      renderCoach().catch((error) => console.warn("Trophy coach render failed", error));
     });
   }
 
@@ -262,24 +210,21 @@
         coachState.activeGameId = opener.dataset.gameId || opener.dataset.openGame || null;
         scheduleRender();
       }
+      if (event.target.closest("#drawerClose") || event.target.closest("#drawerBackdrop")) coachState.activeGameId = null;
+    }, true);
 
-      if (event.target.closest("#drawerClose") || event.target.closest("#drawerBackdrop")) {
-        coachState.activeGameId = null;
-      }
+    document.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      const opener = event.target.closest("[data-game-id]");
+      if (!opener) return;
+      coachState.activeGameId = opener.dataset.gameId || null;
+      scheduleRender();
     }, true);
 
     const drawerContent = document.querySelector("#drawerContent");
-    if (drawerContent) {
-      new MutationObserver(scheduleRender).observe(drawerContent, {
-        childList: true,
-        subtree: true,
-      });
-    }
+    if (drawerContent) new MutationObserver(scheduleRender).observe(drawerContent, { childList: true, subtree: true });
   }
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", init, { once: true });
-  } else {
-    init();
-  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init, { once: true });
+  else init();
 })();
