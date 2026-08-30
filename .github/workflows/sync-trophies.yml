@@ -40,7 +40,7 @@ jobs:
           git config user.name "PSN Trophy Bot"
           git config user.email "actions@github.com"
 
-          git add data/trophies.json
+          git add data/
 
           if git diff --cached --quiet; then
             echo "Aucun changement"
