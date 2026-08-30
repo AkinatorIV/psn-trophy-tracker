@@ -5,7 +5,7 @@
     "npCommunicationId": "NPWR44891_00"
   },
   "researchedAt": "2026-08-30",
-  "strategy": "Faire les trophées simples et cumulatifs pendant la campagne, tout en préparant tôt les objectifs longs liés à la recherche, aux rerolls, aux quêtes PNJ, à la diplomatie et aux contraintes de population.",
+  "strategy": "Clear simple and cumulative trophies during the campaign while starting long-term goals early: research, item rerolls, NPC questlines, diplomacy, population constraints and regional culture choices.",
   "sources": [
     {
       "id": "s4g",
@@ -14,172 +14,180 @@
     },
     {
       "id": "tt",
-      "label": "TrueTrophies — Liste PS5",
+      "label": "TrueTrophies — PS5 Trophy List",
       "url": "https://www.truetrophies.com/game/Anno-117-Pax-Romana/trophies"
     },
     {
       "id": "psthc",
-      "label": "PSTHC — Liste des trophées PS5",
+      "label": "PSTHC — PS5 Trophy List",
       "url": "https://www.psthc.fr/unjeu/anno-117-ps5/liste-trophees.htm"
-    },
-    {
-      "id": "th",
-      "label": "Trophies Hunter — Anno 117",
-      "url": "https://trophieshunter.com/fr/games/anno-117-pax-romana-ps5"
     }
   ],
   "roadmap": [
     {
       "name": "De Novo",
-      "reason": "Très rapide et sans impact sur ta partie : autant le sortir immédiatement."
+      "reason": "Very quick and harmless to your save, so it is worth clearing immediately."
     },
     {
       "name": "Scientia Potestas Est",
-      "reason": "Progresse naturellement avec la recherche et prépare Polygnostic."
+      "reason": "Progresses naturally through research and directly builds toward Polygnostic."
     },
     {
       "name": "City Watched",
-      "reason": "Objectif de construction simple en Latium à intégrer à ta ville principale."
+      "reason": "A simple Latium construction objective that fits naturally into your main city."
     },
     {
       "name": "Aqueduct Vitae",
-      "reason": "Objectif isolé et facile à planifier sur une île avec assez d'espace."
+      "reason": "An isolated construction challenge that is easiest to plan on an island with enough free space."
     },
     {
       "name": "Travelling Sails Problem",
-      "reason": "À faire pendant que tu développes ton réseau commercial."
+      "reason": "Best done while your trade network is still expanding."
     },
     {
       "name": "Cura Annonae",
-      "reason": "Combine naturellement le développement d'Albion et du Latium."
+      "reason": "Naturally combines your Albion and Latium development."
     },
     {
       "name": "Hic Svnt Dracones",
-      "reason": "L'exploration d'Albion ouvre ensuite plusieurs objectifs celtiques."
+      "reason": "Exploring all of Albion supports several later Celtic objectives."
     },
     {
       "name": "Polygnostic",
-      "reason": "Mieux vaut concentrer tes Inspirations dans une catégorie plutôt que les disperser."
+      "reason": "Focus research into one category instead of spreading Inspirations across several categories."
     },
     {
       "name": "Life Support",
-      "reason": "Les chaînes de quêtes PNJ sont à surveiller tôt pour éviter de les oublier."
+      "reason": "NPC questlines are easy to neglect, so keep Tarragon's chain moving whenever it appears."
     },
     {
       "name": "Questing Beast",
-      "reason": "Même logique : termine les quêtes d'Athr Iorgwyn au fil de la partie."
+      "reason": "Keep Athr Iorgwyn's questline moving while developing Albion."
     },
     {
       "name": "Lily Buy-in",
-      "reason": "Même logique : termine les quêtes de Valeria au fil de la partie."
+      "reason": "Complete Valeria's quests as they appear rather than leaving the whole chain for endgame cleanup."
     },
     {
       "name": "Fuelling The Flame",
-      "reason": "Même logique : termine toutes les quêtes de Concordia."
+      "reason": "Concordia's full questline is another long-form objective that is safer to progress early."
     },
     {
       "name": "Alea Iacta Est",
-      "reason": "Objectif très long : commence à reroll régulièrement les offres dès maintenant."
+      "reason": "A long cumulative grind: start rerolling item offers regularly now instead of farming the full amount later."
     },
     {
       "name": "Morituri Te Salutant",
-      "reason": "Nécessite une ville et une économie solides : idéal une fois ton amphithéâtre bien installé."
+      "reason": "Requires a developed city and stable economy, so tackle it once your Amphitheater infrastructure is comfortable."
     },
     {
       "name": "Si Vis Pacem",
-      "reason": "À préparer avant d'éliminer trop de rivaux : il faut faire la guerre puis conclure la paix avec trois rivaux distincts."
+      "reason": "Plan this before eliminating too many rivals: you need war and then peace with three separate rivals."
     },
     {
       "name": "Patrician Tastes",
-      "reason": "Demande une île planifiée spécialement sans Liberti ni Plebeians."
+      "reason": "Much easier when an island is designed around the population restriction from the beginning."
     },
     {
       "name": "Not Built In A Day",
-      "reason": "Continue simplement une sauvegarde de campagne sur le long terme jusqu'à dépasser 24 heures."
+      "reason": "Keep one main Campaign save alive until it passes the 24-hour requirement."
     },
     {
       "name": "Quid Pro Quo",
-      "reason": "Objectif de fin de progression : atteins le rang de Proconsul."
+      "reason": "A long-term prestige objective that is best treated as a late-game milestone."
     }
   ],
   "trophies": {
     "De Novo": {
-      "tip": "Utilise l'outil cosmétique pour changer le skin d'un bâtiment 9 fois. C'est un trophée sans vraie contrainte : fais-le dès que l'outil est disponible au lieu de le garder pour la fin.",
+      "tip": "Use the Cosmetic Tool to change a building's skin nine times. Space4Games explicitly recommends treating this as passive cleanup, so knock it out as soon as the tool is available.",
       "sourceIds": ["s4g", "tt"]
     },
     "Scientia Potestas Est": {
-      "tip": "Valide 9 Inspirations de recherche au fil de la partie. Évite de laisser la recherche inactive : cet objectif prépare directement le terrain pour Polygnostic.",
-      "sourceIds": ["s4g"]
+      "tip": "Fulfill nine Research Inspirations during normal development. Keep research active instead of letting it idle, because the same habit directly helps with Polygnostic later.",
+      "sourceIds": ["s4g", "tt"]
     },
     "Polygnostic": {
-      "tip": "Concentre tes choix de recherche dans une seule catégorie jusqu'à y débloquer toutes les Inspirations. Le guide Space4Games recommande explicitement de travailler régulièrement une catégorie complète.",
-      "sourceIds": ["s4g"]
+      "tip": "Concentrate your research choices in one category until every Inspiration in that category is unlocked. Space4Games specifically recommends focusing one category rather than spreading progress around.",
+      "sourceIds": ["s4g", "tt"]
     },
     "Alea Iacta Est": {
-      "tip": "Commence tôt : il faut dépenser 170 100 deniers en rerolls d'objets. Fais des rerolls régulièrement pendant toute la partie au lieu d'essayer de tout farmer à la fin.",
-      "sourceIds": ["s4g"]
+      "tip": "Start this early. You need to spend 170,100 Denarii on item-offer rerolls, and Space4Games calls it a long-term objective. Refresh offers regularly throughout the campaign instead of trying to grind the entire amount at the end.",
+      "sourceIds": ["s4g", "tt"]
     },
     "Morituri Te Salutant": {
-      "tip": "Il faut organiser 9 événements à l'amphithéâtre. Prépare une économie stable et les infrastructures nécessaires pour pouvoir enchaîner les événements sans mettre ta ville en difficulté.",
+      "tip": "Host nine Amphitheater events. Build toward this only once your city has the required status, strong infrastructure and a stable economy so repeated events do not destabilize the rest of your settlement.",
       "sourceIds": ["s4g", "tt"]
     },
     "Quid Pro Quo": {
-      "tip": "Atteindre Proconsul est un objectif de long terme. Ne le force pas trop tôt : réputation, développement et progression générale de ta partie vont y contribuer naturellement.",
+      "tip": "Treat Proconsul as a long-term campaign milestone. Reputation and overall strategic development are the real grind here, so keep progressing your strongest save rather than trying to force this trophy early.",
       "sourceIds": ["s4g", "tt"]
     },
     "Si Vis Pacem": {
-      "tip": "Le point important est l'ordre : entre en guerre avec trois rivaux distincts puis conclus la paix avec chacun. Ne les élimine pas avant d'avoir sécurisé ce trophée.",
+      "tip": "The order matters: wage war against three different rivals, then successfully broker peace with them. Do not eliminate rivals you may still need for this trophy.",
       "sourceIds": ["s4g", "tt"]
     },
     "Patrician Tastes": {
-      "tip": "Prévois une île dédiée dès le départ et monte-la jusqu'au statut Growing Megalopolis sans y installer de Liberti ni de Plebeians. C'est beaucoup plus simple à planifier que de nettoyer une île existante après coup.",
+      "tip": "Plan a dedicated island around the restriction from the start and raise it to the required city status without any Liberti or Plebeians. Designing for the condition early is much easier than trying to retrofit a mature island.",
       "sourceIds": ["s4g", "tt"]
     },
     "Not Built In A Day": {
-      "tip": "Le compteur demande plus de 24 heures sur une seule partie Campagne. Garde une sauvegarde principale et continue à jouer dessus plutôt que de multiplier les nouvelles campagnes.",
+      "tip": "The requirement is more than 24 hours in a single Campaign game. Keep one main campaign save and continue building on it instead of constantly restarting new campaign files.",
       "sourceIds": ["s4g", "tt"]
     },
     "Fuelling The Flame": {
-      "tip": "Termine toutes les quêtes de Concordia. Dès qu'une quête de sa chaîne apparaît, priorise-la pour ne pas perdre le fil de progression du PNJ.",
-      "sourceIds": ["s4g"]
+      "tip": "Complete every Concordia quest. When her next quest becomes available, prioritize it so story choices or later rival actions do not leave the chain forgotten.",
+      "sourceIds": ["s4g", "tt"]
     },
     "Life Support": {
-      "tip": "Termine toute la chaîne de quêtes de Tarragon. Traite les quêtes PNJ comme des objectifs de long terme à faire au fil de la campagne.",
-      "sourceIds": ["s4g"]
+      "tip": "Complete Tarragon's entire questline. Treat NPC quest chains as campaign-long objectives and clear each step when it becomes available.",
+      "sourceIds": ["s4g", "tt"]
     },
     "Questing Beast": {
-      "tip": "Termine toutes les quêtes d'Athr Iorgwyn. Évite de laisser sa chaîne de côté pendant ton développement d'Albion.",
-      "sourceIds": ["s4g"]
+      "tip": "Complete all of Athr Iorgwyn's quests. Keep the chain active while developing Albion instead of leaving it for a late cleanup pass.",
+      "sourceIds": ["s4g", "tt"]
     },
     "Lily Buy-in": {
-      "tip": "Termine toutes les quêtes de Valeria. Fais-les au fur et à mesure plutôt que de tenter de reconstituer la chaîne en fin de partie.",
-      "sourceIds": ["s4g"]
+      "tip": "Complete all of Valeria's quests as they appear. This is safer than trying to reconstruct a neglected quest chain after your campaign has moved much further forward.",
+      "sourceIds": ["s4g", "tt"]
     },
     "Haec Ornamenta Mea": {
-      "tip": "Les 50 ornements peuvent être posés progressivement pendant que tu embellis une île. Le guide recommande de laisser ce type d'objectif cosmétique se faire passivement pendant la partie.",
-      "sourceIds": ["s4g"]
+      "tip": "Place the 50 ornaments gradually while beautifying an island. Space4Games recommends letting cosmetic trophies like this progress passively during normal city development.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    "Heavier Than A Feather": {
+      "tip": "Before committing to eliminating Neferneru, double-check any remaining diplomacy trophies that still require active rivals. Once those are safe, treat this as a dedicated military objective.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    "Romani Ite Domum": {
+      "tip": "Prepare an Albion island specifically for Celtic population growth and avoid Romanising any resident there. Planning the island around the restriction is safer than trying to undo Romanisation later.",
+      "sourceIds": ["s4g", "tt"]
     }
   },
   "patternTips": [
     {
       "contains": ["Trade Route"],
-      "tip": "Profite de chaque extension vers une nouvelle île pour complexifier ton réseau commercial : plusieurs trophées cumulent routes, arrêts et connexions entre régions.",
+      "tip": "Use every expansion to improve your trade network. Several trophies involve route count, stop count and cross-region connections, so design routes to satisfy multiple requirements at once.",
       "sourceIds": ["s4g", "tt"]
     },
     {
       "contains": ["Complete all of"],
-      "tip": "Pour les chaînes de quêtes PNJ, fais les missions dès qu'elles apparaissent et évite de laisser la diplomatie ou les choix de campagne bloquer leur progression.",
-      "sourceIds": ["s4g"]
+      "tip": "For NPC questline trophies, complete missions as soon as they appear and avoid letting diplomacy or campaign choices stall a character's chain for too long.",
+      "sourceIds": ["s4g", "tt"]
     },
     {
       "contains": ["Eliminate"],
-      "tip": "Avant d'éliminer un rival, vérifie les trophées diplomatiques encore manquants : certains demandent de rester en relation, d'entrer en guerre ou de conclure la paix avec plusieurs rivaux.",
-      "sourceIds": ["s4g"]
+      "tip": "Before eliminating a rival, check every remaining diplomacy trophy. Some objectives require rivals to stay available for war, peace or alliance interactions.",
+      "sourceIds": ["s4g", "tt"]
     },
     {
       "contains": ["Patron God"],
-      "tip": "Planifie les dédicaces d'îles à l'avance : plusieurs trophées dépendent du choix des divinités et de la région, donc évite de répartir tes choix au hasard.",
-      "sourceIds": ["s4g"]
+      "tip": "Plan island dedications deliberately. Several trophies depend on specific deities, regions or repeated patron choices, so avoid distributing patron selections randomly.",
+      "sourceIds": ["s4g", "tt"]
+    },
+    {
+      "contains": ["population"],
+      "tip": "Population trophies are easier with a dedicated island plan. Reserve enough housing, supply chains and workforce capacity early instead of trying to squeeze the target into an already optimized island.",
+      "sourceIds": ["s4g", "tt"]
     }
   ]
 }
