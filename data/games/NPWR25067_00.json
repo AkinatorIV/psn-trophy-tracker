@@ -1,0 +1,392 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "ELDEN RING™",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR25067_00",
+    "earnedCount": 42,
+    "totalCount": 42,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Elden Ring",
+        "description": "Obtained all trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T23:14:04Z"
+      },
+      {
+        "id": 1,
+        "name": "Elden Lord",
+        "description": "Achieved the \"Elden Lord\" ending",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T22:53:21Z"
+      },
+      {
+        "id": 2,
+        "name": "Age of the Stars",
+        "description": "Achieved the \"Age of the Stars\" ending",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T23:07:27Z"
+      },
+      {
+        "id": 3,
+        "name": "Lord of Frenzied Flame",
+        "description": "Achieved the \"Lord of Frenzied Flame\" ending",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T23:14:04Z"
+      },
+      {
+        "id": 4,
+        "name": "Shardbearer Godrick",
+        "description": "Defeated Shardbearer Godrick",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-05-15T15:23:13Z"
+      },
+      {
+        "id": 5,
+        "name": "Shardbearer Radahn",
+        "description": "Defeated Shardbearer Radahn",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-29T10:32:11Z"
+      },
+      {
+        "id": 6,
+        "name": "Shardbearer Morgott",
+        "description": "Defeated Shardbearer Morgott",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-14T22:37:52Z"
+      },
+      {
+        "id": 7,
+        "name": "Shardbearer Rykard",
+        "description": "Defeated Shardbearer Rykard",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-06T15:31:35Z"
+      },
+      {
+        "id": 8,
+        "name": "Shardbearer Malenia",
+        "description": "Defeated Shardbearer Malenia",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-23T14:51:50Z"
+      },
+      {
+        "id": 9,
+        "name": "Shardbearer Mohg",
+        "description": "Defeated Shardbearer Mohg",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-16T14:56:00Z"
+      },
+      {
+        "id": 10,
+        "name": "Maliketh the Black Blade",
+        "description": "Defeated Maliketh the Black Blade",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T00:02:05Z"
+      },
+      {
+        "id": 11,
+        "name": "Hoarah Loux, Warrior",
+        "description": "Defeated Hoarah Loux, Warrior",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T22:13:58Z"
+      },
+      {
+        "id": 12,
+        "name": "Dragonlord Placidusax",
+        "description": "Defeated Dragonlord Placidusax",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-23T23:32:20Z"
+      },
+      {
+        "id": 13,
+        "name": "God-Slaying Armament",
+        "description": "Upgraded any armament to its highest stage",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-15T22:52:35Z"
+      },
+      {
+        "id": 14,
+        "name": "Legendary Armaments",
+        "description": "Acquired all legendary armaments",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-23T23:40:52Z"
+      },
+      {
+        "id": 15,
+        "name": "Legendary Ashen Remains",
+        "description": "Acquired all legendary ashen remains",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T15:45:05Z"
+      },
+      {
+        "id": 16,
+        "name": "Legendary Sorceries and Incantations",
+        "description": "Acquired all legendary sorceries and incantations",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-15T22:02:25Z"
+      },
+      {
+        "id": 17,
+        "name": "Legendary Talismans",
+        "description": "Acquired all legendary talismans",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T22:02:57Z"
+      },
+      {
+        "id": 18,
+        "name": "Rennala, Queen of the Full Moon",
+        "description": "Defeated Rennala, Queen of the Full Moon",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-25T17:17:18Z"
+      },
+      {
+        "id": 19,
+        "name": "Lichdragon Fortissax",
+        "description": "Defeated Lichdragon Fortissax",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-07T13:40:42Z"
+      },
+      {
+        "id": 20,
+        "name": "Godskin Duo",
+        "description": "Defeated Godskin Duo",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-23T16:01:24Z"
+      },
+      {
+        "id": 21,
+        "name": "Fire Giant",
+        "description": "Defeated Fire Giant",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-15T20:45:34Z"
+      },
+      {
+        "id": 22,
+        "name": "Dragonkin Soldier of Nokstella",
+        "description": "Defeated Dragonkin Soldier of Nokstella",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T15:00:22Z"
+      },
+      {
+        "id": 23,
+        "name": "Regal Ancestor Spirit",
+        "description": "Defeated Regal Ancestor Spirit",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-29T16:51:57Z"
+      },
+      {
+        "id": 24,
+        "name": "Valiant Gargoyles",
+        "description": "Defeated Valiant Gargoyles",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-30T14:06:59Z"
+      },
+      {
+        "id": 25,
+        "name": "Margit, the Fell Omen",
+        "description": "Defeated Margit, the Fell Omen",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-05-29T16:16:57Z"
+      },
+      {
+        "id": 26,
+        "name": "Red Wolf of Radagon",
+        "description": "Defeated the Red Wolf of Radagon",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-24T19:54:58Z"
+      },
+      {
+        "id": 27,
+        "name": "Godskin Noble",
+        "description": "Defeated Godskin Noble",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-05T21:38:30Z"
+      },
+      {
+        "id": 28,
+        "name": "Magma Wyrm Makar",
+        "description": "Defeated Magma Wyrm Makar",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-01T12:32:20Z"
+      },
+      {
+        "id": 29,
+        "name": "Godfrey, First Elden Lord",
+        "description": "Defeated Godfrey, First Elden Lord",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-14T22:19:44Z"
+      },
+      {
+        "id": 30,
+        "name": "Mohg, the Omen",
+        "description": "Defeated Mohg, the Omen",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-24T15:30:40Z"
+      },
+      {
+        "id": 31,
+        "name": "Mimic Tear",
+        "description": "Defeated Mimic Tear",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-29T15:54:20Z"
+      },
+      {
+        "id": 32,
+        "name": "Loretta, Knight of the Haligtree",
+        "description": "Defeated Loretta, Knight of the Haligtree",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-18T21:02:28Z"
+      },
+      {
+        "id": 33,
+        "name": "Astel, Naturalborn of the Void",
+        "description": "Defeated Astel, Naturalborn of the Void",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-06T21:34:33Z"
+      },
+      {
+        "id": 34,
+        "name": "Leonine Misbegotten",
+        "description": "Defeated the Leonine Misbegotten",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-05-24T20:17:53Z"
+      },
+      {
+        "id": 35,
+        "name": "Royal Knight Loretta",
+        "description": "Defeated Royal Knight Loretta",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-26T18:16:09Z"
+      },
+      {
+        "id": 36,
+        "name": "Elemer of the Briar",
+        "description": "Defeated Elemer of the Briar",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-01T13:47:52Z"
+      },
+      {
+        "id": 37,
+        "name": "Ancestor Spirit",
+        "description": "Defeated Ancestor Spirit",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-28T16:37:58Z"
+      },
+      {
+        "id": 38,
+        "name": "Commander Niall",
+        "description": "Defeated Commander Niall",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-15T21:36:02Z"
+      },
+      {
+        "id": 39,
+        "name": "Roundtable Hold",
+        "description": "Arrived at Roundtable Hold",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-05-29T16:19:34Z"
+      },
+      {
+        "id": 40,
+        "name": "Great Rune",
+        "description": "Restored the power of a Great Rune",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-05-16T18:58:06Z"
+      },
+      {
+        "id": 41,
+        "name": "Erdtree Aflame",
+        "description": "Used kindling to set the Erdtree aflame",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-23T15:17:54Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T15:24:15.930Z"
+}

@@ -1,0 +1,383 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Marvel Rivals",
+    "platform": "PS5",
+    "progress": 3,
+    "npCommunicationId": "NPWR44165_00",
+    "earnedCount": 2,
+    "totalCount": 41,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "The Collector",
+        "description": "Collect all trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Rising Star",
+        "description": "Reach level 20.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 2,
+        "name": "Inevitable!",
+        "description": "Win 100 matches.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Assemble!",
+        "description": "Team up with a friend for a match.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Onslaught!",
+        "description": "Land a 3-player KO streak.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-15T16:02:45Z"
+      },
+      {
+        "id": 5,
+        "name": "Thumbs Up",
+        "description": "Upvote 1 player.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "You Do You",
+        "description": "Use the customizable wheel once.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-15T23:08:19Z"
+      },
+      {
+        "id": 7,
+        "name": "Master of Modes",
+        "description": "Complete 1 Arcade match.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Smart Is New Smash",
+        "description": "As Bruce Banner, land 1 KO within 3 seconds of calming down from the Hulk to Banner.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Smoke Screen",
+        "description": "As the Punisher, land 3 KOs amidst the smoke of Scourge Grenade in a single game.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "To Me, My X-Men!",
+        "description": "As Storm, assist X-Men members 10 times.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "God of Treachery",
+        "description": "As Loki, land one KO by stabbing from behind.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Perilous Portal",
+        "description": "As Doctor Strange, land 1 terrain KO with the portal.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Victory in Bloom",
+        "description": "As Mantis, assist allies in achieving a team wipe.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "West Coast, Best Coast",
+        "description": "As Hawkeye, partner with the Avengers to land 10 KOs.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Justice for All!",
+        "description": "As Captain America, land 3 KOs with a single use of Freedom Charge.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Go Get 'Em, Guardians!",
+        "description": "As Rocket Raccoon, revive the Guardians of the Galaxy members 5 times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Terror of the Ten Realms",
+        "description": "As Hela, land a 3-player KO streak in Yggsgard: Yggdrasill Path.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Symphony of Light and Dark",
+        "description": "As Cloak & Dagger, assist allies in achieving a team wipe.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "King of the Dead",
+        "description": "As Black Panther, land a 3-player KO streak in the Intergalactic Empire of Wakanda: Hall of Djalia.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Vicious Vines",
+        "description": "As Groot, imprison 4 enemies with a single use of Strangling Prison.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Demon's Roar",
+        "description": "As Magik, land 3 KOs within a single tranformation into Darkchild.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Punishment of the Moon",
+        "description": "As Moon Knight, hit 4 enemies with a single use of Hand of Khonshu.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Multiverse Tour",
+        "description": "As Luna Snow, complete a match on 5 maps with different themes.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "\"Ahhh, those tiny claws!\"",
+        "description": "As Squirrel Girl, land 3 KOs with a single use of Unbeatable Squirrel Tsunami.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Deadly Bites",
+        "description": "As Black Widow, land 3 KOs with critical hits in a single match.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Flawless Design",
+        "description": "As Iron Man, hit 4 enemies with a single use of Invincible Pulse Cannon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Grip of Hunger",
+        "description": "As Venom, snare 4 enemies with a single use of Cellular Corrosion.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Spider-Sense Tingling!",
+        "description": "As Spider-Man, detect an enemy with Spider-Sense and land a winning counterattack.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Homo Superior",
+        "description": "As Magneto, assist Mutant allies 10 times.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "No More Mutants",
+        "description": "As Scarlet Witch, take down Mutant enemies 10 times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Divine Justice",
+        "description": "As Thor, strike down 4 enemies with a single use of God of Thunder.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Arm Race",
+        "description": "As Winter Soldier, land 3 KOs with a single use of Kraken Impact.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Watch Your Step!",
+        "description": "As Peni Parker, blast 3 enemies with a single use of Arachno-Mine.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Vengeance for the Milano!",
+        "description": "As Star-Lord, land 10 KOs with assists from the Guardians of the Galaxy.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Aquatic Assault",
+        "description": "As Namor, summon Monstro Spawn to land 10 KOs in a single game.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Family Ties",
+        "description": "As Adam Warlock, forge a soul bond with 3 allies from the Guardians of the Galaxy.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Snack Attack!",
+        "description": "As Jeff the Land Shark, swallow 4 enemies with a single use of It's Jeff!",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Way of the Butterfly",
+        "description": "As Psylocke, contest the mission area for 60 seconds in a single match.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "Rage Uncaged",
+        "description": "As Wolverine, land 3 KOs with a single use of Last Stand.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Might of Fuxi",
+        "description": "As Iron Fist, land 3 KOs with a single use of Living Chi.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T15:24:16.112Z"
+}
