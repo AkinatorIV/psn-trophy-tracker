@@ -1,0 +1,1004 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "BATMAN™: ARKHAM KNIGHT",
+    "platform": "PS4",
+    "progress": 51,
+    "npCommunicationId": "NPWR05542_00",
+    "earnedCount": 66,
+    "totalCount": 110,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "I AM the Batman!",
+        "description": "Reclaim your city.",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-18T22:27:03Z"
+      },
+      {
+        "id": 1,
+        "name": "A Battle Within",
+        "description": "Fight for your sanity.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-02T20:39:04Z"
+      },
+      {
+        "id": 2,
+        "name": "A Heart Broken in Two",
+        "description": "Secure the secret base.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-06T17:58:32Z"
+      },
+      {
+        "id": 3,
+        "name": "A Leap of Faith",
+        "description": "Complete 8 different jumps over 100 meters.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-16T15:14:44Z"
+      },
+      {
+        "id": 4,
+        "name": "Absolution",
+        "description": "Achieve 69 Stars in AR Challenges.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-16T10:33:55Z"
+      },
+      {
+        "id": 5,
+        "name": "Angel in the Dark",
+        "description": "Complete the trials and prove you are a worthy successor.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T10:20:05Z"
+      },
+      {
+        "id": 6,
+        "name": "As the Crow Flies",
+        "description": "Escape from ACE Chemicals.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-30T21:41:49Z"
+      },
+      {
+        "id": 7,
+        "name": "Be Not Afraid",
+        "description": "Win the war for Gotham.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-07T21:45:19Z"
+      },
+      {
+        "id": 8,
+        "name": "Blunt Trauma",
+        "description": "Perform every type of predator takedown.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-16T14:07:38Z"
+      },
+      {
+        "id": 9,
+        "name": "Brotherhood of the Fist",
+        "description": "Return of the Dynamic Duo.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-05T20:31:41Z"
+      },
+      {
+        "id": 10,
+        "name": "Brutality 101",
+        "description": "Perform 15 different combat moves in one FreeFlow.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-16T14:45:52Z"
+      },
+      {
+        "id": 11,
+        "name": "Choice of Weapons",
+        "description": "Use all five Batmobile weapons successfully in one tank battle.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-06T18:54:35Z"
+      },
+      {
+        "id": 12,
+        "name": "City of Fear",
+        "description": "Defend the assault on your ally's fortress.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-06T20:10:41Z"
+      },
+      {
+        "id": 13,
+        "name": "Cold World",
+        "description": "Destroy the first weapons cache in Gotham City.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-01T11:48:11Z"
+      },
+      {
+        "id": 14,
+        "name": "Creature of the Night",
+        "description": "Freedom of the city.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T21:50:00Z"
+      },
+      {
+        "id": 15,
+        "name": "Cycle of Violence",
+        "description": "Use 100 Quick Gadgets while in free flow combat.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-06T18:50:46Z"
+      },
+      {
+        "id": 16,
+        "name": "Dark Allegiances",
+        "description": "Apprehend Scarecrow's senior commander.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-09T11:42:02Z"
+      },
+      {
+        "id": 17,
+        "name": "Dark Wings Fly Away in Fear",
+        "description": "What is the Cloudburst?",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T09:57:21Z"
+      },
+      {
+        "id": 18,
+        "name": "Days of Fire",
+        "description": "Extinguish the fires in Gotham City.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T21:54:32Z"
+      },
+      {
+        "id": 19,
+        "name": "Death and Glory",
+        "description": "Perform 20 fear takedowns.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T21:38:41Z"
+      },
+      {
+        "id": 20,
+        "name": "Death by Design",
+        "description": "Obtain a key by completing the seventh Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-04T20:35:48Z"
+      },
+      {
+        "id": 21,
+        "name": "Death of Innocents",
+        "description": "Rescue station 17 fire crew.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-09T11:14:10Z"
+      },
+      {
+        "id": 22,
+        "name": "Dirty Tricks",
+        "description": "Achieve 3 minutes of drifting time in the Batmobile.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-06T20:50:40Z"
+      },
+      {
+        "id": 23,
+        "name": "Double Jeopardy",
+        "description": "Face off with an old friend.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-06T18:47:22Z"
+      },
+      {
+        "id": 24,
+        "name": "Fear of Faith",
+        "description": "Rescue the ACE Chemical workers.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-28T20:19:49Z"
+      },
+      {
+        "id": 25,
+        "name": "Fear of Success",
+        "description": "Survive Scarecrow's ambush.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-07T20:38:34Z"
+      },
+      {
+        "id": 26,
+        "name": "Fortunate Son",
+        "description": "Achieve 46 Stars in AR Challenges.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-13T19:00:26Z"
+      },
+      {
+        "id": 27,
+        "name": "Gates of Gotham",
+        "description": "Destroy all of the militia watchtowers.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T10:45:46Z"
+      },
+      {
+        "id": 28,
+        "name": "Gotham After Midnight",
+        "description": "Glide for 400 meters while less than 20 meters from the ground.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-13T17:29:30Z"
+      },
+      {
+        "id": 29,
+        "name": "Gotham Underground",
+        "description": "Defuse all of the militia explosive ordinance in Gotham City.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-09T11:18:54Z"
+      },
+      {
+        "id": 30,
+        "name": "Jekyll & Hyde",
+        "description": "Stop the bank heist on Miagani Island and lock up the master mind in GCPD.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T18:40:59Z"
+      },
+      {
+        "id": 31,
+        "name": "Journey into Knight",
+        "description": "Even The Odds.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-27T21:13:03Z"
+      },
+      {
+        "id": 32,
+        "name": "Judgment Day",
+        "description": "Win the rumble down under.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-07T19:41:21Z"
+      },
+      {
+        "id": 33,
+        "name": "Knightfall",
+        "description": "Initiate Knightfall Protocol.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-16T15:17:31Z"
+      },
+      {
+        "id": 34,
+        "name": "Lethal Pursuits",
+        "description": "Obtain a key by completing the ninth Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-04T21:02:02Z"
+      },
+      {
+        "id": 35,
+        "name": "Living Hell",
+        "description": "Interrogate the Militia APC Driver.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-01T11:09:19Z"
+      },
+      {
+        "id": 36,
+        "name": "Master of Fear",
+        "description": "Wayne vs Crane.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-07T22:27:54Z"
+      },
+      {
+        "id": 37,
+        "name": "Nine Lives",
+        "description": "Obtain a key by completing the last Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T09:56:16Z"
+      },
+      {
+        "id": 38,
+        "name": "No Man's Land",
+        "description": "Restore power to the bridges of Gotham City.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-31T22:36:46Z"
+      },
+      {
+        "id": 39,
+        "name": "Pieces of the Puzzle",
+        "description": "Obtain a key by completing the second Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-31T23:31:21Z"
+      },
+      {
+        "id": 40,
+        "name": "Point of Impact",
+        "description": "Perform 5 perfect shots in a row with the Vulcan Gun without taking damage.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-09T11:48:24Z"
+      },
+      {
+        "id": 41,
+        "name": "Riddle Me That",
+        "description": "Lock up the Riddler in GCPD.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-16T11:26:39Z"
+      },
+      {
+        "id": 42,
+        "name": "Riddler on the Rampage",
+        "description": "Obtain a key by completing the fourth Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T10:51:55Z"
+      },
+      {
+        "id": 43,
+        "name": "Run Through the Jungle",
+        "description": "Fly under 3 main bridges between the islands in one continuous glide.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-16T15:03:01Z"
+      },
+      {
+        "id": 44,
+        "name": "Savage Metal",
+        "description": "Smash 10 militia transport vehicles off the road without using the immobilizer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-04T19:47:52Z"
+      },
+      {
+        "id": 45,
+        "name": "Scar of the Bat",
+        "description": "Cure the doctor.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-07T20:51:38Z"
+      },
+      {
+        "id": 46,
+        "name": "Seduction of the Gun",
+        "description": "Achieve 50 critical shots on light tanks.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T18:27:43Z"
+      },
+      {
+        "id": 47,
+        "name": "Sins of Youth",
+        "description": "Achieve 23 Stars in AR Challenges.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-08T11:03:44Z"
+      },
+      {
+        "id": 48,
+        "name": "Strange Deadfellows",
+        "description": "Deploy the Cloudburst countermeasures.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T21:16:23Z"
+      },
+      {
+        "id": 49,
+        "name": "Streets of Gotham",
+        "description": "Destroy all of the militia checkpoints.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-09T11:33:30Z"
+      },
+      {
+        "id": 50,
+        "name": "The Burning Question",
+        "description": "Obtain a key by completing the fifth Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T11:01:40Z"
+      },
+      {
+        "id": 51,
+        "name": "The Cat and the Bat",
+        "description": "Obtain a key by completing the third Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-01T10:44:07Z"
+      },
+      {
+        "id": 52,
+        "name": "The Cult",
+        "description": "Save the sacrificial victim and lock up the executioner in GCPD.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-07T21:20:25Z"
+      },
+      {
+        "id": 53,
+        "name": "The Frequency of Fear",
+        "description": "Scan Gotham City to pinpoint Scarecrow's location.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-28T19:41:24Z"
+      },
+      {
+        "id": 54,
+        "name": "The Long Halloween",
+        "description": "Wayne vs Crane in New Story +.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-18T22:27:03Z"
+      },
+      {
+        "id": 55,
+        "name": "The Monster Machine",
+        "description": "Track down and apprehend the serial killer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-04T20:22:34Z"
+      },
+      {
+        "id": 56,
+        "name": "The Primal Riddle",
+        "description": "Obtain a key by completing the sixth Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T11:09:00Z"
+      },
+      {
+        "id": 57,
+        "name": "The Real Deal",
+        "description": "Takedown 20 moving cars without using the Batmobile.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-09T18:03:37Z"
+      },
+      {
+        "id": 58,
+        "name": "The Riddle Factory",
+        "description": "Obtain a key by completing the eighth Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-04T20:49:39Z"
+      },
+      {
+        "id": 59,
+        "name": "The Road Home",
+        "description": "Destroy all of the militia APC's.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-05T20:08:17Z"
+      },
+      {
+        "id": 60,
+        "name": "The Road to Hell",
+        "description": "Successfully complete the first Riddler trial.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-28T19:01:12Z"
+      },
+      {
+        "id": 61,
+        "name": "Touch of Death",
+        "description": "Apprehend the weapons dealer and lock him up in GCPD.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-06T19:35:02Z"
+      },
+      {
+        "id": 62,
+        "name": "Trail of Fear",
+        "description": "Lock up your first Supervillain in GCPD.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-27T21:30:49Z"
+      },
+      {
+        "id": 63,
+        "name": "Who Rules The Night",
+        "description": "Batman vs the Arkham Knight.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-06T21:19:30Z"
+      },
+      {
+        "id": 64,
+        "name": "With a Vengeance!",
+        "description": "Take on the heavy artillery reinforcements.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-03T11:46:25Z"
+      },
+      {
+        "id": 65,
+        "name": "A Fire in the Heavens",
+        "description": "Free the hostages at the Ferris Wheel.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 66,
+        "name": "A House Made of Spun Glass",
+        "description": "Free the hostages at the Merry-go-round.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 67,
+        "name": "The Laughing Fish!",
+        "description": "Free the hostages at the Ghost Ship.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 68,
+        "name": "A Courtship of Razors",
+        "description": "Rescue your father.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 69,
+        "name": "All Snug in Their Beds",
+        "description": "Uncover the secret history of the park.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 70,
+        "name": "Ambush",
+        "description": "Defeat 4 enemies within the duration of a single scare effect.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 71,
+        "name": "Weird War Tales",
+        "description": "Defeat 15 enemies using any type of hacking.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 72,
+        "name": "A Blade of Memory",
+        "description": "Destroy all Teeth, Balloons and Jack-In-The-Boxes.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 73,
+        "name": "Cuckoo for Incarceration",
+        "description": "Rescue your friend.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 74,
+        "name": "Under The Red Hood",
+        "description": "Shut down this operation.",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 75,
+        "name": "Dark Victory",
+        "description": "Escape the Nightmare.",
+        "type": "silver",
+        "group": "004",
+        "earned": true,
+        "earnedDateTime": "2025-02-13T21:21:18Z"
+      },
+      {
+        "id": 76,
+        "name": "Street Demonz",
+        "description": "Achieve 33 Stars in AR Challenges using the 1989 Movie Batmobile.",
+        "type": "silver",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 77,
+        "name": "Gangland Express",
+        "description": "Achieve 33 Stars in AR Challenges using the 2008 Tumbler Batmobile.",
+        "type": "silver",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 78,
+        "name": "Rough Justice",
+        "description": "Stop Penguin's escape from GCPD.",
+        "type": "silver",
+        "group": "007",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 79,
+        "name": "Joy Ride",
+        "description": "Achieve 33 Stars in AR Challenges using the 1960's TV Series Batmobile.",
+        "type": "silver",
+        "group": "008",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 80,
+        "name": "The Cat Came Back",
+        "description": "Break into Riddler's secret hideout and exact your revenge.",
+        "type": "silver",
+        "group": "009",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 81,
+        "name": "Succession Plans",
+        "description": "Break into Hell's Gate HQ and apprehend Two-Face.",
+        "type": "silver",
+        "group": "010",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 82,
+        "name": "The World's Finest",
+        "description": "Achieve 21 Stars in AR Challenges using the 2016 Batman v Superman Batmobile.",
+        "type": "silver",
+        "group": "011",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 83,
+        "name": "The Big Leagues",
+        "description": "Achieve 21 Stars in AR Challenges playing as Robin.",
+        "type": "silver",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 84,
+        "name": "Acts of Violence",
+        "description": "Achieve 21 Stars in AR Challenges playing as Nightwing.",
+        "type": "silver",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 85,
+        "name": "Motherlode",
+        "description": "Achieve 21 Stars in AR Challenges playing as Batgirl.",
+        "type": "silver",
+        "group": "012",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 86,
+        "name": "Relentless",
+        "description": "Achieve 21 Stars in AR Challenges playing as Catwoman.",
+        "type": "silver",
+        "group": "013",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 87,
+        "name": "Shock and Awe",
+        "description": "Achieve 21 Stars in AR Challenges playing as Azrael.",
+        "type": "silver",
+        "group": "013",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 88,
+        "name": "Higher Learning",
+        "description": "Achieve 21 Stars in AR Challenges playing as Red Hood.",
+        "type": "silver",
+        "group": "013",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 89,
+        "name": "Vengeance Unlimited",
+        "description": "Achieve 21 Stars in AR Challenges playing as Harley Quinn.",
+        "type": "silver",
+        "group": "013",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 90,
+        "name": "The Demon Lives Again!",
+        "description": "Follow the assassin's trail.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 91,
+        "name": "Daughter Of The Demon!",
+        "description": "Discover the Lazarus pit.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 92,
+        "name": "Ashes to Ashes",
+        "description": "End the League of Assassins' war.",
+        "type": "silver",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 93,
+        "name": "The Scene of the Crime",
+        "description": "Rescue Mad Hatter's first hostage.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 94,
+        "name": "Head Games",
+        "description": "Rescue Mad Hatter's second hostage.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 95,
+        "name": "In Storybook Endings",
+        "description": "Lock up Mad Hatter in GCPD.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 96,
+        "name": "Cold Case",
+        "description": "Interrogate the Militia Lieutenant.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 97,
+        "name": "Out in the Cold",
+        "description": "Track down the cryopod.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 98,
+        "name": "The Resurrection and the Life",
+        "description": "Survive the Militia onslaught.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 99,
+        "name": "The Beast Beneath",
+        "description": "Defeat the prisoners.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 100,
+        "name": "Breaking the Skin",
+        "description": "Gain access to the high security area.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 101,
+        "name": "Evolution",
+        "description": "Lockup Killer Croc in GCPD.",
+        "type": "bronze",
+        "group": "014",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 102,
+        "name": "Life After Death",
+        "description": "Achieve 21 Stars in AR Challenges using the Original Arkham Batmobile.",
+        "type": "silver",
+        "group": "015",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 103,
+        "name": "What the Butler Saw",
+        "description": "Complete the Wayne Manor AR Challenge as Batman without using any gadgets or taking any damage.",
+        "type": "bronze",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 104,
+        "name": "Secrets of the Batcave",
+        "description": "Complete the Batcave AR Challenge unharmed as Batman and Nightwing, using only Beat Downs.",
+        "type": "silver",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 105,
+        "name": "Silent Night, Deadly Night",
+        "description": "Complete the Silent Knight AR Challenge unharmed as Batman and Robin, using only Knockout Smashes.",
+        "type": "bronze",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 106,
+        "name": "Eternal",
+        "description": "Complete the Endless Knight AR Challenge, taking out 50 Enemies as Batman.",
+        "type": "silver",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 107,
+        "name": "The Chill in the Air",
+        "description": "Complete the Crime Alley AR Challenge unharmed as Batman, Robin and Nightwing.",
+        "type": "silver",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 108,
+        "name": "The Curtain Falls",
+        "description": "Flawless FreeFlow in every round of the Monarch Theatre as Batman, Robin, Nightwing and Catwoman.",
+        "type": "silver",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 109,
+        "name": "Requiem for a Killer",
+        "description": "Defeat an old adversary in the Iceberg Lounge AR Challenge, playing as Batman.",
+        "type": "silver",
+        "group": "016",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T07:37:49.674Z"
+}

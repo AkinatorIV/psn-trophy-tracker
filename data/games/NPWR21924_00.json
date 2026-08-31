@@ -1,0 +1,392 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Kena: Bridge of Spirits",
+    "platform": "PS5",
+    "progress": 3,
+    "npCommunicationId": "NPWR21924_00",
+    "earnedCount": 2,
+    "totalCount": 42,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "All Trophies Obtained",
+        "description": "Obtained all Kena: Bridge of Spirits trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Hunter in the Forest",
+        "description": "Learned the Bow Ability.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 2,
+        "name": "Harness Your Power",
+        "description": "Learned the Bomb Ability.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Crossing Over",
+        "description": "Learned the Dash Ability.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Found a Friend",
+        "description": "Hero Rot joined your team.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-04T20:13:21Z"
+      },
+      {
+        "id": 5,
+        "name": "Haikyo",
+        "description": "Discovered the Village.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Into the Woods",
+        "description": "Discovered the Forest.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "The Open Range",
+        "description": "Discovered the Farm.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "The Lonely Path",
+        "description": "Reached the Mountain Shrine.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Taro's Fear",
+        "description": "Found Taro's Knife Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Taro's Regret",
+        "description": "Found Taro's Lantern Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Taro's Love",
+        "description": "Found Taro's Food Offering Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Adira's Love",
+        "description": "Found Adira's Ox Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Adira's Fear",
+        "description": "Found Adira's Hammer Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Adira's Regret",
+        "description": "Found Adira's Village Heart Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Toshi's Love",
+        "description": "Found Toshi's Village Crest Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Toshi's Fear",
+        "description": "Found Toshi's Incense Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Toshi's Regret",
+        "description": "Found Toshi's Harpoon Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Spirit Guide",
+        "description": "Defeated Corrupted Taro.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "A Heavy Hammer",
+        "description": "Defeated the Corrupted Woodsmith.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "A Leader Walks Alone",
+        "description": "Defeated Corrupted Toshi.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Restore Balance",
+        "description": "Defeated the Corrupted Rot God.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Piercing Blow",
+        "description": "Hit 3 Enemies with a single Rot Infused Arrow.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Weigh Them Down",
+        "description": "Destroyed a Moth enemy with a Bomb.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Quick Draw",
+        "description": "Hit 3 critical hit spots in 3 seconds.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Bow Master",
+        "description": "Hit 3 enemies with a single Multi-shot.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Sharpshooter",
+        "description": "Defeated an enemy by shooting a Bomb out of the air.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Between the Eyes",
+        "description": "Destroyed a Shield Sticks without breaking his shield.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Return to Sender",
+        "description": "Destroyed a Mage with its own bomb.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Triple Threat",
+        "description": "Destroyed 3 enemies with a single Parry.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Rot Commander",
+        "description": "Use 5 Rot Actions in a single combat.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Triple Tap",
+        "description": "Destroyed 3 enemies with a single dash attack.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "No Stone Unturned",
+        "description": "Found all of the Rot.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Hat Collector",
+        "description": "Collected 50 Rot Hats.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Curse Collector",
+        "description": "Opened all Cursed Chests.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Skillful Spirit Guide",
+        "description": "Unlocked all ability upgrades.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Good as New",
+        "description": "Restored a Flower Shrine.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Restoration Master",
+        "description": "Restored all of the Flower Shrines.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Zen Master",
+        "description": "Meditated at all Meditation Spots.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "The Last Stop",
+        "description": "Delivered all Spirit Mail.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Say Cheese",
+        "description": "Captured a picture in Photo Mode",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-04T20:06:26Z"
+      },
+      {
+        "id": 41,
+        "name": "Master Spirit Guide",
+        "description": "Beat the game on Master difficulty",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T07:37:49.976Z"
+}

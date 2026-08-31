@@ -1,0 +1,581 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "ASTRO BOT",
+    "platform": "PS5",
+    "progress": 87,
+    "npCommunicationId": "NPWR24170_00",
+    "earnedCount": 53,
+    "totalCount": 63,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Astro-nomical!",
+        "description": "Earned all Trophies. Well done and see you in Astro's next adventure!",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:24:47Z"
+      },
+      {
+        "id": 1,
+        "name": "Unforgettable!",
+        "description": "Recovered the Mothership's Memory.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-27T21:57:01Z"
+      },
+      {
+        "id": 2,
+        "name": "Solid Performance",
+        "description": "Recovered the Mothership's SSD.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-29T21:36:28Z"
+      },
+      {
+        "id": 3,
+        "name": "Doing It For You",
+        "description": "Recovered the Mothership's GPU.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-02T21:53:15Z"
+      },
+      {
+        "id": 4,
+        "name": "Keep It Cool",
+        "description": "Recovered the Mothership's Cooling Fan.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-05T20:54:15Z"
+      },
+      {
+        "id": 5,
+        "name": "Take Cover!",
+        "description": "Recovered the Mothership's Protection Covers.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-09T13:45:39Z"
+      },
+      {
+        "id": 6,
+        "name": "A Lot To Process",
+        "description": "Saved the CPU Kid.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-10T21:00:09Z"
+      },
+      {
+        "id": 7,
+        "name": "One Bot Down…",
+        "description": "Rescued your first Bot.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-27T20:43:12Z"
+      },
+      {
+        "id": 8,
+        "name": "Monkey See, Monkey Rescue",
+        "description": "Rescued all Bots in Gorilla Nebula.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-27T22:03:58Z"
+      },
+      {
+        "id": 9,
+        "name": "Tentacular Spectacular",
+        "description": "Rescued all Bots in Tentacle System",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-30T20:28:44Z"
+      },
+      {
+        "id": 10,
+        "name": "Fangs Very Much!",
+        "description": "Rescued all Bots in Serpent Starway.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-02T22:10:48Z"
+      },
+      {
+        "id": 11,
+        "name": "Nowhere To Hide",
+        "description": "Rescued all Bots in Camo Cosmos.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-05T20:51:39Z"
+      },
+      {
+        "id": 12,
+        "name": "Back To The Nest",
+        "description": "Rescued all Bots in Feather Cluster.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-09T13:51:16Z"
+      },
+      {
+        "id": 13,
+        "name": "Lost And Found",
+        "description": "Rescued all Bots in Lost Galaxy.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-10T20:49:05Z"
+      },
+      {
+        "id": 14,
+        "name": "The Golden Bot",
+        "description": "Rescued the Special Master Bot at the top of the Golden Statue.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:04:14Z"
+      },
+      {
+        "id": 15,
+        "name": "A Puzzling Start",
+        "description": "Found your first Puzzle Piece.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-27T20:44:34Z"
+      },
+      {
+        "id": 16,
+        "name": "Licence To Spend",
+        "description": "Opened the Gatcha Lab.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-27T22:04:56Z"
+      },
+      {
+        "id": 17,
+        "name": "Animal Attraction",
+        "description": "Opened the Safari Park.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-03T21:25:38Z"
+      },
+      {
+        "id": 18,
+        "name": "Splash My Dash",
+        "description": "Opened the Dual Speeder Garage.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-29T21:36:56Z"
+      },
+      {
+        "id": 19,
+        "name": "Time For A Change",
+        "description": "Opened the Changing Room.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-02T21:53:42Z"
+      },
+      {
+        "id": 20,
+        "name": "Monumental Achievement",
+        "description": "Unlocked the Golden Statue.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T16:19:55Z"
+      },
+      {
+        "id": 21,
+        "name": "First Prize",
+        "description": "Collected your first Gatcha from the Gatcha Lab.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-27T22:05:31Z"
+      },
+      {
+        "id": 22,
+        "name": "Money Well Spent",
+        "description": "Earned 150 prizes from the Gatcha Lab.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:15:50Z"
+      },
+      {
+        "id": 23,
+        "name": "Strike A Pose!",
+        "description": "Took a picture at a Photo Spot.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-03T21:26:12Z"
+      },
+      {
+        "id": 24,
+        "name": "SingStars",
+        "description": "Witnessed all ship parts singing together in Crash Site.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-10T21:14:37Z"
+      },
+      {
+        "id": 25,
+        "name": "What Is He Saying?",
+        "description": "Splashed Papa Tree's face during his song.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-29T20:55:40Z"
+      },
+      {
+        "id": 26,
+        "name": "Um Jammer Slammy",
+        "description": "Successfully dunked the basketball in Construction Derby.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-27T21:21:07Z"
+      },
+      {
+        "id": 27,
+        "name": "Net Profit",
+        "description": "Caught the gold butterfly in Apes On The Loose.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:24:47Z"
+      },
+      {
+        "id": 28,
+        "name": "Eyes Of The All-Father",
+        "description": "Found and defeated all eight ravens in Bot Of War.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-29T21:31:08Z"
+      },
+      {
+        "id": 29,
+        "name": "The Lost Eggacy",
+        "description": "Collected all three egg artefacts in Dude Raiding.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-02T21:47:57Z"
+      },
+      {
+        "id": 30,
+        "name": "What A Trip!",
+        "description": "Defeated seven enemies with the Tripcaster.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-09T13:34:32Z"
+      },
+      {
+        "id": 31,
+        "name": "Double Dug-in",
+        "description": "Took out two Wormys at the same time.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-29T20:42:24Z"
+      },
+      {
+        "id": 32,
+        "name": "Time To Cash In!",
+        "description": "Stopped time and won the jackpot on all four slot machines in Slo-Mo Casino.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-30T20:49:16Z"
+      },
+      {
+        "id": 33,
+        "name": "Jumping Through Hoops",
+        "description": "Leapt through the ring in Bubbling Under.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-05T18:23:32Z"
+      },
+      {
+        "id": 34,
+        "name": "Thick As Thieves",
+        "description": "Captured a photo of two legendary explorers in Crash Site.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:20:37Z"
+      },
+      {
+        "id": 35,
+        "name": "Thaw, God of Thunder!",
+        "description": "Froze a hammer-wielding deity with the axe in Crash Site.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:19:52Z"
+      },
+      {
+        "id": 36,
+        "name": "Royally Stuck",
+        "description": "Got a little too close to a sticky sphere in Crash Site.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-12-30T20:33:00Z"
+      },
+      {
+        "id": 37,
+        "name": "Let's Twist Again",
+        "description": "Busted a move with an iconic marsupial in Crash Site.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:17:55Z"
+      },
+      {
+        "id": 38,
+        "name": "Deep-Pocket Dragon",
+        "description": "Made a tough guy drop all his items in Crash Site.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:19:14Z"
+      },
+      {
+        "id": 39,
+        "name": "KO!",
+        "description": "Picked a fight with two street fighting warriors in Crash Site.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:17:10Z"
+      },
+      {
+        "id": 40,
+        "name": "Wall Buster",
+        "description": "Broke up a Bot Wall.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:05:53Z"
+      },
+      {
+        "id": 41,
+        "name": "Keep It Together!",
+        "description": "Knocked a Bot out of a Bot Tower without it collapsing.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-10T21:19:47Z"
+      },
+      {
+        "id": 42,
+        "name": "Bot Bot Revolution",
+        "description": "Danced with 100 Bots in Crash Site.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:18:05Z"
+      },
+      {
+        "id": 43,
+        "name": "At The Top Of My Game",
+        "description": "Made it to the top of the Mothership.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T16:08:08Z"
+      },
+      {
+        "id": 44,
+        "name": "Fast and Found",
+        "description": "Rescued all Bots in Stellar Speedway.",
+        "type": "silver",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:50:45Z"
+      },
+      {
+        "id": 45,
+        "name": "Hurtle Rescue",
+        "description": "Rescued a Bot in Building Speed.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-01-10T21:31:52Z"
+      },
+      {
+        "id": 46,
+        "name": "Ice-cold Rescue",
+        "description": "Rescued a Bot in Let It Slide.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-01-10T21:37:24Z"
+      },
+      {
+        "id": 47,
+        "name": "Punchy Rescue",
+        "description": "Rescued a Bot in Spring-Loaded Run.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:50:38Z"
+      },
+      {
+        "id": 48,
+        "name": "Breezy Rescue",
+        "description": "Rescued a Bot in Helium Heights.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:48:03Z"
+      },
+      {
+        "id": 49,
+        "name": "Flaming Rescue",
+        "description": "Rescued a Bot in Rising Heat.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T17:36:44Z"
+      },
+      {
+        "id": 50,
+        "name": "Astro-ho-ho!",
+        "description": "Changed into the Festive Fellow Outfit.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2025-01-10T21:24:33Z"
+      },
+      {
+        "id": 51,
+        "name": "You're a star!",
+        "description": "Climbed to the top of the festive tree in Winter Wonder.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T18:09:59Z"
+      },
+      {
+        "id": 52,
+        "name": "Unwrapped!",
+        "description": "Opened all presents in Winter Wonder.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2025-01-11T18:07:18Z"
+      },
+      {
+        "id": 53,
+        "name": "Timely Rescue",
+        "description": "Rescued the Bot in Tick-Tock Shock.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "Thrusting Rescue",
+        "description": "Rescued the Bot in Thrust or Bust.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Rooster Rescue",
+        "description": "Rescued the Bot in Cock-A-Doodle-Doom.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Bearly Rescued",
+        "description": "Rescued the Bot in Hard to Bear.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Rolling Rescue",
+        "description": "Rescued the Bot in Armored Hardcore.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Springy Rescue",
+        "description": "Rescued the Bot in Twin-Frog Trouble.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Slimy Rescue",
+        "description": "Rescued the Bot in Suck It Up.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Hanging Rescue",
+        "description": "Rescued the Bot in Handhold Havoc.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 61,
+        "name": "Pumping Rescue",
+        "description": "Rescued the Bot in High Inflation.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 62,
+        "name": "Impossible Rescue",
+        "description": "Rescued the Bot in Megamix Mastery.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T07:37:49.805Z"
+}
