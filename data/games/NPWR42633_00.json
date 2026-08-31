@@ -1,0 +1,563 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "The Elder Scrolls IV: Oblivion Remastered",
+    "platform": "PS5",
+    "progress": 83,
+    "npCommunicationId": "NPWR42633_00",
+    "earnedCount": 51,
+    "totalCount": 61,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Worldly God",
+        "description": "Become Cyrodiil's greatest hero",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T12:57:36Z"
+      },
+      {
+        "id": 1,
+        "name": "Escaped the Imperial Sewers",
+        "description": "Escaped the Imperial Sewers, Main Quest Beginning",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T15:48:08Z"
+      },
+      {
+        "id": 2,
+        "name": "Closed an Oblivion Gate",
+        "description": "Closed an Oblivion Gate, Main Quest",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T19:00:43Z"
+      },
+      {
+        "id": 3,
+        "name": "Located the Shrine of Dagon",
+        "description": "Located the Shrine of Dagon, Main Quest",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-09T15:13:54Z"
+      },
+      {
+        "id": 4,
+        "name": "Delivered Daedric Artifact",
+        "description": "Delivered Daedric Artifact, Main Quest",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-09T15:34:47Z"
+      },
+      {
+        "id": 5,
+        "name": "Destroyed the Great Gate",
+        "description": "Destroyed the Great Gate, Main Quest",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-09T19:26:20Z"
+      },
+      {
+        "id": 6,
+        "name": "Champion of Cyrodiil",
+        "description": "Completed the Main Questline",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-09T19:58:46Z"
+      },
+      {
+        "id": 7,
+        "name": "Murderer, Dark Brotherhood",
+        "description": "Joined the Dark Brotherhood",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-01T19:53:48Z"
+      },
+      {
+        "id": 8,
+        "name": "Slayer, Dark Brotherhood",
+        "description": "Reached Slayer rank in the Dark Brotherhood",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-01T20:35:31Z"
+      },
+      {
+        "id": 9,
+        "name": "Eliminator, Dark Brotherhood",
+        "description": "Reached Eliminator rank in the Dark Brotherhood",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-03T20:44:56Z"
+      },
+      {
+        "id": 10,
+        "name": "Assassin, Dark Brotherhood",
+        "description": "Reached Assassin rank in the Dark Brotherhood",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-07T16:13:20Z"
+      },
+      {
+        "id": 11,
+        "name": "Silencer, Dark Brotherhood",
+        "description": "Reached Silencer rank in the Dark Brotherhood",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-07T16:30:04Z"
+      },
+      {
+        "id": 12,
+        "name": "Speaker, Dark Brotherhood",
+        "description": "Reached Speaker rank in the Dark Brotherhood",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-07T17:58:05Z"
+      },
+      {
+        "id": 13,
+        "name": "Listener, Dark Brotherhood",
+        "description": "Completed the Dark Brotherhood Questline",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-07T18:01:54Z"
+      },
+      {
+        "id": 14,
+        "name": "Pit Dog, Arena",
+        "description": "Joined the Arena in the Imperial City",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T16:09:26Z"
+      },
+      {
+        "id": 15,
+        "name": "Brawler, Arena",
+        "description": "Reached Brawler rank in the Arena",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T16:14:40Z"
+      },
+      {
+        "id": 16,
+        "name": "Bloodletter, Arena",
+        "description": "Reached Bloodletter rank in the Arena",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T16:21:09Z"
+      },
+      {
+        "id": 17,
+        "name": "Myrmidon, Arena",
+        "description": "Reached Myrmidon rank in the Arena",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T16:24:59Z"
+      },
+      {
+        "id": 18,
+        "name": "Warrior, Arena",
+        "description": "Reached Warrior rank in the Arena",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T16:54:47Z"
+      },
+      {
+        "id": 19,
+        "name": "Gladiator, Arena",
+        "description": "Reached Gladiator rank in the Arena",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T17:07:05Z"
+      },
+      {
+        "id": 20,
+        "name": "Hero, Arena",
+        "description": "Reached Hero rank in the Arena",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T19:29:58Z"
+      },
+      {
+        "id": 21,
+        "name": "Champion, Arena",
+        "description": "Reached Champion rank in the Arena",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T19:36:47Z"
+      },
+      {
+        "id": 22,
+        "name": "Grand Champion, Arena",
+        "description": "Completed the Arena Questline",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T19:40:45Z"
+      },
+      {
+        "id": 23,
+        "name": "Pickpocket, Thieves Guild",
+        "description": "Joined the Thieves Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-07T18:18:25Z"
+      },
+      {
+        "id": 24,
+        "name": "Footpad, Thieves Guild",
+        "description": "Reached Footpad rank in the Thieves Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-07T18:35:54Z"
+      },
+      {
+        "id": 25,
+        "name": "Bandit, Thieves Guild",
+        "description": "Reached Bandit rank in the Thieves Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-07T18:51:32Z"
+      },
+      {
+        "id": 26,
+        "name": "Prowler, Thieves Guild",
+        "description": "Reached Prowler rank in the Thieves Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-07T21:16:20Z"
+      },
+      {
+        "id": 27,
+        "name": "Cat Burglar, Thieves Guild",
+        "description": "Reached Cat Burglar rank in the Thieves Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-07T21:45:59Z"
+      },
+      {
+        "id": 28,
+        "name": "Shadowfoot, Thieves Guild",
+        "description": "Reached Shadowfoot rank in the Thieves Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-08T14:20:02Z"
+      },
+      {
+        "id": 29,
+        "name": "Master Thief, Thieves Guild",
+        "description": "Reached Master Thief rank in the Thieves Guild",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-08T15:43:12Z"
+      },
+      {
+        "id": 30,
+        "name": "Guildmaster, Thieves Guild",
+        "description": "Completed the Thieves Guild Questline",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-09T14:00:26Z"
+      },
+      {
+        "id": 31,
+        "name": "Associate, Mages Guild",
+        "description": "Joined the Mages Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-09T20:11:51Z"
+      },
+      {
+        "id": 32,
+        "name": "Apprentice, Mages Guild",
+        "description": "Reached Apprentice rank in the Mages Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T11:14:44Z"
+      },
+      {
+        "id": 33,
+        "name": "Journeyman, Mages Guild",
+        "description": "Reached Journeyman rank in the Mages Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T11:22:07Z"
+      },
+      {
+        "id": 34,
+        "name": "Evoker, Mages Guild",
+        "description": "Reached Evoker rank in the Mages Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T11:28:03Z"
+      },
+      {
+        "id": 35,
+        "name": "Conjurer, Mages Guild",
+        "description": "Reached Conjurer rank in the Mages Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T11:41:41Z"
+      },
+      {
+        "id": 36,
+        "name": "Magician, Mages Guild",
+        "description": "Reached Magician rank in the Mages Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T11:48:06Z"
+      },
+      {
+        "id": 37,
+        "name": "Warlock, Mages Guild",
+        "description": "Reached Warlock rank in the Mages Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T11:53:40Z"
+      },
+      {
+        "id": 38,
+        "name": "Wizard, Mages Guild",
+        "description": "Reached Wizard rank in the Mages Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T12:22:46Z"
+      },
+      {
+        "id": 39,
+        "name": "Master-Wizard, Mages Guild",
+        "description": "Reached Master-Wizard rank in the Mages Guild",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T12:38:26Z"
+      },
+      {
+        "id": 40,
+        "name": "Arch-Mage, Mages Guild",
+        "description": "Completed the Mages Guild Questline",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-14T12:57:36Z"
+      },
+      {
+        "id": 41,
+        "name": "Associate, Fighters Guild",
+        "description": "Joined the Fighters Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-09T20:03:39Z"
+      },
+      {
+        "id": 42,
+        "name": "Apprentice, Fighters Guild",
+        "description": "Reached Apprentice rank in the Fighters Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-09T20:13:42Z"
+      },
+      {
+        "id": 43,
+        "name": "Journeyman, Fighters Guild",
+        "description": "Reached Journeyman rank in the Fighters Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-10T19:17:39Z"
+      },
+      {
+        "id": 44,
+        "name": "Swordsman, Fighters Guild",
+        "description": "Reached Swordsman rank in the Fighters Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-10T19:58:53Z"
+      },
+      {
+        "id": 45,
+        "name": "Protector, Fighters Guild",
+        "description": "Reached Protector rank in the Fighters Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-10T20:13:47Z"
+      },
+      {
+        "id": 46,
+        "name": "Defender, Fighters Guild",
+        "description": "Reached Defender rank in the Fighters Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-10T20:43:24Z"
+      },
+      {
+        "id": 47,
+        "name": "Warder, Fighters Guild",
+        "description": "Reached Warder rank in the Fighters Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-10T21:16:04Z"
+      },
+      {
+        "id": 48,
+        "name": "Guardian, Fighters Guild",
+        "description": "Reached Guardian rank in the Fighters Guild",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-13T18:19:26Z"
+      },
+      {
+        "id": 49,
+        "name": "Champion, Fighters Guild",
+        "description": "Reached Champion rank in the Fighters Guild",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-13T19:41:37Z"
+      },
+      {
+        "id": 50,
+        "name": "Master, Fighters Guild",
+        "description": "Completed the Fighters Guild Questline",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-06-13T20:10:04Z"
+      },
+      {
+        "id": 51,
+        "name": "Tourist, Shivering Isles",
+        "description": "Entered the Shivering Isles",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "Aspirant, Shivering Isles",
+        "description": "Reached Aspirant Rank in the Court of Madness",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Citizen, Shivering Isles",
+        "description": "Reached Citizen Rank in the Court of Madness",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "Madman, Shivering Isles",
+        "description": "Reached Madman Rank in the Court of Madness",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Honored Madman, Shivering Isles",
+        "description": "Reached Honored Madman Rank in the Court of Madness",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Duke Dementia, Shivering Isles",
+        "description": "Reached Duke of Dementia Rank in the Court of Madness",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Duke Mania, Shivering Isles",
+        "description": "Reached Duke of Mania Rank in the Court of Madness",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Regent, Shivering Isles",
+        "description": "Reached Regent Rank in the Court of Madness",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Defender, Shivering Isles",
+        "description": "Reached Defender of the Realm Rank in the Court of Madness",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Madgod, Shivering Isles",
+        "description": "Stopped the Greymarch",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T01:39:47.016Z"
+}

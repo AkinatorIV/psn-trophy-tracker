@@ -1,0 +1,518 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Clair Obscur: Expedition 33",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR39144_00",
+    "earnedCount": 56,
+    "totalCount": 56,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "The Greatest Expedition in History",
+        "description": "Obtain all trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T14:14:37Z"
+      },
+      {
+        "id": 1,
+        "name": "Lumière",
+        "description": "Embark on the Expedition.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-26T19:03:01Z"
+      },
+      {
+        "id": 2,
+        "name": "Spring Meadows",
+        "description": "Find your way through Spring Meadows.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-27T15:31:28Z"
+      },
+      {
+        "id": 3,
+        "name": "Flying Waters",
+        "description": "Find your way through Flying Waters.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-30T19:57:48Z"
+      },
+      {
+        "id": 4,
+        "name": "Ancient Sanctuary",
+        "description": "Find your way through Ancient Sanctuary.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-03T14:33:13Z"
+      },
+      {
+        "id": 5,
+        "name": "Gestral Village",
+        "description": "Find your way through the Gestral Village.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-03T20:51:30Z"
+      },
+      {
+        "id": 6,
+        "name": "Esquie's Nest",
+        "description": "Find your way through Esquie's Nest.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-03T21:46:26Z"
+      },
+      {
+        "id": 7,
+        "name": "Stone Wave Cliffs",
+        "description": "Find your way through Stone Wave Cliffs.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-05T14:16:33Z"
+      },
+      {
+        "id": 8,
+        "name": "Forgotten Battlefield",
+        "description": "Find your way through Forgotten Battlefield.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-08T19:17:02Z"
+      },
+      {
+        "id": 9,
+        "name": "Monoco's Station",
+        "description": "Find your way through Monoco's Station.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-08T19:47:44Z"
+      },
+      {
+        "id": 10,
+        "name": "Old Lumière",
+        "description": "Find your way through Old Lumière.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-09T14:34:51Z"
+      },
+      {
+        "id": 11,
+        "name": "First Axon",
+        "description": "Defeat the first Axon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-18T11:07:26Z"
+      },
+      {
+        "id": 12,
+        "name": "Second Axon",
+        "description": "Defeat the second Axon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-18T12:52:54Z"
+      },
+      {
+        "id": 13,
+        "name": "Monolith",
+        "description": "Reach the Monolith.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-18T17:40:03Z"
+      },
+      {
+        "id": 14,
+        "name": "Paintress",
+        "description": "Defeat the Paintress.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-18T20:53:15Z"
+      },
+      {
+        "id": 15,
+        "name": "Back to Lumière",
+        "description": "Return to Lumière.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-18T21:22:18Z"
+      },
+      {
+        "id": 16,
+        "name": "The End",
+        "description": "Reach the end.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T12:50:15Z"
+      },
+      {
+        "id": 17,
+        "name": "Plane, Train, and Submarine",
+        "description": "Discover all of Esquie’s abilities.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-21T20:17:56Z"
+      },
+      {
+        "id": 18,
+        "name": "Follow The Trail",
+        "description": "Find all of the journals from prior expeditions.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T12:18:13Z"
+      },
+      {
+        "id": 19,
+        "name": "Aiding the Enemy",
+        "description": "Finish all of the Nevron quests.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-25T11:20:53Z"
+      },
+      {
+        "id": 20,
+        "name": "Peace At Last",
+        "description": "Beat Simon.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-28T19:50:18Z"
+      },
+      {
+        "id": 21,
+        "name": "Gestral Games",
+        "description": "Win all of the Gestral games.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-23T19:21:11Z"
+      },
+      {
+        "id": 22,
+        "name": "Clea",
+        "description": "Beat Clea.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-25T17:33:18Z"
+      },
+      {
+        "id": 23,
+        "name": "“Endless”",
+        "description": "Reach the top of the Endless Tower.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-25T18:49:06Z"
+      },
+      {
+        "id": 24,
+        "name": "Lost Gestrals",
+        "description": "Find all of the Lost Gestrals.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-23T20:05:33Z"
+      },
+      {
+        "id": 25,
+        "name": "À On",
+        "description": "Beat the Serpenphare.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-25T12:30:07Z"
+      },
+      {
+        "id": 26,
+        "name": "Sprong",
+        "description": "Beat Sprong.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-24T19:59:07Z"
+      },
+      {
+        "id": 27,
+        "name": "Noir et Blanc",
+        "description": "Solve the Painting Workshop’s mystery.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-25T19:47:40Z"
+      },
+      {
+        "id": 28,
+        "name": "Sciel",
+        "description": "Reach relationship level 7 with Sciel.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-21T20:20:47Z"
+      },
+      {
+        "id": 29,
+        "name": "Monoco",
+        "description": "Reach relationship level 7 with Monoco.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-25T12:40:07Z"
+      },
+      {
+        "id": 30,
+        "name": "Maelle",
+        "description": "Reach relationship level 7 with Maelle.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-24T17:15:22Z"
+      },
+      {
+        "id": 31,
+        "name": "Lune",
+        "description": "Reach relationship level 7 with Lune.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-24T15:57:04Z"
+      },
+      {
+        "id": 32,
+        "name": "Esquie",
+        "description": "Reach relationship level 7 with Esquie.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-21T20:19:04Z"
+      },
+      {
+        "id": 33,
+        "name": "Weapon Upgrade",
+        "description": "Upgrade a weapon once.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-30T20:03:29Z"
+      },
+      {
+        "id": 34,
+        "name": "Weapon Mastery",
+        "description": "Fully upgrade a weapon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-25T12:47:04Z"
+      },
+      {
+        "id": 35,
+        "name": "Lumina",
+        "description": "Consume a Lumina point.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-30T20:05:12Z"
+      },
+      {
+        "id": 36,
+        "name": "Expeditioner",
+        "description": "Reach level 33.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-17T15:27:47Z"
+      },
+      {
+        "id": 37,
+        "name": "Trailbreaker",
+        "description": "Reach level 66.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-24T19:36:11Z"
+      },
+      {
+        "id": 38,
+        "name": "Survivor",
+        "description": "Reach level 99.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T14:14:37Z"
+      },
+      {
+        "id": 39,
+        "name": "Overcharge",
+        "description": "With Gustave, use a fully charged Overcharge that Breaks an enemy.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-27T16:23:36Z"
+      },
+      {
+        "id": 40,
+        "name": "Perfect Flow",
+        "description": "With Lune, consume Stains 4 turns in a row.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-03T21:22:32Z"
+      },
+      {
+        "id": 41,
+        "name": "Synergy",
+        "description": "With Maelle, use Percée on a Marked enemy while in Virtuose Stance.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-03T21:05:58Z"
+      },
+      {
+        "id": 42,
+        "name": "Maximisation",
+        "description": "With Sciel, consume 20 Foretell on a single target during Twilight.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-17T14:45:43Z"
+      },
+      {
+        "id": 43,
+        "name": "Perfection",
+        "description": "With Verso, reach Rank S.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-06T16:30:40Z"
+      },
+      {
+        "id": 44,
+        "name": "Wheel Control",
+        "description": "With Monoco, cast an Upgraded Skill 4 turns in a row.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-17T14:54:47Z"
+      },
+      {
+        "id": 45,
+        "name": "Carreau Parfait",
+        "description": "Beat the Chromatic Pétank.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-25T19:32:04Z"
+      },
+      {
+        "id": 46,
+        "name": "Feet Collection",
+        "description": "Acquire all of Monoco’s skills.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-25T18:37:39Z"
+      },
+      {
+        "id": 47,
+        "name": "Expedition 33",
+        "description": "Unlock all playable characters.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-08T19:45:18Z"
+      },
+      {
+        "id": 48,
+        "name": "Chroma Proficiency",
+        "description": "Use a level 3 Gradient Attack.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-24T16:20:21Z"
+      },
+      {
+        "id": 49,
+        "name": "Connoisseur",
+        "description": "Find all 33 music records.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-29T12:59:21Z"
+      },
+      {
+        "id": 50,
+        "name": "Paint Cage",
+        "description": "Break a Paint Cage.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-27T15:49:47Z"
+      },
+      {
+        "id": 51,
+        "name": "Time to Spill Some Ink",
+        "description": "Break an enemy.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-26T19:50:02Z"
+      },
+      {
+        "id": 52,
+        "name": "Professional",
+        "description": "Defeat a boss without taking any damage.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-22T19:14:16Z"
+      },
+      {
+        "id": 53,
+        "name": "Curious",
+        "description": "Witness an optional scene at camp.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-30T20:07:28Z"
+      },
+      {
+        "id": 54,
+        "name": "Legend",
+        "description": "Unlock Esquie.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-03T21:46:26Z"
+      },
+      {
+        "id": 55,
+        "name": "A Peculiar Encounter",
+        "description": "Defeat the Mime in Lumière.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-05-03T20:06:55Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T01:39:47.181Z"
+}

@@ -1,0 +1,536 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Cyberpunk 2077",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR24695_00",
+    "earnedCount": 58,
+    "totalCount": 58,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Never Fade Away",
+        "description": "Unlock all Trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-24T20:27:07Z"
+      },
+      {
+        "id": 1,
+        "name": "The Fool",
+        "description": "Become a mercenary.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-22T08:43:22Z"
+      },
+      {
+        "id": 2,
+        "name": "The Lovers",
+        "description": "Steal the Relic.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-01T10:16:59Z"
+      },
+      {
+        "id": 3,
+        "name": "The Hermit",
+        "description": "Find Alt Cunningham.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-08T21:13:21Z"
+      },
+      {
+        "id": 4,
+        "name": "The Wheel of Fortune",
+        "description": "Interrogate Anders Hellman.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-08T10:00:15Z"
+      },
+      {
+        "id": 5,
+        "name": "The High Priestess",
+        "description": "Talk with Hanako Arasaka.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-14T20:09:02Z"
+      },
+      {
+        "id": 6,
+        "name": "The World",
+        "description": "Complete the main storyline.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-21T18:05:09Z"
+      },
+      {
+        "id": 7,
+        "name": "The Devil",
+        "description": "Help Takemura avenge the death of Saburo Arasaka.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-21T19:01:15Z"
+      },
+      {
+        "id": 8,
+        "name": "The Star",
+        "description": "Leave Night City with the Aldecaldos.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-24T20:27:07Z"
+      },
+      {
+        "id": 9,
+        "name": "The Sun",
+        "description": "Become a legend of the Afterlife.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-21T18:05:10Z"
+      },
+      {
+        "id": 10,
+        "name": "Temperance",
+        "description": "Let Johnny Silverhand keep your body.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-24T20:05:37Z"
+      },
+      {
+        "id": 11,
+        "name": "To Protect and Serve",
+        "description": "Complete River Ward's storyline.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-23T18:48:42Z"
+      },
+      {
+        "id": 12,
+        "name": "To Bad Decisions!",
+        "description": "Complete Kerry Eurodyne's storyline.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-30T20:02:13Z"
+      },
+      {
+        "id": 13,
+        "name": "Judy vs Night City",
+        "description": "Complete Judy Alvarez's storyline.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-22T22:13:45Z"
+      },
+      {
+        "id": 14,
+        "name": "Life of the Road",
+        "description": "Complete Panam Palmer's storyline.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-13T21:16:52Z"
+      },
+      {
+        "id": 15,
+        "name": "Bushido and Chill",
+        "description": "Watch Bushido X with Rogue.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-15T15:40:54Z"
+      },
+      {
+        "id": 16,
+        "name": "Breathtaking",
+        "description": "Collect all items that once belonged to Johnny Silverhand.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-23T14:59:52Z"
+      },
+      {
+        "id": 17,
+        "name": "It's Elementary",
+        "description": "Complete all gigs and NCPD Scanner Hustles in Watson.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-05T12:25:38Z"
+      },
+      {
+        "id": 18,
+        "name": "I Am The Law",
+        "description": "Complete all Cyberpsycho Sightings.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-05T10:53:35Z"
+      },
+      {
+        "id": 19,
+        "name": "Greetings from Pacifica!",
+        "description": "Complete all gigs and NCPD Scanner Hustles in Pacifica.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-06T14:37:29Z"
+      },
+      {
+        "id": 20,
+        "name": "The Wasteland",
+        "description": "Complete all gigs and NCPD Scanner Hustles in the Badlands.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-05T12:21:56Z"
+      },
+      {
+        "id": 21,
+        "name": "Little Tokyo",
+        "description": "Complete all gigs and NCPD Scanner Hustles in Westbrook.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-23T15:14:14Z"
+      },
+      {
+        "id": 22,
+        "name": "Mean Streets",
+        "description": "Complete all gigs and NCPD Scanner Hustles in Heywood.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-22T21:19:15Z"
+      },
+      {
+        "id": 23,
+        "name": "The Jungle",
+        "description": "Complete all gigs and NCPD Scanner Hustles in Santo Domingo.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-28T22:02:22Z"
+      },
+      {
+        "id": 24,
+        "name": "City Lights",
+        "description": "Complete all gigs and NCPD Scanner Hustles in City Center.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-30T21:00:40Z"
+      },
+      {
+        "id": 25,
+        "name": "Full Body Conversion",
+        "description": "Install at least one implant in each system and body part.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-23T14:36:36Z"
+      },
+      {
+        "id": 26,
+        "name": "Gun Fu",
+        "description": "Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-08T20:35:10Z"
+      },
+      {
+        "id": 27,
+        "name": "Christmas Tree Attack",
+        "description": "Complete a Breach Protocol with a minimum of 3 daemons uploaded.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-13T20:07:29Z"
+      },
+      {
+        "id": 28,
+        "name": "Ten out of Ten",
+        "description": "Reach the max level in any skill.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-05T11:29:46Z"
+      },
+      {
+        "id": 29,
+        "name": "Gunslinger",
+        "description": "Shoot an enemy grenade in midair with a revolver.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-30T20:38:16Z"
+      },
+      {
+        "id": 30,
+        "name": "Two Heads, One Bullet",
+        "description": "Kill or incapacitate 2 enemies with the same sniper rifle shot.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-15T10:55:47Z"
+      },
+      {
+        "id": 31,
+        "name": "Rough Landing",
+        "description": "While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-30T19:05:34Z"
+      },
+      {
+        "id": 32,
+        "name": "Stanislavski's Method",
+        "description": "Use a dialogue option related to V's life path 10 times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-02-22T20:17:27Z"
+      },
+      {
+        "id": 33,
+        "name": "Autojock",
+        "description": "Buy all vehicles available for purchase.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-22T21:42:21Z"
+      },
+      {
+        "id": 34,
+        "name": "Master Crafter",
+        "description": "Craft three Tier 5 items.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-14T20:42:09Z"
+      },
+      {
+        "id": 35,
+        "name": "Daemon In The Shell",
+        "description": "Kill or incapacitate 3 enemies with one \"Detonate Grenade\" quickhack.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-30T20:44:18Z"
+      },
+      {
+        "id": 36,
+        "name": "The Quick and the Dead",
+        "description": "Kill or incapacitate 50 enemies while time is slowed.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-20T18:00:07Z"
+      },
+      {
+        "id": 37,
+        "name": "Must Be Rats",
+        "description": "Perform the Distract Enemies quickhack 30 times without drawing attention to yourself.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-15T16:09:08Z"
+      },
+      {
+        "id": 38,
+        "name": "V for Vendetta",
+        "description": "After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-23T15:11:00Z"
+      },
+      {
+        "id": 39,
+        "name": "True Soldier",
+        "description": "Kill or incapacitate 300 enemies using ranged weapons.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-14T19:59:24Z"
+      },
+      {
+        "id": 40,
+        "name": "True Warrior",
+        "description": "Kill or incapacitate 100 enemies using melee weapons.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-08T18:00:34Z"
+      },
+      {
+        "id": 41,
+        "name": "Right Back At Ya",
+        "description": "Kill or incapacitate an enemy who threw a grenade at you.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-07T20:41:51Z"
+      },
+      {
+        "id": 42,
+        "name": "The Wandering Fool",
+        "description": "Find all the tarot graffiti for the job Fool on the Hill.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-05T12:50:45Z"
+      },
+      {
+        "id": 43,
+        "name": "Frequent Flyer",
+        "description": "Find all fast travel dataterms.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-04-21T16:37:02Z"
+      },
+      {
+        "id": 44,
+        "name": "Legend of The Afterlife",
+        "description": "Reach max Street Cred.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2025-03-15T16:11:50Z"
+      },
+      {
+        "id": 45,
+        "name": "King of Cups",
+        "description": "Fulfill Songbird's request.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-13T17:23:30Z"
+      },
+      {
+        "id": 46,
+        "name": "King of Pentacles",
+        "description": "Refuse Songbird's request.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-13T17:38:11Z"
+      },
+      {
+        "id": 47,
+        "name": "King of Wands",
+        "description": "Take Songbird to the stars.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-13T18:56:10Z"
+      },
+      {
+        "id": 48,
+        "name": "King of Swords",
+        "description": "Take Songbird home.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-13T19:02:09Z"
+      },
+      {
+        "id": 49,
+        "name": "The Tower",
+        "description": "Complete \"Things Done Changed\".",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-14T20:15:33Z"
+      },
+      {
+        "id": 50,
+        "name": "Spin Doctor",
+        "description": "Complete “Run This Town”.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-14T18:23:06Z"
+      },
+      {
+        "id": 51,
+        "name": "All the President's Men",
+        "description": "Save President Myers.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-03-20T18:01:03Z"
+      },
+      {
+        "id": 52,
+        "name": "Dirty Deeds",
+        "description": "Complete every Gig in Dogtown.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-14T18:57:41Z"
+      },
+      {
+        "id": 53,
+        "name": "Judgement Day",
+        "description": "Eliminate three bosses from the \"Increased criminal activity\" category.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-12T16:02:49Z"
+      },
+      {
+        "id": 54,
+        "name": "Easy Come, Easy Go",
+        "description": "Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-12T15:14:58Z"
+      },
+      {
+        "id": 55,
+        "name": "Arachnophobia",
+        "description": "Defeat the Chimera.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-03-20T19:37:21Z"
+      },
+      {
+        "id": 56,
+        "name": "Relic Ruler",
+        "description": "Unlock all Perks in the Relic Perk tree.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-04-14T19:19:46Z"
+      },
+      {
+        "id": 57,
+        "name": "The APB is Not Enough",
+        "description": "Become Dogtown's most wanted criminal.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2025-03-20T20:15:51Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T01:39:47.366Z"
+}
