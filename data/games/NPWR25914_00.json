@@ -1,0 +1,455 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Two Point Campus",
+    "platform": "PS5",
+    "progress": 19,
+    "npCommunicationId": "NPWR25914_00",
+    "earnedCount": 12,
+    "totalCount": 49,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "With Flying Colours",
+        "description": "Collect every Trophy in Two Point Campus",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Campus Management 101",
+        "description": "Earn 1 star in Freshleigh Meadows",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T21:10:03Z"
+      },
+      {
+        "id": 2,
+        "name": "Bachelor of Smarts",
+        "description": "Earn 12 stars across your career",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Masters Minded",
+        "description": "Earn 24 stars across your career",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "PhDarn Good",
+        "description": "Earn 36 stars across your career",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Finishing School",
+        "description": "Earn 1 star in TPU",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Take a Scroll",
+        "description": "Have a student graduate",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T22:04:16Z"
+      },
+      {
+        "id": 7,
+        "name": "Bookworm Collector",
+        "description": "Capture a bookworm",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-24T20:49:27Z"
+      },
+      {
+        "id": 8,
+        "name": "A Little Wiser",
+        "description": "Train a staff member",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-13T22:32:38Z"
+      },
+      {
+        "id": 9,
+        "name": "A Lot Wiser",
+        "description": "Train a staff member to level 10 in a single course-specific qualification",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Club Sandwich",
+        "description": "Have a club with 5 members",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-13T19:45:30Z"
+      },
+      {
+        "id": 11,
+        "name": "Club Dub",
+        "description": "Have a club reach level 10",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-13T22:09:10Z"
+      },
+      {
+        "id": 12,
+        "name": "Best Friends",
+        "description": "Have students become best friends",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T21:06:46Z"
+      },
+      {
+        "id": 13,
+        "name": "Spanner That Works",
+        "description": "Upgrade 100 machines",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Cap & Crown",
+        "description": "Have 1,000 students graduate",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Like a Millionaire",
+        "description": "Have 50 students drop out",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Staff Boom",
+        "description": "Hire 100 staff members",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Bookworm Fanatic",
+        "description": "Capture 50 bookworms",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "You Win Some",
+        "description": "Win 15 cheeseball matches",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "You Lose Some",
+        "description": "Lose 5 cheeseball matches",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Do Your Homework",
+        "description": "Complete 50 research projects",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Smart Money",
+        "description": "Earn 100,000 from research projects",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Enough Experts",
+        "description": "Train a staff member to level 5 in each course-specific qualification",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Unlocked & Loaded",
+        "description": "Earn 1,000 kudosh",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T21:56:43Z"
+      },
+      {
+        "id": 24,
+        "name": "Dropped on OUR Floor",
+        "description": "Clean up 1,000 bits of litter",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-14T21:03:01Z"
+      },
+      {
+        "id": 25,
+        "name": "Super Group of Friends",
+        "description": "Develop 500 friendships",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-14T20:26:24Z"
+      },
+      {
+        "id": 26,
+        "name": "Soul Mates",
+        "description": "Develop 50 soul mates",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-13T20:46:29Z"
+      },
+      {
+        "id": 27,
+        "name": "We're Listening",
+        "description": "Resolve 100 pastoral issues",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "There's Always a Hospital",
+        "description": "Treat 100 medical issues",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Huzzah!",
+        "description": "Defeat Lord Blaggard in The Grand Joust",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Jumbo Mega Team",
+        "description": "Win a cheeseball match against the Jumbo Mega Team",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Track-a-Mole",
+        "description": "Expose a mole in Blundergrad",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "The Academic Rainbow",
+        "description": "Have a student graduate in each course",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Magic Staff",
+        "description": "Train a staff member to level 5 in the Wizardry qualification",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Recurring Conditions",
+        "description": "Treat 1 case of each illness from Two Point Hospital",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "The Populous Kids",
+        "description": "Have 100 members in a single club",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-13T22:09:46Z"
+      },
+      {
+        "id": 36,
+        "name": "Space Cadet",
+        "description": "Earn 1 star on Cheesy Heap: Delta-Rye",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Say, Cheese?",
+        "description": "Mine 100 space rocks",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Galactic Domination",
+        "description": "Win 10 Space Battle competitions",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "All Aboard",
+        "description": "Unlock all rockets and reach maximum student transport capacity",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "The Good Stuff",
+        "description": "Run 50 A-grade Cheese-Moongery classes",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "Schools 'n Ghosts",
+        "description": "Earn 1 star on Lifeless Estate",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "R.I.P & Quiet",
+        "description": "Unlock all plots on Lifeless Estate",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Haunted Housework",
+        "description": "Capture 300 ghosts",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "The Old Gold Standard",
+        "description": "Earn 1 star on Pointy Peak",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Curing Spree!",
+        "description": "Cure 15 patients in a row",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "Your Own Medicine",
+        "description": "Complete 10 patient research projects",
+        "type": "gold",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "One Wise Cure-All",
+        "description": "Successfully treat every patient illness",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "Wham & Blast",
+        "description": "Have a treatment machine explode",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T20:54:05.082Z"
+}

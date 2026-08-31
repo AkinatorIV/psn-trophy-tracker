@@ -1,0 +1,437 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Ratchet & Clank: Rift Apart",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR20842_00",
+    "earnedCount": 47,
+    "totalCount": 47,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Masters of the Multiverse",
+        "description": "Collect All Trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T18:33:31Z"
+      },
+      {
+        "id": 1,
+        "name": "Rift Apart",
+        "description": "Get Separated in Nefarious City",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-03T21:08:28Z"
+      },
+      {
+        "id": 2,
+        "name": "Hide 'N Seekerpede",
+        "description": "Defeat the Seekerpede",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T20:04:39Z"
+      },
+      {
+        "id": 3,
+        "name": "Victory!",
+        "description": "Complete a Battleplex Challenge",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T20:42:35Z"
+      },
+      {
+        "id": 4,
+        "name": "Can't Stop Me",
+        "description": "Complete a Gold Cup Battleplex Challenge",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T17:23:16Z"
+      },
+      {
+        "id": 5,
+        "name": "Hey Lombax DJ",
+        "description": "Play Three Songs on Zurkie's Jukebox",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T20:32:57Z"
+      },
+      {
+        "id": 6,
+        "name": "This Crystal Is My Things",
+        "description": "Acquire Phase Quartz",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-08T21:09:14Z"
+      },
+      {
+        "id": 7,
+        "name": "Don't You Walk Away From Me",
+        "description": "Reach the Archives",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-07T20:48:40Z"
+      },
+      {
+        "id": 8,
+        "name": "It's Loose!",
+        "description": "Set Juice Free",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-08T22:43:47Z"
+      },
+      {
+        "id": 9,
+        "name": "Emotional Support Robot",
+        "description": "Meet the Fixer",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-08T21:45:19Z"
+      },
+      {
+        "id": 10,
+        "name": "Rated Aaarrr!",
+        "description": "Feed Bubbles",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-09T19:43:54Z"
+      },
+      {
+        "id": 11,
+        "name": "Return to Sender",
+        "description": "Sink the Mothership on Sargasso",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-09T20:22:15Z"
+      },
+      {
+        "id": 12,
+        "name": "No Bones About It",
+        "description": "Retrieve the Dimensional Map",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-09T21:06:21Z"
+      },
+      {
+        "id": 13,
+        "name": "I'm the Warden Now",
+        "description": "Break In and Out of Prison",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-09T22:05:13Z"
+      },
+      {
+        "id": 14,
+        "name": "2 Fuzz 2 Nefarious",
+        "description": "Defeat Doctor and Emperor Nefarious",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T18:25:03Z"
+      },
+      {
+        "id": 15,
+        "name": "More Than Lint",
+        "description": "Enter a Hidden Pocket Dimension",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T18:11:23Z"
+      },
+      {
+        "id": 16,
+        "name": "Sartorial Steel",
+        "description": "Acquire a Piece of Armor",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T18:12:12Z"
+      },
+      {
+        "id": 17,
+        "name": "Does This Make My Tail Look Big?",
+        "description": "Acquire and Equip Head, Torso, and Leg Armor",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T18:13:27Z"
+      },
+      {
+        "id": 18,
+        "name": "Shiny!",
+        "description": "Collect a Gold Bolt",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-03T21:41:42Z"
+      },
+      {
+        "id": 19,
+        "name": "Nooks and Crannies",
+        "description": "Collect Five Gold Bolts",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T19:02:06Z"
+      },
+      {
+        "id": 20,
+        "name": "Quantum Mechanic",
+        "description": "Repair a Dimensional Anomaly",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T18:29:48Z"
+      },
+      {
+        "id": 21,
+        "name": "They Blow Up So Fast",
+        "description": "Get a Weapon to Level Five",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T18:10:56Z"
+      },
+      {
+        "id": 22,
+        "name": "There's Even a Cupholder",
+        "description": "Fully Upgrade a Weapon",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T18:21:19Z"
+      },
+      {
+        "id": 23,
+        "name": "Full Rack",
+        "description": "Fill a Weapon Wheel",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-07T20:22:06Z"
+      },
+      {
+        "id": 24,
+        "name": "Fully Stacked",
+        "description": "Purchase All Weapons",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T18:33:31Z"
+      },
+      {
+        "id": 25,
+        "name": "Glitch, Uh, Finds a Way",
+        "description": "Complete All Glitch Challenges",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-09T20:48:55Z"
+      },
+      {
+        "id": 26,
+        "name": "Shifty Character",
+        "description": "Hit Every Blizon Crystal on Blizar and Cordelion",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-08T22:42:15Z"
+      },
+      {
+        "id": 27,
+        "name": "BOING!",
+        "description": "Bounce on Big Al, Clank, and Qwark's Parade Balloons",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T18:55:02Z"
+      },
+      {
+        "id": 28,
+        "name": "Max Relax",
+        "description": "Find the Nefarious Citizens by the Hot Springs",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-07T20:22:16Z"
+      },
+      {
+        "id": 29,
+        "name": "Lombax and Chill",
+        "description": "Turn on the TV in Rivet's Hideout",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T20:07:42Z"
+      },
+      {
+        "id": 30,
+        "name": "Alert the Sponsors",
+        "description": "Perform Five Trick Jumps on a Grind Rail",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-03T20:48:51Z"
+      },
+      {
+        "id": 31,
+        "name": "Icebreaker",
+        "description": "Melee Five Frozen Enemies",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-08T22:07:53Z"
+      },
+      {
+        "id": 32,
+        "name": "No Need for Multiball",
+        "description": "Kill Two Enemies With a Single Ricochet Round",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-07T18:54:10Z"
+      },
+      {
+        "id": 33,
+        "name": "Return Policy",
+        "description": "Kill 10 Enemies by Returning Shots with the Void Reactor",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T17:38:52Z"
+      },
+      {
+        "id": 34,
+        "name": "Hole Puncher",
+        "description": "Get 20 Headshots with the Headhunter",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-09T19:28:31Z"
+      },
+      {
+        "id": 35,
+        "name": "Life of the Party",
+        "description": "Deploy 50 Mr. Fungis",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-08T20:33:33Z"
+      },
+      {
+        "id": 36,
+        "name": "Extreme Gardening",
+        "description": "Defeat 30 Enemies While They are Topiary'd",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T19:56:06Z"
+      },
+      {
+        "id": 37,
+        "name": "It's So Fluffy!",
+        "description": "Find a CraiggerBear",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-05T18:52:53Z"
+      },
+      {
+        "id": 38,
+        "name": "UnBEARably Awesome",
+        "description": "Find all CraiggerBears",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-09T21:34:45Z"
+      },
+      {
+        "id": 39,
+        "name": "Extinction Event",
+        "description": "Kill Five Grunthors",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-07T18:54:58Z"
+      },
+      {
+        "id": 40,
+        "name": "Just Stay Down",
+        "description": "Defeat 30 Ejected Nefarious Trooper Heads",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-09T21:31:39Z"
+      },
+      {
+        "id": 41,
+        "name": "Must Go Faster",
+        "description": "Do a Trick Jump While Going at Max Speed with the Hoverboots",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-07T19:40:46Z"
+      },
+      {
+        "id": 42,
+        "name": "Planning Some Destruction",
+        "description": "Collect a Spybot",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-03T21:39:36Z"
+      },
+      {
+        "id": 43,
+        "name": "Aim to Misbehave",
+        "description": "Acquire the RYNO",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-11T17:49:44Z"
+      },
+      {
+        "id": 44,
+        "name": "Feeding Friendsy",
+        "description": "Collect 10 Zurpstones for Trudi",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-07T18:49:03Z"
+      },
+      {
+        "id": 45,
+        "name": "Sweet, Sweet Victory",
+        "description": "Collect Honey for Chef Tulio",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-08T20:22:22Z"
+      },
+      {
+        "id": 46,
+        "name": "Might've Broken Something",
+        "description": "Collect Three Lorbs",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-11-07T20:13:52Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-31T20:54:05.459Z"
+}
