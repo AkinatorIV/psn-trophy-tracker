@@ -1,0 +1,401 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Marvel's Spider-Man 2",
+    "platform": "PS5,PSPC",
+    "progress": 97,
+    "npCommunicationId": "NPWR23378_00",
+    "earnedCount": 42,
+    "totalCount": 43,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Dedicated",
+        "description": "Collect all Trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T19:39:25Z"
+      },
+      {
+        "id": 1,
+        "name": "Superior",
+        "description": "100% complete all districts",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T19:27:49Z"
+      },
+      {
+        "id": 2,
+        "name": "Heal the World",
+        "description": "Finish the main story",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-08T19:36:09Z"
+      },
+      {
+        "id": 3,
+        "name": "To the Max",
+        "description": "Purchase all Gadget upgrades",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-08T18:15:14Z"
+      },
+      {
+        "id": 4,
+        "name": "Kitted Out",
+        "description": "Purchase all available Suits",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T18:45:36Z"
+      },
+      {
+        "id": 5,
+        "name": "Behind the Masks",
+        "description": "Complete \"Grand Finale\"",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-06T18:23:46Z"
+      },
+      {
+        "id": 6,
+        "name": "Amazing",
+        "description": "Reach max level",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-08T18:17:51Z"
+      },
+      {
+        "id": 7,
+        "name": "Data Collector",
+        "description": "Complete \"Target Identified\"",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-06T17:26:21Z"
+      },
+      {
+        "id": 8,
+        "name": "Crimson Hour",
+        "description": "Complete \"It Was Meant for Me\"",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-08T14:23:16Z"
+      },
+      {
+        "id": 9,
+        "name": "Exterminator",
+        "description": "Complete all Symbiote Nests",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-08T18:38:33Z"
+      },
+      {
+        "id": 10,
+        "name": "Grains of Sand",
+        "description": "Piece together broken memories",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-04T16:31:39Z"
+      },
+      {
+        "id": 11,
+        "name": "Leave Us Alone",
+        "description": "Complete \"Don't Be Scared\"",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-07T23:06:51Z"
+      },
+      {
+        "id": 12,
+        "name": "The Great Hunt",
+        "description": "Complete \"Anything Can Be Broken\"",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-07T22:35:14Z"
+      },
+      {
+        "id": 13,
+        "name": "Seek and Destroy",
+        "description": "Complete all Hunter Bases",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-06T16:59:22Z"
+      },
+      {
+        "id": 14,
+        "name": "Friendly Neighborhood Spider-Man",
+        "description": "Complete all FNSM requests",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T18:06:54Z"
+      },
+      {
+        "id": 15,
+        "name": "Medicine",
+        "description": "Complete \"It Chose You\"",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-07T20:43:46Z"
+      },
+      {
+        "id": 16,
+        "name": "Surge",
+        "description": "Use Symbiote Abilities 25 times during Symbiote Surge",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T19:39:25Z"
+      },
+      {
+        "id": 17,
+        "name": "Foundational",
+        "description": "Complete all EMF Experiments",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T18:23:17Z"
+      },
+      {
+        "id": 18,
+        "name": "Evolved",
+        "description": "Defeat 100 enemies with Evolved Venom abilities",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-08T18:22:39Z"
+      },
+      {
+        "id": 19,
+        "name": "Armed and Dangerous",
+        "description": "Defeat 100 enemies with Spider Arm abilities",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-08T14:15:15Z"
+      },
+      {
+        "id": 20,
+        "name": "Another Way",
+        "description": "Complete \"No Escape\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-07T22:04:58Z"
+      },
+      {
+        "id": 21,
+        "name": "Fully Loaded",
+        "description": "Purchase all of Spider-Man's Suit Tech upgrades",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T18:09:24Z"
+      },
+      {
+        "id": 22,
+        "name": "Brooklyn Pride",
+        "description": "Complete \"A Gift\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-05T15:26:01Z"
+      },
+      {
+        "id": 23,
+        "name": "My Community",
+        "description": "Complete \"Hard Bop\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-06T15:17:43Z"
+      },
+      {
+        "id": 24,
+        "name": "I Quit",
+        "description": "Complete \"This Isn't You\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-08T14:57:50Z"
+      },
+      {
+        "id": 25,
+        "name": "Funky Wireless Protocols",
+        "description": "Solve the mystery of the Spider-Bots' origin",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T19:31:25Z"
+      },
+      {
+        "id": 26,
+        "name": "Stylish",
+        "description": "Equip a suit style",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-02T14:02:02Z"
+      },
+      {
+        "id": 27,
+        "name": "Slack Line",
+        "description": "Stealth takedown 25 enemies in stealth from the Web Line",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-05T20:22:40Z"
+      },
+      {
+        "id": 28,
+        "name": "Hang Ten",
+        "description": "Perform 30 Air Tricks in a row without touching the ground",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T17:39:55Z"
+      },
+      {
+        "id": 29,
+        "name": "Overdrive",
+        "description": "As Miles, use Reverse Flux to pull 6 or more enemies together simultaneously",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-07T22:03:07Z"
+      },
+      {
+        "id": 30,
+        "name": "Home Run!",
+        "description": "Round the bases at the Big Apple Ballers Stadium",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T17:46:06Z"
+      },
+      {
+        "id": 31,
+        "name": "Just Let Go",
+        "description": "As Miles, find the science trophy Miles and Phin won together",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T17:52:56Z"
+      },
+      {
+        "id": 32,
+        "name": "You Know What to Do",
+        "description": "As Peter, visit Aunt May's grave",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T18:29:05Z"
+      },
+      {
+        "id": 33,
+        "name": "Soar",
+        "description": "Using only your Web Wings, glide from the Financial District to Astoria (Wind Tunnels are okay!)",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-15T17:49:52Z"
+      },
+      {
+        "id": 34,
+        "name": "Splat",
+        "description": "Attempt and fail a trick before \"landing\" on the ground",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-05T15:17:32Z"
+      },
+      {
+        "id": 35,
+        "name": "A New Adventure",
+        "description": "Help Howard",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-07T18:52:35Z"
+      },
+      {
+        "id": 36,
+        "name": "Resourceful",
+        "description": "Collect a total of 10,000 Tech Parts",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-07T19:10:06Z"
+      },
+      {
+        "id": 37,
+        "name": "Co-Signing",
+        "description": "Complete all Tech Stashes",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-05T15:22:17Z"
+      },
+      {
+        "id": 38,
+        "name": "You're Gonna Need Help",
+        "description": "Complete \"Surface Tension\"",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-01T21:06:59Z"
+      },
+      {
+        "id": 39,
+        "name": "New York, New York",
+        "description": "Complete all Photo Ops",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-04T16:39:16Z"
+      },
+      {
+        "id": 40,
+        "name": "Antidote",
+        "description": "Defeat a Symbiote that is under the effect of Anti-Venom status",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-08T17:46:19Z"
+      },
+      {
+        "id": 41,
+        "name": "A New Suit",
+        "description": "Acquire the Black Suit",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-01-06T13:10:06Z"
+      },
+      {
+        "id": 42,
+        "name": "Once More, With Feeling",
+        "description": "Finish the main story in New Game+ mode",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-09-01T05:02:11.007Z"
+}

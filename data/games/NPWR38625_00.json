@@ -1,0 +1,473 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "THE FINALS",
+    "platform": "PS5",
+    "progress": 4,
+    "npCommunicationId": "NPWR38625_00",
+    "earnedCount": 3,
+    "totalCount": 51,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "FINALS' Frontrunner",
+        "description": "Get all Trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Participation Ribbon",
+        "description": "Create a contestant",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-12-11T18:52:30Z"
+      },
+      {
+        "id": 2,
+        "name": "Initial Deposit",
+        "description": "Insert a cash box into a cashout station",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-12-11T18:49:33Z"
+      },
+      {
+        "id": 3,
+        "name": "Med Student",
+        "description": "Revive a teammate",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-12-11T18:51:09Z"
+      },
+      {
+        "id": 4,
+        "name": "Returning Contestant",
+        "description": "Play 3 rounds of Quick Cash",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Green Light",
+        "description": "Play 10 rounds with a Light Build",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Mass Medium",
+        "description": "Play 10 rounds with a Medium Build",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Play The Heavy",
+        "description": "Play 10 rounds with a Heavy Build",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Rising Star",
+        "description": "Play 3 Tournament rounds",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Life Of The Party",
+        "description": "Play 10 rounds in a Party",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Savings Specialist",
+        "description": "Obtain a total of 100,000 cash",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Lesson Learner",
+        "description": "Complete the Tutorial",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Attending Physician",
+        "description": "Revive teammates 50 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Demolition Expert",
+        "description": "Deal 1,000,000 damage to arenas",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Dead Shot",
+        "description": "Get 300 eliminations with Ranged Weapons",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Strong Arm",
+        "description": "Get 150 eliminations with Melee Weapons",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Gadget Guru",
+        "description": "Get 150 eliminations with Gadgets",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Defense Devotee",
+        "description": "Block a total of 25,000 damage",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Resident Doctor",
+        "description": "Heal teammates for a total of 25,000 health",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Light Years",
+        "description": "Win 150 rounds with a Light Build",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Medium Rare",
+        "description": "Win 150 rounds with a Medium Build",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Heavy Hand",
+        "description": "Win 150 rounds with a Heavy Build",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Deep Pockets",
+        "description": "Obtain a total of 50,000,000 cash",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Show Stopper",
+        "description": "Win the final round in Tournament or Ranked Tournament",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Stop Payment",
+        "description": "Eliminate an opponent while they are carrying a cash box, 5 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Asset Protection",
+        "description": "Eliminate an opponent trying to steal your cashout, 10 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Last-minute Gift",
+        "description": "Start a cashout with less than 10 seconds remaining in the match",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Buzzer Beater",
+        "description": "Steal a cashout with less than 10 seconds remaining in the match",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Highway Patrol",
+        "description": "Eliminate an opponent while you are riding a Zipline, 10 times",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Hot Shot",
+        "description": "Eliminate an opponent while you are on fire, 5 times in a single round",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Just Like Scotty",
+        "description": "Win a round in any mode without being eliminated",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Bombouncer",
+        "description": "Eliminate an opponent by bouncing a grenade on a Jump Pad",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Pressure Prize",
+        "description": "Hit an opponent in the head with an explosive carriable",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Dodgeball Champion",
+        "description": "Hit opponents with 3 different carriables within 15 seconds",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Clip And Slide",
+        "description": "Eliminate an opponent with a headshot while you are sliding",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Multitasker",
+        "description": "Eliminate 3 opponents with 3 different items or carriables within 10 seconds",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Busy Body",
+        "description": "Eliminate 3 opponents with a Melee Weapon within 10 seconds",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Crowd Pleaser",
+        "description": "Finish in first place, 3 times in a row",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Pyro Prodigy",
+        "description": "Eliminate 25 enemies with fire",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "Toxic Tact",
+        "description": "Eliminate 25 enemies with gas",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Golden Bullet",
+        "description": "Get a headshot elimination with the last bullet in the magazine of your primary weapon",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "Fatal Florist",
+        "description": "Eliminate a player with a flowerpot",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Charitable Donation",
+        "description": "Eliminate an opponent with a cash box",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Field Goal",
+        "description": "Throw a cash box into a cashout station from 20 meters away",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Showboaster",
+        "description": "Use an emote after eliminating a player",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Butter Fingers",
+        "description": "Get eliminated by your own grenade",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "Sky Bridge Saboteur",
+        "description": "Destroy the skybridge in Seoul",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "Artful Expressionist",
+        "description": "Eliminate a player while you are emoting",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "Space Rock Skipper",
+        "description": "Bounce a meteor off a Jump Pad during the Meteor Showers event",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 49,
+        "name": "Speed Run",
+        "description": "Start a cashout within 15 seconds after opening a vault",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 50,
+        "name": "Blast Caster",
+        "description": "Place an Explosive Mine on a carriable and get an elimination by throwing it at an enemy",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-09-01T05:02:11.208Z"
+}
