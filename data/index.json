@@ -1,8 +1,8 @@
 {
   "psnId": "AkinatorII",
   "totalGames": 51,
-  "detailedGames": 49,
-  "backfillRemaining": 2,
+  "detailedGames": 51,
+  "backfillRemaining": 0,
   "games": [
     {
       "npCommunicationId": "NPWR42963_00",
@@ -1002,7 +1002,7 @@
         "platinum": 1
       },
       "lastUpdatedDateTime": "2023-02-10T19:54:50Z",
-      "detailsPath": null
+      "detailsPath": "data/games/NPWR22392_00.json"
     },
     {
       "npCommunicationId": "NPWR26546_00",
@@ -1022,8 +1022,8 @@
         "platinum": 1
       },
       "lastUpdatedDateTime": "2023-02-10T19:54:50Z",
-      "detailsPath": null
+      "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-09-01T09:55:54.460Z"
+  "updatedAt": "2026-09-01T14:26:13.517Z"
 }

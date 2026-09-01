@@ -1,0 +1,446 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "God of War Ragnarök",
+    "platform": "PS5,PSPC",
+    "progress": 84,
+    "npCommunicationId": "NPWR22392_00",
+    "earnedCount": 36,
+    "totalCount": 48,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "The Bear and the Wolf",
+        "description": "Collect all Trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T23:35:58Z"
+      },
+      {
+        "id": 1,
+        "name": "The Florist",
+        "description": "Collect one flower from each of the nine realms",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T21:47:42Z"
+      },
+      {
+        "id": 2,
+        "name": "The Librarian",
+        "description": "Collect all of the Books",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T22:37:35Z"
+      },
+      {
+        "id": 3,
+        "name": "The Curator",
+        "description": "Collect all of the Artifacts",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T22:37:35Z"
+      },
+      {
+        "id": 4,
+        "name": "How it Started",
+        "description": "Equip an Enchantment",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2022-12-30T13:18:14Z"
+      },
+      {
+        "id": 5,
+        "name": "Spit Shine",
+        "description": "Upgrade one piece of armor",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2022-12-25T21:01:22Z"
+      },
+      {
+        "id": 6,
+        "name": "Spartan Ways",
+        "description": "Remember the Spartan teachings",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-04T21:23:32Z"
+      },
+      {
+        "id": 7,
+        "name": "Full Belly",
+        "description": "Obtain all of the Apples of Iðunn and Horns of Blood Mead",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T18:30:46Z"
+      },
+      {
+        "id": 8,
+        "name": "Knock off the Rust",
+        "description": "Purchase a Skill",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2022-12-23T12:01:59Z"
+      },
+      {
+        "id": 9,
+        "name": "A Grizzly Encounter",
+        "description": "Battle the Bear",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2022-12-21T18:32:14Z"
+      },
+      {
+        "id": 10,
+        "name": "Blood Debt",
+        "description": "Battle the God of Thunder",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2022-12-21T18:56:49Z"
+      },
+      {
+        "id": 11,
+        "name": "Backyard Brawl",
+        "description": "Battle the Mysterious Valkyrie",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2022-12-29T21:43:17Z"
+      },
+      {
+        "id": 12,
+        "name": "Root of the Problem",
+        "description": "Battle Níðhögg",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2022-12-30T13:18:28Z"
+      },
+      {
+        "id": 13,
+        "name": "The Cauldron",
+        "description": "Destroy Grýla's cauldron",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2022-12-29T21:19:08Z"
+      },
+      {
+        "id": 14,
+        "name": "Off the Leash",
+        "description": "Battle Garm",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-04T22:07:29Z"
+      },
+      {
+        "id": 15,
+        "name": "Comeuppance",
+        "description": "Battle Heimdall",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-06T22:33:00Z"
+      },
+      {
+        "id": 16,
+        "name": "Better Together",
+        "description": "Battle Hrist and Mist",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-08T14:50:24Z"
+      },
+      {
+        "id": 17,
+        "name": "Phalanx",
+        "description": "Obtain all Shields",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-04T22:08:17Z"
+      },
+      {
+        "id": 18,
+        "name": "Collector",
+        "description": "Obtain all Relics and Sword Hilts",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T23:27:17Z"
+      },
+      {
+        "id": 19,
+        "name": "Dragon Slayer",
+        "description": "Craft the Dragon Scaled Armor Set",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-10T21:14:22Z"
+      },
+      {
+        "id": 20,
+        "name": "How it's Going",
+        "description": "Fully repair the Amulet of Yggdrasil",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T19:07:00Z"
+      },
+      {
+        "id": 21,
+        "name": "Funeral for a Friend",
+        "description": "Attend the funeral",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T23:35:58Z"
+      },
+      {
+        "id": 22,
+        "name": "Rebel Leader",
+        "description": "Return the Hammer of the Rebellion",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-07T18:38:00Z"
+      },
+      {
+        "id": 23,
+        "name": "New Friends",
+        "description": "Fetch Lúnda's orb",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-13T21:48:56Z"
+      },
+      {
+        "id": 24,
+        "name": "Full Gufa",
+        "description": "Free the Hafgufas",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T18:14:42Z"
+      },
+      {
+        "id": 25,
+        "name": "Making Amends",
+        "description": "Free the Lyngbakr",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2022-12-25T21:23:14Z"
+      },
+      {
+        "id": 26,
+        "name": "It Was a Good Day",
+        "description": "Retrieve Mardöll",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-13T21:41:07Z"
+      },
+      {
+        "id": 27,
+        "name": "Invasive Species ",
+        "description": "Complete all of the Crater Hunts",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-11T20:59:50Z"
+      },
+      {
+        "id": 28,
+        "name": "Besties",
+        "description": "Pet Speki and Svanna",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-08T15:27:42Z"
+      },
+      {
+        "id": 29,
+        "name": "Rightful Place",
+        "description": "Return all the Lindwyrms to Ratatoskr",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T22:59:08Z"
+      },
+      {
+        "id": 30,
+        "name": "Pure of Hart",
+        "description": "Return the Stags of the Four Seasons",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-11T18:51:34Z"
+      },
+      {
+        "id": 31,
+        "name": "Trials by Fire",
+        "description": "Complete the Trials of Muspelheim",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T21:11:22Z"
+      },
+      {
+        "id": 32,
+        "name": "Ready for Commitment",
+        "description": "Fully upgrade one armor set",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T21:16:18Z"
+      },
+      {
+        "id": 33,
+        "name": "Ragnarök",
+        "description": "Battle the All-Father",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-09T21:04:33Z"
+      },
+      {
+        "id": 34,
+        "name": "Grave Mistake",
+        "description": "Battle King Hrólf",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T23:16:20Z"
+      },
+      {
+        "id": 35,
+        "name": "The True Queen",
+        "description": "Battle Gná",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-14T21:26:54Z"
+      },
+      {
+        "id": 36,
+        "name": "God of Hope",
+        "description": "Master Valhalla and master thyself",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Invitation Accepted",
+        "description": "Discover the secret of Valhalla",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "Dark Odyssey",
+        "description": "Participate in the sacrifice",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "Blood, Sweat, and Týr",
+        "description": "Battle Týr",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Scry Me a River",
+        "description": "Reclaim Kratos' Oath Stone",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "Wayfarer",
+        "description": "Visit all 9 Realms in Valhalla",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "No Kratos, No Scry",
+        "description": "Reclaim Pandora's Statue",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Fight at the Forum",
+        "description": "Participate in a fight at The Forum arena",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Easy Come, Easy Go",
+        "description": "Acquire more than 15,000 Fleeting Echoes on a single attempt",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Understood the Assignment",
+        "description": "Complete 9 Mastery Quests",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "Style Points",
+        "description": "Equip a Cosmetic Armor",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "You Again?",
+        "description": "Find all 3 Boat Captain Keys",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-09-01T14:26:13.390Z"
+}

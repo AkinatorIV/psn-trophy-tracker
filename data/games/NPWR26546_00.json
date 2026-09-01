@@ -1,0 +1,275 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "The Last of Us™ Part I",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR26546_00",
+    "earnedCount": 29,
+    "totalCount": 29,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "It Can't Be For Nothing",
+        "description": "Collect all trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T19:31:49Z"
+      },
+      {
+        "id": 1,
+        "name": "No Matter What",
+        "description": "Complete Part 1",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-06T18:50:09Z"
+      },
+      {
+        "id": 2,
+        "name": "Don't Go",
+        "description": "Complete Left Behind",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T19:31:49Z"
+      },
+      {
+        "id": 3,
+        "name": "Look for the Light",
+        "description": "Find all Firefly pendants",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-06T18:34:04Z"
+      },
+      {
+        "id": 4,
+        "name": "Endure and Survive",
+        "description": "Collect all comics",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-06T18:47:09Z"
+      },
+      {
+        "id": 5,
+        "name": "Chronicles",
+        "description": "Find all notes and artifacts",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T19:04:52Z"
+      },
+      {
+        "id": 6,
+        "name": "Getting to Know You",
+        "description": "Engage in all optional conversations",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T18:34:16Z"
+      },
+      {
+        "id": 7,
+        "name": "That's All I Got",
+        "description": "Survive all of Ellie's jokes",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T18:30:24Z"
+      },
+      {
+        "id": 8,
+        "name": "Something to Fight For",
+        "description": "Find all training manuals",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-06T17:58:39Z"
+      },
+      {
+        "id": 9,
+        "name": "Combat Ready",
+        "description": "Fully upgrade a weapon",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-04T19:46:40Z"
+      },
+      {
+        "id": 10,
+        "name": "Master of Unlocking",
+        "description": "Break into every locked door using shivs",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-06T18:33:52Z"
+      },
+      {
+        "id": 11,
+        "name": "Prepared For the Worst",
+        "description": "Find all workbenches",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-06T18:11:34Z"
+      },
+      {
+        "id": 12,
+        "name": "Sticky Fingers",
+        "description": "Open all safes",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-04T19:54:30Z"
+      },
+      {
+        "id": 13,
+        "name": "Sharpest Tool in the Shed",
+        "description": "Find all workbench tools",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-06T17:48:52Z"
+      },
+      {
+        "id": 14,
+        "name": "Build Em Up, Break Em Down",
+        "description": "Upgrade and then break one of every melee weapon",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-05T16:30:20Z"
+      },
+      {
+        "id": 15,
+        "name": "Fallen Firefly",
+        "description": "Find a Firefly pendant",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-29T15:54:48Z"
+      },
+      {
+        "id": 16,
+        "name": "Self-Help",
+        "description": "Find one training manual",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-31T18:25:37Z"
+      },
+      {
+        "id": 17,
+        "name": "Savage Starlight Fan",
+        "description": "Find a comic",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-03T21:15:28Z"
+      },
+      {
+        "id": 18,
+        "name": "Geared Up",
+        "description": "Craft every item",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-04T16:41:12Z"
+      },
+      {
+        "id": 19,
+        "name": "In Memoriam",
+        "description": "Pick up Frank's note after it's discarded",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-01-31T21:12:11Z"
+      },
+      {
+        "id": 20,
+        "name": "Lights Out",
+        "description": "While in stealth, turn off the spotlight generator in Pittsburgh",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-04T16:57:33Z"
+      },
+      {
+        "id": 21,
+        "name": "Waterlogged",
+        "description": "Ride the sewer contraption with Henry and Sam",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-04T17:19:04Z"
+      },
+      {
+        "id": 22,
+        "name": "Left Hanging",
+        "description": "Leave Ellie hanging after a job well done",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-04T20:33:57Z"
+      },
+      {
+        "id": 23,
+        "name": "Who's A Good Boy?",
+        "description": "Pet Buckley the dog",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-04T20:42:36Z"
+      },
+      {
+        "id": 24,
+        "name": "Nobody's Perfect",
+        "description": "Play the Jak X game in Left Behind",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T18:36:50Z"
+      },
+      {
+        "id": 25,
+        "name": "Brick Master",
+        "description": "Win the brick throwing contest",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T18:01:47Z"
+      },
+      {
+        "id": 26,
+        "name": "Angel Knives",
+        "description": "Defeat Black Fang without getting hit",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T18:40:40Z"
+      },
+      {
+        "id": 27,
+        "name": "Skillz",
+        "description": "Win the water gun fight",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T18:56:52Z"
+      },
+      {
+        "id": 28,
+        "name": "Live Bait",
+        "description": "Use bricks or bottles to lure an infected into attacking a human",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-02-10T19:05:55Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-09-01T14:26:13.515Z"
+}
