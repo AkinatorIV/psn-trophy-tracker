@@ -1,0 +1,707 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Ghost of Tsushima",
+    "platform": "PS5,PSPC",
+    "progress": 68,
+    "npCommunicationId": "NPWR22859_00",
+    "earnedCount": 56,
+    "totalCount": 77,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Living Legend",
+        "description": "Obtain all trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-07-04T17:04:30Z"
+      },
+      {
+        "id": 1,
+        "name": "Gathering Storm",
+        "description": "Recover the katana of clan Sakai.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-02T13:09:09Z"
+      },
+      {
+        "id": 2,
+        "name": "Point of No Return",
+        "description": "Break your code to help a new friend.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-02T13:51:47Z"
+      },
+      {
+        "id": 3,
+        "name": "Company of Wolves",
+        "description": "Recruit the Straw Hat ronin.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-03T17:30:37Z"
+      },
+      {
+        "id": 4,
+        "name": "Stoking the Flame",
+        "description": "Rescue Taka from Mongol captivity.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-03T20:19:31Z"
+      },
+      {
+        "id": 5,
+        "name": "Family Reunion",
+        "description": "Free Lord Shimura from the Khan's clutches.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-05T20:19:30Z"
+      },
+      {
+        "id": 6,
+        "name": "Leader of the People",
+        "description": "Rally the peasants of Yarikawa.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-19T15:40:18Z"
+      },
+      {
+        "id": 7,
+        "name": "Birthright",
+        "description": "Recover your father's armor.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-10T14:16:03Z"
+      },
+      {
+        "id": 8,
+        "name": "Dying Embers",
+        "description": "Eradicate the traitors in the name of a fallen friend.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-19T20:30:17Z"
+      },
+      {
+        "id": 9,
+        "name": "The Ghost",
+        "description": "Embrace your new identity.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-20T17:19:50Z"
+      },
+      {
+        "id": 10,
+        "name": "The Exiled Alliance",
+        "description": "Reunite with your allies in the frozen north.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-22T18:59:10Z"
+      },
+      {
+        "id": 11,
+        "name": "Sovereign End",
+        "description": "Confront the Khan.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-27T17:18:07Z"
+      },
+      {
+        "id": 12,
+        "name": "Mono No Aware",
+        "description": "Leave the past behind and accept the burden of your new mantle.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-27T17:41:22Z"
+      },
+      {
+        "id": 13,
+        "name": "The Warrior Monk",
+        "description": "Complete all of Norio's Tales.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-07-02T19:35:46Z"
+      },
+      {
+        "id": 14,
+        "name": "The Vengeful Warrior",
+        "description": "Complete all of Masako's Tales.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-22T19:16:12Z"
+      },
+      {
+        "id": 15,
+        "name": "The Unbending Archer",
+        "description": "Complete all of Ishikawa's Tales.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-22T20:01:11Z"
+      },
+      {
+        "id": 16,
+        "name": "The Headstrong Thief",
+        "description": "Complete all of Yuna's Tales.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-16T10:50:51Z"
+      },
+      {
+        "id": 17,
+        "name": "Teller of Tales",
+        "description": "Complete all of the Mythic Tales.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-24T11:17:59Z"
+      },
+      {
+        "id": 18,
+        "name": "Helping Sword Hand",
+        "description": "Complete all Tales of Tsushima.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-07-04T17:04:30Z"
+      },
+      {
+        "id": 19,
+        "name": "Flash of Steel",
+        "description": "Defeat 20 enemies with a counterattack after a Perfect Parry.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-07T16:53:12Z"
+      },
+      {
+        "id": 20,
+        "name": "Witness Protection",
+        "description": "Shoot a Terrified enemy with an arrow while they are fleeing.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-10T14:06:12Z"
+      },
+      {
+        "id": 21,
+        "name": "All in the Wrist",
+        "description": "Defeat the maximum amount of enemies within a single Standoff.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-19T15:59:20Z"
+      },
+      {
+        "id": 22,
+        "name": "Open for Business",
+        "description": "Successfully Stagger enemies 50 times.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-03T16:59:25Z"
+      },
+      {
+        "id": 23,
+        "name": "There Can Be Only One",
+        "description": "Successfully complete every duel.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-27T17:37:21Z"
+      },
+      {
+        "id": 24,
+        "name": "Have a Nice Fall",
+        "description": "Kill an enemy with fall damage by knocking them off a ledge.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-20T17:01:27Z"
+      },
+      {
+        "id": 25,
+        "name": "Haunting Precision",
+        "description": "Kill 20 enemies with Ghost Stance strikes.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-20T16:23:02Z"
+      },
+      {
+        "id": 26,
+        "name": "The Ghost of Legend",
+        "description": "Build your Legend to earn the title Ghost of Tsushima.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-27T19:48:24Z"
+      },
+      {
+        "id": 27,
+        "name": "Quick Study",
+        "description": "Learn the Stone, Water, Wind, and Moon combat stances.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-09T19:00:56Z"
+      },
+      {
+        "id": 28,
+        "name": "Every Trick in the Book",
+        "description": "Acquire all the throwable Ghost Weapon techniques.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-09T16:53:44Z"
+      },
+      {
+        "id": 29,
+        "name": "The Perfect Storm",
+        "description": "Fully upgrade your sword.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-23T17:52:06Z"
+      },
+      {
+        "id": 30,
+        "name": "A Charming Man",
+        "description": "Equip a charm in all 6 slots.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-15T17:28:24Z"
+      },
+      {
+        "id": 31,
+        "name": "Gifted",
+        "description": "Collect 10 gifts.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-09T20:52:14Z"
+      },
+      {
+        "id": 32,
+        "name": "Slay",
+        "description": "Acquire 30 pieces of Vanity Gear.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-10T13:58:11Z"
+      },
+      {
+        "id": 33,
+        "name": "Light the Way",
+        "description": "Rekindle all the lighthouses of Tsushima.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-07-03T17:10:07Z"
+      },
+      {
+        "id": 34,
+        "name": "Den of Thieves",
+        "description": "Discover Umugi Cove.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-16T11:03:36Z"
+      },
+      {
+        "id": 35,
+        "name": "Favor of the Kami",
+        "description": "Find and honor all of the Shinto Shrines on Tsushima.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-07-03T17:43:51Z"
+      },
+      {
+        "id": 36,
+        "name": "Honor the Unseen",
+        "description": "Bow to 10 hidden altars across Tsushima.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-07-03T20:18:59Z"
+      },
+      {
+        "id": 37,
+        "name": "Lost and Found",
+        "description": "Discover a Pillar of Honor and collect its Sword Kit.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-09T18:47:51Z"
+      },
+      {
+        "id": 38,
+        "name": "Monochrome Masters",
+        "description": "Purchase an item from the Black and White Dye Merchants.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-24T10:41:14Z"
+      },
+      {
+        "id": 39,
+        "name": "Cooper Clan Cosplayer",
+        "description": "Dress up as a legendary thief.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-07-03T20:32:07Z"
+      },
+      {
+        "id": 40,
+        "name": "Dirge of the Fallen Forge",
+        "description": "Play the \"Lament of the Storm\" at a friend's grave.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-07-03T19:59:37Z"
+      },
+      {
+        "id": 41,
+        "name": "A Moment in Time",
+        "description": "Personalize a scene in Photo Mode.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-02T16:34:27Z"
+      },
+      {
+        "id": 42,
+        "name": "Avid Reader",
+        "description": "Collect 20 Records.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-10T13:51:32Z"
+      },
+      {
+        "id": 43,
+        "name": "Know Your Enemy",
+        "description": "Collect 20 Mongol artifacts.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-20T19:42:35Z"
+      },
+      {
+        "id": 44,
+        "name": "Body, Mind, and Spirit",
+        "description": "Complete all Hot Springs, Haiku, Inari Shrines, and Bamboo Strikes.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-07-04T16:46:19Z"
+      },
+      {
+        "id": 45,
+        "name": "Hero of the People",
+        "description": "Liberate 12 occupied areas in Izuhara.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-09T17:16:20Z"
+      },
+      {
+        "id": 46,
+        "name": "A Fight For The Isle….",
+        "description": "Liberate all occupied areas in Izuhara.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-27T19:33:17Z"
+      },
+      {
+        "id": 47,
+        "name": "Good Riddance",
+        "description": "Liberate 8 occupied areas in Toyotama.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-13T20:15:03Z"
+      },
+      {
+        "id": 48,
+        "name": "Securing Sanctuary….",
+        "description": "Liberate all occupied areas in Toyotama.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-27T19:55:53Z"
+      },
+      {
+        "id": 49,
+        "name": "Mass Eviction",
+        "description": "Liberate 7 occupied areas in Kamiagata.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-23T17:50:40Z"
+      },
+      {
+        "id": 50,
+        "name": "A New Safe Haven",
+        "description": "Liberate all occupied areas in Kamiagata.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-28T17:36:15Z"
+      },
+      {
+        "id": 51,
+        "name": "Master Liberator",
+        "description": "Liberate the entirety of Tsushima Island.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-06-28T17:36:15Z"
+      },
+      {
+        "id": 52,
+        "name": "Transcendence",
+        "description": "Complete all 3 Raid chapters.",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Ultimate Warrior",
+        "description": "Reach rank 20 with all roles.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "Ultimate Truth",
+        "description": "Complete the final wave in a gold Survival.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Promising Start",
+        "description": "Complete a Legends Mode story.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "True Understanding",
+        "description": "Complete all Legends Mode stories on a single difficulty.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Self-Actualized",
+        "description": "Reach rank 20 in any role.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Grand Opening",
+        "description": "Purchase something from Baku the Voiceless in New Game+.",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "A Legend for All Time",
+        "description": "Complete Jin's Journey in New Game+.",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Out of the Past",
+        "description": "Survive the Eagle's medicine and bid farewell to a new friend.",
+        "type": "silver",
+        "group": "003",
+        "earned": true,
+        "earnedDateTime": "2023-07-07T19:28:32Z"
+      },
+      {
+        "id": 61,
+        "name": "Friend to All Raiders",
+        "description": "Complete all Tales of Iki.",
+        "type": "gold",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 62,
+        "name": "The Benefit of All Beings",
+        "description": "Build your Legend on Iki Island to earn the title Legacy Redeemer.",
+        "type": "bronze",
+        "group": "003",
+        "earned": true,
+        "earnedDateTime": "2023-07-07T20:12:19Z"
+      },
+      {
+        "id": 63,
+        "name": "The Butcher Redeemed",
+        "description": "Liberate Iki Island by defeating the Eagle and driving the invaders from Mongol territory.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 64,
+        "name": "Treasures of the Past",
+        "description": "Complete all Mythic Tales on Iki Island.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 65,
+        "name": "Elegy for Kazumasa",
+        "description": "Complete all Memories of Your Father.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 66,
+        "name": "Common Courtesy",
+        "description": "Discover and complete all unwritten tales on Iki Island.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 67,
+        "name": "Monkey See",
+        "description": "Embody the spirit of the monkey on Saruiwa.",
+        "type": "bronze",
+        "group": "004",
+        "earned": true,
+        "earnedDateTime": "2023-07-09T16:02:35Z"
+      },
+      {
+        "id": 68,
+        "name": "Pride of Ishikawa",
+        "description": "Achieve bronze or higher on all Archery Challenges.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 69,
+        "name": "Chiyoko's Song",
+        "description": "Complete all Animal Sanctuaries.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 70,
+        "name": "A Few Splinters",
+        "description": "Complete all bokken duels at the Hidden Cove Tournament.",
+        "type": "bronze",
+        "group": "004",
+        "earned": true,
+        "earnedDateTime": "2023-07-07T13:54:36Z"
+      },
+      {
+        "id": 71,
+        "name": "Well-Rounded Warrior",
+        "description": "Complete all Haiku, Onsen, Shinto Shrines, and Bamboo Strikes on Iki Island.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 72,
+        "name": "Blood on Your Hands",
+        "description": "Purchase an item from the Crimson Dye Merchant and obtain a dye for your Sakai Horse Armor.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 73,
+        "name": "Honor Bound",
+        "description": "Bind a piece of gear to a class.",
+        "type": "bronze",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 74,
+        "name": "Champion of the Kami",
+        "description": "Win a Legends Rivals match.",
+        "type": "bronze",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 75,
+        "name": "Cursed No More",
+        "description": "Purify a Cursed piece of gear.",
+        "type": "bronze",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 76,
+        "name": "A Painful Blockage",
+        "description": "Summon five Shades in a single Rivals match.",
+        "type": "bronze",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-09-01T09:55:54.176Z"
+}

@@ -1,0 +1,266 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "The Last of Us™ Part II",
+    "platform": "PS4",
+    "progress": 38,
+    "npCommunicationId": "NPWR13348_00",
+    "earnedCount": 15,
+    "totalCount": 28,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Every Last One of Them",
+        "description": "Collect all trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "What I Had to Do",
+        "description": "Complete the story",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-27T19:33:36Z"
+      },
+      {
+        "id": 2,
+        "name": "Survival Expert",
+        "description": "Learn all player upgrades",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Arms Master",
+        "description": "Fully upgrade all weapons",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Archivist",
+        "description": "Find all artifacts and journal entries",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Master Set",
+        "description": "Find all trading cards",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Numismatist ",
+        "description": "Find all coins",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Prepared For the Worst",
+        "description": "Find all workbenches",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Mechanist",
+        "description": "Fully upgrade a weapon",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-03T19:49:19Z"
+      },
+      {
+        "id": 9,
+        "name": "Specialist",
+        "description": "Learn all player upgrades in one branch",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-03T19:27:45Z"
+      },
+      {
+        "id": 10,
+        "name": "Safecracker",
+        "description": "Unlock every safe",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Sightseer",
+        "description": "Visit every location in downtown Seattle",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-03-27T17:57:35Z"
+      },
+      {
+        "id": 12,
+        "name": "Journeyman",
+        "description": "Find all training manuals",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-16T17:21:18Z"
+      },
+      {
+        "id": 13,
+        "name": "Survival Training",
+        "description": "Learn 25 player upgrades",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-22T20:27:38Z"
+      },
+      {
+        "id": 14,
+        "name": "High Caliber",
+        "description": "Find all weapons",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-25T18:33:10Z"
+      },
+      {
+        "id": 15,
+        "name": "In the Field",
+        "description": "Find 12 workbenches",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-16T16:21:57Z"
+      },
+      {
+        "id": 16,
+        "name": "Tools of the Trade",
+        "description": "Craft every item",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Tinkerer",
+        "description": "Upgrade a weapon",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-03-26T15:20:02Z"
+      },
+      {
+        "id": 18,
+        "name": "Apprentice",
+        "description": "Learn a player upgrade",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-03-26T15:02:20Z"
+      },
+      {
+        "id": 19,
+        "name": "Starter Set",
+        "description": "Find 5 trading cards",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-03-26T18:57:07Z"
+      },
+      {
+        "id": 20,
+        "name": "Mint Condition",
+        "description": "Find 5 coins",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-16T13:30:51Z"
+      },
+      {
+        "id": 21,
+        "name": "Looks Good On You",
+        "description": "Put a hat on your companion",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Sharpshooter",
+        "description": "Win the marksmanship competition",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Put My Name Up",
+        "description": "Earn the high score in the archery game",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-16T16:32:59Z"
+      },
+      {
+        "id": 24,
+        "name": "Relic of the Sages",
+        "description": "Find the Strange Artifact",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-04-16T16:06:42Z"
+      },
+      {
+        "id": 25,
+        "name": "So Great and Small",
+        "description": "Find the Engraved Ring",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2023-03-26T19:17:05Z"
+      },
+      {
+        "id": 26,
+        "name": "Dig Two Graves",
+        "description": "Complete the story on Grounded.",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "You Can't Stop This",
+        "description": "Complete the story with any Permadeath setting.",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-09-01T09:55:54.310Z"
+}
