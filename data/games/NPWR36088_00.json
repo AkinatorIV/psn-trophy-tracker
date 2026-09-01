@@ -1,0 +1,509 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Baldur's Gate 3",
+    "platform": "PS5",
+    "progress": 5,
+    "npCommunicationId": "NPWR36088_00",
+    "earnedCount": 4,
+    "totalCount": 55,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Pride of Baldur's Gate",
+        "description": "Collect every trophy in Baldur's Gate III - no easy task.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Descent From Avernus",
+        "description": "Take control of the Nautiloid and escape the hells.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-04-01T18:21:24Z"
+      },
+      {
+        "id": 2,
+        "name": "The Plot Thickens",
+        "description": "Leave Act One - for somewhere altogether darker. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "The City Awaits",
+        "description": "Leave Act Two - Baldur's Gate is just over the horizon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "All's Well That Ends Well",
+        "description": "Finish the game (with a heartfelt \"thank you!\" from Larian Studios).",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Absolute Power Corrupts",
+        "description": "Reign with terror: take control of the Netherbrain and bend the world to your will.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Hero of the Forgotten Realms",
+        "description": "Save the realms: destroy the Absolute once and for all. ",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Sins of the Father",
+        "description": "Claim your Throne of Blood: take control of the Netherbrain for Bhaal and break the world.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Ceremorphosis",
+        "description": "Make the ultimate sacrifice: become a mindflayer to defeat the Netherbrain.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Roleplayer",
+        "description": "Complete ten background goals in a single playthrough - you are one with your character.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Bedrolls and Breakfast",
+        "description": "Take four full long rests in a single playthrough - adventuring's tiring work.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Expand Your Mind",
+        "description": "Consume a parasite and unlock a new power - is it meant to wriggle the whole way down?",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Dig for Victory",
+        "description": "Dig up five buried chests in a single playthrough - treasure! ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "No Penny Required",
+        "description": "Successfully use Detect Thoughts to pry into someone's thoughts. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Escapologist",
+        "description": "Break out of prison after being arrested - aren't you daring?",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Outsourcing",
+        "description": "Recruit a hireling. You can befriend them or use them as cannon-fodder - we won't judge.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Jack-of-all-Trades",
+        "description": "Multiclass into every class in one playthrough without asking Withers to change your character.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Homebrewer",
+        "description": "Create three unique alchemical solutions in a single playthrough - bottoms up! ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "You Have Two Hands for a Reason",
+        "description": "Pet Scratch and the Owlbear cub at the same time - the greatest joy an adventurer could ask for.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Rude, Crude, and full of Attitude",
+        "description": "Find and summon the quasit Shovel. Or is her name... Fork? Maybe Basket?",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Forged in Blood and Fire",
+        "description": "Craft an item in the Adamantine Forge.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Under Lock and Key",
+        "description": "Rescue all the prisoners from the depths of Moonrise Towers in one playthrough.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "She Cannot be Caged!",
+        "description": "Rescue Sazza from the Emerald Grove, Goblin Camp, and Moonrise Towers in one playthrough. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Taking Blood",
+        "description": "Steal the Blood of Lathander from underneath Rosymorn Monastery.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Leave No One Behind",
+        "description": "Save every tiefling refugee you can throughout the game in a single playthrough.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Murder in Baldur's Gate",
+        "description": "Coat the streets of Baldur's Gate in blood - become an Unholy Assassin of Bhaal.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Mind Blown",
+        "description": "Romance the Emperor.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Kill Two Birds with One Gnome",
+        "description": "Use one enemy as an improvised weapon against another. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-03-29T20:17:30Z"
+      },
+      {
+        "id": 28,
+        "name": "Busker",
+        "description": "Earn a hundred gold from playing sweet, sweet music in a single playthrough. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Action Surge",
+        "description": "Perform five attacks in one turn. Your enemies won't know what hit them (literally).",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Fists of Fury",
+        "description": "Kill a character with an unarmed strike.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-03-29T20:35:12Z"
+      },
+      {
+        "id": 31,
+        "name": "Devil's in the Details ",
+        "description": "Defeat Commander Zhalk in the Nautiloid.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-04-01T18:16:14Z"
+      },
+      {
+        "id": 32,
+        "name": "Pest Control",
+        "description": "Kill the Spider Matriarch before her eggs hatch - why do they have so many legs?",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "A Grym Fate",
+        "description": "Kill the Adamantine Golem without using the Forge Hammer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Non-invasive Procedure",
+        "description": "Kill the Surgeon before he performs surgery on you in combat.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Penny Pincher",
+        "description": "Defeat the Toll Collector without her using gold against you - excellent budgeting. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "No Free Lunches",
+        "description": "Defeat the Apostle of Myrkul before it consumes any Necromites.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Fancy Footwork",
+        "description": "Defeat Gortash in Wyrm's Rock without activating any traps.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "First Blood",
+        "description": "Kill Orin while her cultists are performing their ritual chant.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "Interfectorem Draconis",
+        "description": "Kill the Red Dragon in the Upper City.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Crash Landing",
+        "description": "In the Wyrmway, wait until the dragon is midflight, then knock it out of the sky - KAPOW.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "Bottoms Up",
+        "description": "Long Rest using only alcohol - a time-honoured dwarfish tradition. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Shove Off",
+        "description": "Kill a creature with falling damage.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "Bookworm",
+        "description": "Read 100 different books in a single playthrough. Adventuring isn't just daring quests, you know.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Punch Drunk",
+        "description": "Defeat twenty opponents while drunk - down them. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Fetch Quest",
+        "description": "Play fetch with Scratch - the best boy in the Realms.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "Repairing the Weave",
+        "description": "Stablise Gale's Netherse orb.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "The Lich-Queen's Wrath",
+        "description": "Ally with Voss against the Githyanki God-Queen. Good luck. ",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "To Bloom in Darkest Night",
+        "description": "Gift Shadowheart a night orchid - her favourite flower. Always knew she was a softie.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 49,
+        "name": "Hot Date",
+        "description": "Go on a date with Karlach - now that's playing with fire.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 50,
+        "name": "Just a Nibble",
+        "description": "Let Astarion bite you at night - ouch.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 51,
+        "name": "Loophole",
+        "description": "Break Wyll's Pact with Mizora.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "Embrace Your Urge",
+        "description": "Become Bhaal's ultimate weapon - become his Slayer.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Critical Hit",
+        "description": "Complete the game in Tactician mode.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "Foehammer",
+        "description": "Complete the game in Honour mode.",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-09-01T00:09:47.247Z"
+}

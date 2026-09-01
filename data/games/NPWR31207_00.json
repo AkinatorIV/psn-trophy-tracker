@@ -1,0 +1,554 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "DREDGE",
+    "platform": "PS5",
+    "progress": 100,
+    "npCommunicationId": "NPWR31207_00",
+    "earnedCount": 60,
+    "totalCount": 60,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "From the Depths",
+        "description": "Obtain all other trophies.",
+        "type": "platinum",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T19:15:06Z"
+      },
+      {
+        "id": 1,
+        "name": "Introductions",
+        "description": "Complete the introduction quest.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-09T20:40:39Z"
+      },
+      {
+        "id": 2,
+        "name": "Master Angler",
+        "description": "Catch all known species of fish.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T19:55:25Z"
+      },
+      {
+        "id": 3,
+        "name": "The Key",
+        "description": "Deliver the Key.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-09T21:24:05Z"
+      },
+      {
+        "id": 4,
+        "name": "The Secret",
+        "description": "Surrender the Music Box.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-11T19:57:24Z"
+      },
+      {
+        "id": 5,
+        "name": "The Bond",
+        "description": "Entrust the Ring.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-12T12:20:36Z"
+      },
+      {
+        "id": 6,
+        "name": "The Chains",
+        "description": "Relinquish the Necklace.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-13T20:38:49Z"
+      },
+      {
+        "id": 7,
+        "name": "The Moment",
+        "description": "Give up the Pocket Watch.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T18:59:41Z"
+      },
+      {
+        "id": 8,
+        "name": "Unshackled",
+        "description": "Find a use for the relics.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T19:15:06Z"
+      },
+      {
+        "id": 9,
+        "name": "Sated",
+        "description": "Throw it back.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T19:12:14Z"
+      },
+      {
+        "id": 10,
+        "name": "Perfect Packing",
+        "description": "Have a full cargo.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-11T19:08:50Z"
+      },
+      {
+        "id": 11,
+        "name": "Aberration Attractor",
+        "description": "Catch all aberrations.",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T19:07:19Z"
+      },
+      {
+        "id": 12,
+        "name": "From the Fog",
+        "description": "Hear a Foghorn echo.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-09T21:23:19Z"
+      },
+      {
+        "id": 13,
+        "name": "Prey Sighted",
+        "description": "Spot a fish of each category through your Spyglass.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-14T21:02:07Z"
+      },
+      {
+        "id": 14,
+        "name": "Mixed Results",
+        "description": "Use Mixed Bait to attract 3 different species to a single spot.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T18:49:23Z"
+      },
+      {
+        "id": 15,
+        "name": "Cruel Heat",
+        "description": "Keep your Haste burn meter above 50% for 10 seconds.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-13T20:19:02Z"
+      },
+      {
+        "id": 16,
+        "name": "Dimensional Bypass",
+        "description": "Traverse a long distance using Manifest.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-12T11:26:41Z"
+      },
+      {
+        "id": 17,
+        "name": "Banisher",
+        "description": "Banish 10 threats.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T20:22:46Z"
+      },
+      {
+        "id": 18,
+        "name": "Unsustainable Fishing",
+        "description": "Use Atrophy on a fishing spot a long way away.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-14T20:40:07Z"
+      },
+      {
+        "id": 19,
+        "name": "Providence",
+        "description": "Complete all side quests. One way or another.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T18:30:58Z"
+      },
+      {
+        "id": 20,
+        "name": "Safe Havens",
+        "description": "Visit every dock in the game.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T17:56:59Z"
+      },
+      {
+        "id": 21,
+        "name": "Servant of the Shrines",
+        "description": "Solve all fish shrine puzzles.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-14T20:37:57Z"
+      },
+      {
+        "id": 22,
+        "name": "Feeling Prepared",
+        "description": "Install equipment into every slot on your ship.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-12T12:01:36Z"
+      },
+      {
+        "id": 23,
+        "name": "Researcher: Rods",
+        "description": "Research all rods.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-14T20:56:34Z"
+      },
+      {
+        "id": 24,
+        "name": "Researcher: Nets",
+        "description": "Research all nets.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T19:47:28Z"
+      },
+      {
+        "id": 25,
+        "name": "Researcher: Pots",
+        "description": "Research all pots.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T19:07:41Z"
+      },
+      {
+        "id": 26,
+        "name": "Researcher: Engines",
+        "description": "Research all engines.",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T18:41:42Z"
+      },
+      {
+        "id": 27,
+        "name": "Lifted From the Deep",
+        "description": "Catch 250 fish using rods.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-13T20:45:04Z"
+      },
+      {
+        "id": 28,
+        "name": "Trapped by These Walls",
+        "description": "Catch 100 crabs in crab pots.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T19:49:52Z"
+      },
+      {
+        "id": 29,
+        "name": "Tangled in This Web",
+        "description": "Catch 150 fish in trawl nets.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T19:44:23Z"
+      },
+      {
+        "id": 30,
+        "name": "Lives for Profit",
+        "description": "Sell a total of $2500 worth of fish.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-12T11:43:20Z"
+      },
+      {
+        "id": 31,
+        "name": "Cash for Gold",
+        "description": "Sell a total of $1500 worth of trinkets.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T19:29:10Z"
+      },
+      {
+        "id": 32,
+        "name": "Careless Harvesting",
+        "description": "Deplete a total of 25 fishing spots.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-11T19:53:49Z"
+      },
+      {
+        "id": 33,
+        "name": "Swift Reaper",
+        "description": "Have a combined fishing speed of 200%.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-14T16:25:59Z"
+      },
+      {
+        "id": 34,
+        "name": "No Time to Linger",
+        "description": "Have a combined engine speed of 75kn.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-14T20:43:26Z"
+      },
+      {
+        "id": 35,
+        "name": "Light Up the Night",
+        "description": "Have a combined light strength of 3000 lumens.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-15T20:53:53Z"
+      },
+      {
+        "id": 36,
+        "name": "Hull: Improved",
+        "description": "Upgrade to the 2nd tier hull.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-12T11:05:04Z"
+      },
+      {
+        "id": 37,
+        "name": "Hull: Refined",
+        "description": "Upgrade to the 3rd tier hull.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-13T21:19:52Z"
+      },
+      {
+        "id": 38,
+        "name": "Hull: Advanced",
+        "description": "Upgrade to the 4th tier hull.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-15T20:10:19Z"
+      },
+      {
+        "id": 39,
+        "name": "Unwanted",
+        "description": "Discard 25 fish.",
+        "type": "bronze",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2024-10-18T20:33:09Z"
+      },
+      {
+        "id": 40,
+        "name": "Polar Angler",
+        "description": "Catch all known species of fish in The Pale Reach.",
+        "type": "silver",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T20:31:08Z"
+      },
+      {
+        "id": 41,
+        "name": "Cold Corruptions",
+        "description": "Catch all aberrations in The Pale Reach.",
+        "type": "silver",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T20:54:24Z"
+      },
+      {
+        "id": 42,
+        "name": "Feeding Time",
+        "description": "Feed the Narwhal.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T19:28:15Z"
+      },
+      {
+        "id": 43,
+        "name": "Under The Ice",
+        "description": "Finish the main quest in The Pale Reach.",
+        "type": "silver",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T20:17:07Z"
+      },
+      {
+        "id": 44,
+        "name": "Frozen Favors",
+        "description": "Finish all side quests in The Pale Reach.",
+        "type": "silver",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T20:41:41Z"
+      },
+      {
+        "id": 45,
+        "name": "Icebreaker",
+        "description": "Equip the Icebreaker.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T19:39:12Z"
+      },
+      {
+        "id": 46,
+        "name": "Fresh Fish",
+        "description": "Have 5 ice blocks in your cargo.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T20:00:49Z"
+      },
+      {
+        "id": 47,
+        "name": "From The Black Depths",
+        "description": "Catch the Colossal Squid.",
+        "type": "bronze",
+        "group": "001",
+        "earned": true,
+        "earnedDateTime": "2024-10-20T20:31:08Z"
+      },
+      {
+        "id": 48,
+        "name": "Ancient Angler",
+        "description": "Catch all known species of fish in The Iron Rig.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-25T18:37:54Z"
+      },
+      {
+        "id": 49,
+        "name": "Primordial Deviations",
+        "description": "Catch all aberrations in The Iron Rig (excluding exotics).",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-25T19:24:40Z"
+      },
+      {
+        "id": 50,
+        "name": "Missing Shipment",
+        "description": "Deliver the missing shipment to the rig.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-21T19:29:23Z"
+      },
+      {
+        "id": 51,
+        "name": "The Iron Ruin",
+        "description": "Override the rig's defenses.",
+        "type": "silver",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-22T20:05:45Z"
+      },
+      {
+        "id": 52,
+        "name": "Rig Architect",
+        "description": "Build all levels of all buildings on the rig.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-22T19:17:13Z"
+      },
+      {
+        "id": 53,
+        "name": "Remedial Apparatus",
+        "description": "Equip the Siphon Trawler.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-21T20:20:25Z"
+      },
+      {
+        "id": 54,
+        "name": "Dark Custodian",
+        "description": "Collect a total of 10 Dark Canisters.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-22T19:50:02Z"
+      },
+      {
+        "id": 55,
+        "name": "Hull: Industrial",
+        "description": "Upgrade to the 5th tier hull.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-22T19:10:02Z"
+      },
+      {
+        "id": 56,
+        "name": "Exotic Exemplar",
+        "description": "Catch any exotic aberration.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-25T19:33:53Z"
+      },
+      {
+        "id": 57,
+        "name": "Enhanced Abilities",
+        "description": "Upgrade all 3 basic abilities.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-21T20:19:19Z"
+      },
+      {
+        "id": 58,
+        "name": "Shadowed Splashes",
+        "description": "Have 5 Dark Splashes in your inventory.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-21T20:00:21Z"
+      },
+      {
+        "id": 59,
+        "name": "The Gleaming Goliath",
+        "description": "Evade that which stalks the disturbed sediment.",
+        "type": "bronze",
+        "group": "002",
+        "earned": true,
+        "earnedDateTime": "2024-10-22T20:09:36Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-09-01T00:09:46.979Z"
+}
