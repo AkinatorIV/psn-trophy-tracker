@@ -3,9 +3,9 @@
   "game": {
     "name": "Vampire Survivors",
     "platform": "PS5",
-    "progress": 21,
+    "progress": 25,
     "npCommunicationId": "NPWR42963_00",
-    "earnedCount": 74,
+    "earnedCount": 82,
     "totalCount": 284,
     "trophies": [
       {
@@ -77,8 +77,8 @@
         "description": "Defeat a total of 3000 Lion Heads.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T21:03:35Z"
       },
       {
         "id": 8,
@@ -176,8 +176,8 @@
         "description": "Find and open the coffin in the Inlaid Library.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T21:03:35Z"
       },
       {
         "id": 19,
@@ -239,8 +239,8 @@
         "description": "Obtain the Infinite Corridor.",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T21:03:35Z"
       },
       {
         "id": 26,
@@ -320,8 +320,8 @@
         "description": "Find the Forbidden Scrolls of Morbane.",
         "type": "gold",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T20:14:45Z"
       },
       {
         "id": 35,
@@ -842,8 +842,8 @@
         "description": "Survive 30 minutes in The Bone Zone.",
         "type": "silver",
         "group": "006",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T20:14:45Z"
       },
       {
         "id": 93,
@@ -1202,8 +1202,8 @@
         "description": "Reach Level 80 with Mortaccio.",
         "type": "bronze",
         "group": "010",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T21:03:35Z"
       },
       {
         "id": 133,
@@ -1265,8 +1265,8 @@
         "description": "Fill 80 entries in the Collection.",
         "type": "bronze",
         "group": "010",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T20:14:45Z"
       },
       {
         "id": 140,
@@ -1787,8 +1787,8 @@
         "description": "Find 20 Orologions.",
         "type": "silver",
         "group": "019",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T21:03:35Z"
       },
       {
         "id": 198,
@@ -2566,5 +2566,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-02T19:52:13.770Z"
+  "updatedAt": "2026-09-02T22:02:09.019Z"
 }

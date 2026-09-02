@@ -2,6 +2,118 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-02T21:03:35Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 7,
+        "name": "Yatta Cavallo",
+        "type": "bronze",
+        "description": "Defeat a total of 3000 Lion Heads."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-02T21:03:35Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 18,
+        "name": "Coffin: Inlaid Library",
+        "type": "bronze",
+        "description": "Find and open the coffin in the Inlaid Library."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-02T21:03:35Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 25,
+        "name": "Seeker of the Infinite Corridor",
+        "type": "silver",
+        "description": "Obtain the Infinite Corridor."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-02T21:03:35Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 132,
+        "name": "Reroll 1",
+        "type": "bronze",
+        "description": "Reach Level 80 with Mortaccio."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-02T21:03:35Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 197,
+        "name": "EXTRA: Whiteout",
+        "type": "silver",
+        "description": "Find 20 Orologions."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-02T20:14:45Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 34,
+        "name": "Forbidden Scrolls",
+        "type": "gold",
+        "description": "Find the Forbidden Scrolls of Morbane."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-02T20:14:45Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 92,
+        "name": "Skip 3",
+        "type": "silver",
+        "description": "Survive 30 minutes in The Bone Zone."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-02T20:14:45Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 139,
+        "name": "Banish 3",
+        "type": "bronze",
+        "description": "Fill 80 entries in the Collection."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-02T19:26:00Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3388,119 +3500,7 @@
         "type": "bronze",
         "description": "Use nitro and drift at the same time on your bike for at least 5 seconds"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-09T14:48:28Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 36,
-        "name": "Best Friends Forever (For Life)",
-        "type": "gold",
-        "description": "Gain the Allied Trust status with three different Encampments"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-09T14:47:10Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 14,
-        "name": "Infestation Exterminator",
-        "type": "silver",
-        "description": "Complete the Infestation Exterminator storyline"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-07T22:27:10Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 12,
-        "name": "Days Done",
-        "type": "gold",
-        "description": "Complete the story of Days Gone"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-07T22:09:10Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 11,
-        "name": "I've Been Waiting for This",
-        "type": "bronze",
-        "description": "Take revenge, once and for all"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-07T21:55:02Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 27,
-        "name": "You've Got Red on You",
-        "type": "bronze",
-        "description": "Collect 541 Items from corpses"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-07T21:23:40Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 35,
-        "name": "Best Friends Forever",
-        "type": "silver",
-        "description": "Receive the Allied Trust status with an Encampment"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-03T20:36:48Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 10,
-        "name": "Morior Invictus",
-        "type": "silver",
-        "description": "Ride out to take back what's yours"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-03T19:10:04Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 21,
-        "name": "Old Reliable ",
-        "type": "bronze",
-        "description": "Kill 200 Enemies with a Crafted Weapon"
-      }
     }
   ],
-  "updatedAt": "2026-09-02T19:52:13.790Z"
+  "updatedAt": "2026-09-02T22:02:09.042Z"
 }
