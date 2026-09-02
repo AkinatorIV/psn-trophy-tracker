@@ -16,12 +16,12 @@
         "platinum": 1
       },
       "earnedTrophies": {
-        "bronze": 60,
+        "bronze": 62,
         "silver": 11,
         "gold": 1,
         "platinum": 0
       },
-      "lastUpdatedDateTime": "2026-08-30T20:42:19Z",
+      "lastUpdatedDateTime": "2026-09-02T19:26:01Z",
       "detailsPath": "data/games/NPWR42963_00.json"
     },
     {
@@ -1025,5 +1025,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-09-01T14:26:13.517Z"
+  "updatedAt": "2026-09-02T19:52:13.773Z"
 }

@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-02T19:26:00Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 23,
+        "name": "Glass Vizard",
+        "type": "bronze",
+        "description": "Find and buy the Glass Vizard."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-02T19:17:45Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 22,
+        "name": "Magic Banger",
+        "type": "bronze",
+        "description": "Find the Magic Banger."
+      }
+    },
+    {
       "earnedDateTime": "2026-08-30T20:42:18Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3472,35 +3500,7 @@
         "type": "bronze",
         "description": "Kill 200 Enemies with a Crafted Weapon"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-03T13:05:50Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 30,
-        "name": "Wannabe Fortune Hunter",
-        "type": "bronze",
-        "description": "Unlock over 50% of the collectibles"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-03T12:34:02Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 17,
-        "name": "One Down",
-        "type": "silver",
-        "description": "Defeat your first Horde"
-      }
     }
   ],
-  "updatedAt": "2026-08-30T21:35:40.293Z"
+  "updatedAt": "2026-09-02T19:52:13.790Z"
 }

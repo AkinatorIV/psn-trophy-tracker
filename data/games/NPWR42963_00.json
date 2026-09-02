@@ -5,7 +5,7 @@
     "platform": "PS5",
     "progress": 21,
     "npCommunicationId": "NPWR42963_00",
-    "earnedCount": 72,
+    "earnedCount": 74,
     "totalCount": 284,
     "trophies": [
       {
@@ -212,8 +212,8 @@
         "description": "Find the Magic Banger.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T19:17:45Z"
       },
       {
         "id": 23,
@@ -221,8 +221,8 @@
         "description": "Find and buy the Glass Vizard.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-02T19:26:00Z"
       },
       {
         "id": 24,
@@ -2566,5 +2566,5 @@
       }
     ]
   },
-  "updatedAt": "2026-08-30T21:35:39.702Z"
+  "updatedAt": "2026-09-02T19:52:13.770Z"
 }
