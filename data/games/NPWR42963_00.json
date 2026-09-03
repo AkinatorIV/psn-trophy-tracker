@@ -3,9 +3,9 @@
   "game": {
     "name": "Vampire Survivors",
     "platform": "PS5",
-    "progress": 27,
+    "progress": 31,
     "npCommunicationId": "NPWR42963_00",
-    "earnedCount": 90,
+    "earnedCount": 98,
     "totalCount": 284,
     "trophies": [
       {
@@ -266,8 +266,8 @@
         "description": "Find and open the coffin in the Cappella Magna.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-03T18:53:30Z"
       },
       {
         "id": 29,
@@ -275,8 +275,8 @@
         "description": "Defeat the Trinacria in the Cappella Magna.",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-03T18:53:30Z"
       },
       {
         "id": 30,
@@ -311,8 +311,8 @@
         "description": "Find the Great Gospel.",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-03T18:53:30Z"
       },
       {
         "id": 34,
@@ -347,8 +347,8 @@
         "description": "Obtain all standard relics from all stages.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-03T18:53:56Z"
       },
       {
         "id": 38,
@@ -743,8 +743,8 @@
         "description": "Defeat the final enemy in the Cappella Magna.",
         "type": "silver",
         "group": "004",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-03T18:53:30Z"
       },
       {
         "id": 82,
@@ -779,8 +779,8 @@
         "description": "Unlock Hyper mode for all 5 normal stages.",
         "type": "gold",
         "group": "005",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-03T18:53:56Z"
       },
       {
         "id": 86,
@@ -1067,8 +1067,8 @@
         "description": "Hold 6 different weapon evolutions at once.",
         "type": "bronze",
         "group": "008",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-03T18:53:30Z"
       },
       {
         "id": 118,
@@ -1274,8 +1274,8 @@
         "description": "Fill 90 entries in the Collection.",
         "type": "bronze",
         "group": "010",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-03T18:53:56Z"
       },
       {
         "id": 141,
@@ -2566,5 +2566,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-03T17:00:40.617Z"
+  "updatedAt": "2026-09-03T18:59:06.366Z"
 }

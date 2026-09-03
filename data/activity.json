@@ -2,6 +2,118 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-03T18:53:56Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 37,
+        "name": "The Eudaimonia Machine",
+        "type": "bronze",
+        "description": "Obtain all standard relics from all stages."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T18:53:56Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 85,
+        "name": "Boss Rash",
+        "type": "gold",
+        "description": "Unlock Hyper mode for all 5 normal stages."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T18:53:56Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 140,
+        "name": "Banish 4",
+        "type": "bronze",
+        "description": "Fill 90 entries in the Collection."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T18:53:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 28,
+        "name": "Coffin: Cappella Magna",
+        "type": "bronze",
+        "description": "Find and open the coffin in the Cappella Magna."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T18:53:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 29,
+        "name": "Hyper Cappella Magna",
+        "type": "silver",
+        "description": "Defeat the Trinacria in the Cappella Magna."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T18:53:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 33,
+        "name": "Great Gospel",
+        "type": "silver",
+        "description": "Find the Great Gospel."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T18:53:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 81,
+        "name": "Game Killer",
+        "type": "silver",
+        "description": "Defeat the final enemy in the Cappella Magna."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T18:53:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 117,
+        "name": "Torrona's Box",
+        "type": "bronze",
+        "description": "Hold 6 different weapon evolutions at once."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-03T16:59:37Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3388,119 +3500,7 @@
         "type": "bronze",
         "description": "Collect 40 Collectibles"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-14T11:00:57Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 1,
-        "name": "Astral Construction",
-        "type": "bronze",
-        "description": "Construct a Weapon Form or Mod"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T10:46:19Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 9,
-        "name": "Parautilitarian",
-        "type": "bronze",
-        "description": "Unlock 1 Ability Tree Upgrade"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T10:45:32Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 30,
-        "name": "Unknown Caller ",
-        "type": "bronze",
-        "description": "Complete Mission 2"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T10:26:23Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 13,
-        "name": "Paranatural Powerhouse",
-        "type": "bronze",
-        "description": "Obtain the Launch Ability"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T10:14:41Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 29,
-        "name": "Welcome to the Oldest House",
-        "type": "bronze",
-        "description": "Complete Mission 1"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T09:36:52Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 12,
-        "name": "Choose to be Chosen",
-        "type": "bronze",
-        "description": "Obtain the Service Weapon"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-09T21:23:57Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 0,
-        "name": "One Percenter",
-        "type": "platinum",
-        "description": "Go above and BEYOND, unlocking every trophy in Days Gone"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-09T21:23:57Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 31,
-        "name": "The Broken Roadshow",
-        "type": "silver",
-        "description": "Unlock over 75% of collectibles"
-      }
     }
   ],
-  "updatedAt": "2026-09-03T17:00:40.630Z"
+  "updatedAt": "2026-09-03T18:59:06.390Z"
 }
