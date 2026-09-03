@@ -2,6 +2,104 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-03T16:59:37Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 26,
+        "name": "Seeker of the Crimson Shroud",
+        "type": "silver",
+        "description": "Obtain the Crimson Shroud."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T16:59:37Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 67,
+        "name": "V - Chaos in the Dark Night",
+        "type": "bronze",
+        "description": "Reach Level 50 with Giovanna."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T16:59:37Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 98,
+        "name": "Gatti Amari",
+        "type": "bronze",
+        "description": "Survive 15 minutes with Giovanna."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T16:17:06Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 20,
+        "name": "O'Sole Meeo",
+        "type": "bronze",
+        "description": "Defeat a total of 3000 Dragon Shrimps."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T16:17:06Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 21,
+        "name": "Coffin: Gallo Tower",
+        "type": "bronze",
+        "description": "Find and open the coffin in the Gallo Tower."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T16:17:06Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 57,
+        "name": "Vandalier",
+        "type": "silver",
+        "description": "Unite Ebony Wings and Peachone."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-03T16:17:06Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 103,
+        "name": "Tiragisú",
+        "type": "bronze",
+        "description": "Survive 20 minutes with Krochi."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-03T10:34:50Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3402,105 +3500,7 @@
         "type": "silver",
         "description": "Unlock over 75% of collectibles"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-09T20:32:54Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 44,
-        "name": "Go Kick Rocks",
-        "type": "bronze",
-        "description": "Knock down 12 Anarchist Cairns"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-09T20:22:09Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 18,
-        "name": "Farewell Drift",
-        "type": "bronze",
-        "description": "Accumulate 10 minutes of drifting while on your bike"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-09T20:20:41Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 43,
-        "name": "Mr. Fahrenheit",
-        "type": "silver",
-        "description": "Unlock 45 skills"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-09T17:17:58Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 19,
-        "name": "This is a Knife",
-        "type": "silver",
-        "description": "Kill a Breaker, Reacher, or Rager with a knife"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-09T16:48:20Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 13,
-        "name": "Ambush Camp Hunter",
-        "type": "silver",
-        "description": "Complete the Ambush Camp Hunter storyline"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-09T16:33:00Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 22,
-        "name": "Variety is the Spice of Life",
-        "type": "silver",
-        "description": "Kill an enemy with every type of crossbow bolt"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-09T16:17:22Z",
-      "game": {
-        "name": "DAYS GONE",
-        "platform": "PS4",
-        "npCommunicationId": "NPWR17130_00"
-      },
-      "trophy": {
-        "id": 16,
-        "name": "World's End",
-        "type": "silver",
-        "description": "Complete the World's End storyline"
-      }
     }
   ],
-  "updatedAt": "2026-09-03T13:03:42.864Z"
+  "updatedAt": "2026-09-03T17:00:40.630Z"
 }
