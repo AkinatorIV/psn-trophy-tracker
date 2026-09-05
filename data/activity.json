@@ -2,6 +2,76 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-05T12:55:31Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 54,
+        "name": "Vicious Hunger",
+        "type": "bronze",
+        "description": "Evolve the Gatti Amari."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T12:55:31Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 135,
+        "name": "Banish 5",
+        "type": "silver",
+        "description": "Fill 100 entries in the Collection."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T12:55:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 76,
+        "name": "XVI - Slash",
+        "type": "bronze",
+        "description": "Reach Level 50 with Lama."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T12:55:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 79,
+        "name": "XV - Disco of Gold",
+        "type": "silver",
+        "description": "Reach minute 31 in the Inlaid Library."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T12:55:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 104,
+        "name": "Skull O'Maniac",
+        "type": "silver",
+        "description": "Survive 30 minutes with Lama."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-05T10:42:40Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3430,77 +3500,7 @@
         "type": "bronze",
         "description": "Obtain the Levitate Ability"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-16T15:16:35Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 7,
-        "name": "Paranatural Collection",
-        "type": "silver",
-        "description": "Collect more than 100,000 Source"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T15:14:57Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 3,
-        "name": "Career Development",
-        "type": "silver",
-        "description": "Unlock all 3 Personal Mod slots"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T15:14:28Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 43,
-        "name": "War Games",
-        "type": "bronze",
-        "description": "Complete 5 Board Countermeasures"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T14:38:50Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 33,
-        "name": "Threshold",
-        "type": "bronze",
-        "description": "Complete Mission 5"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T12:51:37Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 4,
-        "name": "The Importance of Synergy",
-        "type": "bronze",
-        "description": "Complete 5 Side Missions"
-      }
     }
   ],
-  "updatedAt": "2026-09-05T10:52:09.682Z"
+  "updatedAt": "2026-09-05T14:50:42.225Z"
 }
