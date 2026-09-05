@@ -2,6 +2,146 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-05T10:42:40Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 16,
+        "name": "Bianca Ramba",
+        "type": "bronze",
+        "description": "Defeat a total of 3000 Milk Elementals."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T10:42:40Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 51,
+        "name": "Valkyrie Turner",
+        "type": "bronze",
+        "description": "Evolve the Shadow Pinion."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T10:42:40Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 65,
+        "name": "XVIII - Boogaloo of Illusions",
+        "type": "bronze",
+        "description": "Reach Level 50 with Concetta."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T10:42:40Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 100,
+        "name": "Shadow Pinion",
+        "type": "bronze",
+        "description": "Survive 15 minutes with Concetta."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T10:05:03Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 55,
+        "name": "Phieraggi",
+        "type": "silver",
+        "description": "Evolve and unite Phiera Der Tuphello and Eight The Sparrow."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T10:05:02Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 71,
+        "name": "XVII - Lost and Found Painting",
+        "type": "bronze",
+        "description": "Reach Level 50 with Poppea."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T10:05:02Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 101,
+        "name": "Song of Mana",
+        "type": "bronze",
+        "description": "Survive 15 minutes with Poppea."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T10:05:02Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 128,
+        "name": "Omni",
+        "type": "silver",
+        "description": "Get Torrona's Box to Level 9."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T09:39:21Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 244,
+        "name": "EXTRA: The Lycaeum",
+        "type": "bronze",
+        "description": "Find 50 Vacuums."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T09:36:18Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 40,
+        "name": "Greatest Jubilee",
+        "type": "gold",
+        "description": "See the final fireworks."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-05T09:23:46Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3360,147 +3500,7 @@
         "type": "bronze",
         "description": "Complete 5 Side Missions"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-16T12:51:37Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 14,
-        "name": "Insular Telekinesis",
-        "type": "bronze",
-        "description": "Obtain the Shield Ability"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T12:16:22Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 22,
-        "name": "Record Keeper",
-        "type": "bronze",
-        "description": "Collect 80 Collectibles"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T12:11:45Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 40,
-        "name": "Unstable Matter",
-        "type": "bronze",
-        "description": "Kill 50 enemies with the Launch Ability"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T11:49:12Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 42,
-        "name": "Proper Handling Procedures",
-        "type": "bronze",
-        "description": "Use Launch to throw a grenade or rocket"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T11:40:56Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 32,
-        "name": "Old Boys' Club",
-        "type": "bronze",
-        "description": "Complete Mission 4"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T11:14:33Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 16,
-        "name": "Psychic Occupation",
-        "type": "bronze",
-        "description": "Obtain the Compel Ability"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T18:43:48Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 39,
-        "name": "Cognitive Intruder",
-        "type": "bronze",
-        "description": "Compel 10 enemies with the Seize Ability"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T18:34:49Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 19,
-        "name": "Ritual Intuition",
-        "type": "bronze",
-        "description": "Cleanse 10 Control Points"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T11:56:50Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 31,
-        "name": "Directorial Override",
-        "type": "bronze",
-        "description": "Complete Mission 3"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T11:39:13Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 15,
-        "name": "Shifting Positions",
-        "type": "bronze",
-        "description": "Obtain the Evade Ability"
-      }
     }
   ],
-  "updatedAt": "2026-09-05T09:25:36.454Z"
+  "updatedAt": "2026-09-05T10:52:09.682Z"
 }
