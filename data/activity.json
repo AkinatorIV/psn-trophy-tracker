@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-05T09:23:46Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 38,
+        "name": "Seventh Trumpet",
+        "type": "silver",
+        "description": "Obtain the Seventh Trumpet."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-05T09:22:52Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 39,
+        "name": "Gracia's Mirror",
+        "type": "silver",
+        "description": "Obtain Gracia's Mirror."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-03T18:53:56Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3472,35 +3500,7 @@
         "type": "bronze",
         "description": "Obtain the Evade Ability"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-14T11:08:19Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 18,
-        "name": "Ritualistic Thinking",
-        "type": "bronze",
-        "description": "Cleanse 5 Control Points"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-14T11:05:10Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 21,
-        "name": "Strange Collection",
-        "type": "bronze",
-        "description": "Collect 40 Collectibles"
-      }
     }
   ],
-  "updatedAt": "2026-09-03T18:59:06.390Z"
+  "updatedAt": "2026-09-05T09:25:36.454Z"
 }
