@@ -2,6 +2,76 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-06T20:02:31Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 59,
+        "name": "Candybox",
+        "type": "silver",
+        "description": "Discover every standard evolution and union."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-06T20:02:04Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 60,
+        "name": "Tri-Bracelet",
+        "type": "silver",
+        "description": "Evolve the Bracelet and then the Bi-Bracelet."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-06T20:02:04Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 61,
+        "name": "X - Beginning",
+        "type": "bronze",
+        "description": "Reach Level 50 with Antonio."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-06T20:02:04Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 78,
+        "name": "VIII - Mad Groove",
+        "type": "silver",
+        "description": "Reach minute 31 in the Mad Forest."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-06T20:02:04Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 221,
+        "name": "EXTRA: Hyper The Coop",
+        "type": "bronze",
+        "description": "Find 500 Floor Chickens."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-06T18:40:17Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3430,77 +3500,7 @@
         "type": "bronze",
         "description": "Complete Mission 8"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-19T14:51:30Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 24,
-        "name": "Altered Manifestations May Occur",
-        "type": "bronze",
-        "description": "Defeat esseJ"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T14:41:36Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 20,
-        "name": "Discerning the Pattern",
-        "type": "silver",
-        "description": "Cleanse 25 Control Points"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T14:13:58Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 25,
-        "name": "Aggressive Growth",
-        "type": "bronze",
-        "description": "Defeat Mold-1"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T14:09:00Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 10,
-        "name": "Expert Parautilitarian",
-        "type": "bronze",
-        "description": "Spend 50 Ability Points"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T13:50:52Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 5,
-        "name": "Inter-Departmental Cooperation",
-        "type": "bronze",
-        "description": "Complete 10 Side Missions"
-      }
     }
   ],
-  "updatedAt": "2026-09-06T18:57:00.199Z"
+  "updatedAt": "2026-09-06T20:11:47.283Z"
 }
