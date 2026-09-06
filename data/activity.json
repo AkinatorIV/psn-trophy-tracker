@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-06T20:42:19Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 30,
+        "name": "Sir Ambrojoe",
+        "type": "bronze",
+        "description": "Defeat a total of 6000 Stage Killers."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-06T20:42:19Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 74,
+        "name": "II - Twilight Requiem",
+        "type": "bronze",
+        "description": "Reach Level 50 with Dommario."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-06T20:02:31Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3472,35 +3500,7 @@
         "type": "gold",
         "description": "Complete Mission 10"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-19T18:45:50Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 37,
-        "name": "Polaris",
-        "type": "bronze",
-        "description": "Complete Mission 9"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T15:15:25Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 36,
-        "name": "Finnish Tango",
-        "type": "bronze",
-        "description": "Complete Mission 8"
-      }
     }
   ],
-  "updatedAt": "2026-09-06T20:11:47.283Z"
+  "updatedAt": "2026-09-06T20:49:53.677Z"
 }

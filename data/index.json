@@ -8,7 +8,7 @@
       "npCommunicationId": "NPWR42963_00",
       "name": "Vampire Survivors",
       "platform": "PS5",
-      "progress": 42,
+      "progress": 43,
       "definedTrophies": {
         "bronze": 207,
         "silver": 61,
@@ -16,12 +16,12 @@
         "platinum": 1
       },
       "earnedTrophies": {
-        "bronze": 90,
+        "bronze": 92,
         "silver": 33,
         "gold": 4,
         "platinum": 0
       },
-      "lastUpdatedDateTime": "2026-09-06T20:02:31Z",
+      "lastUpdatedDateTime": "2026-09-06T20:42:19Z",
       "detailsPath": "data/games/NPWR42963_00.json"
     },
     {
@@ -1025,5 +1025,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-09-06T20:11:47.264Z"
+  "updatedAt": "2026-09-06T20:49:53.658Z"
 }
