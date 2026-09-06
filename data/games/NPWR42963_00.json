@@ -3,9 +3,9 @@
   "game": {
     "name": "Vampire Survivors",
     "platform": "PS5",
-    "progress": 39,
+    "progress": 41,
     "npCommunicationId": "NPWR42963_00",
-    "earnedCount": 118,
+    "earnedCount": 122,
     "totalCount": 284,
     "trophies": [
       {
@@ -482,8 +482,8 @@
         "description": "Evolve the Song Of Mana.",
         "type": "bronze",
         "group": "001",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-06T18:40:17Z"
       },
       {
         "id": 53,
@@ -536,8 +536,8 @@
         "description": "Unite Vento Sacro and Bloody Tear.",
         "type": "silver",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-06T18:40:17Z"
       },
       {
         "id": 59,
@@ -707,8 +707,8 @@
         "description": "Reach minute 31 in the Dairy Plant.",
         "type": "silver",
         "group": "004",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-06T18:40:17Z"
       },
       {
         "id": 78,
@@ -968,8 +968,8 @@
         "description": "Survive 30 minutes with either Gallo or Divano.",
         "type": "silver",
         "group": "007",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-06T18:40:17Z"
       },
       {
         "id": 107,
@@ -2566,5 +2566,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-06T18:00:00.713Z"
+  "updatedAt": "2026-09-06T18:57:00.175Z"
 }

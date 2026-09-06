@@ -2,6 +2,62 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-06T18:40:17Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 52,
+        "name": "Mannajja",
+        "type": "bronze",
+        "description": "Evolve the Song Of Mana."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-06T18:40:17Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 58,
+        "name": "Fuwalafuwaloo",
+        "type": "silver",
+        "description": "Unite Vento Sacro and Bloody Tear."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-06T18:40:17Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 77,
+        "name": "XX - Silent Old Sanctuary",
+        "type": "silver",
+        "description": "Reach minute 31 in the Dairy Plant."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-06T18:40:17Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 106,
+        "name": "Bracelet",
+        "type": "silver",
+        "description": "Survive 30 minutes with either Gallo or Divano."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-06T17:59:31Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3444,63 +3500,7 @@
         "type": "bronze",
         "description": "Complete 10 Side Missions"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-16T20:03:48Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 35,
-        "name": "The Face of the Enemy",
-        "type": "bronze",
-        "description": "Complete Mission 7"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T19:17:53Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 2,
-        "name": "Non-Standard Issue",
-        "type": "silver",
-        "description": "Upgrade any Weapon Form to Level 3"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T18:58:57Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 23,
-        "name": "Bureau Archivist",
-        "type": "gold",
-        "description": "Collect 120 Collectibles"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-16T18:49:11Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 27,
-        "name": "Living Archetypes",
-        "type": "bronze",
-        "description": "Defeat the Anchor"
-      }
     }
   ],
-  "updatedAt": "2026-09-06T18:00:00.736Z"
+  "updatedAt": "2026-09-06T18:57:00.199Z"
 }
