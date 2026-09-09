@@ -2,6 +2,90 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-09T20:48:55Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 63,
+        "name": "XIII - Wicked Season",
+        "type": "bronze",
+        "description": "Reach Level 50 with Christine."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T20:36:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 70,
+        "name": "XXI - Blood Astronomia\n",
+        "type": "bronze",
+        "description": "Reach Level 50 with Poe."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T20:36:30Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 240,
+        "name": "EXTRA: Zi'Appunta Belpaese",
+        "type": "bronze",
+        "description": "Evolve the Ammo Appalate."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T19:59:48Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 72,
+        "name": "III - Tragic Princess",
+        "type": "bronze",
+        "description": "Reach Level 50 with Porta."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T19:59:48Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 80,
+        "name": "XII - Out of Bounds",
+        "type": "silver",
+        "description": "Reach minute 31 in the Gallo Tower."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T19:59:48Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 239,
+        "name": "EXTRA: Ammo Appalate",
+        "type": "bronze",
+        "description": "Defeat a total of 251096 Shooting Enemies."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-06T20:42:19Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3416,91 +3500,7 @@
         "type": "bronze",
         "description": "Use Multi-Launch to hit 3 targets"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-20T14:52:50Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 45,
-        "name": "First On the Scene",
-        "type": "bronze",
-        "description": "Complete 1 Bureau Alert"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T20:31:49Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 8,
-        "name": "Interdimensional Defender",
-        "type": "silver",
-        "description": "Killed 1000 Hiss"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T20:28:05Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 41,
-        "name": "Volatile Debris",
-        "type": "bronze",
-        "description": "Kill 10 enemies with the Shield Burst Ability"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T19:54:15Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 26,
-        "name": "Head of Communications",
-        "type": "bronze",
-        "description": "Defeat Mr. Tomassi"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T19:44:40Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 6,
-        "name": "FBC Crisis Solution Task Force",
-        "type": "silver",
-        "description": "Complete 15 Side Missions"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-19T19:19:07Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 38,
-        "name": "Take Control",
-        "type": "gold",
-        "description": "Complete Mission 10"
-      }
     }
   ],
-  "updatedAt": "2026-09-06T20:49:53.677Z"
+  "updatedAt": "2026-09-09T20:51:31.121Z"
 }
