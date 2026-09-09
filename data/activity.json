@@ -2,6 +2,90 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-09T21:45:17Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 0,
+        "name": "Cosmic Delight",
+        "type": "platinum",
+        "description": "Where was the vampire again?"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T21:45:17Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 36,
+        "name": "Victory Sword",
+        "type": "bronze",
+        "description": "Defeat 100000 enemies in a single run with Queen Sigma."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T21:45:17Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 184,
+        "name": "EXTRA: Seal I",
+        "type": "bronze",
+        "description": "Banish 10 or more weapons in a single run."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T21:45:17Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 192,
+        "name": "EXTRA: Seal II",
+        "type": "bronze",
+        "description": "Banish 20 or more weapons in a single run."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T21:17:43Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 35,
+        "name": "Queen Sigma",
+        "type": "gold",
+        "description": "Complete the Collection 1.0"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-09T21:09:29Z",
+      "game": {
+        "name": "Vampire Survivors",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR42963_00"
+      },
+      "trophy": {
+        "id": 133,
+        "name": "Reroll 4",
+        "type": "bronze",
+        "description": "Reach Level 80 with O'Sole Meeo."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-09T20:48:55Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3416,91 +3500,7 @@
         "type": "bronze",
         "description": "Upgrade Surge to the maximum level"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-20T21:36:12Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 66,
-        "name": "Work Smarter, Not Harder",
-        "type": "bronze",
-        "description": "Attach a Surge grenade to an object and Launch it at an enemy"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T21:31:45Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 60,
-        "name": "The Third Thing",
-        "type": "silver",
-        "description": "Defeat Hartman"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T21:10:48Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 63,
-        "name": "Surge Protector",
-        "type": "bronze",
-        "description": "Kill 50 enemies with Surge"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T15:49:35Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 57,
-        "name": "Familiar Methodologies",
-        "type": "bronze",
-        "description": "Fight off Hartman"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T15:47:31Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 61,
-        "name": "Workplace Recreation",
-        "type": "silver",
-        "description": "Play a single game in Arcade Mode"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T14:59:36Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 67,
-        "name": "Multiple Applications",
-        "type": "bronze",
-        "description": "Use Multi-Launch to hit 3 targets"
-      }
     }
   ],
-  "updatedAt": "2026-09-09T20:51:31.121Z"
+  "updatedAt": "2026-09-09T22:24:52.124Z"
 }
