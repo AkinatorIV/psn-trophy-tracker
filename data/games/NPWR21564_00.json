@@ -3,10 +3,10 @@
   "game": {
     "name": "Borderlands® 4",
     "platform": "PS5",
-    "progress": 6,
+    "progress": 5,
     "npCommunicationId": "NPWR21564_00",
     "earnedCount": 5,
-    "totalCount": 53,
+    "totalCount": 64,
     "trophies": [
       {
         "id": 0,
@@ -461,7 +461,7 @@
       {
         "id": 50,
         "name": "The Full Flock",
-        "description": "Select all options in mission “Murders & Acquisitions”.",
+        "description": "Select all mission choices in “Murders & Acquisitions” using mission replay on the same character.",
         "type": "bronze",
         "group": "004",
         "earned": false,
@@ -484,8 +484,107 @@
         "group": "004",
         "earned": false,
         "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Thief in the Night",
+        "description": "Open the locked treasure room in Nuada Cove.",
+        "type": "bronze",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "Came Back Wrong",
+        "description": "Defeat all bosses in Nuada Cove and Dark Side of Elpis.",
+        "type": "silver",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Reach Exceeded",
+        "description": "Complete mission “The Rift Crisis”.",
+        "type": "gold",
+        "group": "005",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Vacation from My Vacation",
+        "description": "Complete all Tiki Bar, Tediore Lockdown, and Occupied Sector activities on Providence Island.",
+        "type": "bronze",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Tourism of Duty",
+        "description": "Complete all side missions on Providence Island.",
+        "type": "bronze",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Rift and Tear",
+        "description": "Defeat a Digi-Rift Boss.",
+        "type": "bronze",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Substation Satisfaction",
+        "description": "Claim the treasure at the end of the Substation Switch trail.",
+        "type": "bronze",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Does The Skag Die?",
+        "description": "Complete mission “The Skag and the Robot”.",
+        "type": "bronze",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 61,
+        "name": "Gimme a Hand(s)",
+        "description": "Complete mission “Clear Comms”.",
+        "type": "bronze",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 62,
+        "name": "Harmony Awaits",
+        "description": "Unlock door to Tediore FOB Bravo Lima 4.2.",
+        "type": "bronze",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 63,
+        "name": "Wild at Heart",
+        "description": "Complete mission “The Rescue”.",
+        "type": "gold",
+        "group": "006",
+        "earned": false,
+        "earnedDateTime": null
       }
     ]
   },
-  "updatedAt": "2026-08-30T15:29:27.995Z"
+  "updatedAt": "2026-09-10T17:18:03.206Z"
 }
