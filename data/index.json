@@ -1,9 +1,29 @@
 {
   "psnId": "AkinatorII",
-  "totalGames": 51,
-  "detailedGames": 51,
+  "totalGames": 52,
+  "detailedGames": 52,
   "backfillRemaining": 0,
   "games": [
+    {
+      "npCommunicationId": "NPWR22080_00",
+      "name": "Metro Exodus",
+      "platform": "PS5",
+      "progress": 0,
+      "definedTrophies": {
+        "bronze": 57,
+        "silver": 6,
+        "gold": 5,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 0,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-09-11T20:47:52Z",
+      "detailsPath": "data/games/NPWR22080_00.json"
+    },
     {
       "npCommunicationId": "NPWR42963_00",
       "name": "Vampire Survivors",
@@ -1025,5 +1045,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-09-10T17:18:03.209Z"
+  "updatedAt": "2026-09-11T21:08:03.383Z"
 }
