@@ -2,6 +2,62 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-12T17:05:46Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 7,
+        "name": "Long distance passenger",
+        "type": "bronze",
+        "description": "Find the passenger train car.\n"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T16:59:51Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 35,
+        "name": "Handyman",
+        "type": "bronze",
+        "description": "Spend 500 consumable resources on crafting."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T16:49:06Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 5,
+        "name": "Railwayman",
+        "type": "bronze",
+        "description": "Get into the Trolley."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T16:47:44Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 8,
+        "name": "Fisherman",
+        "type": "bronze",
+        "description": "Kill the Catfish."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-12T15:58:41Z",
       "game": {
         "name": "Metro Exodus",
@@ -3444,63 +3500,7 @@
         "type": "silver",
         "description": "Complete all Missions in the Foundation"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-30T13:03:36Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 54,
-        "name": "Star Performance",
-        "type": "bronze",
-        "description": "Complete the Side Mission: \"Jesse Faden starring in 'Swift Platform'\""
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-30T12:21:07Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 55,
-        "name": "Astral Plumbing",
-        "type": "bronze",
-        "description": "Discover the Astral Plane restroom"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-21T19:58:53Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 52,
-        "name": "Supportive Staff",
-        "type": "bronze",
-        "description": "Have a Deployed Ranger kill 5 enemies"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-21T19:40:16Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 48,
-        "name": "Hostile Work Environment",
-        "type": "bronze",
-        "description": "Kill 50 Hiss Sharpened"
-      }
     }
   ],
-  "updatedAt": "2026-09-12T16:13:07.450Z"
+  "updatedAt": "2026-09-12T18:23:32.216Z"
 }
