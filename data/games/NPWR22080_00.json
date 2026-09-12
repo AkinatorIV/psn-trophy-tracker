@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 0,
+    "progress": 6,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 0,
+    "earnedCount": 6,
     "totalCount": 69,
     "trophies": [
       {
@@ -23,8 +23,8 @@
         "description": "Detach all train cars on the MOSCOW level.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T12:11:28Z"
       },
       {
         "id": 2,
@@ -32,8 +32,8 @@
         "description": "Complete the MOSCOW level.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T12:13:44Z"
       },
       {
         "id": 3,
@@ -41,8 +41,8 @@
         "description": "Name the locomotive.\n",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T12:20:37Z"
       },
       {
         "id": 4,
@@ -50,8 +50,8 @@
         "description": "Get into a boat.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T12:41:42Z"
       },
       {
         "id": 5,
@@ -347,8 +347,8 @@
         "description": "Patch the Gasmask.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T11:52:17Z"
       },
       {
         "id": 38,
@@ -455,8 +455,8 @@
         "description": "Find a tune on the radio.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T12:23:49Z"
       },
       {
         "id": 50,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-11T21:08:03.381Z"
+  "updatedAt": "2026-09-12T13:04:45.324Z"
 }

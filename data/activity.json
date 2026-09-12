@@ -2,6 +2,90 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-12T12:41:42Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 4,
+        "name": "Regatta",
+        "type": "bronze",
+        "description": "Get into a boat."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T12:23:49Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 49,
+        "name": "Join us on air",
+        "type": "bronze",
+        "description": "Find a tune on the radio."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T12:20:37Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 3,
+        "name": "Aurora",
+        "type": "bronze",
+        "description": "Name the locomotive.\n"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T12:13:44Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 2,
+        "name": "Exodus",
+        "type": "bronze",
+        "description": "Complete the MOSCOW level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T12:11:28Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 1,
+        "name": "Brakeman",
+        "type": "bronze",
+        "description": "Detach all train cars on the MOSCOW level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T11:52:17Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 37,
+        "name": "Martian",
+        "type": "bronze",
+        "description": "Patch the Gasmask."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-09T21:45:17Z",
       "game": {
         "name": "Vampire Survivors",
@@ -3416,91 +3500,7 @@
         "type": "silver",
         "description": "Use Shape and Fracture a combined total of 100 times"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-20T22:52:17Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 64,
-        "name": "Elevated Mind",
-        "type": "bronze",
-        "description": "Kill 25 Airborne Rangers"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T22:38:59Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 46,
-        "name": "Crisis Management",
-        "type": "silver",
-        "description": "Complete 5 Bureau Alerts"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T22:20:08Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 59,
-        "name": "Vending Spree",
-        "type": "bronze",
-        "description": "Destroy 80% of the Altered Vending Machine instances"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T22:13:46Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 65,
-        "name": "In-depth Investigations",
-        "type": "bronze",
-        "description": "Find 80% of the Collectibles in the Investigations Sector"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T21:49:04Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 58,
-        "name": "Chief Investigator",
-        "type": "bronze",
-        "description": "Find 80% of the hidden locations in the Investigations Sector"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-20T21:41:41Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 62,
-        "name": "Surge of Power",
-        "type": "bronze",
-        "description": "Upgrade Surge to the maximum level"
-      }
     }
   ],
-  "updatedAt": "2026-09-09T22:24:52.124Z"
+  "updatedAt": "2026-09-12T13:04:45.348Z"
 }
