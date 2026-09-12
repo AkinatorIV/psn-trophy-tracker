@@ -2,6 +2,76 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-12T15:58:41Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 6,
+        "name": "Friend of the Crew",
+        "type": "bronze",
+        "description": "Find the guitar and teddy bear on the VOLGA level.\n"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T15:58:13Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 46,
+        "name": "Firebird",
+        "type": "bronze",
+        "description": "Kill a demon with fire."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T15:18:21Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 41,
+        "name": "Silent marksman",
+        "type": "bronze",
+        "description": "Kill 30 enemies with Tikhar."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T14:51:00Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 33,
+        "name": "Gunsmith",
+        "type": "bronze",
+        "description": "Install a modification of each category on a single weapon."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-12T14:16:37Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 38,
+        "name": "Last Breath",
+        "type": "bronze",
+        "description": "After running out of filters in a hazard zone, craft a new one while suffocating.\n"
+      }
+    },
+    {
       "earnedDateTime": "2026-09-12T12:41:42Z",
       "game": {
         "name": "Metro Exodus",
@@ -3430,77 +3500,7 @@
         "type": "bronze",
         "description": "Kill 50 Hiss Sharpened"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-21T19:40:16Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 49,
-        "name": "Rush Job",
-        "type": "silver",
-        "description": "Kill 100 enemies with Shield Rush"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-21T19:33:26Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 0,
-        "name": "Director of the FBC",
-        "type": "platinum",
-        "description": "Unlock all other trophies"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-21T19:33:26Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 44,
-        "name": "Astral Tactician",
-        "type": "silver",
-        "description": "Complete 25 Board Countermeasures"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-21T18:58:10Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 11,
-        "name": "Master Parautilitarian",
-        "type": "gold",
-        "description": "Spend 100 Ability Points"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-21T18:52:41Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 47,
-        "name": "< Make/Unmake >",
-        "type": "silver",
-        "description": "Use Shape and Fracture a combined total of 100 times"
-      }
     }
   ],
-  "updatedAt": "2026-09-12T13:04:45.348Z"
+  "updatedAt": "2026-09-12T16:13:07.450Z"
 }

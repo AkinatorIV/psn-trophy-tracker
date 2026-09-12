@@ -8,7 +8,7 @@
       "npCommunicationId": "NPWR22080_00",
       "name": "Metro Exodus",
       "platform": "PS5",
-      "progress": 6,
+      "progress": 11,
       "definedTrophies": {
         "bronze": 57,
         "silver": 6,
@@ -16,12 +16,12 @@
         "platinum": 1
       },
       "earnedTrophies": {
-        "bronze": 6,
+        "bronze": 11,
         "silver": 0,
         "gold": 0,
         "platinum": 0
       },
-      "lastUpdatedDateTime": "2026-09-12T12:41:43Z",
+      "lastUpdatedDateTime": "2026-09-12T15:58:40Z",
       "detailsPath": "data/games/NPWR22080_00.json"
     },
     {
@@ -1045,5 +1045,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-09-12T13:04:45.327Z"
+  "updatedAt": "2026-09-12T16:13:07.431Z"
 }

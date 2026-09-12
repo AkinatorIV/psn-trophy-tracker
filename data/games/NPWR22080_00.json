@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 6,
+    "progress": 11,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 6,
+    "earnedCount": 11,
     "totalCount": 69,
     "trophies": [
       {
@@ -68,8 +68,8 @@
         "description": "Find the guitar and teddy bear on the VOLGA level.\n",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T15:58:41Z"
       },
       {
         "id": 7,
@@ -311,8 +311,8 @@
         "description": "Install a modification of each category on a single weapon.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T14:51:00Z"
       },
       {
         "id": 34,
@@ -356,8 +356,8 @@
         "description": "After running out of filters in a hazard zone, craft a new one while suffocating.\n",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T14:16:37Z"
       },
       {
         "id": 39,
@@ -383,8 +383,8 @@
         "description": "Kill 30 enemies with Tikhar.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T15:18:21Z"
       },
       {
         "id": 42,
@@ -428,8 +428,8 @@
         "description": "Kill a demon with fire.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-12T15:58:13Z"
       },
       {
         "id": 47,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-12T13:04:45.324Z"
+  "updatedAt": "2026-09-12T16:13:07.429Z"
 }
