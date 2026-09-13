@@ -2,6 +2,48 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-13T13:26:35Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 10,
+        "name": "Lower the Bridge",
+        "type": "bronze",
+        "description": "Complete the VOLGA level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-13T13:26:32Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 9,
+        "name": "Duke",
+        "type": "silver",
+        "description": "Duke survives.\n"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-13T13:13:27Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 44,
+        "name": "Saboteur",
+        "type": "bronze",
+        "description": "Melee-kill or stun 50 enemies.\n"
+      }
+    },
+    {
       "earnedDateTime": "2026-09-12T17:05:46Z",
       "game": {
         "name": "Metro Exodus",
@@ -3458,49 +3500,7 @@
         "type": "bronze",
         "description": "Collect all Collectibles in the Foundation"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-31T10:59:29Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 50,
-        "name": "Niche Position",
-        "type": "bronze",
-        "description": "Find all hidden locations in the Foundation"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-31T10:28:01Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 53,
-        "name": "One of Us",
-        "type": "bronze",
-        "description": "Gather all the Maneki-nekos"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-31T10:17:25Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 56,
-        "name": "A Strong Foundation",
-        "type": "silver",
-        "description": "Complete all Missions in the Foundation"
-      }
     }
   ],
-  "updatedAt": "2026-09-12T18:23:32.216Z"
+  "updatedAt": "2026-09-13T13:54:58.043Z"
 }

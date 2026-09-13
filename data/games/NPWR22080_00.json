@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 15,
+    "progress": 19,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 15,
+    "earnedCount": 18,
     "totalCount": 69,
     "trophies": [
       {
@@ -95,8 +95,8 @@
         "description": "Duke survives.\n",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-13T13:26:32Z"
       },
       {
         "id": 10,
@@ -104,8 +104,8 @@
         "description": "Complete the VOLGA level.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-13T13:26:35Z"
       },
       {
         "id": 11,
@@ -410,8 +410,8 @@
         "description": "Melee-kill or stun 50 enemies.\n",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-13T13:13:27Z"
       },
       {
         "id": 45,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-12T18:23:32.195Z"
+  "updatedAt": "2026-09-13T13:54:58.004Z"
 }
