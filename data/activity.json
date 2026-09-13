@@ -2,6 +2,48 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-13T15:28:11Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 13,
+        "name": "Driver",
+        "type": "bronze",
+        "description": "Drive the Bukhanka."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-13T14:56:38Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 12,
+        "name": "Spoiled dinner",
+        "type": "bronze",
+        "description": "Complete the YAMANTAU level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-13T14:52:59Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 11,
+        "name": "Righteous vengeance",
+        "type": "bronze",
+        "description": "Kill 90 cannibals."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-13T13:26:35Z",
       "game": {
         "name": "Metro Exodus",
@@ -3458,49 +3500,7 @@
         "type": "bronze",
         "description": "Unlock Jim Gordon"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-31T13:15:10Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 19,
-        "name": "\"A legend, Mr. Wayne.\"",
-        "type": "bronze",
-        "description": "Complete the Prologue"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-31T12:03:17Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 18,
-        "name": "Beware the Gray Ghost!",
-        "type": "bronze",
-        "description": "Complete Bruce's Gray Ghost costume"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-31T11:16:27Z",
-      "game": {
-        "name": "Control Ultimate Edition",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR22157_00"
-      },
-      "trophy": {
-        "id": 51,
-        "name": "Subterranean Research",
-        "type": "bronze",
-        "description": "Collect all Collectibles in the Foundation"
-      }
     }
   ],
-  "updatedAt": "2026-09-13T13:54:58.043Z"
+  "updatedAt": "2026-09-13T17:08:07.439Z"
 }

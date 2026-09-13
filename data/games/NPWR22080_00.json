@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 19,
+    "progress": 22,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 18,
+    "earnedCount": 21,
     "totalCount": 69,
     "trophies": [
       {
@@ -113,8 +113,8 @@
         "description": "Kill 90 cannibals.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-13T14:52:59Z"
       },
       {
         "id": 12,
@@ -122,8 +122,8 @@
         "description": "Complete the YAMANTAU level.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-13T14:56:38Z"
       },
       {
         "id": 13,
@@ -131,8 +131,8 @@
         "description": "Drive the Bukhanka.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-13T15:28:11Z"
       },
       {
         "id": 14,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-13T13:54:58.004Z"
+  "updatedAt": "2026-09-13T17:08:07.416Z"
 }
