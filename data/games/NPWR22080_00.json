@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 22,
+    "progress": 23,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 21,
+    "earnedCount": 22,
     "totalCount": 69,
     "trophies": [
       {
@@ -158,8 +158,8 @@
         "description": "Find the maps in the Labaratory.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-16T19:58:27Z"
       },
       {
         "id": 17,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-13T17:08:07.416Z"
+  "updatedAt": "2026-09-16T22:20:41.974Z"
 }

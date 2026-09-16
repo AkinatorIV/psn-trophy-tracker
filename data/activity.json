@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-16T19:58:27Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 16,
+        "name": "All road map",
+        "type": "bronze",
+        "description": "Find the maps in the Labaratory."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-13T15:28:11Z",
       "game": {
         "name": "Metro Exodus",
@@ -3486,21 +3500,7 @@
         "type": "bronze",
         "description": "Collect 30,000 Studs within a single stud combo"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-31T15:55:54Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 10,
-        "name": "A Friend",
-        "type": "bronze",
-        "description": "Unlock Jim Gordon"
-      }
     }
   ],
-  "updatedAt": "2026-09-13T17:08:07.439Z"
+  "updatedAt": "2026-09-16T22:20:41.995Z"
 }
