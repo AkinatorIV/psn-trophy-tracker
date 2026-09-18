@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 25,
+    "progress": 26,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 24,
+    "earnedCount": 25,
     "totalCount": 69,
     "trophies": [
       {
@@ -338,8 +338,8 @@
         "description": "Find all upgrades for Artyom's suit.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-18T21:30:00Z"
       },
       {
         "id": 37,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-18T21:01:00.555Z"
+  "updatedAt": "2026-09-18T23:09:13.687Z"
 }

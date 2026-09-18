@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-18T21:30:00Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 36,
+        "name": "Dressed for Success",
+        "type": "bronze",
+        "description": "Find all upgrades for Artyom's suit."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-18T20:12:13Z",
       "game": {
         "name": "Metro Exodus",
@@ -3486,21 +3500,7 @@
         "type": "bronze",
         "description": "Perform 100 Successful Counters"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-31T16:31:43Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 43,
-        "name": "\"I'm good with calculation.\"",
-        "type": "bronze",
-        "description": "Maintain Max Stud Combo for 60 Seconds"
-      }
     }
   ],
-  "updatedAt": "2026-09-18T21:01:00.577Z"
+  "updatedAt": "2026-09-18T23:09:13.708Z"
 }
