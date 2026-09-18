@@ -68,10 +68,10 @@
       "npCommunicationId": "NPWR46362_00",
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
       "platform": "PS5",
-      "progress": 100,
+      "progress": 84,
       "definedTrophies": {
-        "bronze": 44,
-        "silver": 4,
+        "bronze": 55,
+        "silver": 5,
         "gold": 3,
         "platinum": 1
       },
@@ -1045,5 +1045,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-09-16T22:20:41.977Z"
+  "updatedAt": "2026-09-18T15:07:06.235Z"
 }

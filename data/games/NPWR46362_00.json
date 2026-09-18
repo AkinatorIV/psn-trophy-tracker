@@ -3,10 +3,10 @@
   "game": {
     "name": "LEGO® Batman™: Legacy of the Dark Knight",
     "platform": "PS5",
-    "progress": 100,
+    "progress": 84,
     "npCommunicationId": "NPWR46362_00",
     "earnedCount": 52,
-    "totalCount": 52,
+    "totalCount": 64,
     "trophies": [
       {
         "id": 0,
@@ -475,8 +475,116 @@
         "group": "default",
         "earned": true,
         "earnedDateTime": "2026-07-10T20:27:12Z"
+      },
+      {
+        "id": 52,
+        "name": "Maximum Security",
+        "description": "Break out of Arkham",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Absolute Mayhem",
+        "description": "Complete 5 Mayhem Runs",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "Welcome to the Crew",
+        "description": "Recruit 3 henchpeople to your crew",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Bargain",
+        "description": "Purchase every power up once from the pop-up shop",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "Lost a Wheel",
+        "description": "Steal each hero vehicle once",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Lacking Agency",
+        "description": "Defeat 300 A.R.G.U.S. Agents",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Full House",
+        "description": "Have 10 crew members summoned at once",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Well Equipped",
+        "description": "Purchase every piece of equipment from the Joker-Mite shop",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Base of Operations",
+        "description": "Fully expand the hideout",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 61,
+        "name": "Villified",
+        "description": "Attend the Villy Awards",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 62,
+        "name": "All Pipes Lead to Home",
+        "description": "Use each extraction point",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 63,
+        "name": "Part of the Plan",
+        "description": "Reroll 5 Bonus Activities at the Planning Table",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
       }
     ]
   },
-  "updatedAt": "2026-08-30T12:05:13.759Z"
+  "updatedAt": "2026-09-18T15:07:06.233Z"
 }
