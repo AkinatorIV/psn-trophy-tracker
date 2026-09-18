@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 23,
+    "progress": 25,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 22,
+    "earnedCount": 24,
     "totalCount": 69,
     "trophies": [
       {
@@ -149,8 +149,8 @@
         "description": "Use the bucket lift on the CASPIAN level to reach the Oasis.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-18T20:05:02Z"
       },
       {
         "id": 16,
@@ -419,8 +419,8 @@
         "description": "Kill 3 enemies using sniper scope while wearing the Gas mask and using the Night Vision goggles all at the same time.\n",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-18T20:12:13Z"
       },
       {
         "id": 46,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-16T22:20:41.974Z"
+  "updatedAt": "2026-09-18T21:01:00.555Z"
 }

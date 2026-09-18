@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-18T20:12:13Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 45,
+        "name": "Kaleidoscope",
+        "type": "bronze",
+        "description": "Kill 3 enemies using sniper scope while wearing the Gas mask and using the Night Vision goggles all at the same time.\n"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-18T20:05:02Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 15,
+        "name": "Roller coaster",
+        "type": "bronze",
+        "description": "Use the bucket lift on the CASPIAN level to reach the Oasis."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-16T19:58:27Z",
       "game": {
         "name": "Metro Exodus",
@@ -3472,35 +3500,7 @@
         "type": "bronze",
         "description": "Maintain Max Stud Combo for 60 Seconds"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-31T16:16:17Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 46,
-        "name": "\"This is my city.\"",
-        "type": "bronze",
-        "description": "Place a Pin on the Map"
-      }
-    },
-    {
-      "earnedDateTime": "2026-05-31T16:02:53Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 42,
-        "name": "\"Never do it for free.\"",
-        "type": "bronze",
-        "description": "Collect 30,000 Studs within a single stud combo"
-      }
     }
   ],
-  "updatedAt": "2026-09-16T22:20:41.995Z"
+  "updatedAt": "2026-09-18T21:01:00.577Z"
 }
