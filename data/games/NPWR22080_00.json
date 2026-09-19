@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 26,
+    "progress": 27,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 25,
+    "earnedCount": 26,
     "totalCount": 69,
     "trophies": [
       {
@@ -140,8 +140,8 @@
         "description": "Kill 50 enemies with the Bukhanka.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-19T22:11:36Z"
       },
       {
         "id": 15,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-18T23:09:13.687Z"
+  "updatedAt": "2026-09-19T22:57:23.782Z"
 }

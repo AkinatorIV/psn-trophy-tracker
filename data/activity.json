@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-19T22:11:36Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 14,
+        "name": "Carmaheddon",
+        "type": "bronze",
+        "description": "Kill 50 enemies with the Bukhanka."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-18T21:30:00Z",
       "game": {
         "name": "Metro Exodus",
@@ -3486,21 +3500,7 @@
         "type": "bronze",
         "description": "Perform 100 Stealth Takedowns"
       }
-    },
-    {
-      "earnedDateTime": "2026-05-31T16:56:45Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 41,
-        "name": "Caped Defender",
-        "type": "bronze",
-        "description": "Perform 100 Successful Counters"
-      }
     }
   ],
-  "updatedAt": "2026-09-18T23:09:13.708Z"
+  "updatedAt": "2026-09-19T22:57:23.794Z"
 }
