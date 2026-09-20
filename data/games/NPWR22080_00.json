@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 33,
+    "progress": 35,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 31,
+    "earnedCount": 33,
     "totalCount": 69,
     "trophies": [
       {
@@ -203,8 +203,8 @@
         "description": "Stand your ground against the Bear at first encounter.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-20T14:09:38Z"
       },
       {
         "id": 22,
@@ -392,8 +392,8 @@
         "description": "Kill 30 enemies with Crossbow.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-20T13:53:21Z"
       },
       {
         "id": 43,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-20T13:45:27.645Z"
+  "updatedAt": "2026-09-20T17:00:45.873Z"
 }

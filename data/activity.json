@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-20T14:09:38Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 21,
+        "name": "Master of the Forest",
+        "type": "bronze",
+        "description": "Stand your ground against the Bear at first encounter."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-20T13:53:21Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 42,
+        "name": "Robin Hood",
+        "type": "bronze",
+        "description": "Kill 30 enemies with Crossbow."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-20T12:49:48Z",
       "game": {
         "name": "Metro Exodus",
@@ -3472,35 +3500,7 @@
         "type": "bronze",
         "description": "Collect 1,000,000 Studs"
       }
-    },
-    {
-      "earnedDateTime": "2026-06-05T18:55:35Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 11,
-        "name": "\"Hear me roar.\"",
-        "type": "bronze",
-        "description": "Unlock Catwoman"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-03T17:17:09Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 29,
-        "name": "\"Lighter, faster, more agile.\"",
-        "type": "bronze",
-        "description": "Purchase a Skill Upgrade from each category"
-      }
     }
   ],
-  "updatedAt": "2026-09-20T13:45:27.669Z"
+  "updatedAt": "2026-09-20T17:00:45.892Z"
 }
