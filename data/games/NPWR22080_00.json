@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 27,
+    "progress": 33,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 26,
+    "earnedCount": 31,
     "totalCount": 69,
     "trophies": [
       {
@@ -167,8 +167,8 @@
         "description": "Damir stays with crew.",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-20T12:13:52Z"
       },
       {
         "id": 18,
@@ -176,8 +176,8 @@
         "description": "Complete the CASPIAN level.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-20T12:14:18Z"
       },
       {
         "id": 19,
@@ -185,8 +185,8 @@
         "description": "Attend the wedding on the SUMMER level.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-20T12:26:06Z"
       },
       {
         "id": 20,
@@ -194,8 +194,8 @@
         "description": "Destroy the biggest statue in front of the children's camp on the TAIGA level.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-20T12:49:48Z"
       },
       {
         "id": 21,
@@ -302,8 +302,8 @@
         "description": "Make at least one kill with every ranged weapon.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-20T12:48:04Z"
       },
       {
         "id": 33,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-19T22:57:23.782Z"
+  "updatedAt": "2026-09-20T13:45:27.645Z"
 }

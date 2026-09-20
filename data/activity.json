@@ -2,6 +2,76 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-20T12:49:48Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 20,
+        "name": "Decommunization",
+        "type": "bronze",
+        "description": "Destroy the biggest statue in front of the children's camp on the TAIGA level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-20T12:48:04Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 32,
+        "name": "Professional",
+        "type": "bronze",
+        "description": "Make at least one kill with every ranged weapon."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-20T12:26:06Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 19,
+        "name": "Gor'ko!",
+        "type": "bronze",
+        "description": "Attend the wedding on the SUMMER level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-20T12:14:18Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 18,
+        "name": "New order",
+        "type": "bronze",
+        "description": "Complete the CASPIAN level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-20T12:13:52Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 17,
+        "name": "Damir",
+        "type": "silver",
+        "description": "Damir stays with crew."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-19T22:11:36Z",
       "game": {
         "name": "Metro Exodus",
@@ -3430,77 +3500,7 @@
         "type": "bronze",
         "description": "Purchase a Skill Upgrade from each category"
       }
-    },
-    {
-      "earnedDateTime": "2026-06-03T17:10:52Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 34,
-        "name": "\"You either buy a hero…\"",
-        "type": "bronze",
-        "description": "Purchase 5 Items from Shops"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-03T17:05:22Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 30,
-        "name": "Theatricality and Deception",
-        "type": "bronze",
-        "description": "Purchase 3 Gadget Upgrades"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-03T17:02:30Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 37,
-        "name": "Rebuilding Gotham",
-        "type": "bronze",
-        "description": "Cash in a Challenge in the Batcave"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-03T16:54:41Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 20,
-        "name": "One Bad Day",
-        "type": "bronze",
-        "description": "Complete Chapter One"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-03T16:21:56Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 45,
-        "name": "\"I am the shadows.\"",
-        "type": "bronze",
-        "description": "Perform 100 Stealth Takedowns"
-      }
     }
   ],
-  "updatedAt": "2026-09-19T22:57:23.794Z"
+  "updatedAt": "2026-09-20T13:45:27.669Z"
 }
