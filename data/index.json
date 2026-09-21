@@ -308,10 +308,10 @@
       "npCommunicationId": "NPWR51746_00",
       "name": "Ghost of Yōtei",
       "platform": "PS5",
-      "progress": 82,
+      "progress": 63,
       "definedTrophies": {
-        "bronze": 48,
-        "silver": 10,
+        "bronze": 69,
+        "silver": 12,
         "gold": 3,
         "platinum": 1
       },
@@ -1045,5 +1045,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-09-20T17:00:45.876Z"
+  "updatedAt": "2026-09-21T18:44:40.233Z"
 }

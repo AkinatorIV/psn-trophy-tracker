@@ -3,10 +3,10 @@
   "game": {
     "name": "Ghost of Yōtei",
     "platform": "PS5",
-    "progress": 82,
+    "progress": 63,
     "npCommunicationId": "NPWR51746_00",
     "earnedCount": 55,
-    "totalCount": 62,
+    "totalCount": 85,
     "trophies": [
       {
         "id": 0,
@@ -565,8 +565,215 @@
         "group": "002",
         "earned": false,
         "earnedDateTime": null
+      },
+      {
+        "id": 62,
+        "name": "You Are My Ghost",
+        "description": "Learn from what might have been.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 63,
+        "name": "Food for the People",
+        "description": "Secure all Viper Storehouses for the people of Ashoro Springs.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 64,
+        "name": "No More Snakes",
+        "description": "Break the Vipers’ hold over Ashoro Foothills.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 65,
+        "name": "Unbreakable",
+        "description": "Defeat an unbreakable warrior.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 66,
+        "name": "Free Bird",
+        "description": "Free the Golden Bird from captivity.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 67,
+        "name": "Paths to Color",
+        "description": "Purchase all dye trade routes from the Colorful Dye Merchant.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 68,
+        "name": "Mother of Misfortune",
+        "description": "Win three games of Zeni Hajiki against a formidable opponent at Fortune’s Asobiya.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 69,
+        "name": "Hungry for More",
+        "description": "Discover four new recipes.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 70,
+        "name": "Handsome Yet Deadly",
+        "description": "Use Gambler’s Mark to defeat multiple enemies.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 71,
+        "name": "Pack Hunter",
+        "description": "Defeat an enemy using the Call of the Pack ability.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 72,
+        "name": "Return to Sender",
+        "description": "Kill an enemy with the Catch Arrow ability.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 73,
+        "name": "Not This Time",
+        "description": "Disarm a Viper’s trap.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 74,
+        "name": "Ultimate Vengeance",
+        "description": "Defeat Lord Saito on any difficulty.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 75,
+        "name": "Masterful Payout",
+        "description": "Defeat a Max Threat bounty target.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 76,
+        "name": "Reap the Rewards",
+        "description": "Purchase a cosmetic from the vendor using boss tokens.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 77,
+        "name": "Strength in Numbers",
+        "description": "Have three or more allies fighting on your side at the same time.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 78,
+        "name": "Tooth and Nail",
+        "description": "Defeat 6 enemies by summoning wolves to attack them when playing as Atsu.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 79,
+        "name": "Call the 13 Assassins",
+        "description": "Summon 13 Shadow Shinobi to fight alongside you when playing as Oyuki.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 80,
+        "name": "A Blasting Impression",
+        "description": "Inflict damage on 30 enemies using Explosive Arrows when playing as Nagato.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 81,
+        "name": "The Seven Samurai",
+        "description": "Defeat 7 enemies using Ghost Stance when playing as Jin Sakai.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 82,
+        "name": "Raijin’s Fury",
+        "description": "Trigger 10 lightning strikes in a single Hunt.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 83,
+        "name": "Six Pack",
+        "description": "Throw a Sake jar at each member of the Yōtei Six.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 84,
+        "name": "Death Mark",
+        "description": "Trigger 47 Bounty Perk effects against Marked enemies.",
+        "type": "bronze",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
       }
     ]
   },
-  "updatedAt": "2026-08-30T14:18:30.038Z"
+  "updatedAt": "2026-09-21T18:44:40.230Z"
 }
