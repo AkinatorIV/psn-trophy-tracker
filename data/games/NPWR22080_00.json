@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 35,
+    "progress": 40,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 33,
+    "earnedCount": 37,
     "totalCount": 69,
     "trophies": [
       {
@@ -212,8 +212,8 @@
         "description": "Take part in the Admiral's tea party on the TAIGA level.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-22T20:50:37Z"
       },
       {
         "id": 23,
@@ -221,8 +221,8 @@
         "description": "Complete the TAIGA level without attacking anyone or getting noticed.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-22T21:14:10Z"
       },
       {
         "id": 24,
@@ -230,8 +230,8 @@
         "description": "Alyosha doesn't get wounded.",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-22T21:13:50Z"
       },
       {
         "id": 25,
@@ -239,8 +239,8 @@
         "description": "Complete the TAIGA level.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-22T21:14:13Z"
       },
       {
         "id": 26,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-20T17:00:45.873Z"
+  "updatedAt": "2026-09-22T21:31:04.961Z"
 }

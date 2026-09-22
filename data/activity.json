@@ -2,6 +2,62 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-22T21:14:13Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 25,
+        "name": "Sword of Damocles",
+        "type": "bronze",
+        "description": "Complete the TAIGA level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-22T21:14:10Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 23,
+        "name": "Forest child",
+        "type": "bronze",
+        "description": "Complete the TAIGA level without attacking anyone or getting noticed."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-22T21:13:50Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 24,
+        "name": "Alyosha",
+        "type": "silver",
+        "description": "Alyosha doesn't get wounded."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-22T20:50:37Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 22,
+        "name": "5 O'clock",
+        "type": "bronze",
+        "description": "Take part in the Admiral's tea party on the TAIGA level."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-20T14:09:38Z",
       "game": {
         "name": "Metro Exodus",
@@ -3444,63 +3500,7 @@
         "type": "bronze",
         "description": "Purchase 3 Vehicles from the Batcave"
       }
-    },
-    {
-      "earnedDateTime": "2026-06-10T21:03:45Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 12,
-        "name": "The Boy Wonder",
-        "type": "bronze",
-        "description": "Unlock Robin"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-10T20:21:50Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 21,
-        "name": "\"Do I look like I'm joking?\"",
-        "type": "bronze",
-        "description": "Complete Chapter Two"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-10T20:16:44Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 35,
-        "name": "\"Does it come in black?\"",
-        "type": "bronze",
-        "description": "Equip a Red Brick"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-07T20:23:01Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 40,
-        "name": "\"Life's been good to me.\"",
-        "type": "bronze",
-        "description": "Collect 1,000,000 Studs"
-      }
     }
   ],
-  "updatedAt": "2026-09-20T17:00:45.892Z"
+  "updatedAt": "2026-09-22T21:31:04.975Z"
 }
