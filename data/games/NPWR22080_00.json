@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 40,
+    "progress": 43,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 37,
+    "earnedCount": 40,
     "totalCount": 69,
     "trophies": [
       {
@@ -320,8 +320,8 @@
         "description": "Spend 500 chemical resources on cleaning weapons.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-23T20:14:06Z"
       },
       {
         "id": 35,
@@ -365,8 +365,8 @@
         "description": "Kill 300 mutants.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-23T19:39:14Z"
       },
       {
         "id": 40,
@@ -446,8 +446,8 @@
         "description": "Find all 21 post cards.\n",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-23T19:58:42Z"
       },
       {
         "id": 49,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-22T21:31:04.961Z"
+  "updatedAt": "2026-09-23T20:15:08.303Z"
 }
