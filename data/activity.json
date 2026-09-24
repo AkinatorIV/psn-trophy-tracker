@@ -2,6 +2,62 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-24T19:31:52Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 27,
+        "name": "Guide",
+        "type": "silver",
+        "description": "Pass the Research Facility without killing a Blind One on the DEAD CITY level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-24T19:21:02Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 47,
+        "name": "Librarian",
+        "type": "silver",
+        "description": "Find all 70 hidden Diary pages.\n\n"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-24T18:50:36Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 26,
+        "name": "Putrification",
+        "type": "bronze",
+        "description": "Pass the putrid tunnel."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-24T18:48:07Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 40,
+        "name": "Sniper",
+        "type": "bronze",
+        "description": "Kill 50 enemies at long distance."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-23T20:14:06Z",
       "game": {
         "name": "Metro Exodus",
@@ -3444,63 +3500,7 @@
         "type": "bronze",
         "description": "Place 5 Props or Trophies in the Batcave"
       }
-    },
-    {
-      "earnedDateTime": "2026-06-13T20:51:18Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 17,
-        "name": "Wonderful Toys",
-        "type": "bronze",
-        "description": "Purchase all Gadget Upgrades for any single character"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-13T20:40:19Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 13,
-        "name": "\"Let's see what Batgirl can do!\"",
-        "type": "bronze",
-        "description": "Unlock Batgirl"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-13T19:58:11Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 22,
-        "name": "The Dynamic Duo",
-        "type": "bronze",
-        "description": "Complete Chapter Three"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-11T19:37:28Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 36,
-        "name": "\"Wouldn't wanna make things too easy.\"",
-        "type": "bronze",
-        "description": "Get 5 Gold Medals in AR Trials"
-      }
     }
   ],
-  "updatedAt": "2026-09-23T20:15:08.327Z"
+  "updatedAt": "2026-09-24T19:33:37.594Z"
 }

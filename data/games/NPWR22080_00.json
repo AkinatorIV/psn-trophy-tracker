@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 43,
+    "progress": 49,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 40,
+    "earnedCount": 44,
     "totalCount": 69,
     "trophies": [
       {
@@ -248,8 +248,8 @@
         "description": "Pass the putrid tunnel.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-24T18:50:36Z"
       },
       {
         "id": 27,
@@ -257,8 +257,8 @@
         "description": "Pass the Research Facility without killing a Blind One on the DEAD CITY level.",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-24T19:31:52Z"
       },
       {
         "id": 28,
@@ -374,8 +374,8 @@
         "description": "Kill 50 enemies at long distance.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-24T18:48:07Z"
       },
       {
         "id": 41,
@@ -437,8 +437,8 @@
         "description": "Find all 70 hidden Diary pages.\n\n",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-24T19:21:02Z"
       },
       {
         "id": 48,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-23T20:15:08.303Z"
+  "updatedAt": "2026-09-24T19:33:37.568Z"
 }
