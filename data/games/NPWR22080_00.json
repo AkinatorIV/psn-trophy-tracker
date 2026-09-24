@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 49,
+    "progress": 61,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 44,
+    "earnedCount": 46,
     "totalCount": 69,
     "trophies": [
       {
@@ -266,8 +266,8 @@
         "description": "Duke and Damir stay with the crew, Alyosha doesn't get wounded.",
         "type": "gold",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-24T19:48:13Z"
       },
       {
         "id": 29,
@@ -293,8 +293,8 @@
         "description": "Assume command of the Order.",
         "type": "gold",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-24T19:48:13Z"
       },
       {
         "id": 32,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-24T19:33:37.568Z"
+  "updatedAt": "2026-09-24T22:42:03.301Z"
 }

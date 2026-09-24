@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-24T19:48:13Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 28,
+        "name": "Full Strength",
+        "type": "gold",
+        "description": "Duke and Damir stay with the crew, Alyosha doesn't get wounded."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-24T19:48:13Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 31,
+        "name": "Your Destination",
+        "type": "gold",
+        "description": "Assume command of the Order."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-24T19:31:52Z",
       "game": {
         "name": "Metro Exodus",
@@ -3472,35 +3500,7 @@
         "type": "bronze",
         "description": "Defeat every type of enemy once"
       }
-    },
-    {
-      "earnedDateTime": "2026-06-17T19:03:57Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 47,
-        "name": "\"You're becoming quite a celebrity.\"",
-        "type": "bronze",
-        "description": "Discover 100 open world events"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-13T20:55:13Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 32,
-        "name": "Not Just a Cave",
-        "type": "bronze",
-        "description": "Place 5 Props or Trophies in the Batcave"
-      }
     }
   ],
-  "updatedAt": "2026-09-24T19:33:37.594Z"
+  "updatedAt": "2026-09-24T22:42:03.326Z"
 }
