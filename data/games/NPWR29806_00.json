@@ -1,0 +1,356 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Under The Waves",
+    "platform": "PS5",
+    "progress": 11,
+    "npCommunicationId": "NPWR29806_00",
+    "earnedCount": 2,
+    "totalCount": 38,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "Under The Waves",
+        "description": "Unlock all trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Day 01: Immersion",
+        "description": "Complete Stan's first day underwater",
+        "type": "silver",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-09-25T21:39:24Z"
+      },
+      {
+        "id": 2,
+        "name": "Day 02: Routine",
+        "description": "Complete Stan's second day underwater",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Day 03: Adrift",
+        "description": "Complete Stan's third day underwater",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Day 14: The Storm",
+        "description": "Complete Stan's fourteenth day underwater",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Day 15: Red Alert",
+        "description": "Complete Stan's fifteenth day underwater",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Day 16: Collateral Damage",
+        "description": "Complete Stan's sixteenth day underwater",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Day 17: Save Our Souls",
+        "description": "Complete Stan's seventeenth day underwater",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "A Choice: One Last Story...",
+        "description": "Find solace",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "A Choice: A Last Goodbye",
+        "description": "Find closure",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Stan Balboa",
+        "description": "Reach a score of 2500 on the punching bag",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "A Little Rusty",
+        "description": "Reach a score of 5000 on the guitar",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Callisto's Song",
+        "description": "Play with the music box",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Wildlife Photographer",
+        "description": "Complete all photography missions",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Memory Of A Forgotten Life",
+        "description": "Find a collectible in a wreck",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Like The Wreck Of The Hesperus",
+        "description": "Find the galleon",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Echoes Of The Past",
+        "description": "Find all collectibles",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "A Sticky Situation",
+        "description": "Unlock all stickers",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Stan Ahab",
+        "description": "Learn more about a blue whale",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Greasing the Wheels",
+        "description": "Clean 50 oil traces",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Emma's World",
+        "description": "Take a peek at the surface",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Surfrider: Building A Better World",
+        "description": "Find all crafting recipes",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Surfrider: Master Upcycler",
+        "description": "Craft every upgrade",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "The Little Merman",
+        "description": "Craft 25 oxygen sticks",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Surfrider: Leave No Trace",
+        "description": "Pick up 10 empty oxygen sticks",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Surfrider: Cleaning The Ocean",
+        "description": "Pick up 25 pieces of plastic",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Surfrider: Activist",
+        "description": "Pick up 50 pieces of plastic",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Just A Scratch",
+        "description": "Use a repair kit on Moon",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "You're Gonna Need A Bigger Sub",
+        "description": "Break Moon beyond repair",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "A Can Of Worms",
+        "description": "Succumb to ?????",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Cthulhu Fhtagn",
+        "description": "Rescue a squid from a wreck",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Sustainable Energy",
+        "description": "Upgrade Moon's engines to electric",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Homemaker",
+        "description": "Craft every decoration",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Telly Addict",
+        "description": "Watch all optional TV programs",
+        "type": "gold",
+        "group": "default",
+        "earned": true,
+        "earnedDateTime": "2026-09-25T21:36:34Z"
+      },
+      {
+        "id": 34,
+        "name": "Jobsworth",
+        "description": "Complete all routine missions",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "Captain's Log",
+        "description": "Unlock 75 logbook entries",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Connection Lost",
+        "description": "Interact with the communication antenna",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Heave Ho, Me Hearties!",
+        "description": "Have Stan sing a sea shanty aboard Moon",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-09-25T22:30:45.313Z"
+}
