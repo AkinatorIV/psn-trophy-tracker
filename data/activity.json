@@ -2,6 +2,62 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-25T18:26:22Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 0,
+        "name": "Platinum Trophy",
+        "type": "platinum",
+        "description": "Get all trophies."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-25T18:26:22Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 43,
+        "name": "Headhunter",
+        "type": "bronze",
+        "description": "Kill 300 Human enemies.\n"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-25T17:59:41Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 29,
+        "name": "Hardcore",
+        "type": "gold",
+        "description": "Complete the game in Ranger Hardcore mode."
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-25T17:59:41Z",
+      "game": {
+        "name": "Metro Exodus",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR22080_00"
+      },
+      "trophy": {
+        "id": 30,
+        "name": "Eternal Voyage",
+        "type": "silver",
+        "description": "Save Anna by paying the ultimate price."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-24T19:48:13Z",
       "game": {
         "name": "Metro Exodus",
@@ -3444,63 +3500,7 @@
         "type": "bronze",
         "description": "Change the screensaver on the Batcomputer"
       }
-    },
-    {
-      "earnedDateTime": "2026-06-21T18:46:06Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 31,
-        "name": "\"I own the place.\"",
-        "type": "bronze",
-        "description": "Purchase all Batcave Expansions"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-19T20:43:51Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 14,
-        "name": "A Grayson Graduation",
-        "type": "bronze",
-        "description": "Unlock Nightwing"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-19T20:31:22Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 8,
-        "name": "Up for the Challenge",
-        "type": "bronze",
-        "description": "Complete 20 Challenges"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-17T19:06:08Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 48,
-        "name": "Cowardly and Superstitious Lot",
-        "type": "bronze",
-        "description": "Defeat every type of enemy once"
-      }
     }
   ],
-  "updatedAt": "2026-09-24T22:42:03.326Z"
+  "updatedAt": "2026-09-25T19:21:13.600Z"
 }

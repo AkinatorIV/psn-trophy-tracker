@@ -3,9 +3,9 @@
   "game": {
     "name": "Metro Exodus",
     "platform": "PS5",
-    "progress": 61,
+    "progress": 70,
     "npCommunicationId": "NPWR22080_00",
-    "earnedCount": 46,
+    "earnedCount": 50,
     "totalCount": 69,
     "trophies": [
       {
@@ -14,8 +14,8 @@
         "description": "Get all trophies.",
         "type": "platinum",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-25T18:26:22Z"
       },
       {
         "id": 1,
@@ -275,8 +275,8 @@
         "description": "Complete the game in Ranger Hardcore mode.",
         "type": "gold",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-25T17:59:41Z"
       },
       {
         "id": 30,
@@ -284,8 +284,8 @@
         "description": "Save Anna by paying the ultimate price.",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-25T17:59:41Z"
       },
       {
         "id": 31,
@@ -401,8 +401,8 @@
         "description": "Kill 300 Human enemies.\n",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-09-25T18:26:22Z"
       },
       {
         "id": 44,
@@ -631,5 +631,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-24T22:42:03.301Z"
+  "updatedAt": "2026-09-25T19:21:13.575Z"
 }
