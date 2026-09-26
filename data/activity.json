@@ -2,6 +2,160 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-09-26T17:45:05Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 20,
+        "name": "Emma's World",
+        "type": "bronze",
+        "description": "Take a peek at the surface"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T17:38:14Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 23,
+        "name": "The Little Merman",
+        "type": "bronze",
+        "description": "Craft 25 oxygen sticks"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T17:33:54Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 3,
+        "name": "Day 03: Adrift",
+        "type": "silver",
+        "description": "Complete Stan's third day underwater"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T17:16:07Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 24,
+        "name": "Surfrider: Leave No Trace",
+        "type": "bronze",
+        "description": "Pick up 10 empty oxygen sticks"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T16:43:10Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 25,
+        "name": "Surfrider: Cleaning The Ocean",
+        "type": "bronze",
+        "description": "Pick up 25 pieces of plastic"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T16:32:08Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 2,
+        "name": "Day 02: Routine",
+        "type": "silver",
+        "description": "Complete Stan's second day underwater"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T16:26:43Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 14,
+        "name": "Memory Of A Forgotten Life",
+        "type": "bronze",
+        "description": "Find a collectible in a wreck"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T16:17:33Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 36,
+        "name": "Connection Lost",
+        "type": "bronze",
+        "description": "Interact with the communication antenna"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T16:14:46Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 18,
+        "name": "Stan Ahab",
+        "type": "bronze",
+        "description": "Learn more about a blue whale"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T16:05:28Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 37,
+        "name": "Heave Ho, Me Hearties!",
+        "type": "bronze",
+        "description": "Have Stan sing a sea shanty aboard Moon"
+      }
+    },
+    {
+      "earnedDateTime": "2026-09-26T16:04:17Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 28,
+        "name": "You're Gonna Need A Bigger Sub",
+        "type": "bronze",
+        "description": "Break Moon beyond repair"
+      }
+    },
+    {
       "earnedDateTime": "2026-09-25T21:39:24Z",
       "game": {
         "name": "Under The Waves",
@@ -3346,161 +3500,7 @@
         "type": "silver",
         "description": "Unlock All Vehicles"
       }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:22:28Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 2,
-        "name": "\"Hopefully, because he's busy.\"",
-        "type": "gold",
-        "description": "Complete every side activity in Gotham"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:22:27Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 28,
-        "name": "Too Many Questions",
-        "type": "bronze",
-        "description": "Complete every Puzzle Room"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:22:18Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 4,
-        "name": "\"I'm not wearing hockey pads.\"",
-        "type": "silver",
-        "description": "Unlock All Suits"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-12T22:05:41Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 50,
-        "name": "\"Things have improved.\"",
-        "type": "bronze",
-        "description": "Prevent each type of Crime in Gotham once"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-10T20:28:07Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 49,
-        "name": "\"Gotham can feel a little safer.\"",
-        "type": "bronze",
-        "description": "Prevent 30 Crimes"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-10T20:27:12Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 51,
-        "name": "\"Is that like parachuting?\"",
-        "type": "bronze",
-        "description": "Glide in 10 different wind tunnels"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-10T19:59:47Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 7,
-        "name": "\"This is too much power for one person.\"",
-        "type": "silver",
-        "description": "Collect all Red Bricks"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-10T18:54:31Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 1,
-        "name": "\"A hero can be anyone.\"",
-        "type": "gold",
-        "description": "Complete Story Mode"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-08T19:50:01Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 24,
-        "name": "Knightfall",
-        "type": "bronze",
-        "description": "Complete Chapter Five"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-02T17:15:32Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 44,
-        "name": "The Strength to Fight",
-        "type": "bronze",
-        "description": "Reach Combat Combo of 99 hits"
-      }
-    },
-    {
-      "earnedDateTime": "2026-06-25T18:52:01Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 15,
-        "name": "Out of the Shadows",
-        "type": "bronze",
-        "description": "Unlock Talia"
-      }
     }
   ],
-  "updatedAt": "2026-09-25T22:30:45.339Z"
+  "updatedAt": "2026-09-26T17:53:06.318Z"
 }

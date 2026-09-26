@@ -8,7 +8,7 @@
       "npCommunicationId": "NPWR29806_00",
       "name": "Under The Waves",
       "platform": "PS5",
-      "progress": 11,
+      "progress": 30,
       "definedTrophies": {
         "bronze": 22,
         "silver": 11,
@@ -16,12 +16,12 @@
         "platinum": 1
       },
       "earnedTrophies": {
-        "bronze": 0,
-        "silver": 1,
+        "bronze": 9,
+        "silver": 3,
         "gold": 1,
         "platinum": 0
       },
-      "lastUpdatedDateTime": "2026-09-25T21:39:24Z",
+      "lastUpdatedDateTime": "2026-09-26T17:45:06Z",
       "detailsPath": "data/games/NPWR29806_00.json"
     },
     {
@@ -1065,5 +1065,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-09-25T22:30:45.315Z"
+  "updatedAt": "2026-09-26T17:53:06.296Z"
 }
