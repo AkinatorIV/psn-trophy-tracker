@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-02T17:21:56Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 5,
+        "name": "Something More",
+        "type": "bronze",
+        "description": "Find Ciri."
+      }
+    },
+    {
       "earnedDateTime": "2026-09-26T17:45:05Z",
       "game": {
         "name": "Under The Waves",
@@ -3486,21 +3500,7 @@
         "type": "bronze",
         "description": "Open every WayneTech Cache"
       }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:23:59Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 5,
-        "name": "\"Wanna know how I got these cars?\"",
-        "type": "silver",
-        "description": "Unlock All Vehicles"
-      }
     }
   ],
-  "updatedAt": "2026-09-26T17:53:06.318Z"
+  "updatedAt": "2026-10-02T19:48:30.244Z"
 }

@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 43,
+    "progress": 44,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 38,
+    "earnedCount": 39,
     "totalCount": 79,
     "trophies": [
       {
@@ -59,8 +59,8 @@
         "description": "Find Ciri.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-02T17:21:56Z"
       },
       {
         "id": 6,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-08-30T12:05:13.517Z"
+  "updatedAt": "2026-10-02T19:48:30.221Z"
 }

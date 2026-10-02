@@ -5,6 +5,26 @@
   "backfillRemaining": 0,
   "games": [
     {
+      "npCommunicationId": "NPWR24698_00",
+      "name": "The Witcher 3: Wild Hunt",
+      "platform": "PS5",
+      "progress": 44,
+      "definedTrophies": {
+        "bronze": 68,
+        "silver": 8,
+        "gold": 2,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 35,
+        "silver": 4,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-10-02T17:21:56Z",
+      "detailsPath": "data/games/NPWR24698_00.json"
+    },
+    {
       "npCommunicationId": "NPWR29806_00",
       "name": "Under The Waves",
       "platform": "PS5",
@@ -63,26 +83,6 @@
       },
       "lastUpdatedDateTime": "2026-09-09T21:45:17Z",
       "detailsPath": "data/games/NPWR42963_00.json"
-    },
-    {
-      "npCommunicationId": "NPWR24698_00",
-      "name": "The Witcher 3: Wild Hunt",
-      "platform": "PS5",
-      "progress": 43,
-      "definedTrophies": {
-        "bronze": 68,
-        "silver": 8,
-        "gold": 2,
-        "platinum": 1
-      },
-      "earnedTrophies": {
-        "bronze": 34,
-        "silver": 4,
-        "gold": 0,
-        "platinum": 0
-      },
-      "lastUpdatedDateTime": "2026-08-23T12:17:20Z",
-      "detailsPath": "data/games/NPWR24698_00.json"
     },
     {
       "npCommunicationId": "NPWR46362_00",
@@ -1065,5 +1065,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-09-26T17:53:06.296Z"
+  "updatedAt": "2026-10-02T19:48:30.223Z"
 }
