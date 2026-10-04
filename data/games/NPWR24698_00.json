@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 44,
+    "progress": 45,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 39,
+    "earnedCount": 40,
     "totalCount": 79,
     "trophies": [
       {
@@ -131,8 +131,8 @@
         "description": "Take part in the assassination of King Radovid.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-04T19:33:38Z"
       },
       {
         "id": 14,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-02T19:48:30.221Z"
+  "updatedAt": "2026-10-04T20:25:18.696Z"
 }

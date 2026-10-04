@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-04T19:33:38Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 13,
+        "name": "Assassin of Kings",
+        "type": "bronze",
+        "description": "Take part in the assassination of King Radovid."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-02T17:21:56Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3486,21 +3500,7 @@
         "type": "silver",
         "description": "Unlock All Skill Upgrades"
       }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:30:31Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 25,
-        "name": "\"You have a name to maintain.\"",
-        "type": "bronze",
-        "description": "Open every WayneTech Cache"
-      }
     }
   ],
-  "updatedAt": "2026-10-02T19:48:30.244Z"
+  "updatedAt": "2026-10-04T20:25:18.794Z"
 }
