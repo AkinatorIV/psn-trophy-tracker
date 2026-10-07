@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 45,
+    "progress": 53,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 40,
+    "earnedCount": 42,
     "totalCount": 79,
     "trophies": [
       {
@@ -68,8 +68,8 @@
         "description": "Visit Tir ná Lia and convince Ge'els to betray Eredin.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-07T19:09:49Z"
       },
       {
         "id": 7,
@@ -392,8 +392,8 @@
         "description": "Reach character development level 35.",
         "type": "gold",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-07T19:09:49Z"
       },
       {
         "id": 43,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-04T20:25:18.696Z"
+  "updatedAt": "2026-10-07T19:33:18.479Z"
 }

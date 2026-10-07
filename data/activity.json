@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-07T19:09:49Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 6,
+        "name": "Xenonaut",
+        "type": "bronze",
+        "description": "Visit Tir ná Lia and convince Ge'els to betray Eredin."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-07T19:09:49Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 42,
+        "name": "Munchkin",
+        "type": "gold",
+        "description": "Reach character development level 35."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-04T19:33:38Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3472,35 +3500,7 @@
         "type": "gold",
         "description": "Collect all Collectibles"
       }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:37:57Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 27,
-        "name": "\"Quite the collection, Master Bruce.\"",
-        "type": "bronze",
-        "description": "Collect all Batcave Trophies"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:30:42Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 6,
-        "name": "\"Holy Skill Upgrades, Batman!\"",
-        "type": "silver",
-        "description": "Unlock All Skill Upgrades"
-      }
     }
   ],
-  "updatedAt": "2026-10-04T20:25:18.794Z"
+  "updatedAt": "2026-10-07T19:33:18.502Z"
 }
