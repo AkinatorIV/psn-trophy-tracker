@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 57,
+    "progress": 62,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 45,
+    "earnedCount": 49,
     "totalCount": 79,
     "trophies": [
       {
@@ -167,8 +167,8 @@
         "description": "Use the Axii Sign to force one opponent to kill another. Do this 20 times.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-09T22:40:14Z"
       },
       {
         "id": 18,
@@ -176,8 +176,8 @@
         "description": "Kill 10 opponents by knocking them off somewhere high with the Aard Sign.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-09T22:04:20Z"
       },
       {
         "id": 19,
@@ -257,8 +257,8 @@
         "description": "Make an opponent suffer from bleeding, poisoning and burning simultaneously. Do this 10 times.",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-09T23:10:13Z"
       },
       {
         "id": 28,
@@ -266,8 +266,8 @@
         "description": "Kill 50 human and nonhuman opponents by striking them in the head with a crossbow bolt.",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-09T22:21:48Z"
       },
       {
         "id": 29,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-09T21:35:26.122Z"
+  "updatedAt": "2026-10-09T23:11:29.316Z"
 }
