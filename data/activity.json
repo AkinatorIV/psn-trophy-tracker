@@ -2,6 +2,48 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-09T21:30:41Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 39,
+        "name": "Power Overwhelming",
+        "type": "bronze",
+        "description": "Have all possible Place of Power bonuses active at the same time."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-09T21:22:13Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 32,
+        "name": "Pest Control",
+        "type": "silver",
+        "description": "Destroy all monster nests in the Velen / Novigrad region, or in Skellige."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-09T21:05:23Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 33,
+        "name": "Card Collector",
+        "type": "bronze",
+        "description": "Acquire all gwent cards available in the base version of the game."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-07T19:09:49Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3458,49 +3500,7 @@
         "type": "platinum",
         "description": "Collect all Trophies"
       }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:56:09Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 26,
-        "name": "\"The idea was to be a symbol.\"",
-        "type": "bronze",
-        "description": "Collect 25 Bat-Symbols"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:39:37Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 38,
-        "name": "Collecting Evidence",
-        "type": "bronze",
-        "description": "Roll the camera over 20 degrees in Photo Mode"
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-13T16:37:58Z",
-      "game": {
-        "name": "LEGO® Batman™: Legacy of the Dark Knight",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR46362_00"
-      },
-      "trophy": {
-        "id": 3,
-        "name": "A Watchful Collector",
-        "type": "gold",
-        "description": "Collect all Collectibles"
-      }
     }
   ],
-  "updatedAt": "2026-10-07T19:33:18.502Z"
+  "updatedAt": "2026-10-09T21:35:26.146Z"
 }
