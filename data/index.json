@@ -8,7 +8,7 @@
       "npCommunicationId": "NPWR24698_00",
       "name": "The Witcher 3: Wild Hunt",
       "platform": "PS5",
-      "progress": 62,
+      "progress": 77,
       "definedTrophies": {
         "bronze": 68,
         "silver": 8,
@@ -16,12 +16,12 @@
         "platinum": 1
       },
       "earnedTrophies": {
-        "bronze": 42,
-        "silver": 6,
-        "gold": 1,
-        "platinum": 0
+        "bronze": 46,
+        "silver": 8,
+        "gold": 2,
+        "platinum": 1
       },
-      "lastUpdatedDateTime": "2026-10-09T23:10:13Z",
+      "lastUpdatedDateTime": "2026-10-10T15:09:27Z",
       "detailsPath": "data/games/NPWR24698_00.json"
     },
     {
@@ -1065,5 +1065,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-10-09T23:11:29.318Z"
+  "updatedAt": "2026-10-10T16:16:37.214Z"
 }

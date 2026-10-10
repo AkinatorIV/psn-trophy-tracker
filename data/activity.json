@@ -2,6 +2,118 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-10T15:09:26Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 0,
+        "name": "The Limits of the Possible",
+        "type": "platinum",
+        "description": "Collect all trophies."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-10T15:09:26Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 8,
+        "name": "Passed the Trial",
+        "type": "bronze",
+        "description": "Finish the game on any difficulty."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-10T15:09:26Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 9,
+        "name": "Ran the Gauntlet",
+        "type": "silver",
+        "description": "Finish the game on the \"Blood and Broken Bones!\" or \"Death March!\" difficulty levels."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-10T15:09:26Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 10,
+        "name": "Walked the Path",
+        "type": "gold",
+        "description": "Finish the game on the \"Death March!\" difficulty level."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-10T14:42:26Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 7,
+        "name": "The King is Dead",
+        "type": "silver",
+        "description": "Defeat Eredin."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-10T13:09:34Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 64,
+        "name": "Rad Steez, Bro!",
+        "type": "bronze",
+        "description": "Slide downhill uninterrupted for at least 10 seconds."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-10T12:42:37Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 59,
+        "name": "Return to Sender",
+        "type": "bronze",
+        "description": "Kill 3 opponents with their own arrows."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-10T12:01:17Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 65,
+        "name": "Killed It",
+        "type": "bronze",
+        "description": "Win a round of gwent with a total strength of at least 187."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-09T23:10:13Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3388,119 +3500,7 @@
         "type": "silver",
         "description": "Kill at least 5 opponents in under 10 seconds."
       }
-    },
-    {
-      "earnedDateTime": "2026-07-26T21:11:31Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 47,
-        "name": "Shrieker",
-        "type": "bronze",
-        "description": "Complete the contract on the shrieker."
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-26T20:47:16Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 4,
-        "name": "Family Counselor",
-        "type": "bronze",
-        "description": "Find the baron's wife and daughter."
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-26T15:30:14Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 37,
-        "name": "Bookworm",
-        "type": "bronze",
-        "description": "Read 30 books, journals or other documents."
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-26T12:01:38Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 14,
-        "name": "Friends With Benefits",
-        "type": "bronze",
-        "description": "Complete the subplot involving Keira Metz."
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-25T12:35:46Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 35,
-        "name": "Let's Cook!",
-        "type": "bronze",
-        "description": "Learn 12 potion formulae."
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-25T12:02:09Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 25,
-        "name": "Triple Threat",
-        "type": "bronze",
-        "description": "Kill 3 opponents in one fight using 3 different methods (swords, bombs, crossbow, Signs, etc.)."
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-24T19:34:46Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 1,
-        "name": "Lilac and Gooseberries",
-        "type": "bronze",
-        "description": "Find Yennefer of Vengerberg."
-      }
-    },
-    {
-      "earnedDateTime": "2026-07-23T19:57:05Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 30,
-        "name": "Even Odds",
-        "type": "silver",
-        "description": "Kill 2 monsters you have a contract on without using Signs, potions, mutagens, oils or bombs."
-      }
     }
   ],
-  "updatedAt": "2026-10-09T23:11:29.336Z"
+  "updatedAt": "2026-10-10T16:16:37.236Z"
 }
