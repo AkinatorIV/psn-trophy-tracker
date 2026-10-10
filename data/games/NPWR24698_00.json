@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 77,
+    "progress": 78,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 57,
+    "earnedCount": 58,
     "totalCount": 79,
     "trophies": [
       {
@@ -500,8 +500,8 @@
         "description": "Participate in all the activities at the wedding.",
         "type": "bronze",
         "group": "001",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-10T21:52:52Z"
       },
       {
         "id": 55,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T16:16:37.212Z"
+  "updatedAt": "2026-10-10T23:28:54.457Z"
 }

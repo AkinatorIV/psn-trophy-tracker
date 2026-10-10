@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-10T21:52:52Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 54,
+        "name": "Let the Good Times Roll!",
+        "type": "bronze",
+        "description": "Participate in all the activities at the wedding."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-10T15:09:26Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3486,21 +3500,7 @@
         "type": "bronze",
         "description": "Resolve the doppler problem in Novigrad."
       }
-    },
-    {
-      "earnedDateTime": "2026-07-30T11:21:11Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 24,
-        "name": "Butcher of Blaviken",
-        "type": "silver",
-        "description": "Kill at least 5 opponents in under 10 seconds."
-      }
     }
   ],
-  "updatedAt": "2026-10-10T16:16:37.236Z"
+  "updatedAt": "2026-10-10T23:28:54.471Z"
 }
