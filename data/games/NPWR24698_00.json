@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 78,
+    "progress": 81,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 58,
+    "earnedCount": 61,
     "totalCount": 79,
     "trophies": [
       {
@@ -509,8 +509,8 @@
         "description": "Buy all the items put on the block at the Borsodis' Auction House.",
         "type": "bronze",
         "group": "001",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-11T10:58:47Z"
       },
       {
         "id": 56,
@@ -518,8 +518,8 @@
         "description": "Recreate all of Iris' nightmares in the Painted World.",
         "type": "bronze",
         "group": "001",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-11T12:58:16Z"
       },
       {
         "id": 57,
@@ -536,8 +536,8 @@
         "description": "Provoke all Iris von Everec's Nightmares into fighting you at the same time and defeat them.",
         "type": "bronze",
         "group": "001",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-11T13:07:18Z"
       },
       {
         "id": 59,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-10T23:28:54.457Z"
+  "updatedAt": "2026-10-11T15:04:18.412Z"
 }

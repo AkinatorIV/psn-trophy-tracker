@@ -2,6 +2,48 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-11T13:07:18Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 58,
+        "name": "When It's Many Against One…",
+        "type": "bronze",
+        "description": "Provoke all Iris von Everec's Nightmares into fighting you at the same time and defeat them."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-11T12:58:16Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 56,
+        "name": "Curator of Nightmares",
+        "type": "bronze",
+        "description": "Recreate all of Iris' nightmares in the Painted World."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-11T10:58:47Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 55,
+        "name": "Shopaholic",
+        "type": "bronze",
+        "description": "Buy all the items put on the block at the Borsodis' Auction House."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-10T21:52:52Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3458,49 +3500,7 @@
         "type": "bronze",
         "description": "Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-02T17:18:14Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 46,
-        "name": "All In",
-        "type": "bronze",
-        "description": "Play three hero cards in one round of gwent and win the match."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-02T16:05:42Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 43,
-        "name": "Fire in the Hole",
-        "type": "bronze",
-        "description": "Destroy 10 monster nests using bombs."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-02T09:40:00Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 52,
-        "name": "The Doppler Effect",
-        "type": "bronze",
-        "description": "Resolve the doppler problem in Novigrad."
-      }
     }
   ],
-  "updatedAt": "2026-10-10T23:28:54.471Z"
+  "updatedAt": "2026-10-11T15:04:18.437Z"
 }
