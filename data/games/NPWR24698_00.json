@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 81,
+    "progress": 82,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 61,
+    "earnedCount": 62,
     "totalCount": 79,
     "trophies": [
       {
@@ -527,8 +527,8 @@
         "description": "Finish the \"Hearts of Stone\" expansion.",
         "type": "bronze",
         "group": "001",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-12T12:55:00Z"
       },
       {
         "id": 58,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-11T15:04:18.412Z"
+  "updatedAt": "2026-10-12T19:06:09.319Z"
 }

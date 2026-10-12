@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-12T12:55:00Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 57,
+        "name": "Pacta Sunt Servanda",
+        "type": "bronze",
+        "description": "Finish the \"Hearts of Stone\" expansion."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-11T13:07:18Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3486,21 +3500,7 @@
         "type": "bronze",
         "description": "Win a round of gwent using only neutral cards."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-06T11:07:49Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 21,
-        "name": "Can't Touch This!",
-        "type": "bronze",
-        "description": "Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign."
-      }
     }
   ],
-  "updatedAt": "2026-10-11T15:04:18.437Z"
+  "updatedAt": "2026-10-12T19:06:09.342Z"
 }
