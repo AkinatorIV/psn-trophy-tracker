@@ -2,6 +2,62 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-12T20:54:17Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 60,
+        "name": "Can Quit Anytime I Want",
+        "type": "bronze",
+        "description": "Be under the influence of seven potions or decoctions at the same time."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-12T20:51:14Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 63,
+        "name": "Moo-rderer",
+        "type": "bronze",
+        "description": "Kill 20 cows."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-12T20:46:23Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 62,
+        "name": "I Wore Ofieri Before It Was Cool",
+        "type": "bronze",
+        "description": "Collect all available Ofieri armor and horse gear, and at least one Ofieri sword."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-12T20:22:02Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 61,
+        "name": "Wild Rose Dethorned",
+        "type": "bronze",
+        "description": "Defeat all the fallen knights and loot their campsites."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-12T12:55:00Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3444,63 +3500,7 @@
         "type": "bronze",
         "description": "Defeat Tybalt and win the gwent tournament held at the Passiflora."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-06T20:18:55Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 19,
-        "name": "Environmentally Unfriendly",
-        "type": "bronze",
-        "description": "Kill 50 opponents using the environment (e.g. swamp gas, insects or objects)."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-06T20:16:45Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 2,
-        "name": "A Friend in Need",
-        "type": "bronze",
-        "description": "Find and free Dandelion."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-06T19:19:27Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 36,
-        "name": "Bombardier",
-        "type": "bronze",
-        "description": "Collect the formulae for 6 different bomb types."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-06T17:16:12Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 45,
-        "name": "Geralt and Friends",
-        "type": "bronze",
-        "description": "Win a round of gwent using only neutral cards."
-      }
     }
   ],
-  "updatedAt": "2026-10-12T19:06:09.342Z"
+  "updatedAt": "2026-10-12T20:57:29.339Z"
 }
