@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-15T19:55:41Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 78,
+        "name": "David and Golyat",
+        "type": "bronze",
+        "description": "Kill Golyat with a crossbow bolt to his eye."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-15T19:53:28Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 66,
+        "name": "The Witcher's Gone South",
+        "type": "bronze",
+        "description": "Travel to the Duchy of Toussaint."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-12T20:54:17Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3472,35 +3500,7 @@
         "type": "bronze",
         "description": "Acquire all the Abilities in one tree."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-17T16:59:27Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 48,
-        "name": "Fearless Vampire Slayer",
-        "type": "bronze",
-        "description": "Complete the contract on Sarasti."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-16T22:55:32Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 34,
-        "name": "Gwent Master",
-        "type": "bronze",
-        "description": "Defeat Tybalt and win the gwent tournament held at the Passiflora."
-      }
     }
   ],
-  "updatedAt": "2026-10-12T20:57:29.339Z"
+  "updatedAt": "2026-10-15T21:26:09.863Z"
 }

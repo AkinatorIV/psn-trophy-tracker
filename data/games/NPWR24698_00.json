@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 86,
+    "progress": 88,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 66,
+    "earnedCount": 68,
     "totalCount": 79,
     "trophies": [
       {
@@ -608,8 +608,8 @@
         "description": "Travel to the Duchy of Toussaint.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-15T19:53:28Z"
       },
       {
         "id": 67,
@@ -716,10 +716,10 @@
         "description": "Kill Golyat with a crossbow bolt to his eye.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-15T19:55:41Z"
       }
     ]
   },
-  "updatedAt": "2026-10-12T20:57:29.315Z"
+  "updatedAt": "2026-10-15T21:26:09.842Z"
 }
