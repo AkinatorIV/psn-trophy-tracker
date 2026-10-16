@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-16T21:36:51Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 71,
+        "name": "Playing House",
+        "type": "bronze",
+        "description": "Use all available options for developing Corvo Bianco."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-15T19:55:41Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3486,21 +3500,7 @@
         "type": "bronze",
         "description": "Complete the subplot about choosing Skellige's ruler."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-17T20:25:42Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 16,
-        "name": "Dendrologist",
-        "type": "bronze",
-        "description": "Acquire all the Abilities in one tree."
-      }
     }
   ],
-  "updatedAt": "2026-10-15T21:26:09.863Z"
+  "updatedAt": "2026-10-16T21:52:27.602Z"
 }

@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 88,
+    "progress": 89,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 68,
+    "earnedCount": 69,
     "totalCount": 79,
     "trophies": [
       {
@@ -653,8 +653,8 @@
         "description": "Use all available options for developing Corvo Bianco.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-16T21:36:51Z"
       },
       {
         "id": 72,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-15T21:26:09.842Z"
+  "updatedAt": "2026-10-16T21:52:27.584Z"
 }
