@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 90,
+    "progress": 92,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 70,
+    "earnedCount": 72,
     "totalCount": 79,
     "trophies": [
       {
@@ -644,8 +644,8 @@
         "description": "Be given Aerondight by the Lady of the Lake.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-17T19:53:58Z"
       },
       {
         "id": 71,
@@ -662,8 +662,8 @@
         "description": "Find all grandmaster diagrams for each witcher school.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-17T21:34:00Z"
       },
       {
         "id": 73,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-17T11:48:46.102Z"
+  "updatedAt": "2026-10-17T21:41:13.534Z"
 }

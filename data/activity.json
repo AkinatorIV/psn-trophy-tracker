@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-17T21:34:00Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 72,
+        "name": "Turned Every Stone",
+        "type": "bronze",
+        "description": "Find all grandmaster diagrams for each witcher school."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-17T19:53:58Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 70,
+        "name": "Embodiment of the Five Virtues",
+        "type": "bronze",
+        "description": "Be given Aerondight by the Lady of the Lake."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-17T11:26:47Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3472,35 +3500,7 @@
         "type": "bronze",
         "description": "Win all the horse races in the game."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-21T16:08:12Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 26,
-        "name": "Brawler",
-        "type": "silver",
-        "description": "Defeat Olaf, the Skellige champion of unarmed combat."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-20T20:45:52Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 31,
-        "name": "Globetrotter",
-        "type": "bronze",
-        "description": "Discover 100 fast travel points."
-      }
     }
   ],
-  "updatedAt": "2026-10-17T11:48:46.129Z"
+  "updatedAt": "2026-10-17T21:41:13.555Z"
 }
