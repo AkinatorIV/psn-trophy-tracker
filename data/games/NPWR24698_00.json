@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 89,
+    "progress": 90,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 69,
+    "earnedCount": 70,
     "totalCount": 79,
     "trophies": [
       {
@@ -635,8 +635,8 @@
         "description": "Obtain a flawless victory in all the competitions during the knights' tourney.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-17T11:26:47Z"
       },
       {
         "id": 70,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-16T21:52:27.584Z"
+  "updatedAt": "2026-10-17T11:48:46.102Z"
 }

@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-17T11:26:47Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 69,
+        "name": "A Knight to Remember",
+        "type": "bronze",
+        "description": "Obtain a flawless victory in all the competitions during the knights' tourney."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-16T21:36:51Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3486,21 +3500,7 @@
         "type": "bronze",
         "description": "Discover 100 fast travel points."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-20T19:41:31Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 12,
-        "name": "Kingmaker",
-        "type": "bronze",
-        "description": "Complete the subplot about choosing Skellige's ruler."
-      }
     }
   ],
-  "updatedAt": "2026-10-16T21:52:27.602Z"
+  "updatedAt": "2026-10-17T11:48:46.129Z"
 }
