@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 94,
+    "progress": 95,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 74,
+    "earnedCount": 75,
     "totalCount": 79,
     "trophies": [
       {
@@ -671,8 +671,8 @@
         "description": "Collect all the cards in the Skellige deck.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-18T17:38:47Z"
       },
       {
         "id": 74,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-18T17:18:41.879Z"
+  "updatedAt": "2026-10-18T19:28:04.869Z"
 }
