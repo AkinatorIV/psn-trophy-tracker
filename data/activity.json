@@ -2,6 +2,34 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-18T17:10:29Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 76,
+        "name": "Weapon \"W\"",
+        "type": "bronze",
+        "description": "Develop a mutation."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-18T15:39:40Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 74,
+        "name": "The Grapes of Wrath Stomped",
+        "type": "bronze",
+        "description": "Help unite the warring vineyards and have a wine named in your honor."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-17T21:34:00Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3472,35 +3500,7 @@
         "type": "bronze",
         "description": "Complete all fistfighting quests in Velen, Skellige and Novigrad."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-21T17:11:14Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 3,
-        "name": "Necromancer",
-        "type": "bronze",
-        "description": "Help Yennefer extract information from Skjall's body."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-21T16:28:33Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 41,
-        "name": "Fast and Furious",
-        "type": "bronze",
-        "description": "Win all the horse races in the game."
-      }
     }
   ],
-  "updatedAt": "2026-10-17T21:41:13.555Z"
+  "updatedAt": "2026-10-18T17:18:41.892Z"
 }

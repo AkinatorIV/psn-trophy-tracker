@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 92,
+    "progress": 94,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 72,
+    "earnedCount": 74,
     "totalCount": 79,
     "trophies": [
       {
@@ -680,8 +680,8 @@
         "description": "Help unite the warring vineyards and have a wine named in your honor.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-18T15:39:40Z"
       },
       {
         "id": 75,
@@ -698,8 +698,8 @@
         "description": "Develop a mutation.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-18T17:10:29Z"
       },
       {
         "id": 77,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-17T21:41:13.534Z"
+  "updatedAt": "2026-10-18T17:18:41.879Z"
 }
