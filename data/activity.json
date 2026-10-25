@@ -2,6 +2,20 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-25T18:11:19Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 77,
+        "name": "Hasta la Vista™",
+        "type": "bronze",
+        "description": "Kill a frozen opponent with a crossbow bolt."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-25T14:55:36Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3486,21 +3500,7 @@
         "type": "bronze",
         "description": "Bring all possible allies to Kaer Morhen for the battle against the Hunt."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-22T19:29:49Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 50,
-        "name": "Fiend or Foe?",
-        "type": "bronze",
-        "description": "Complete the contract on Morvudd."
-      }
     }
   ],
-  "updatedAt": "2026-10-25T16:18:06.983Z"
+  "updatedAt": "2026-10-25T19:06:19.881Z"
 }

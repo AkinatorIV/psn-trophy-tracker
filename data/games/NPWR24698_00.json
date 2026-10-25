@@ -3,9 +3,9 @@
   "game": {
     "name": "The Witcher 3: Wild Hunt",
     "platform": "PS5",
-    "progress": 98,
+    "progress": 100,
     "npCommunicationId": "NPWR24698_00",
-    "earnedCount": 78,
+    "earnedCount": 79,
     "totalCount": 79,
     "trophies": [
       {
@@ -707,8 +707,8 @@
         "description": "Kill a frozen opponent with a crossbow bolt.",
         "type": "bronze",
         "group": "002",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-25T18:11:19Z"
       },
       {
         "id": 78,
@@ -721,5 +721,5 @@
       }
     ]
   },
-  "updatedAt": "2026-10-25T16:18:06.964Z"
+  "updatedAt": "2026-10-25T19:06:19.853Z"
 }
