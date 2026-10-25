@@ -2,6 +2,48 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-10-25T14:55:36Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 75,
+        "name": "Dressed to Kill",
+        "type": "bronze",
+        "description": "Unlock the bonus for equipping all the witcher gear elements from one School."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-25T14:13:22Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 67,
+        "name": "Last Action Hero",
+        "type": "bronze",
+        "description": "Be decorated with the Order of Vitis Vinifera."
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-25T12:36:08Z",
+      "game": {
+        "name": "The Witcher 3: Wild Hunt",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR24698_00"
+      },
+      "trophy": {
+        "id": 68,
+        "name": "Kling of the Clink",
+        "type": "bronze",
+        "description": "Serve time in Toussaint."
+      }
+    },
+    {
       "earnedDateTime": "2026-10-18T17:38:47Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3458,49 +3500,7 @@
         "type": "bronze",
         "description": "Complete the contract on Morvudd."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-22T15:49:29Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 51,
-        "name": "Ashes to Ashes",
-        "type": "bronze",
-        "description": "Complete the contract on Therazane."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-22T14:12:47Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 49,
-        "name": "Woodland Spirit",
-        "type": "bronze",
-        "description": "Complete the contract on the Woodland Spirit."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-22T13:58:51Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 22,
-        "name": "That Is the Evilest Thing…",
-        "type": "bronze",
-        "description": "Ignite the gas produced by a Dragon's Dream bomb using a burning opponent. Do this 10 times."
-      }
     }
   ],
-  "updatedAt": "2026-10-18T19:28:04.889Z"
+  "updatedAt": "2026-10-25T16:18:06.983Z"
 }
