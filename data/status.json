@@ -1,9 +1,11 @@
 {
   "psnId": "AkinatorII",
-  "healthy": true,
-  "checkedAt": "2026-10-28T19:38:39.592Z",
+  "healthy": false,
+  "checkedAt": "2026-10-28T23:30:00.702Z",
   "lastSuccessfulSync": "2026-10-28T19:38:39.592Z",
   "totalGames": 53,
   "detailedGames": 53,
-  "lastError": null
+  "lastError": {
+    "message": "\n      There was a problem retrieving your PSN access code. Is your NPSSO code valid?\n      To get a new NPSSO code, visit https://ca.account.sony.com/api/v1/ssocookie.\n    "
+  }
 }
