@@ -3,9 +3,9 @@
   "game": {
     "name": "Under The Waves",
     "platform": "PS5",
-    "progress": 30,
+    "progress": 100,
     "npCommunicationId": "NPWR29806_00",
-    "earnedCount": 13,
+    "earnedCount": 38,
     "totalCount": 38,
     "trophies": [
       {
@@ -14,8 +14,8 @@
         "description": "Unlock all trophies",
         "type": "platinum",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-02T00:07:41Z"
       },
       {
         "id": 1,
@@ -50,8 +50,8 @@
         "description": "Complete Stan's fourteenth day underwater",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T16:30:15Z"
       },
       {
         "id": 5,
@@ -59,8 +59,8 @@
         "description": "Complete Stan's fifteenth day underwater",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T21:50:13Z"
       },
       {
         "id": 6,
@@ -68,8 +68,8 @@
         "description": "Complete Stan's sixteenth day underwater",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T22:46:53Z"
       },
       {
         "id": 7,
@@ -77,8 +77,8 @@
         "description": "Complete Stan's seventeenth day underwater",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T23:53:41Z"
       },
       {
         "id": 8,
@@ -86,8 +86,8 @@
         "description": "Find solace",
         "type": "gold",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-02T00:07:04Z"
       },
       {
         "id": 9,
@@ -95,8 +95,8 @@
         "description": "Find closure",
         "type": "gold",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-02T00:07:41Z"
       },
       {
         "id": 10,
@@ -104,8 +104,8 @@
         "description": "Reach a score of 2500 on the punching bag",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-31T20:43:39Z"
       },
       {
         "id": 11,
@@ -113,8 +113,8 @@
         "description": "Reach a score of 5000 on the guitar",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-31T20:49:16Z"
       },
       {
         "id": 12,
@@ -122,8 +122,8 @@
         "description": "Play with the music box",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T14:54:53Z"
       },
       {
         "id": 13,
@@ -131,8 +131,8 @@
         "description": "Complete all photography missions",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T15:23:41Z"
       },
       {
         "id": 14,
@@ -149,8 +149,8 @@
         "description": "Find the galleon",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T15:24:42Z"
       },
       {
         "id": 16,
@@ -158,8 +158,8 @@
         "description": "Find all collectibles",
         "type": "gold",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T23:08:47Z"
       },
       {
         "id": 17,
@@ -167,8 +167,8 @@
         "description": "Unlock all stickers",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T16:12:24Z"
       },
       {
         "id": 18,
@@ -185,8 +185,8 @@
         "description": "Clean 50 oil traces",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T17:03:54Z"
       },
       {
         "id": 20,
@@ -203,8 +203,8 @@
         "description": "Find all crafting recipes",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T22:04:58Z"
       },
       {
         "id": 22,
@@ -212,8 +212,8 @@
         "description": "Craft every upgrade",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T17:41:31Z"
       },
       {
         "id": 23,
@@ -248,8 +248,8 @@
         "description": "Pick up 50 pieces of plastic",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-31T20:30:01Z"
       },
       {
         "id": 27,
@@ -257,8 +257,8 @@
         "description": "Use a repair kit on Moon",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-10-31T20:08:23Z"
       },
       {
         "id": 28,
@@ -275,8 +275,8 @@
         "description": "Succumb to ?????",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T16:47:22Z"
       },
       {
         "id": 30,
@@ -284,8 +284,8 @@
         "description": "Rescue a squid from a wreck",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T16:25:50Z"
       },
       {
         "id": 31,
@@ -293,8 +293,8 @@
         "description": "Upgrade Moon's engines to electric",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T17:41:31Z"
       },
       {
         "id": 32,
@@ -302,8 +302,8 @@
         "description": "Craft every decoration",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T16:35:30Z"
       },
       {
         "id": 33,
@@ -320,8 +320,8 @@
         "description": "Complete all routine missions",
         "type": "silver",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T22:12:18Z"
       },
       {
         "id": 35,
@@ -329,8 +329,8 @@
         "description": "Unlock 75 logbook entries",
         "type": "bronze",
         "group": "default",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-01T22:54:02Z"
       },
       {
         "id": 36,
@@ -352,5 +352,5 @@
       }
     ]
   },
-  "updatedAt": "2026-09-26T17:53:06.293Z"
+  "updatedAt": "2026-11-02T00:20:15.751Z"
 }

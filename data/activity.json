@@ -2,6 +2,356 @@
   "psnId": "AkinatorII",
   "recent": [
     {
+      "earnedDateTime": "2026-11-02T00:07:41Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 0,
+        "name": "Under The Waves",
+        "type": "platinum",
+        "description": "Unlock all trophies"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-02T00:07:41Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 9,
+        "name": "A Choice: A Last Goodbye",
+        "type": "gold",
+        "description": "Find closure"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-02T00:07:04Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 8,
+        "name": "A Choice: One Last Story...",
+        "type": "gold",
+        "description": "Find solace"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T23:53:41Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 7,
+        "name": "Day 17: Save Our Souls",
+        "type": "silver",
+        "description": "Complete Stan's seventeenth day underwater"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T23:08:47Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 16,
+        "name": "Echoes Of The Past",
+        "type": "gold",
+        "description": "Find all collectibles"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T22:54:02Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 35,
+        "name": "Captain's Log",
+        "type": "bronze",
+        "description": "Unlock 75 logbook entries"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T22:46:53Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 6,
+        "name": "Day 16: Collateral Damage",
+        "type": "silver",
+        "description": "Complete Stan's sixteenth day underwater"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T22:12:18Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 34,
+        "name": "Jobsworth",
+        "type": "silver",
+        "description": "Complete all routine missions"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T22:04:58Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 21,
+        "name": "Surfrider: Building A Better World",
+        "type": "silver",
+        "description": "Find all crafting recipes"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T21:50:13Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 5,
+        "name": "Day 15: Red Alert",
+        "type": "silver",
+        "description": "Complete Stan's fifteenth day underwater"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T17:41:31Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 22,
+        "name": "Surfrider: Master Upcycler",
+        "type": "bronze",
+        "description": "Craft every upgrade"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T17:41:31Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 31,
+        "name": "Sustainable Energy",
+        "type": "bronze",
+        "description": "Upgrade Moon's engines to electric"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T17:03:54Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 19,
+        "name": "Greasing the Wheels",
+        "type": "bronze",
+        "description": "Clean 50 oil traces"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T16:47:22Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 29,
+        "name": "A Can Of Worms",
+        "type": "bronze",
+        "description": "Succumb to ?????"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T16:35:30Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 32,
+        "name": "Homemaker",
+        "type": "bronze",
+        "description": "Craft every decoration"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T16:30:15Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 4,
+        "name": "Day 14: The Storm",
+        "type": "silver",
+        "description": "Complete Stan's fourteenth day underwater"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T16:25:50Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 30,
+        "name": "Cthulhu Fhtagn",
+        "type": "bronze",
+        "description": "Rescue a squid from a wreck"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T16:12:24Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 17,
+        "name": "A Sticky Situation",
+        "type": "silver",
+        "description": "Unlock all stickers"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T15:24:42Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 15,
+        "name": "Like The Wreck Of The Hesperus",
+        "type": "bronze",
+        "description": "Find the galleon"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T15:23:41Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 13,
+        "name": "Wildlife Photographer",
+        "type": "silver",
+        "description": "Complete all photography missions"
+      }
+    },
+    {
+      "earnedDateTime": "2026-11-01T14:54:53Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 12,
+        "name": "Callisto's Song",
+        "type": "bronze",
+        "description": "Play with the music box"
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-31T20:49:16Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 11,
+        "name": "A Little Rusty",
+        "type": "bronze",
+        "description": "Reach a score of 5000 on the guitar"
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-31T20:43:39Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 10,
+        "name": "Stan Balboa",
+        "type": "bronze",
+        "description": "Reach a score of 2500 on the punching bag"
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-31T20:30:01Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 26,
+        "name": "Surfrider: Activist",
+        "type": "bronze",
+        "description": "Pick up 50 pieces of plastic"
+      }
+    },
+    {
+      "earnedDateTime": "2026-10-31T20:08:23Z",
+      "game": {
+        "name": "Under The Waves",
+        "platform": "PS5",
+        "npCommunicationId": "NPWR29806_00"
+      },
+      "trophy": {
+        "id": 27,
+        "name": "Just A Scratch",
+        "type": "bronze",
+        "description": "Use a repair kit on Moon"
+      }
+    },
+    {
       "earnedDateTime": "2026-10-25T18:11:19Z",
       "game": {
         "name": "The Witcher 3: Wild Hunt",
@@ -3150,357 +3500,7 @@
         "type": "bronze",
         "description": "Find the Grim Grimoire."
       }
-    },
-    {
-      "earnedDateTime": "2026-08-29T15:23:36Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 118,
-        "name": "Suor Clerici",
-        "type": "bronze",
-        "description": "Recover a total of 1000 HP."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-29T15:23:36Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 120,
-        "name": "Bracer",
-        "type": "bronze",
-        "description": "Get King Bible to Level 4."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-29T14:51:41Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 5,
-        "name": "Inlaid Library",
-        "type": "bronze",
-        "description": "Reach Level 20 in the Mad Forest."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-29T14:51:41Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 123,
-        "name": "Duplicator",
-        "type": "bronze",
-        "description": "Get Magic Wand to Level 7."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-29T14:30:11Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 1,
-        "name": "Lightning Ring",
-        "type": "bronze",
-        "description": "Defeat a total of 5000 enemies."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-29T14:30:11Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 115,
-        "name": "Cross",
-        "type": "bronze",
-        "description": "Find a Rosary."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:15:55Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 105,
-        "name": "Pummarola",
-        "type": "bronze",
-        "description": "Survive 5 minutes with Gennaro."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:15:55Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 112,
-        "name": "Garlic",
-        "type": "bronze",
-        "description": "Find 5 Floor Chickens."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:15:55Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 116,
-        "name": "Magnet",
-        "type": "bronze",
-        "description": "Find a Vacuum."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:15:55Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 129,
-        "name": "Empty Tome",
-        "type": "silver",
-        "description": "Hold 6 different weapons at once."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:00:14Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 17,
-        "name": "Randomazzo",
-        "type": "bronze",
-        "description": "Find the Randomazzo."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:00:14Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 19,
-        "name": "VI - Sarabande of Healing",
-        "type": "bronze",
-        "description": "Find the Randomazzo."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:00:14Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 88,
-        "name": "Peachone",
-        "type": "bronze",
-        "description": "Survive 10 minutes with any character."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:00:14Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 96,
-        "name": "Runetracer",
-        "type": "bronze",
-        "description": "Survive 5 minutes with Pasqualina."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:00:14Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 110,
-        "name": "Fire Wand",
-        "type": "bronze",
-        "description": "Destroy 20 light sources."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:00:14Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 114,
-        "name": "Clock Lancet",
-        "type": "bronze",
-        "description": "Find an Orologion."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T18:00:14Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 125,
-        "name": "Spellbinder",
-        "type": "bronze",
-        "description": "Get Runetracer to Level 7."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T17:31:45Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 87,
-        "name": "Hollow Heart",
-        "type": "bronze",
-        "description": "Survive 1 minute with any character."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T17:31:45Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 107,
-        "name": "Wings",
-        "type": "bronze",
-        "description": "Reach Level 5."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-27T17:31:45Z",
-      "game": {
-        "name": "Vampire Survivors",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR42963_00"
-      },
-      "trophy": {
-        "id": 108,
-        "name": "Crown",
-        "type": "bronze",
-        "description": "Reach Level 10."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-23T12:17:19Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 38,
-        "name": "Armed and Dangerous",
-        "type": "silver",
-        "description": "Find and equip all the elements of one set of witcher gear."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-23T12:00:36Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 53,
-        "name": "I'm Not Kissing That",
-        "type": "bronze",
-        "description": "Kill the prince cursed into a toad."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-22T20:43:59Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 11,
-        "name": "Geralt: The Professional",
-        "type": "bronze",
-        "description": "Complete all witcher contracts."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-22T20:39:31Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 23,
-        "name": "Mutant",
-        "type": "bronze",
-        "description": "Fill all mutagen slots."
-      }
-    },
-    {
-      "earnedDateTime": "2026-08-22T20:10:41Z",
-      "game": {
-        "name": "The Witcher 3: Wild Hunt",
-        "platform": "PS5",
-        "npCommunicationId": "NPWR24698_00"
-      },
-      "trophy": {
-        "id": 15,
-        "name": "Full Crew",
-        "type": "bronze",
-        "description": "Bring all possible allies to Kaer Morhen for the battle against the Hunt."
-      }
     }
   ],
-  "updatedAt": "2026-10-25T19:06:19.881Z"
+  "updatedAt": "2026-11-02T00:20:15.775Z"
 }
