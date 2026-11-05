@@ -3,10 +3,10 @@
   "game": {
     "name": "Anno 117",
     "platform": "PS5",
-    "progress": 13,
+    "progress": 12,
     "npCommunicationId": "NPWR44891_00",
     "earnedCount": 13,
-    "totalCount": 69,
+    "totalCount": 78,
     "trophies": [
       {
         "id": 0,
@@ -628,8 +628,89 @@
         "group": "002",
         "earned": false,
         "earnedDateTime": null
+      },
+      {
+        "id": 69,
+        "name": "River of Offerings",
+        "description": "Settle in Aegyptus and feed your Threshers.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 70,
+        "name": "Desert Bloom",
+        "description": "Irrigate more than 999 grids on a single island.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 71,
+        "name": "Crook and Flail",
+        "description": "Build one of each type of Aegyptian warship and recruit one of each type of Aegyptian unit.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 72,
+        "name": "The River Won't Tell",
+        "description": "Complete the story of 'Dawn of the Delta' and reveal a well-kept secret.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 73,
+        "name": "Might Makes Rites",
+        "description": "Own all 18 nomes of Aegyptus, devote all to Thoth and have over 250,000 Global Devotion.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 74,
+        "name": "Philopator",
+        "description": "In Aegyptus, have a total population of at least 9000 that is at least 80% Graecoroman.",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 75,
+        "name": "Building Bridges",
+        "description": "Impress the Kandis of Kashta in \"The Queen's Architect\".",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 76,
+        "name": "Valley of Kings",
+        "description": "Have at least 5 Rock Tombs, 200 Happiness and an overflow of at least one good on a single island.",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 77,
+        "name": "Peak Architecture",
+        "description": "Complete the pyramid restoration project.",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
       }
     ]
   },
-  "updatedAt": "2026-08-30T12:12:45.541Z"
+  "updatedAt": "2026-11-05T17:45:54.860Z"
 }
