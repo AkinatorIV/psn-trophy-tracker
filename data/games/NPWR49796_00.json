@@ -1,0 +1,329 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "MOUSE: P.I. For Hire",
+    "platform": "PS5",
+    "progress": 0,
+    "npCommunicationId": "NPWR49796_00",
+    "earnedCount": 0,
+    "totalCount": 35,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "The Platinum Falcon",
+        "description": "All trophies acquired. The stuff that dreams are made of.",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Smoked Cheese and Mirrors",
+        "description": "Wrap up the Missing Magician case.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 2,
+        "name": "Tricks of the Trade",
+        "description": "Unlock all special abilities.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Guns, Lots of Guns",
+        "description": "Collect all non-corporate-locked weapon.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Boom Town",
+        "description": "Kill 20 enemies in a single playthrough by throwing/kicking explosive barrels.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Babe Got Bat",
+        "description": "Collect 10 Baseball Cards.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "S’all in the Cards",
+        "description": "Win 30 Baseball Card matches. Home Run!",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "So, Whodunit?",
+        "description": "Pin every clue to your evidence board.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Burdens of Blue Betty",
+        "description": "Find key clues in the Blue Betty case.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Herr Flick of the Wrist",
+        "description": "Clock a BMP agitator right in the snout.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Comic Relief",
+        "description": "Collect 5 comic strips.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Dime Novel Sleuth",
+        "description": "Complete 5 side jobs.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "Extra! Extra!",
+        "description": "Collect all issues of the Mouseburg Herald. Even the weird ones.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Firestarter",
+        "description": "Blast 20 enemies in a single playthrough by shooting at explosive barrels.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "Misfortunes of the Missing Magician",
+        "description": "Find key clues in the Missing Magician case.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Real Deal Gumshoe",
+        "description": "Complete every side job. Dot those i’s, detective.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "We’ll B.A.N.G., ok?",
+        "description": "Upgrade every weapon to tier 3.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "The Prequel",
+        "description": "Collect all comic strips. Some things never change.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Quint’s Delight",
+        "description": "Kick the Wallop Bay shark till it drops the license plate.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Secrets of the Shrew Shortage",
+        "description": "Find key clues in the Shrew Shortage case.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "This is My Boomstick!",
+        "description": "Upgrade one weapon to Tier 3.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Goud’em!",
+        "description": "Kill 5 enemies in 10 seconds.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Cover to Cover",
+        "description": "Collect 10 issues of the Mouseburg Herald.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Our Lesser Brothers",
+        "description": "Wrap up the Shrew Shortage case.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Extremely Graphic Novel",
+        "description": "Collect 10 comic strips.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "Paper Person",
+        "description": "Collect 5 issues of the Mouseburg Herald.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "Pocket Aces",
+        "description": "Win one Baseball Cards match.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Everybody Loves Rayguns",
+        "description": "Unlock X1 D-Mousifier - Spike-D’s “exclusive gun of sorts.”",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Starter Deck",
+        "description": "Collect 5 Baseball Cards.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Card Shark",
+        "description": "Collect all Baseball Cards. A real gathering, innit?",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "M-m-muenster Kill!",
+        "description": "Kill 10 enemies in 20 seconds. M-m-muenster Kill!",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Spike-D 16 TONS",
+        "description": "Crush 20 enemies with heavy objects in a single playthrough.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "Tinsel Boulevard",
+        "description": "Wrap up the Blue Betty case.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Tip of the Cheeseberg",
+        "description": "Rest easy, detective. Case closed… or is it?",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Hole-y Trinity",
+        "description": "Kill 3 enemies with one shot.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-11-10T23:11:56.886Z"
+}

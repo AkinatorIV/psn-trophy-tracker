@@ -1,9 +1,29 @@
 {
   "psnId": "AkinatorII",
-  "totalGames": 53,
-  "detailedGames": 53,
+  "totalGames": 54,
+  "detailedGames": 54,
   "backfillRemaining": 0,
   "games": [
+    {
+      "npCommunicationId": "NPWR49796_00",
+      "name": "MOUSE: P.I. For Hire",
+      "platform": "PS5",
+      "progress": 0,
+      "definedTrophies": {
+        "bronze": 13,
+        "silver": 18,
+        "gold": 3,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 0,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-11-10T20:16:16Z",
+      "detailsPath": "data/games/NPWR49796_00.json"
+    },
     {
       "npCommunicationId": "NPWR29806_00",
       "name": "Under The Waves",
@@ -1065,5 +1085,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-11-05T17:45:54.861Z"
+  "updatedAt": "2026-11-10T23:11:56.888Z"
 }
