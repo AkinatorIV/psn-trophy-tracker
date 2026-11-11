@@ -1,9 +1,29 @@
 {
   "psnId": "AkinatorII",
-  "totalGames": 54,
-  "detailedGames": 54,
+  "totalGames": 55,
+  "detailedGames": 55,
   "backfillRemaining": 0,
   "games": [
+    {
+      "npCommunicationId": "NPWR24223_00",
+      "name": "Call of Duty® Modern Warfare® II",
+      "platform": "PS5",
+      "progress": 0,
+      "definedTrophies": {
+        "bronze": 102,
+        "silver": 49,
+        "gold": 24,
+        "platinum": 1
+      },
+      "earnedTrophies": {
+        "bronze": 0,
+        "silver": 0,
+        "gold": 0,
+        "platinum": 0
+      },
+      "lastUpdatedDateTime": "2026-11-11T21:11:20Z",
+      "detailsPath": "data/games/NPWR24223_00.json"
+    },
     {
       "npCommunicationId": "NPWR49796_00",
       "name": "MOUSE: P.I. For Hire",
@@ -1085,5 +1105,5 @@
       "detailsPath": "data/games/NPWR26546_00.json"
     }
   ],
-  "updatedAt": "2026-11-10T23:11:56.888Z"
+  "updatedAt": "2026-11-11T23:37:39.942Z"
 }

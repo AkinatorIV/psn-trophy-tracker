@@ -1,0 +1,1598 @@
+{
+  "psnId": "AkinatorII",
+  "game": {
+    "name": "Call of Duty® Modern Warfare® II",
+    "platform": "PS5",
+    "progress": 0,
+    "npCommunicationId": "NPWR24223_00",
+    "earnedCount": 0,
+    "totalCount": 176,
+    "trophies": [
+      {
+        "id": 0,
+        "name": "We are RTB",
+        "description": "Collect all the Trophies",
+        "type": "platinum",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 1,
+        "name": "Crocodile",
+        "description": "Shoot three enemies while underwater in 'Wetwork'.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 2,
+        "name": "Must be Wind",
+        "description": "Rescue the hostages in 'Countdown' without the enemies firing their weapons.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 3,
+        "name": "Gunless",
+        "description": "Finish 'Alone' without firing a gun.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 4,
+        "name": "Test Drive",
+        "description": "Drive five vehicle types in 'Violence and Timing'.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 5,
+        "name": "Ghost-in-Training",
+        "description": "Reach the penthouse in 'El Sin Nombre' without killing anyone or triggering the alarm.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 6,
+        "name": "Don’t touch the deck!",
+        "description": "In 'Dark Water' advance 90 meters towards the front of the ship without touching the deck.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 7,
+        "name": "Keeping this One",
+        "description": "Reach Price using the first vehicle you hijack.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 8,
+        "name": "Gentleman Thief",
+        "description": "Open three safes in the Campaign.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 9,
+        "name": "Wall of Duty",
+        "description": "Kill three Enemies with the Riot Shield in the Campaign or in Co-op.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 10,
+        "name": "Daredevil",
+        "description": "While affected by one Flashbang, kill two enemies in the Campaign or in Co-op.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 11,
+        "name": "Practice makes Perfect",
+        "description": "Shoot all the targets in the training area in 'Ghost Team'.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 12,
+        "name": "A Crappy Way to Die",
+        "description": "Kill the enemy in the porta-potty.",
+        "type": "bronze",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 13,
+        "name": "Nessie",
+        "description": "Reach the barge without being seen in 'Wetwork'.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 14,
+        "name": "No time to lose",
+        "description": "Complete the CCTV sequence in four minutes.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 15,
+        "name": "Backpack Guy",
+        "description": "Kill gassed or blinded enemies using a Molotov, Semtex and Frag in 'Prison Break'.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 16,
+        "name": "Cutting Heads off Snakes",
+        "description": "Finish all Campaign missions on Veteran or Realism difficulty.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 17,
+        "name": "Time for Pints",
+        "description": "Finish the Campaign on any difficulty.",
+        "type": "gold",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 18,
+        "name": "Nobody was There",
+        "description": "Never trigger the alarm in 'Recon by Fire'.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 19,
+        "name": "Night Fight",
+        "description": "Earn three Stars in 'Low Profile'.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 20,
+        "name": "Hellride",
+        "description": "Earn three Stars in 'Denied Area'.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 21,
+        "name": "Kings of the Mountain",
+        "description": "Earn three Stars in 'Defender: Mt. Zaya'.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 22,
+        "name": "Going Dark",
+        "description": "Complete 'Low Profile' without triggering any alarms.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 23,
+        "name": "Only the Beginning",
+        "description": "Earn at least one Star in Co-op.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 24,
+        "name": "Full SSE",
+        "description": "Find 20 intel fragments in Co-op.",
+        "type": "silver",
+        "group": "default",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 25,
+        "name": "The First Step",
+        "description": "Reach Level 55",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 26,
+        "name": "And So It Begins",
+        "description": "Successfully Exfil in MWZ",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 27,
+        "name": "Write Off",
+        "description": "Kill 500 Enemies using an Insured Weapon in MWZ",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 28,
+        "name": "Perkaholic",
+        "description": "Have 9 perks active at the same time in MWZ",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 29,
+        "name": "Gravestone",
+        "description": "Kill 100 Zombies with a vehicle in a single deployment in MWZ",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 30,
+        "name": "Back From The Dead",
+        "description": "Reclaim your gear from a Tombstone in MWZ",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 31,
+        "name": "Helpful Stranger",
+        "description": "Revive a player from a different Squad in MWZ",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 32,
+        "name": "You Can Pet The Dog",
+        "description": "Pet a Hellhound in MWZ",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 33,
+        "name": "Hired Gun",
+        "description": "Complete 20 Contracts in MWZ",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 34,
+        "name": "Seeing Red",
+        "description": "Complete 5 Contracts in the High Threat Zone in a single deployment in MWZ",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 35,
+        "name": "The End?",
+        "description": "Complete Act III in MWZ",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 36,
+        "name": "Slaughterhouse",
+        "description": "Kill 50,000 total Enemies in MWZ",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 37,
+        "name": "Conqueror",
+        "description": "Defeat a Warlord in MWZ",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 38,
+        "name": "One Against All",
+        "description": "Kill Orcus while in a 6 person squad in MWZ",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 39,
+        "name": "No Such Thing as Too Many",
+        "description": "Find and use all Armaments in Open Combat Missions",
+        "type": "silver",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 40,
+        "name": "Dialed In",
+        "description": "Customize your loadout in every Open Combat Mission",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 41,
+        "name": "Gearhead",
+        "description": "Collect all Weapons and Field Upgrades from Supply Boxes in Open Combat Missions",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 42,
+        "name": "Sample Platter",
+        "description": "Use 5 different Armaments in Open Combat Missions",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 43,
+        "name": "I Call Shotgun!",
+        "description": "Drive a vehicle with a Sentry Gun on the back and have it kill 5 enemies",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 44,
+        "name": "Tag, You're it!",
+        "description": "Use the Spotter Scope to tag 60 enemies or items in Open Combat Missions",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 45,
+        "name": "Bulletproof",
+        "description": "Find all Plate Carrier Upgrades in Open Combat Missions",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 46,
+        "name": "Have You Tried Turning it Off and On?",
+        "description": "Use a Shock Stick to disable an enemy Sentry Gun",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 47,
+        "name": "That's One Way to Do It...",
+        "description": "Destroy an airborne enemy helicopter with a Mortar Strike",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 48,
+        "name": "Hey, Catch!",
+        "description": "Throw and hit an enemy directly with a Flammable Cannister then blow them up with it",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 49,
+        "name": "Frequent Flyer",
+        "description": "BASE jump and travel more than 150 m with your parachute",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 50,
+        "name": "High Wire Act",
+        "description": "Kill 10 enemies while using a zipline",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 51,
+        "name": "Never Bury Your Enemies Alive",
+        "description": "Complete the campaign",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 52,
+        "name": "141 Ready",
+        "description": "Complete the campaign on Veteran",
+        "type": "gold",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 53,
+        "name": "Death Row",
+        "description": "Kill 12 enemies while descending in the panopticon in 'Operation 627'",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 54,
+        "name": "Floater",
+        "description": "Parachute off a Gantry Crane onto the roof of the Harbormaster's Building in 'Precious Cargo'",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 55,
+        "name": "Helo Hat Trick",
+        "description": "Destroy each objective helicopter in 'Reactor' with a different Armament",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 56,
+        "name": "2-fer",
+        "description": "Using the EBR-14, kill 2 enemies with 1 bullet 5 times in 'Payload' without sounding the alarm",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 57,
+        "name": "Back in the Field",
+        "description": "Acquire the Major's keycard in 'Deep Cover' within 90 seconds without being detected",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 58,
+        "name": "Shot Blocked",
+        "description": "Shoot the gun out of the air in 'Flashpoint' before a terrorist catches it",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 59,
+        "name": "Think She'll Notice?",
+        "description": "Destroy all of the cars in the mansion garage in 'Oligarch'",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 60,
+        "name": "Elevator Out of Order",
+        "description": "Reach the roof in 'Highrise' under 45 seconds",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 61,
+        "name": "Snow Angel",
+        "description": "Execute the forest sniper in 'Frozen Tundra' with a takedown",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 62,
+        "name": "Hitchhiker",
+        "description": "Defuse the bomb on the truck in 'Gora Dam' while it is in motion",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 63,
+        "name": "Your tax dollars at work",
+        "description": "Use a missile to take out a single enemy in 'Danger Close'",
+        "type": "bronze",
+        "group": "001",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 64,
+        "name": "Case Closed",
+        "description": "Complete the Campaign on any difficulty",
+        "type": "gold",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 65,
+        "name": "Case in Point",
+        "description": "Complete the Campaign on Veteran difficulty",
+        "type": "gold",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 66,
+        "name": "Unexpected Move",
+        "description": "Complete Bishop Takes Rook in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 67,
+        "name": "Talent Acquisition",
+        "description": "Complete Blood Feud in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 68,
+        "name": "Breaking News",
+        "description": "Complete Most Wanted in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 69,
+        "name": "Bunker Busters",
+        "description": "Complete Hunting Season and The Cradle in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 70,
+        "name": "Head Games",
+        "description": "Complete Emergence in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 71,
+        "name": "Jackpot",
+        "description": "Complete High Rollers in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 72,
+        "name": "Grounded",
+        "description": "Complete Ground Control in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 73,
+        "name": "Consolation Prize",
+        "description": "Complete Under the Radar in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 74,
+        "name": "Capitol Punishment",
+        "description": "Complete Separation Anxiety in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 75,
+        "name": "Buried at Sea",
+        "description": "Complete Checkmate in Campaign on any difficulty",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 76,
+        "name": "Covert Agent",
+        "description": "In Blood Feud, reach the Guild meeting without ever breaking stealth",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 77,
+        "name": "Party's Over",
+        "description": "In Most Wanted, perform 5 takedowns on guards in the gala without being spotted",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 78,
+        "name": "Full Clear",
+        "description": "In Hunting Season, complete every POI on the Tac Map",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 79,
+        "name": "Skewer the Winged Beast",
+        "description": "In Under the Radar, have the SAM target itself and the helicopter",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 80,
+        "name": "Bulldozed",
+        "description": "In Ground Control, crush 25 enemies while driving the tank",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 81,
+        "name": "David vs Goliath",
+        "description": "In Checkmate, destroy the APC using an RC-XD",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 82,
+        "name": "Dipped in Gold",
+        "description": "Purchase all Safehouse and Player Upgrades in Campaign",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 83,
+        "name": "The Puzzles, Mason",
+        "description": "Complete all Safehouse Puzzles in Campaign",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 84,
+        "name": "Seek & Destroy",
+        "description": "Get 2 Kills with a single remote controlled Throwing Knife from at least 50 meters away in Campaign",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 85,
+        "name": "Rapid Reflexes",
+        "description": "Get 5 Headshot Kills during a single use of the Adrenaline Stim in Campaign",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 86,
+        "name": "Close Combat Specialist",
+        "description": "Perform 10 takedowns in Campaign",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 87,
+        "name": "Destructive Wake",
+        "description": "Get 5 or more Kills with a single Scorestreak in Campaign",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 88,
+        "name": "Return of the King",
+        "description": "Enter Prestige 1",
+        "type": "gold",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 89,
+        "name": "Show Off",
+        "description": "Earn a Mastery Badge with any weapon",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 90,
+        "name": "Camos Are Forever",
+        "description": "Unlock any Diamond or Opal Camo",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 91,
+        "name": "The Pale Horse Arrives",
+        "description": "Get 500 Eliminations in Multiplayer",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 92,
+        "name": "Podium Finish",
+        "description": "Win 25 Multiplayer Matches",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 93,
+        "name": "Rush Hour",
+        "description": "Get a Double Kill with the RC-XD in Multiplayer",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 94,
+        "name": "Red Carpet",
+        "description": "Get featured in the Best Play 3 times in Multiplayer",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 95,
+        "name": "Doing Your Part",
+        "description": "Complete the Training Course in Multiplayer",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 96,
+        "name": "Betrayal",
+        "description": "Kill an enemy from behind at close range while disguised by the Sleeper Agent",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 97,
+        "name": "Heavy Ordinance Specialist",
+        "description": "Destroy 50 Aerial Scorestreaks with Launchers in Multiplayer",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 98,
+        "name": "Stylish Kill",
+        "description": "Get 75 Eliminations while having an active Combat Speciality Perk in Multiplayer",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 99,
+        "name": "No Mo' Modi",
+        "description": "Get out of jail, but not for free",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 100,
+        "name": "Culinary Delight",
+        "description": "In Terminus, consume a fish cooked with a special ingredient",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 101,
+        "name": "Treasure Hunter",
+        "description": "In Terminus, find the final Talisman",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 102,
+        "name": "Bye-Bye, Dark Aether",
+        "description": "Help the lost scientist complete his experiment",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 103,
+        "name": "World Domination",
+        "description": "In Liberty Falls, tap into your Supervillain side",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 104,
+        "name": "Deadwood",
+        "description": "In Liberty Falls, achieve a sporting high score",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 105,
+        "name": "To Know Your Enemy...",
+        "description": "Get 100 Kills while using Mutant Injections in Zombies",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 106,
+        "name": "Cyberized",
+        "description": "Research all Augments for 10 Items in Zombies",
+        "type": "bronze",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 107,
+        "name": "Annihilation",
+        "description": "Get 100 Elite Zombie Eliminations in Zombies",
+        "type": "silver",
+        "group": "002",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 108,
+        "name": "New Dynasty",
+        "description": "Enter Prestige in Black Ops 7",
+        "type": "gold",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 109,
+        "name": "This Is My Rifle",
+        "description": "Earn any Arclight, Moonstone, or Bloodstone Camo",
+        "type": "gold",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 110,
+        "name": "Master Of Arms",
+        "description": "Enter Weapon Prestige with any Weapon",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 111,
+        "name": "Dripped Out",
+        "description": "Earn Diamond Badges for any category of Mastery Badges",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 112,
+        "name": "Decorated Veteran",
+        "description": "Earn 100 unique Medals across Multiplayer or Zombies",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 113,
+        "name": "Maximum Overdrive",
+        "description": "Equip an Overclock on a Lethal, Tactical, Field Upgrade and 3 Scorestreaks at once",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 114,
+        "name": "Frontline Offensive",
+        "description": "Win 25 Multiplayer Matches",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 115,
+        "name": "Destroyer",
+        "description": "Get 1000 Eliminations in Multiplayer",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 116,
+        "name": "Glamor Shot",
+        "description": "Get featured in the Best Play 3 times",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 117,
+        "name": "Taking Names",
+        "description": "Complete all 6 Calling Card Challenges in any Multiplayer Category",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 118,
+        "name": "Archenemy",
+        "description": "Kill your Nemesis 10 times",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 119,
+        "name": "Perfected",
+        "description": "Get 100 Eliminations while having an active Combat Hybrid Perk in Multiplayer",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 120,
+        "name": "Calling For Backup",
+        "description": "Call in 50 Scorestreaks in Multiplayer",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 121,
+        "name": "Not In My House",
+        "description": "Destroy 5 items with the Hunter Bot in a single match",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 122,
+        "name": "It's a Legitimate Strategy",
+        "description": "Get 3 Kills while defending an Objective Zone without leaving it",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 123,
+        "name": "Ready For Action",
+        "description": "Complete the Multiplayer Training Course in Black Ops 7",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 124,
+        "name": "Pathfinder",
+        "description": "Get a Direct Hit Kill from at least 30 meters away with the Needle Drone",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 125,
+        "name": "Farsight",
+        "description": "Get 3 Kills with a single use of the Gravemaker Scorestreak",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 126,
+        "name": "Fresh Moves",
+        "description": "Get a Kill while airborne from a wallhop",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 127,
+        "name": "Dust To Dust",
+        "description": "Complete the Main Quest in Ashes Of The Damned",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 128,
+        "name": "Corpse Aplenty",
+        "description": "Eliminate 10,000 Zombies",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 129,
+        "name": "Survival Of The Fittest",
+        "description": "Reach Round 30 on a Survival Map",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 130,
+        "name": "Expert Curator",
+        "description": "Unlock 3 Relics on Ashes of the Damned",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 131,
+        "name": "Hoarder",
+        "description": "Complete all 6 Calling Card Challenges in any Zombies Category",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 132,
+        "name": "Mixologist",
+        "description": "Drink 4 different well prepared drinks",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 133,
+        "name": "Chew On This",
+        "description": "Consume 15 GobbleGums in a single match",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 134,
+        "name": "Builder's Brew",
+        "description": "Kill an Elite Zombie with the final hit coming from a Wisp",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 135,
+        "name": "I Heard You Like Upgrades",
+        "description": "Fully upgrade Ol' Tessie",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 136,
+        "name": "Good Soldiers",
+        "description": "Discover the secrets of a war hero",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 137,
+        "name": "Poison Paradise",
+        "description": "Get 50 Critical Kills on Zombies slowed by Toxic Growth",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 138,
+        "name": "Soul Stealer",
+        "description": "Kill 50 Zombies with the Life Drain from a Disciple Injection",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 139,
+        "name": "Scientific Breakthrough",
+        "description": "Equip 2 Minor Augments each on a Field Upgrade, Perk, and Ammo Mod",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 140,
+        "name": "Enforced Freedom",
+        "description": "Kill 100 Zombies with explosions from Fire Works",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 141,
+        "name": "Reunited with Fidolina",
+        "description": "Defeat the Papaback and save your dear friend in Dead Ops Arcade",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 142,
+        "name": "Forever Fated",
+        "description": "Find your destiny in the Room of Fate in Dead Ops Arcade",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 143,
+        "name": "Fowl Five Piece",
+        "description": "Get a Chain of 5 chickens strung together in Dead Ops Arcade",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 144,
+        "name": "Nightmare to Dreams",
+        "description": "Complete the Black Ops 7 Co-Op Campaign",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 145,
+        "name": "Turbocharged",
+        "description": "Upgrade an Operator to max Combat Rating in Endgame",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 146,
+        "name": "Loremaster",
+        "description": "Collect all Intel in Co-Op Campaign and Endgame",
+        "type": "silver",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 147,
+        "name": "Purveyor Of Fine Goods",
+        "description": "Get 250 Kills with Exotic Weapons in Co-Op Campaign or Endgame",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 148,
+        "name": "A Familiar Face",
+        "description": "Complete Exposure in Co-Op Campaign",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 149,
+        "name": "Heart of Darkness",
+        "description": "Complete Inside and Distortion in Co-Op Campaign",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 150,
+        "name": "We Didn't Need a Bigger Boat",
+        "description": "Complete Escalation and Disruption in Co-Op Campaign",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 151,
+        "name": "The Bigger They Are…",
+        "description": "Complete Collapse and Fracture in Co-Op Campaign",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 152,
+        "name": "Prison Break",
+        "description": "Complete Quarantine and Suppression in Co-Op Campaign",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 153,
+        "name": "Under Pressure",
+        "description": "Complete Breakpoint and Containment in Co-Op Campaign",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 154,
+        "name": "Don't You Die On Me",
+        "description": "Revive a teammate in Co-Op Campaign or Endgame",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 155,
+        "name": "I Believe I Can Glide",
+        "description": "Glide 800m continuously with the wingsuit in Co-Op Campaign or Endgame",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 156,
+        "name": "Spectral",
+        "description": "Successfully Sneak Across the Yacht's Deck in Disruption",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 157,
+        "name": "Checking Boxes",
+        "description": "Complete 10 Assignments in Zone IV in Endgame",
+        "type": "bronze",
+        "group": "003",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 158,
+        "name": "Hold the Line",
+        "description": "Complete the game on any Difficulty.",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 159,
+        "name": "Was it worth it?",
+        "description": "Complete the game on Realism Difficulty.",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 160,
+        "name": "Skeet Shooting",
+        "description": "Kill 10 paratroopers in 'Mayhem' before they hit the ground.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 161,
+        "name": "Safety's On",
+        "description": "Defeat all enemies in the kitchen of 'Out in the Cold' without firing your gun on Hardened or harder",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 162,
+        "name": "Can't touch this",
+        "description": "Defeat Makarov on Veteran difficulty or higher without getting hit in the alley.",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 163,
+        "name": "No Stone Unturned",
+        "description": "Confiscate all of the contraband and read all of the notes in 'Following Orders'.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 164,
+        "name": "No Harm Done",
+        "description": "Obtain the defector's location in 'Following Orders' without hurting any civilians.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 165,
+        "name": "Bullet Train",
+        "description": "Kill 50 enemies while standing on train cars in 'Hired Gun'.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 166,
+        "name": "Raining Thunder",
+        "description": "Kill 15 enemies with 3 mortar rounds in a row in 'Losing Ground'.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 167,
+        "name": "Revenge",
+        "description": "Kill everyone after Shin dies in 'Assassins' on Hardened or harder difficulty.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 168,
+        "name": "Pacifist",
+        "description": "Complete 'Assassins' by only killing one enemy.",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 169,
+        "name": "Time to Crate",
+        "description": "Open every Yellow Supply Crate in 'Stranded'.",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 170,
+        "name": "Scavenger",
+        "description": "Repair everything in Base Camp.",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 171,
+        "name": "Incoming!",
+        "description": "Destroy every vehicle reinforcement at the SAM Site before they unload in 'Stranded'.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 172,
+        "name": "Long Shot",
+        "description": "Snipe all 4 enemies firing the mortars in 'Counter Attack'.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 173,
+        "name": "Never Forgotten",
+        "description": "Recover the Dog Tags in 'Escape'.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 174,
+        "name": "Trench Broom",
+        "description": "In 'Entrenched', kill 15 enemies with a shotgun before securing the Target Building.",
+        "type": "silver",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      },
+      {
+        "id": 175,
+        "name": "Noteworthy",
+        "description": "Read 50 different Notes.",
+        "type": "gold",
+        "group": "004",
+        "earned": false,
+        "earnedDateTime": null
+      }
+    ]
+  },
+  "updatedAt": "2026-11-11T23:37:39.940Z"
+}
