@@ -3,9 +3,9 @@
   "game": {
     "name": "Call of Duty® Modern Warfare® II",
     "platform": "PS5",
-    "progress": 0,
+    "progress": 1,
     "npCommunicationId": "NPWR24223_00",
-    "earnedCount": 0,
+    "earnedCount": 1,
     "totalCount": 176,
     "trophies": [
       {
@@ -1436,8 +1436,8 @@
         "description": "Complete the game on any Difficulty.",
         "type": "gold",
         "group": "004",
-        "earned": false,
-        "earnedDateTime": null
+        "earned": true,
+        "earnedDateTime": "2026-11-13T16:53:12Z"
       },
       {
         "id": 159,
@@ -1594,5 +1594,5 @@
       }
     ]
   },
-  "updatedAt": "2026-11-11T23:37:39.940Z"
+  "updatedAt": "2026-11-13T21:49:50.454Z"
 }
